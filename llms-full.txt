@@ -1,0 +1,441 @@
+# Bladder Diary: Fluid Balance
+
+> Free bladder diary app for iPhone and Apple Watch (iOS 18 or later, watchOS 11 or later) by independent developer Denis Zinin. It records what you drink and what you pass, with the time, for the 3–7 day diary a doctor asks for, and exports a PDF report for the appointment. No account, no server; App Store privacy label "Data Not Collected". Logging, the daily summary, the statistics grid, widgets, Apple Watch, iCloud sync and CSV export are free; Pro (PDF report, Advanced analytics, dark app icon) is a one-time purchase.
+
+The app does not diagnose, compare entries with any norm, or give health advice; interpretation belongs to the clinician. The guides on this site are general information written by the app developer, not a doctor. Self-reported diary. Not a medical document.
+
+App Store: https://apps.apple.com/app/id6803224992 (category Medical; version 1.0 released 29 August 2026). Languages: English, German, French, Spanish, Italian, Portuguese (Brazil), Russian, Japanese, Korean, Simplified Chinese. iPad: runs as an iPhone app for now; full iPad support is coming.
+
+---
+
+## Bladder Diary App for iPhone & Apple Watch
+Source: https://fluidbalanceapp.com/
+
+Two taps per entry (presets, Custom, Not measured), Today screen with IN, OUT and BALANCE, five-week Stats grid, PDF report, widgets, Apple Watch, Free vs Pro, privacy.
+
+Easier than paper, in three ways: no rewriting (fix a mistake in place, no copying the whole day out again); the maths is done for you (daily totals, averages and night counts add up as you go, on the back of the sheet, in Notes or in a spreadsheet); always in your pocket (log on your phone or your wrist, the entry is saved with the time).
+Tap. Tap. Done.: tap + Intake or + Output, tap a preset (or Custom, or Not measured — the time still counts), that is the entry. Works from the Home Screen widget, the Lock Screen widget and Apple Watch.
+A report your doctor can read: totals, averages and night-time trips, already worked out; days recorded right in the summary. Print it, email it, or show it on your phone. Free: logging, Stats, widgets, Apple Watch, iCloud and CSV export. Pro (one-time purchase, no subscription): the PDF report and Advanced analytics.
+Nothing to fill in about you: no account, App Store privacy label "Data Not Collected", an optional daily reminder that never names what the app is about (off by default).
+Kept for nocturia, overactive bladder, incontinence, UTI follow-up, prostate (before and after surgery), and anyone asked to keep a bladder diary.
+
+---
+
+## Support
+Source: https://fluidbalanceapp.com/support/
+
+### Getting started
+
+**Is it free?**
+Yes, the app is free. Logging, the daily summary, the statistics grid, widgets, Apple Watch, iCloud and CSV export are free for as long as you use it. Pro is an optional one-time purchase that adds the PDF report and the advanced charts. There is no subscription, and nothing ever interrupts an entry to ask you to upgrade.
+
+**Do I need an account?**
+No. There is no sign-up, no name, no birthdate. Open the app and start.
+
+**I'm not good with apps. Will I manage?**
+Two buttons and a list of amounts. There is nothing to set up.
+
+**What do I record?**
+The time, what you drank and how much, what you passed or a Not measured tick, whether it was a night trip, and a note if something happened. There is a longer guide with a worked example: how to keep a bladder diary (https://fluidbalanceapp.com/blog/how-to-keep-a-bladder-diary/).
+
+**How many days should I keep it?**
+As many as you were asked for. Most clinics want three to seven full days, and a complete short diary is worth more than a long patchy one. Where those numbers come from: how many days is enough (https://fluidbalanceapp.com/blog/bladder-diary-how-many-days/).
+
+**Does it work on Apple Watch? Which iPhone?**
+Apple Watch: the same presets and Not measured, with the day's IN, OUT and BALANCE. iPhone with iOS 18 or later. On an iPad the app runs as an iPhone app for now; full iPad support is coming in a later update.
+
+**Which languages?**
+English, German, French, Spanish, Italian, Portuguese (Brazil), Russian, Japanese, Korean and Simplified Chinese. The PDF report is translated too; CSV stays in English.
+
+### Logging
+
+**I don't know the exact volume. What do I put in?**
+An estimate. A missed entry is worse than an inexact one, and nothing in the app marks your data as unreliable. If you did not measure at all, use Not measured — it counts towards frequency and night events, and stays out of volume totals. The jug, the toilet hat and estimating: how to measure urine output at home (https://fluidbalanceapp.com/blog/how-to-measure-urine-output-at-home/).
+
+**Can I change the time or add a note?**
+Yes. Open the entry and change the time, the type or the volume, or add a note.
+
+**Can I record urgency or leakage?**
+Not as separate fields in this version. Add a note to the entry.
+
+**Does the app remind me to drink?**
+No. There is an optional daily reminder to fill in the diary — off by default, you pick the time. Its text never names what the app is about, so it gives nothing away on a locked screen.
+
+**Will it ask me to upgrade every time I log?**
+Never. You only see Pro when you open the report or the advanced charts.
+
+### The report and your data
+
+**How do I get my numbers out?**
+CSV export, from Settings, over your whole history, without restriction. The PDF report (Pro) is laid out the way a bladder diary is normally read.
+
+**Can I print or email the report?**
+Yes. The PDF can be printed, shared, emailed, or shown on your phone.
+
+**Where is my data? What if my phone breaks?**
+On your device, and in your own private iCloud database if you turn iCloud on. There is no server and no account. Export a CSV any time for your own backup. See the Privacy Policy (https://fluidbalanceapp.com/privacy/).
+
+**How do I delete everything?**
+Settings, Delete all data. One step, one confirmation. It clears the device and, if enabled, your iCloud copy.
+
+**Can the app tell me whether my numbers are normal?**
+No, and it never will. It records what you tell it and shows you the totals. No goals, no norms, no warnings, no advice. Interpretation belongs to your doctor.
+
+### Pro
+
+**What exactly is in Pro?**
+The PDF report, the Advanced analytics page (the first weekly chart is free) and the dark app icon. One-time purchase, nothing renews.
+
+**I bought Pro and it is not showing on my other device.**
+Use Restore Purchases in Settings, signed in with the same Apple Account.
+
+Contact: denacidapp@gmail.com
+
+---
+
+## Bladder Diary Template: Free Printable PDF (A4 & Letter)
+Source: https://fluidbalanceapp.com/bladder-diary-template/
+
+Free 7-day printable bladder diary, A4 in ml or US Letter in oz, full pages or fold-in-half booklets, with filling-in instructions. No email required.
+Downloads: https://fluidbalanceapp.com/downloads/bladder-diary-a4.pdf (A4, ml), https://fluidbalanceapp.com/downloads/bladder-diary-letter.pdf (US Letter, oz), https://fluidbalanceapp.com/downloads/bladder-diary-a5.pdf (A5 booklet, ml), https://fluidbalanceapp.com/downloads/bladder-diary-letter-half.pdf (half-Letter booklet, oz).
+What's on the sheet: seven days, one page per day. Columns: time, what you drank, what you passed, night, note. At the top of each page the day number, the date and the times you went to bed and got up; on the last page a line for days recorded of 7. The first page explains how to fill it in, with an example. Clinics call the same sheet a voiding diary template, a bladder diary sheet or chart, or a frequency–volume chart.
+How to fill it in: 1. Write the time right away, not at the end of the day. 2. Drinks: use the amount on the cup or bottle (a cup is about 200–250 ml, a glass 250, a can 330, a small bottle 500). 3. Urine: measure if you can (a measuring jug or a collection hat in the toilet bowl), estimate if you can't; if you did not measure at all, tick "not measured" — the entry still counts. 4. Mark night entries: anything between going to bed and getting up in the morning.
+Three days or seven: most guidelines ask for a 3-day diary with complete days; some doctors ask for seven. Complete matters more than long — follow what you were asked.
+What it is based on: the frequency–volume chart of Gloucestershire Hospitals NHS Foundation Trust, the Urology Care Foundation bladder diary, the International Continence Society terminology, and NICE quality standard QS77. Compiled by the app developer, not a clinician.
+
+---
+
+## How to Measure Urine Output at Home for a Bladder Diary
+Source: https://fluidbalanceapp.com/blog/how-to-measure-urine-output-at-home/
+Published: 2026-09-21 · Guide · By Denis Zinin, developer of Bladder Diary: Fluid Balance. Not a doctor.
+
+In short:
+Urine output for a bladder diary is measured at home in one of three ways: in a plastic jug marked in millilitres, in a collection hat that sits under the toilet seat, or, when neither is possible, by keeping the time and ticking the trip as not measured. Clinics accept all three. What the NHS and BAUS charts and the Urology Care Foundation diary need first is every trip with its time; the volume comes second. The details that make the numbers usable:
+
+- Measure in a plastic jug marked in millilitres, or catch it in a collection hat that sits under the toilet seat. Write the number straight away.
+- When you can't measure, keep the time and tick the trip as not measured. It still counts for how often you go and for the night count.
+- Use one unit for the whole diary, measure your usual cup once for the drinks side, and rinse the jug or hat after every use.
+
+There are three ways to record how much you pass for a bladder diary: measure it in a jug, catch it in a collection hat that sits under the toilet seat, or, when neither is possible, keep the time and tick the trip as not measured. Clinics accept all three. What they need is every trip with its time; the volume comes second.
+
+### What the diary is asking for
+
+"Output" in a diary is the volume of each trip to the toilet, in millilitres or fluid ounces, written next to the time. Voided volumes and their times are the core of the frequency–volume chart as the International Continence Society defines it, and of every diary format that has been studied since.[1,2] Clinic forms lay it out differently: the BAUS input/output chart has an OUT column against each hour,[3] the Urology Care Foundation diary asks "how much urine?" for each trip,[4] and our [printable template](https://fluidbalanceapp.com/bladder-diary-template/) has a Passed column marked "ml or ✓". Every one of them accepts a tick when you couldn't measure. None of them asks whether your numbers are normal; your clinician reads the pattern, you supply the record. How the whole diary fits together is in [how to keep a bladder diary](https://fluidbalanceapp.com/blog/how-to-keep-a-bladder-diary/).
+
+### Way 1: a measuring jug
+
+Any plastic jug marked in millilitres will do.[5] BAUS suggests one that holds at least 500 ml;[3] a pharmacy or a supermarket kitchen aisle has them. Keep it for the diary only, and keep it by the toilet.
+
+Sit on the toilet and hold the jug in the bowl. The Sussex physiotherapy chart is specific about this: sit properly, don't hover or squat above the seat, because sitting lets the pelvic floor relax and you empty more completely.[6] Men can stand and use the jug directly.
+
+Put the jug on a flat surface and read the level at eye level, then write the number down before you do anything else. Round to the nearest line on the jug; the scale is not finer than that, and neither is the diary. Pour it away and rinse the jug with water.
+
+### Way 2: a collection hat
+
+A collection hat is a plastic bowl with a wide brim that sits under the toilet seat, with a scale printed inside in millilitres and fluid ounces. Clinics often hand one out with the diary.[4] If yours didn't, pharmacies and online shops sell them as a urine collection hat or specimen collection hat.
+
+Put it under the seat towards the front of the bowl, sit as usual, then read the level, write it down, empty the hat into the toilet and rinse it.[4] Nothing to hold, which is why it is the easiest option at night and when you are in a hurry.
+
+### Way 3: when you can't measure
+
+At work, in a shop, in the middle of the night when you're half asleep: keep the time and tick the trip. The NHS chart and the BAUS chart both say exactly that, a tick in the urine column;[3,5] our template has a ✓ in the Passed column; in the app it is the Not measured button. The trip still counts for how often you go and for the night count. It just doesn't add to the volume total.
+
+An estimate is also allowed. If you have measured yourself for a day or two and know what a usual trip looks like in your jug, write your estimate and mark it "approx." When in doubt, tick.
+
+What spoils the diary is a trip that isn't written down at all. A ticked line with a time tells your clinician something; an empty line tells them nothing.
+
+### Millilitres or fluid ounces: which unit for a bladder diary?
+
+Use one unit for the whole diary, the one printed on your clinic's form. If you need to convert:
+
+- 1 US fluid ounce is about 30 ml (29.6 ml exactly).
+- 1 cup, or 8 fluid ounces, is about 240 ml.
+- 100 ml is about 3.4 fluid ounces; a 500 ml bottle is about 17.
+
+Our template comes in both: A4 sheets in millilitres, US Letter sheets in fluid ounces. In the app the unit is a setting, and the report uses whichever you chose.
+
+### The drinks side
+
+Measuring what you drink is easier: the amount is usually printed on the container. Common sizes, the same ones our template and the app use as presets: a cup 200–250 ml, a glass 250 ml, a can 330 ml, a small bottle 500 ml. The Urology Care Foundation lists the US equivalents: an 8 oz cup, a 12 oz can, a 20 oz bottle.[4]
+
+For your own mug, glass or water bottle, measure it once with the jug, then use the same cup for the diary days. Both BAUS and the Sussex chart suggest it.[3,6] Write the type of drink too, tea, coffee, water, beer; clinics ask for it.[3,7]
+
+### At night
+
+Before bed, put the hat in place or leave the jug by the toilet, and leave a small light on. Time first, volume second: if measuring isn't happening at three in the morning, tick and go back to sleep.
+
+Write down when you went to bed and when you got up. BAUS asks for two lines across the day's column, the NHS chart asks for BED and WOKE in the time column,[3,5] and our template has a box for each at the top of every page. That is how night trips are counted.
+
+### After surgery or with a catheter
+
+On a ward the same record is called an intake and output chart or a fluid balance chart, and nurses fill it in. If you go home with a catheter, your nurse will show you how to read and empty the bag; the diary line is the same, time and amount. Follow their instructions about what to record and how often.
+
+### Keep it clean and simple
+
+Use the jug or hat for this and nothing else. Rinse it after every use,[4] wash it with soap once a day, wash your hands. Keep it where you use it, not in a cupboard. And write the number the moment you have it: a volume remembered two hours later is a guess.
+
+### Questions
+
+**Can I estimate instead of measuring?**
+When you can't measure, yes: keep the time and either tick the trip or write an estimate marked "approx." If you have a jug, measure; measured volumes are what the clinic asked for. An estimate or a tick is for the trips where a jug wasn't possible, not for every trip.
+
+**Do I need to measure at night?**
+If you can. A collection hat left under the seat before bed makes it easy: nothing to hold, nothing to find in the dark. If you can't, tick the trip and keep the time. Night trips are counted by their time, not their volume, so also write down when you went to bed and when you got up.
+
+**What do I do away from home?**
+Keep the time and tick the trip. A small measuring cup fits in a bag, but nobody expects you to carry one; a public toilet is a legitimate tick. The mistake is leaving the trip out, not leaving the volume out.
+
+### References
+
+1. Abrams P, Cardozo L, Fall M, et al. The standardisation of terminology of lower urinary tract function: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):167–178. https://doi.org/10.1002/nau.10052
+2. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+3. British Association of Urological Surgeons. Information from BAUS about assessing fluid intake & output. Patient leaflet F24/016. BAUS; 2024. https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Input%20output%20chart.pdf
+4. Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025. https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf
+5. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+6. University Hospitals Sussex NHS Foundation Trust. Bladder record chart: pelvic health physiotherapy patient information. Reference 2198; 2023. https://www.uhsussex.nhs.uk/wp-content/uploads/2023/03/Bladder-Record-chart.pdf
+7. European Association of Urology, Patient Information. I want to know about keeping a bladder diary. Uroweb. https://patients.uroweb.org/condition/urinary-incontinence/bladder-diary
+
+General information, not medical advice. Follow the instructions you were given by your clinician.
+
+---
+
+## Bladder Diary: How Many Days Is Enough? 3, 7 or 24 Hours
+Source: https://fluidbalanceapp.com/blog/bladder-diary-how-many-days/
+Published: 2026-09-12 · Guide · By Denis Zinin, developer of Bladder Diary: Fluid Balance. Not a doctor.
+
+A note before you start: I am not a doctor. I make the Bladder Diary: Fluid Balance app, and this guide is my attempt to bring together, in one place, what the clinical guidelines and clinic forms say about how many days a bladder diary should cover. The sources are listed at the end; your clinician's instructions come first.
+
+In short:
+How many days a bladder diary should cover is decided by the clinician who asked for it: three full days is the usual answer, some clinics ask for seven, and 24 hours is the least a chart can hold. NICE quality standard QS77 asks for a minimum of three days, the International Continence Society describes diaries of three to seven days, and the Urology Care Foundation's form runs three days that need not be consecutive. Whatever the number, complete matters more than long:
+
+- The number your clinic gave you is the one that counts; the guidance below explains where three, seven and 24 hours come from.
+- The days need not be in a row unless your form says so, but they should include different kinds of days, a working day and a day off.
+- A day runs from waking to waking. A short diary with every day complete is worth more than a long one with gaps.
+
+Three full days is the usual answer: a 3-day bladder diary. Some clinics ask for a 7-day bladder diary, and 24 hours is the minimum a chart can cover. Whatever number you were given is the one that counts; the guidance below explains where those numbers come from, so the instruction makes sense rather than feeling arbitrary. One rule sits above all of them: a short diary with every day complete is worth more than a long one with gaps.
+
+### How many days should a bladder diary cover?
+
+| Who | How long | Notes |
+|---|---|---|
+| NICE, quality standard for urinary incontinence in women[1,2] | At least 3 days | Should cover variations in usual activity, such as working and leisure days |
+| International Continence Society[3] | At least 24 hours for a frequency–volume chart | Two or three days, not necessarily consecutive, give more useful data |
+| Urology Care Foundation (AUA)[4] | At least 3 days | Any three typical days; they need not be in a row; one day may not give a true picture |
+| BAUS input/output chart[5] | 3 consecutive normal days | Including work or rest days if appropriate |
+| NHS Gloucestershire frequency–volume chart[6] | 3 days | A three-day bladder diary |
+| Our template and the app | Up to 7 days | A "days recorded" line so the clinician sees how complete it is |
+
+Different bodies, one theme: three days is the floor almost everywhere, and the days should look like your real life.
+
+### Why three
+
+Three is not a round number picked for convenience. A systematic review of frequency–volume charts found that firm recommendations about duration could not be made from the evidence, but that the consensus on charts of three days or more was the most defensible policy.[7] In two large overactive-bladder trials, three-day diaries were as effective as seven-day ones, and the authors noted that a shorter diary may reduce the tendency to fill gaps from memory.[8] A study that randomised patients to two-, three- or seven-day diaries found the seven-day version increased the burden on patients and recommended fewer days.[9] And a diary study in patients with neurological bladder problems found three days comparable to seven for the number of trips, volume per trip, urgency and daily volume, with leakage episodes the one measure where three days looked borderline.[10]
+
+There is a caveat the same literature is honest about: no single fully validated diary exists, and formats differ from clinic to clinic.[11] That is why your own clinic's instruction, three days on their form, seven on ours, wins over anything written here.
+
+### Why not just one day
+
+One day is a snapshot, and it is more likely than not to be an odd one: a long drive, a late night, a day with less to drink than usual. The Urology Care Foundation says plainly that a one-day diary may not provide enough information to give a true picture.[4] In the neurological study above, the first day's records differed significantly from the seven-day average on every measure.[10] Two or three days smooth that out.
+
+### When seven days makes sense
+
+Some clinicians ask for a week. A week contains a weekend, so the diary covers both kinds of day without anyone having to plan it. It also contains seven nights, which matters when the question is about getting up at night. The trade-off is effort: seven complete days take discipline,[9] and a week with two blank days is worth less than three full ones. If you are asked for seven, the practical advice is to make each day easy to record, keep the sheet or the phone with you, and mark honestly which days are complete.
+
+### 24-hour bladder diaries
+
+Twenty-four hours is the minimum the International Continence Society describes for a frequency–volume chart.[3] Some clinics use a single day as a quick check before or after treatment. If that is what you were given, treat it as one complete day: start when you wake up, record everything until you wake up the next morning, and don't leave lines blank because it is "only one day".
+
+### Do the days have to be consecutive?
+
+Usually not. The Urology Care Foundation asks for any three typical days,[4] and the International Continence Society notes that two or three days need not be consecutive.[3] NICE goes further and asks that the days cover different kinds of activity, both working and leisure days,[1,2] which is easier to arrange when you are allowed to spread them out. Some forms, BAUS among them, do ask for consecutive days;[5] if yours does, follow the form.
+
+### A day runs from waking to waking
+
+Start each diary day when you get up, and keep going until you get up the next morning.[4] The night belongs to the day it started. Write down when you went to bed and when you got up; that is how the night trips are separated from the daytime ones.
+
+### If you miss a day
+
+Don't reconstruct it from memory in the evening. Leave it marked as incomplete and add another full day instead. Our template has a line on the last page, days recorded out of seven, and the app counts recorded days for you; either way, the clinician can see at a glance what they are working with. [How to keep a bladder diary](https://fluidbalanceapp.com/blog/how-to-keep-a-bladder-diary/) covers what goes into each of those days.
+
+### Questions
+
+**I was asked for seven days. Can I stop after three?**
+Do what you were asked; the clinician chose seven for a reason, often to see a whole week including the weekend, or more nights. If seven complete days are not realistic, three complete ones beat seven with holes, so say so at the appointment and show the days you did finish.
+
+**Should I include a weekend?**
+Yes, if you can. NICE asks for diaries that cover both working and leisure days, and the Urology Care Foundation asks for typical days. A day at a desk and a day at home usually look different in a diary, and your clinician wants to see both.
+
+**Is a 24-hour diary enough?**
+It is the minimum the International Continence Society describes for a frequency–volume chart, and some clinics use one as a quick snapshot. A single day is more likely to be an unusual one, so most ask for more. If a 24-hour chart is what you were given, run it from waking to waking and fill in every line.
+
+### References
+
+1. National Institute for Health and Care Excellence. Urinary incontinence in women. Quality standard QS77, quality statement 2: bladder diaries and lifestyle changes. London: NICE; 2015. https://www.nice.org.uk/guidance/qs77/chapter/quality-statement-2-bladder-diaries-and-lifestyle-changes
+2. National Institute for Health and Care Excellence. Urinary incontinence and pelvic organ prolapse in women: management. NICE guideline NG123. London: NICE; 2019. https://www.nice.org.uk/guidance/ng123
+3. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+4. Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025. https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf
+5. British Association of Urological Surgeons. Information from BAUS about assessing fluid intake & output. Patient leaflet F24/016. BAUS; 2024. https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Input%20output%20chart.pdf
+6. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+7. Yap TL, Cromwell DC, Emberton M. A systematic review of the reliability of frequency-volume charts in urological research and its implications for the optimum chart duration. BJU Int. 2007;99(1):9–16. https://doi.org/10.1111/j.1464-410X.2006.06499.x
+8. Dmochowski RR, Sanders SW, Appell RA, Nitti VW, Davila GW. Bladder-health diaries: an assessment of 3-day vs 7-day entries. BJU Int. 2005;96(7):1049–1054. https://doi.org/10.1111/j.1464-410X.2005.05785.x
+9. Ku JH, Jeong IG, Lim DJ, Byun SS, Paick JS, Oh SJ. Voiding diary for the evaluation of urinary incontinence and lower urinary tract symptoms: prospective assessment of patient compliance and burden. Neurourol Urodyn. 2004;23(4):331–335. https://doi.org/10.1002/nau.20027
+10. Konstantinidis C, Kratiras Z, Samarinas M, Skriapas K. Optimal bladder diary duration for patients with suprapontine neurogenic lower urinary tract dysfunction. Int Braz J Urol. 2016;42(4):766–772. https://doi.org/10.1590/S1677-5538.IBJU.2015.0292
+11. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+
+General information, not medical advice. Follow the instructions you were given by your clinician.
+
+---
+
+## How to Keep a Bladder Diary: What to Record, Step by Step
+Source: https://fluidbalanceapp.com/blog/how-to-keep-a-bladder-diary/
+Published: 2026-09-12 · Guide · By Denis Zinin, developer of Bladder Diary: Fluid Balance. Not a doctor.
+
+A note before you start: I am not a doctor. I make the Bladder Diary: Fluid Balance app, and this guide is my attempt to bring together, in one place, what the clinical guidelines and clinic forms ask for when you are told to keep a bladder diary. The sources are listed at the end; your clinician's instructions come first.
+
+In short:
+A bladder diary is kept by writing down, as they happen, every drink and every trip to the toilet with the time, for the three to seven days a clinician asks for. It is the record that NICE guidance, the International Continence Society and the Urology Care Foundation all ask for when frequency, urgency, leaks or night-time trips are being assessed. On paper or in an app, the same habits make it useful:
+
+- Write down every drink and every trip to the toilet with the time, as they happen, for the three to seven days you were asked for.
+- Measure urine with a jug or a toilet hat when you can. When you can't, tick the trip and keep the time: it still counts.
+- Write down when you went to bed and got up, mark the night trips, and bring every page. A complete short diary is worth more than a long patchy one.
+
+A bladder diary is a written record of what you drink, what you pass and when, kept for a few days so that your clinician can see the pattern instead of relying on memory, which tends to get the numbers wrong.[1] Keeping one comes down to four habits: write the time straight away, note every drink with its amount, measure urine when you can and tick the trip when you can't, and mark what happened at night.
+
+Your urologist, GP, nurse or pelvic-floor physiotherapist may call it a voiding diary, a frequency–volume chart or a micturition diary; the International Continence Society defines each of these terms.[2,3] In hospital the same record is an input and output chart. The columns are near enough the same; the name depends on who hands you the sheet.
+
+### What a bladder diary is for, and why you were asked
+
+The diary answers questions an appointment can't. How often do you go over a full day and night? How much comes out each time? How does that relate to what you drank, and when? How many times do you get up at night?
+
+The International Continence Society defines a frequency–volume chart as a record of the time and volume of every void for at least 24 hours, and a bladder diary as the same record plus fluid intake, leaks and pad use.[2,3] Clinics ask for one before a first appointment and use it again to see whether treatment is working.[4] What the numbers mean is your clinician's call. Your job is a record that is complete and honest.
+
+### What to record in a bladder diary
+
+A bladder diary has five columns: the time, what you drank and how much, how much you passed (or a tick for not measured), whether it was at night, and a note. Five columns cover almost every clinic's form.
+
+- **Time.** Every drink and every trip, written when it happens. The time matters as much as the amount: the same volume at three in the afternoon and at three in the morning tells a clinician different things.
+- **What you drank, and how much.** The type and the amount: 250 ml of tea, a 330 ml can, a 500 ml bottle. Measure your usual mug, glass and bottle once with a measuring jug and reuse the numbers.
+- **How much you passed.** In millilitres or fluid ounces, from a measuring jug or a collection "hat" that sits under the toilet seat. If you passed urine but couldn't measure it, put a tick and keep the time. The NHS chart says exactly that.[5]
+- **Night.** Write down when you went to bed and when you got up, and mark every trip in between.[5,6] With the bed and wake times on the sheet, your clinician can separate day from night.
+- **Notes.** A strong urge, a leak and roughly how much, a pad change, pain, anything unusual. Some forms have separate columns for urgency and leaks; if yours does, use them.
+
+### Before you start
+
+1. **Get something to measure with.** Any kitchen jug marked in millilitres will do; the Urology Care Foundation suggests a kitchen measuring cup or a cup you know holds a set amount.[7] Clinics often hand out a collection hat. Keep it by the toilet and rinse it after each use.
+2. **Measure your everyday cups once.** Your mug, your glass, your water bottle. From then on you write the number, not a guess.
+3. **Pick the days.** Most clinics ask for three; some ask for seven, and the research on how long a diary should run points the same way.[9] NICE's quality standard for women with urinary incontinence asks for at least three days that cover both working and leisure days,[4] and the Urology Care Foundation asks for three typical days that need not be in a row.[7] If you were told a number, use that one.
+4. **Keep the sheet where you'll use it.** By the toilet, in a pocket, or on your phone. A diary you don't have with you can't be filled in.
+5. **Carry on as usual.** The diary is meant to show normal days.[8] Don't drink less to make it look tidier.
+
+### A filled-in day, line by line
+
+Here are three lines from the worked example on the first page of our [printable template](https://fluidbalanceapp.com/bladder-diary-template/):
+
+(Image: Three example rows from the printable template: 7:20, drank 250 ml of tea, passed 320 ml; 9:40, a tick for not measured, with the note "in a hurry, small leak"; 3:10, passed 180 ml, ticked as night)
+
+- **7:20.** A cup of tea, 250 ml, and the first trip of the morning, 320 ml, measured with the jug.
+- **9:40.** A trip in a hurry: no time to measure, so a tick instead of a number, and a note about a small leak. The trip still counts.
+- **3:10.** 180 ml in the middle of the night. It gets a tick in the Night column because it happened between going to bed and getting up.
+
+Three lines, and a clinician already sees a measured void, an unmeasured one that still counts, and a night trip with its volume. A full day has more lines, but each one is just as simple.
+
+Or keep the same diary in [the Bladder Diary: Fluid Balance app](https://fluidbalanceapp.com/): the same columns, two taps per entry, always in your pocket, and free.
+
+### Mistakes that spoil a diary
+
+- **Filling it in from memory in the evening.** Times drift and the small trips vanish; even the number of trips is misremembered.[1] Write as you go.
+- **Skipping a trip because you couldn't measure.** A ticked trip with a time still shows how often you go and how many times you got up at night. A missing trip shows nothing. An estimate is better than a gap.
+- **Leaving out the bed and wake times.** Without them, night trips can't be counted.
+- **Stopping halfway.** Two complete days are worth more than four with holes. Completeness is the first thing a clinician checks.
+- **Changing your habits for the diary.** Skipping your evening tea for three days hides exactly the pattern the diary is meant to show.
+
+### Bringing it to the appointment
+
+Bring every page, including the days with gaps, and say which days are complete.[7,8] Our template has a line for that on the last page: days recorded, out of seven. Take a photo of each page as a backup before you hand it over.
+
+If you kept the diary in an app, export the report and print it, email it to the clinic, or show it on your phone. Some clinicians prefer paper; a printed page is never wrong.
+
+If you started or stopped a medicine during the diary days, write it in the notes. Don't change anything for the diary's sake.
+
+### Paper or app
+
+A paper sheet works, and clinics are used to it. An app adds the time automatically, does the totals and produces a report at the end. If you prefer paper, the [free template](https://fluidbalanceapp.com/bladder-diary-template/) has the same columns as the app, in A4 and US Letter, as full pages or fold-in-half booklets. If you prefer the phone, [Bladder Diary: Fluid Balance](https://fluidbalanceapp.com/) takes two taps per entry and never comments on your numbers.
+
+### Who is asked to keep one
+
+Nocturia, overactive bladder, incontinence, follow-up after a urinary infection, an enlarged prostate before and after surgery, pelvic-floor physiotherapy, recovery after a catheter. The record is the same in every case. What the clinician looks for in it differs, and that part is theirs.
+
+### References
+
+1. Stav K, Dwyer PL, Rosamilia A. Women overestimate daytime urinary frequency: the importance of the bladder diary. J Urol. 2009;181(5):2176–2180. https://doi.org/10.1016/j.juro.2009.01.042
+2. Abrams P, Cardozo L, Fall M, et al. The standardisation of terminology of lower urinary tract function: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):167–178. https://doi.org/10.1002/nau.10052
+3. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+4. National Institute for Health and Care Excellence. Urinary incontinence in women. Quality standard QS77, quality statement 2: bladder diaries and lifestyle changes. London: NICE; 2015. https://www.nice.org.uk/guidance/qs77/chapter/quality-statement-2-bladder-diaries-and-lifestyle-changes
+5. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+6. European Association of Urology, Patient Information. I want to know about keeping a bladder diary. Uroweb. https://patients.uroweb.org/condition/urinary-incontinence/bladder-diary
+7. Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025. https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf
+8. British Association of Urological Surgeons. Information from BAUS about assessing fluid intake & output. Patient leaflet F24/016. BAUS; 2024. https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Input%20output%20chart.pdf
+9. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+
+General information, not medical advice. Follow the instructions you were given by your clinician.
+
+---
+
+## Bladder Diary: Fluid Balance 1.0 is on the App Store
+Source: https://fluidbalanceapp.com/blog/fluid-balance-1-0/
+Published: 2026-08-29 · App update · By Denis Zinin, developer of Bladder Diary: Fluid Balance.
+
+Bladder Diary: Fluid Balance 1.0 went live on the App Store on 29 August 2026. It is a bladder diary for iPhone and Apple Watch: what you drink, what you pass and when, kept for the three to seven days a doctor asks for, with a PDF report at the end. The app is free; Pro is a one-time purchase.
+
+This post is the record of what the first version contains. Later versions will get their own posts, so there is always a place to see what changed and when.
+
+### What's in 1.0
+
+**Logging.** Tap + Intake or + Output, then a preset: 100, 200, 250, 330 or 500 ml, or Custom for an exact number. The entry is saved with the time. Not measured records a trip to the toilet without a volume; it counts towards frequency and night events and stays out of the totals. Any entry can be edited afterwards: time, type, volume, and a note.
+
+
+**Today.** IN, OUT and BALANCE at the top of the screen, the day's entries below, and a row of recent days to move between.
+
+
+**Stats.** A grid of the last five weeks showing which days have a diary. Advanced analytics, part of Pro, adds five charts: intake and output by day, volumes by hour, night-time trips over time, the spread of voided volumes, and the gaps between trips. The first chart is free.
+
+
+**Report.** A PDF for any range, laid out the way a bladder diary is normally read: daily totals, every voided volume with its time, night events, days recorded, and the averages a clinician looks for. Print it, email it, or show it on the phone. CSV export of the whole history is free.
+
+
+**Widgets and Apple Watch.** A Home Screen widget and a Lock Screen widget with the day's totals and the two buttons. The Apple Watch app has the same presets and Not measured.
+
+
+**iCloud.** Entries sync between your own devices through your private iCloud database. There is no account and no server of ours.
+
+**Reminder.** An optional daily reminder to fill in the diary, off by default. Its text never says what the app is for.
+
+**Delete all data.** One step in Settings. It clears the device and, if iCloud is on, your iCloud copy.
+
+**Languages.** English, German, French, Spanish, Italian, Portuguese (Brazil), Russian, Japanese, Korean and Simplified Chinese. The PDF report is translated too; CSV stays in English.
+
+### Free and Pro
+
+Logging, the Today screen, Stats, widgets, Apple Watch, iCloud and CSV export are free, for as long as you use the app. Pro is a one-time purchase, not a subscription: it adds the PDF report, the Advanced analytics page and a dark app icon. Nothing interrupts an entry to ask you to upgrade.
+
+### Privacy
+
+The App Store privacy label is Data Not Collected. The app has no analytics, no crash reporting, no advertising and no third-party code. Entries live on your device and, if you turn it on, in your own iCloud. The [privacy policy](https://fluidbalanceapp.com/privacy/) has the details.
+
+### What it does not do
+
+It does not diagnose, does not compare your entries to a norm, does not interpret them and does not remind you to drink. It records what you tell it and hands the record back to you. If you are new to bladder diaries, [how to keep a bladder diary](https://fluidbalanceapp.com/blog/how-to-keep-a-bladder-diary/) explains what to record and why.
+
+### Requirements
+
+iPhone with iOS 18 or later. Apple Watch with watchOS 11 or later. On an iPad it runs as an iPhone app. App Store category: Medical. Download size: about 11 MB.
+
+### Version history
+
+| Version | Date | What changed |
+|---|---|---|
+| 1.0 | 29 August 2026 | First release |
+
+Questions or requests: [Support](https://fluidbalanceapp.com/support/) has the answers to the common ones and the address to write to.
+
+---
