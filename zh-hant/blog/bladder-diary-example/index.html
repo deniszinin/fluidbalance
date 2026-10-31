@@ -1,0 +1,260 @@
+<!DOCTYPE html><html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><script>
+      // Тема до первой отрисовки (2026-10-25): без этого тёмная тема, выбранная руками, моргнула бы светлой.
+      // Нет записи — атрибута нет, и сайт идёт за системной настройкой (tokens.css).
+      try { var t = localStorage.getItem('theme'); if (t === 'dark' || t === 'light') document.documentElement.setAttribute('data-theme', t); } catch (e) {}
+    </script><meta name="referrer" content="strict-origin-when-cross-origin"><meta name="p:domain_verify" content="7c68a6b729563967b3145e2843eb0f6c"><meta name="apple-itunes-app" content="app-id=6803224992"><link rel="icon" href="/favicon.png" type="image/png"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="sitemap" href="/sitemap-index.xml"><link rel="alternate" type="application/rss+xml" title="排尿日記: Fluid Balance — Blog" href="/zh-hant/blog/rss.xml"><title>排尿日記範例：完整一天，逐行解讀</title><meta name="description" content="一份排尿日記裡完整一天的範例：十五行，含飲水、排尿、一個「未測量」的勾和一次夜間排尿，以及每一行告訴醫師什麼。"><link rel="canonical" href="https://fluidbalanceapp.com/zh-hant/blog/bladder-diary-example/"><link rel="alternate" hreflang="en" href="https://fluidbalanceapp.com/blog/bladder-diary-example/"><link rel="alternate" hreflang="de" href="https://fluidbalanceapp.com/de/blog/bladder-diary-example/"><link rel="alternate" hreflang="fr" href="https://fluidbalanceapp.com/fr/blog/bladder-diary-example/"><link rel="alternate" hreflang="es" href="https://fluidbalanceapp.com/es/blog/bladder-diary-example/"><link rel="alternate" hreflang="it" href="https://fluidbalanceapp.com/it/blog/bladder-diary-example/"><link rel="alternate" hreflang="pt-BR" href="https://fluidbalanceapp.com/pt-br/blog/bladder-diary-example/"><link rel="alternate" hreflang="ru" href="https://fluidbalanceapp.com/ru/blog/bladder-diary-example/"><link rel="alternate" hreflang="ja" href="https://fluidbalanceapp.com/ja/blog/bladder-diary-example/"><link rel="alternate" hreflang="ko" href="https://fluidbalanceapp.com/ko/blog/bladder-diary-example/"><link rel="alternate" hreflang="zh-Hans" href="https://fluidbalanceapp.com/zh-hans/blog/bladder-diary-example/"><link rel="alternate" hreflang="zh-Hant" href="https://fluidbalanceapp.com/zh-hant/blog/bladder-diary-example/"><link rel="alternate" hreflang="pl" href="https://fluidbalanceapp.com/pl/blog/bladder-diary-example/"><link rel="alternate" hreflang="sv" href="https://fluidbalanceapp.com/sv/blog/bladder-diary-example/"><link rel="alternate" hreflang="cs" href="https://fluidbalanceapp.com/cs/blog/bladder-diary-example/"><link rel="alternate" hreflang="x-default" href="https://fluidbalanceapp.com/blog/bladder-diary-example/"><meta property="og:type" content="article"><meta property="article:published_time" content="2026-09-28"><meta property="article:modified_time" content="2026-09-28"><meta property="og:site_name" content="排尿日記: Fluid Balance"><meta property="og:title" content="排尿日記範例：完整一天，逐行解讀"><meta property="og:description" content="一份排尿日記裡完整一天的範例：十五行，含飲水、排尿、一個「未測量」的勾和一次夜間排尿，以及每一行告訴醫師什麼。"><meta property="og:url" content="https://fluidbalanceapp.com/zh-hant/blog/bladder-diary-example/"><meta property="og:image" content="https://fluidbalanceapp.com/og-bladder-diary-example.jpg"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:locale" content="zh_TW"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="排尿日記範例：完整一天，逐行解讀"><meta name="twitter:description" content="一份排尿日記裡完整一天的範例：十五行，含飲水、排尿、一個「未測量」的勾和一次夜間排尿，以及每一行告訴醫師什麼。"><meta name="twitter:image" content="https://fluidbalanceapp.com/og-bladder-diary-example.jpg"><script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://fluidbalanceapp.com/zh-hant/#author","name":"Denis Zinin","jobTitle":"Independent iOS developer","url":"https://fluidbalanceapp.com/zh-hant/","description":"Independent iOS developer, maker of 排尿日記: Fluid Balance. Not a doctor.","knowsAbout":["iOS app development","Apple Watch apps","Bladder diary apps"],"sameAs":["https://apps.apple.com/developer/id6799121582","https://apps.apple.com/app/id6803224992"]},{"@type":"WebSite","@id":"https://fluidbalanceapp.com/zh-hant/#site","name":"排尿日記: Fluid Balance","alternateName":"Fluid Balance","url":"https://fluidbalanceapp.com/zh-hant/","inLanguage":"zh-Hant","publisher":{"@id":"https://fluidbalanceapp.com/zh-hant/#author"},"about":{"@id":"https://fluidbalanceapp.com/zh-hant/#app"}},{"@type":"MobileApplication","@id":"https://fluidbalanceapp.com/zh-hant/#app","name":"排尿日記: Fluid Balance","alternateName":"Fluid Balance","operatingSystem":["iOS","watchOS"],"softwareRequirements":"iOS 18.0 or later; watchOS 11.0 or later","applicationCategory":"MedicalApplication","softwareVersion":"1.2","datePublished":"2026-08-29","image":"https://fluidbalanceapp.com/apple-touch-icon.png","url":"https://apps.apple.com/app/id6803224992","installUrl":"https://apps.apple.com/app/id6803224992","isAccessibleForFree":true,"offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"featureList":["Two-tap intake and output logging with presets and Not measured","Optional urge rating from 0 to 4","Apple Watch app","Home Screen and Lock Screen widgets","Yesterday's entries one tap away","12- or 24-hour time","Adapted for iPhone Duo","iCloud sync, no account","CSV export","PDF report for your doctor (Pro, one-time purchase)","Advanced analytics (Pro)"],"inLanguage":["en","de","fr","es","it","pt-BR","ru","ja","ko","zh-Hans","zh-Hant","pl","sv","cs"],"description":"Free bladder diary app for iPhone and Apple Watch: the 3–7 day diary your doctor asked for, two taps per entry, a PDF report, nothing leaves your phone.","author":{"@id":"https://fluidbalanceapp.com/zh-hant/#author"},"releaseNotes":"https://fluidbalanceapp.com/zh-hant/blog/fluid-balance-1-2/"},{"@type":"Article","@id":"https://fluidbalanceapp.com/zh-hant/blog/bladder-diary-example/#article","headline":"排尿日記範例：完整一天，逐行解讀","description":"一份排尿日記裡完整一天的範例：十五行，含飲水、排尿、一個「未測量」的勾和一次夜間排尿，以及每一行告訴醫師什麼。","datePublished":"2026-09-28","dateModified":"2026-09-28","author":{"@id":"https://fluidbalanceapp.com/zh-hant/#author"},"publisher":{"@id":"https://fluidbalanceapp.com/zh-hant/#author"},"image":["https://fluidbalanceapp.com/og-bladder-diary-example.jpg"],"mainEntityOfPage":{"@type":"WebPage","@id":"https://fluidbalanceapp.com/zh-hant/blog/bladder-diary-example/"},"isPartOf":{"@id":"https://fluidbalanceapp.com/zh-hant/#site"},"inLanguage":"zh-Hant","articleSection":"Guide","wordCount":250,"isAccessibleForFree":true,"about":{"@type":"Thing","name":"Bladder diary","sameAs":["https://en.wikipedia.org/wiki/Bladder_diary","https://www.wikidata.org/wiki/Q137357480"]},"mentions":{"@id":"https://fluidbalanceapp.com/zh-hant/#app"},"speakable":{"@type":"SpeakableSpecification","cssSelector":[".tldr"]},"citation":[{"@type":"WebPage","name":"Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025.","url":"https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf"},{"@type":"WebPage","name":"Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16.","url":"https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf"},{"@type":"WebPage","name":"University Hospitals Sussex NHS Foundation Trust. Bladder record chart: pelvic health physiotherapy patient information. Reference 2198; 2023.","url":"https://www.uhsussex.nhs.uk/wp-content/uploads/2023/03/Bladder-Record-chart.pdf"},{"@type":"ScholarlyArticle","name":"Abrams P, Cardozo L, Fall M, et al. The standardisation of terminology of lower urinary tract function: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):167–178.","url":"https://doi.org/10.1002/nau.10052"},{"@type":"ScholarlyArticle","name":"van Kerrebroeck P, Abrams P, Chaikin D, et al. The standardisation of terminology in nocturia: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):179–183.","url":"https://doi.org/10.1002/nau.10053"},{"@type":"ScholarlyArticle","name":"Stav K, Dwyer PL, Rosamilia A. Women overestimate daytime urinary frequency: the importance of the bladder diary. J Urol. 2009;181(5):2176–2180.","url":"https://doi.org/10.1016/j.juro.2009.01.042"}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"首頁","item":"https://fluidbalanceapp.com/zh-hant/"},{"@type":"ListItem","position":2,"name":"部落格","item":"https://fluidbalanceapp.com/zh-hant/blog/"},{"@type":"ListItem","position":3,"name":"排尿日記範例：完整一天，逐行解讀","item":"https://fluidbalanceapp.com/zh-hant/blog/bladder-diary-example/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"早上第一次排尿寫在哪裡？","acceptedAnswer":{"@type":"Answer","text":"寫在新一天的第一行，排在你的起床時間之後，量了就把量寫上。它不算夜間排尿，因為你已經起來了；但按 ICS 的定義，那時排出的尿是夜裡生成的，計入夜間尿量， 所以值得量一下。怎麼歸類是醫師的事。"}},{"@type":"Question","name":"總計需要我自己算嗎？","acceptedAnswer":{"@type":"Answer","text":"不需要。門診表格會留一行總計，有的會要求你填，但醫師也能自己加；NHS 的表上就是這麼說的。 用 App 的話，總計、次數和夜間計數都替你算好。唯一不能代勞的，是那些行本身。"}},{"@type":"Question","name":"如果我一天有二十行怎麼辦？","acceptedAnswer":{"@type":"Answer","text":"換下一頁接著記。行數多的一天是完整的一天，而醫師要的只有完整的那種；為了塞得下而漏掉幾行，才是錯的。我們的範本 A4 每頁 24 行，App 沒有上限。"}}]}]}</script><script async src="https://www.googletagmanager.com/gtag/js?id=G-5C6HFXRKBT"></script><script>(function(){const id = "G-5C6HFXRKBT";
+
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){ dataLayer.push(arguments); }
+      gtag('js', new Date());
+      gtag('config', id);
+      document.addEventListener('click', function (e) {
+        var el = e.target && e.target.closest ? e.target.closest('[data-track]') : null;
+        if (!el) return;
+        gtag('event', el.getAttribute('data-track'), { placement: el.getAttribute('data-placement') || '' });
+      });
+    })();</script><script>
+      // Класс js прячет .reveal-блоки до анимации появления. Страховка (аудит 2026-09-14, P3.4): если модульный скрипт
+      // ниже не отработал за 2,5 с (не загрузился, старый браузер, блокировщик), класс снимается и контент виден.
+      document.documentElement.classList.add('js');
+      setTimeout(function () { if (!window.__reveal) document.documentElement.classList.remove('js'); }, 2500);
+    </script><link rel="stylesheet" href="/_astro/Base.CGnSXUrE.css"></head><body><header class="site-header" id="site-header"><div class="container nav"><a class="brand" href="/zh-hant/"><img src="/favicon.png" width="28" height="28" alt=""><span class="brand-name"><span class="brand-b">Fluid Balance</span></span></a><nav class="nav-links" id="site-nav" aria-label="主要導覽"><a href="/zh-hant/blog/">部落格</a><a href="/zh-hant/support/">支援</a><a href="/zh-hant/bladder-diary-template/">免費 PDF 範本</a><details class="lang" id="lang-switch"><summary aria-label="語言" title="語言"><svg class="lang-globe" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="9"></circle><path d="M3 12h18M12 3c2.5 2.6 2.5 15.4 0 18M12 3c-2.5 2.6-2.5 15.4 0 18"></path></svg><span class="lang-label">語言</span><span class="lang-current">繁體中文</span><svg class="lang-chev" viewBox="0 0 16 16" width="12" height="12" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 6.5 8 10.5l4-4"></path></svg></summary><div class="lang-menu"><a href="/blog/bladder-diary-example/" hreflang="en" lang="en">English</a><a href="/de/blog/bladder-diary-example/" hreflang="de" lang="de">Deutsch</a><a href="/fr/blog/bladder-diary-example/" hreflang="fr" lang="fr">Français</a><a href="/es/blog/bladder-diary-example/" hreflang="es" lang="es">Español</a><a href="/it/blog/bladder-diary-example/" hreflang="it" lang="it">Italiano</a><a href="/pt-br/blog/bladder-diary-example/" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a><a href="/ru/blog/bladder-diary-example/" hreflang="ru" lang="ru">Русский</a><a href="/ja/blog/bladder-diary-example/" hreflang="ja" lang="ja">日本語</a><a href="/ko/blog/bladder-diary-example/" hreflang="ko" lang="ko">한국어</a><a href="/zh-hans/blog/bladder-diary-example/" hreflang="zh-Hans" lang="zh-Hans">简体中文</a><a href="/zh-hant/blog/bladder-diary-example/" hreflang="zh-Hant" lang="zh-Hant" aria-current="true">繁體中文</a><a href="/pl/blog/bladder-diary-example/" hreflang="pl" lang="pl">Polski</a><a href="/sv/blog/bladder-diary-example/" hreflang="sv" lang="sv">Svenska</a><a href="/cs/blog/bladder-diary-example/" hreflang="cs" lang="cs">Čeština</a></div></details><!-- Тема — последней строкой меню, под сеткой языков (решение владельца 2026-10-25). На десктопе
+           эта копия скрыта: там тогл в подвале. --><button class="theme-toggle" type="button" aria-pressed="false" aria-label="深色主題" title="深色主題"><svg class="theme-icon theme-sun" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="12" cy="12" r="4.2"></circle><path d="M12 2.6v2.2M12 19.2v2.2M4.2 4.2l1.6 1.6M18.2 18.2l1.6 1.6M2.6 12h2.2M19.2 12h2.2M4.2 19.8l1.6-1.6M18.2 5.8l1.6-1.6"></path></svg><svg class="theme-icon theme-moon" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"><path d="M20 14.2A8.2 8.2 0 0 1 9.8 4a8.4 8.4 0 1 0 10.2 10.2Z"></path></svg><span class="theme-label">深色主題</span><span class="theme-switch" aria-hidden="true"></span></button></nav><a class="btn btn-secondary btn-sm" href="https://apps.apple.com/app/apple-store/id6803224992?pt=129277359&amp;ct=web-header&amp;mt=8" data-track="click_app_store" data-placement="web-header">取得 App</a><!-- Меню на телефоне (2026-10-15): до 768 px ссылки шапки прятались совсем, и попасть в Blog, Support и шаблоны
+         можно было только из подвала. Кнопка показывается той же медиа-границей, что скрывает ссылки. --><button class="nav-toggle" id="nav-toggle" type="button" aria-controls="site-nav" aria-expanded="false" aria-label="選單"><span class="nav-toggle-bars" aria-hidden="true"></span></button></div></header><script>
+  (function () {
+    var h = document.getElementById('site-header');
+    var on = function () { h.classList.toggle('scrolled', window.scrollY > 8); };
+    on(); addEventListener('scroll', on, { passive: true });
+
+    // Меню на телефоне: открытие по кнопке, закрытие по повторному нажатию, Escape, клику вне,
+    // переходу по ссылке и при расширении окна до десктопной раскладки.
+    // Выпадашка языков: закрывается кликом вне и по Escape. Открытие и закрытие по нажатию делает сам <details>.
+    var lang = document.getElementById('lang-switch');
+    var closeLang = function () { if (lang) lang.removeAttribute('open'); };
+
+    var btn = document.getElementById('nav-toggle');
+    var nav = document.getElementById('site-nav');
+    var set = function (open) {
+      h.classList.toggle('nav-open', open);
+      // Страница под полотном не скроллится, пока меню открыто.
+      document.documentElement.classList.toggle('nav-locked', open);
+      if (btn) btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+      // На телефоне языки показываются сеткой без раскрывашки (решение владельца 2026-10-24:
+      // две вложенные гармошки на телефоне — плохой UX), поэтому <details> раскрывается вместе с меню.
+      if (lang) { if (open && innerWidth <= 768) lang.setAttribute('open', ''); else if (!open) lang.removeAttribute('open'); }
+    };
+    if (btn && nav) {
+      btn.addEventListener('click', function (e) {
+        e.stopPropagation();
+        closeLang();
+        set(h.classList.contains('nav-open') === false);
+      });
+      nav.addEventListener('click', function (e) { if (e.target.closest('a')) set(false); });
+    }
+    document.addEventListener('click', function (e) {
+      if (h.classList.contains('nav-open') && !e.target.closest('#site-nav') && !e.target.closest('#nav-toggle')) set(false);
+      // Закрытие по клику вне — только для десктопной выпадашки. На телефоне этот же <details> раскрыт
+      // насовсем и работает как блок меню: без проверки ширины нажатие на «Тёмную тему» в соседней строке
+      // схлопывало сетку языков (найдено при переносе тогла вниз меню, 2026-10-25).
+      if (lang && innerWidth > 768 && lang.hasAttribute('open') && !e.target.closest('#lang-switch')) closeLang();
+    });
+    document.addEventListener('keydown', function (e) { if (e.key === 'Escape') { set(false); closeLang(); } });
+
+    addEventListener('resize', function () { if (innerWidth > 768) set(false); }, { passive: true });
+  })();
+</script><main><article class="section"><div class="container prose article"><span class="eyebrow"><a href="/zh-hant/blog/">部落格</a></span><h1 style="margin-top:14px">排尿日記範例：完整一天，逐行解讀</h1><p class="meta article-meta"><time datetime="2026-09-28">2026年9月28日</time><span class="sep">·</span> 約 1 分鐘</p><img src="/_astro/example-day.CzveJOTG_11rjc0.webp" srcset="/_astro/example-day.CzveJOTG_Z229dvP.webp 700w, /_astro/example-day.CzveJOTG_ZKQI0O.webp 1400w" alt="一頁填好的排尿日記範例：第 1 天，共 7 天，十五行" fetchpriority="high" sizes="(max-width: 740px) 100vw, 700px" loading="eager" decoding="async" width="1536" height="1024" class="article-cover"><section class="tldr"><h2>重點</h2><p>下面是一份完整一天的排尿日記範例，逐行解讀：十五筆左右的紀錄，每一次喝水都帶著量，每一次排尿都帶著量或者「未測量」的勾，有就寢和起床的時間，出事的地方有備註。這一天是編出來的，所以它的總計不是目標值。排法沿用 Urology Care Foundation 的日記和 NHS 的表格，而它們自己的表上只給出一兩行範例。這一天想說明的是：</p><ul><li>完整的一天大約十五行：每次喝水帶量，每次排尿帶量或勾，就寢和起床的時間，以及出事那一行的備註。</li><li>下面這一天是編的。總計不是目標值，這裡也沒有可以拿來比較的正常值。</li><li>醫師從中讀出白天和夜裡的次數、每次的量、喝水的分布、備註，以及這一天是否完整。</li></ul></section><p class="author">作者：排尿日記: Fluid Balance 的開發者 Denis Zinin。 不是醫師。</p><div class="article-body"><p>門診表格只給一兩行範例：Urology Care Foundation 的日記上是一行，一罐汽水和笑的時候漏了一點；<sup>1</sup> NHS 格洛斯特郡的表格給出一個早晨，一杯茶和一次漏尿；<sup>2</sup> Sussex 的物理治療表格給出三行早晨的紀錄帶總計。<sup>3</sup> 有幫助，但誰的一天也不是三行就完了。下面是一整天編出來的紀錄，用的是我們<a href="/zh-hant/bladder-diary-template/">列印範本</a>的格式，後面再說每一部分告訴醫師什麼。這些數字只屬於這個例子；這一頁上沒有可以拿來比較的正常值。</p>
+<h2 id="完整一天的排尿日記長什麼樣">完整一天的排尿日記長什麼樣</h2>
+<p>一份填好的排尿日記範例。第 1 天，共 7 天。22:45 就寢。7:00 起床。</p>
+<table>
+<thead>
+<tr>
+<th>時間</th>
+<th>喝了（ml）</th>
+<th>喝的什麼</th>
+<th>排出（ml 或 ✓）</th>
+<th>夜間</th>
+<th>備註</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>7:05</td>
+<td></td>
+<td></td>
+<td>350</td>
+<td></td>
+<td>早上第一次</td>
+</tr>
+<tr>
+<td>7:20</td>
+<td>250</td>
+<td>茶</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>8:30</td>
+<td>200</td>
+<td>咖啡</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>9:40</td>
+<td></td>
+<td></td>
+<td>✓</td>
+<td></td>
+<td>趕時間，漏了一點</td>
+</tr>
+<tr>
+<td>11:00</td>
+<td>500</td>
+<td>水</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>11:45</td>
+<td></td>
+<td></td>
+<td>220</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>13:10</td>
+<td>330</td>
+<td>果汁</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>13:30</td>
+<td></td>
+<td></td>
+<td>180</td>
+<td></td>
+<td>尿意很強</td>
+</tr>
+<tr>
+<td>15:00</td>
+<td>250</td>
+<td>茶</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>16:20</td>
+<td></td>
+<td></td>
+<td>260</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>18:00</td>
+<td>250</td>
+<td>水</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>19:30</td>
+<td>200</td>
+<td>啤酒</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>20:15</td>
+<td></td>
+<td></td>
+<td>300</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>22:30</td>
+<td></td>
+<td></td>
+<td>150</td>
+<td></td>
+<td>睡前</td>
+</tr>
+<tr>
+<td>3:10</td>
+<td></td>
+<td></td>
+<td>180</td>
+<td>✓</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>十五行，一頁。一天是從起床到起床，所以 3:10 這次雖然日期已經變了，仍然屬於第 1 天。</p>
+<h2 id="逐行看">逐行看</h2>
+<p><strong>7:05，350 ml，「早上第一次」。</strong> 起床後的第一次。它不是夜間排尿，因為日記裡的夜在 7:00 結束；但按 ICS 的定義，這時排出的尿是夜裡生成的，要計入夜間尿量，<sup>5</sup> 所以要量，而不是打勾。在紙面上，它只是這一天的第一行。</p>
+<p><strong>7:20 和 8:30，茶和咖啡。</strong> 帶著量和種類的飲水。量來自事先把杯子量過一次；寫種類是因為門診表格要。<sup>1,2</sup></p>
+<p><strong>9:40，一個勾，「趕時間，漏了一點」。</strong> 沒時間量，所以用勾代替數字，而這一次照樣計入當天的次數。<sup>2</sup> 備註把漏尿和大致的量記了下來。如果表上有漏尿欄，這裡會寫「少量」或「+」；在普通日記裡，它就是一條帶時間的備註。</p>
+<p><strong>11:00，500 ml 水。</strong> 一瓶，量印在瓶身上。</p>
+<p><strong>13:30，180 ml，「尿意很強」。</strong> 一次量過的排尿，附帶尿意：突然而強烈、難以延後的感覺。<sup>4</sup> 當場寫下，兩三個字就夠。</p>
+<p><strong>19:30，200 ml 啤酒。</strong> 在這張表上，酒和別的飲料沒有區別：量、種類、時間。日記要呈現的是平常的夜晚，不是修飾過的夜晚。</p>
+<p><strong>22:30，150 ml，「睡前」。</strong> 頁面頂部寫的就寢時間之前的最後一次。它算白天的；夜從 22:45 開始。</p>
+<p><strong>3:10，180 ml，勾在夜間。</strong> 在就寢和起床之間，所以打上這個勾。正是這一行讓夜間計數成為可能；沒有就寢和起床時間的日記，分不出這次和 22:30 那次。</p>
+<h2 id="這一天加起來是多少">這一天加起來是多少</h2>
+<p>只因為是例子才給得出：七次飲水共 1 980 ml；七次量過的排尿共 1 640 ml，另有一次只打了勾沒有量；總共八次，其中一次在夜裡。在門診表格上，可能會讓你把這些總計寫在最後一行；在 App 裡，它們不用你加就出現在今天畫面和報告中。它們不是目標，也不代表任何具體的人。它們在這裡唯一的作用，是展示一天被數清楚之後是什麼樣子。</p>
+<h2 id="醫師從中看到什麼">醫師從中看到什麼</h2>
+<p>八次帶時間的排尿，一次在夜裡，一次沒量。七個量過的數值，從 150 到 350 ml。飲水從 7:20 分布到 19:30，種類都寫了。兩條備註，一次帶誘因的漏尿和一次強烈尿意。就寢和起床的時間，於是夜能從白天裡分出來。還有一個從起床到起床都完整的一天——這是他們第一眼要確認的，因為單憑記憶連去了幾次都會記錯。<sup>6</sup> 這些事實代表什麼，屬於看診；日記的任務是把它們帶到。</p>
+<h2 id="你的一天會不一樣">你的一天會不一樣</h2>
+<p>行數更多或更少，別的飲料，別的時間。不變的是格式：每一次喝水、每一次排尿、一個量或一個勾、框住夜晚的兩個時間，還有出事那一行的備註。<a href="/zh-hant/blog/how-to-keep-a-bladder-diary/">怎麼寫排尿日記</a>講的是養成這些習慣，<a href="/zh-hant/blog/how-to-measure-urine-output-at-home/">在家怎麼量尿量</a>講的是量杯。</p>
+</div><div class="panel paper-panel"><h2 style="margin-top:0">需要紙本嗎？</h2><p>一份免費列印的排尿日記，欄位完全一樣：A4 或 US Letter，整頁或對折的小冊子。不用留電子郵件，不用註冊。</p><p style="margin-top:14px"><a class="btn btn-secondary btn-sm" href="/zh-hant/bladder-diary-template/">免費 PDF 範本</a></p></div><div class="faq-group"><h2>問題</h2><div class="faq"><details data-track="faq_open" data-placement="早上第一次排尿寫在哪裡？"><summary>早上第一次排尿寫在哪裡？</summary><p>寫在新一天的第一行，排在你的起床時間之後，量了就把量寫上。它不算夜間排尿，因為你已經起來了；但按 ICS 的定義，那時排出的尿是夜裡生成的，計入夜間尿量，<sup>5</sup> 所以值得量一下。怎麼歸類是醫師的事。</p></details><details data-track="faq_open" data-placement="總計需要我自己算嗎？"><summary>總計需要我自己算嗎？</summary><p>不需要。門診表格會留一行總計，有的會要求你填，但醫師也能自己加；NHS 的表上就是這麼說的。<sup>2</sup> 用 App 的話，總計、次數和夜間計數都替你算好。唯一不能代勞的，是那些行本身。</p></details><details data-track="faq_open" data-placement="如果我一天有二十行怎麼辦？"><summary>如果我一天有二十行怎麼辦？</summary><p>換下一頁接著記。行數多的一天是完整的一天，而醫師要的只有完整的那種；為了塞得下而漏掉幾行，才是錯的。我們的範本 A4 每頁 24 行，App 沒有上限。</p></details></div></div><section class="references-block"><h2>來源</h2><ol class="references"><li>Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025. <a href="https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf" rel="noopener">urologyhealth.org (PDF)</a></li><li>Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. <a href="https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf" rel="noopener">gloshospitals.nhs.uk (PDF)</a></li><li>University Hospitals Sussex NHS Foundation Trust. Bladder record chart: pelvic health physiotherapy patient information. Reference 2198; 2023. <a href="https://www.uhsussex.nhs.uk/wp-content/uploads/2023/03/Bladder-Record-chart.pdf" rel="noopener">uhsussex.nhs.uk (PDF)</a></li><li>Abrams P, Cardozo L, Fall M, et al. The standardisation of terminology of lower urinary tract function: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):167–178. <a href="https://doi.org/10.1002/nau.10052" rel="noopener">doi:10.1002/nau.10052</a></li><li>van Kerrebroeck P, Abrams P, Chaikin D, et al. The standardisation of terminology in nocturia: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):179–183. <a href="https://doi.org/10.1002/nau.10053" rel="noopener">doi:10.1002/nau.10053</a></li><li>Stav K, Dwyer PL, Rosamilia A. Women overestimate daytime urinary frequency: the importance of the bladder diary. J Urol. 2009;181(5):2176–2180. <a href="https://doi.org/10.1016/j.juro.2009.01.042" rel="noopener">doi:10.1016/j.juro.2009.01.042</a></li></ol></section><p class="small muted disclaimer">這篇文章講的是怎麼寫日記。它是一位 App 開發者提供的一般資訊，不是醫療建議：你的日記代表什麼，由你的醫師判斷。由你自己填寫的日記。不是醫療文件。</p><div class="panel" style="margin-top:32px"><h2 style="margin-top:0">把日記寫在手機裡</h2><p>每筆記錄點按兩次，總計自動算好，最後匯出 PDF 報告。不需要帳號，沒有伺服器，資料不會離開你的手機。</p><div class="btn-row" style="margin-top:20px"><a class="btn btn-store " href="https://apps.apple.com/app/apple-store/id6803224992?pt=129277359&amp;ct=web-blog-zh-Hant-bladder-diary-example&amp;mt=8" data-track="click_app_store" data-placement="web-blog-zh-Hant-bladder-diary-example" aria-label="從 App Store 下載"><img src="/_astro/app-store-badge.CVyK0T4N.svg" width="250" height="83" alt="從 App Store 下載"></a></div></div><h2>延伸閱讀</h2><div class="bgrid related"><a class="bcard" href="/zh-hant/blog/how-to-keep-a-bladder-diary/"><span class="bcover-wrap"><img src="/_astro/notebook.BixZsnNK_1X9EMK.webp" srcset="/_astro/notebook.BixZsnNK_1Un1FG.webp 400w, /_astro/notebook.BixZsnNK_2ldMzf.webp 800w" alt sizes="(max-width: 600px) 100vw, 200px" loading="lazy" decoding="async" width="1536" height="1024" class="bcover"></span><span class="bbody"><span class="tag guide">指南</span><h3>怎麼寫排尿日記：該記些什麼，一步一步來</h3><span class="bdesc">排尿日記記錄什麼、怎麼填、一個填好的範例，以及看診時帶什麼。作者是 App 開發者，不是醫師。</span></span></a><a class="bcard" href="/zh-hant/blog/how-to-measure-urine-output-at-home/"><span class="bcover-wrap"><img src="/_astro/glass.CfizSIT1_ZG7rPj.webp" srcset="/_astro/glass.CfizSIT1_Tx7dJ.webp 400w, /_astro/glass.CfizSIT1_Z2dLjCO.webp 800w" alt sizes="(max-width: 600px) 100vw, 200px" loading="lazy" decoding="async" width="1536" height="1024" class="bcover"></span><span class="bbody"><span class="tag guide">指南</span><h3>為排尿日記在家量尿量的方法</h3><span class="bdesc">量杯、接尿盆或估計：記錄排出量的三種辦法，沒量到時怎麼寫，以及怎麼把時間記對。</span></span></a></div></div></article></main><footer class="site-footer"><div class="container"><div class="footer-row"><a class="brand" href="/zh-hant/"><img src="/favicon.png" width="28" height="28" alt=""><span class="brand-name"><span class="brand-b">Fluid Balance</span></span></a><div class="footer-end"><nav class="footer-links" aria-label="頁尾"><a href="/zh-hant/blog/">部落格</a><a href="/zh-hant/support/">支援</a><a href="/zh-hant/bladder-diary-template/">免費 PDF 範本</a><a href="/zh-hant/privacy/">隱私權</a><a href="/zh-hant/terms/">使用條款</a></nav><!-- Тема — в подвале, а не в шапке (решение владельца 2026-10-25: «это просто удобство минимальное»).
+             На телефоне эта копия скрыта: там тогл в самом низу бургера. Обёртка .footer-end держит тогл
+             в одной строке со ссылками: отдельным элементом ряда он срывался на вторую строку. --><button class="theme-toggle" type="button" aria-pressed="false" aria-label="深色主題" title="深色主題"><svg class="theme-icon theme-sun" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="12" cy="12" r="4.2"></circle><path d="M12 2.6v2.2M12 19.2v2.2M4.2 4.2l1.6 1.6M18.2 18.2l1.6 1.6M2.6 12h2.2M19.2 12h2.2M4.2 19.8l1.6-1.6M18.2 5.8l1.6-1.6"></path></svg><svg class="theme-icon theme-moon" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"><path d="M20 14.2A8.2 8.2 0 0 1 9.8 4a8.4 8.4 0 1 0 10.2 10.2Z"></path></svg><span class="theme-label">深色主題</span><span class="theme-switch" aria-hidden="true"></span></button></div></div><div class="footer-bottom"><span>App 支援 14 種語言</span><span class="sep">·</span><span>由你自己填寫的日記</span><span class="sep">·</span><span>不是醫療文件</span></div></div></footer><div class="notice" id="ga-notice" hidden><span>本站以 Google Analytics 計算造訪次數。<a href="/zh-hant/privacy/">隱私權</a></span><button type="button" id="ga-ok">好</button></div><script>
+      (function () {
+        var n = document.getElementById('ga-notice');
+        var ok = document.getElementById('ga-ok');
+        var key = 'ga-notice-dismissed';
+        try { if (!localStorage.getItem(key)) n.hidden = false; } catch (e) { n.hidden = false; }
+        ok.addEventListener('click', function () { n.hidden = true; try { localStorage.setItem(key, '1'); } catch (e) {} });
+      })();
+    </script><script>
+      // Тема (2026-10-25). Пока человек не трогал тогл, сайт идёт за системной настройкой; нажатие
+      // записывает выбор в localStorage, и дальше он главнее системы. Состояние кнопки считается
+      // от действующей темы, а не от записи: иначе на «авто» у человека с системной тёмной темой сайт
+      // был бы тёмный, а тогл показывал бы «выключено».
+      // Скрипт в конце <body>, а не в шапке: тоглов в разметке два (подвал и бургер), и запуск после
+      // подвала — единственный момент, когда видны оба.
+      (function () {
+        var root = document.documentElement;
+        var mq = matchMedia('(prefers-color-scheme: dark)');
+        var tgls = document.querySelectorAll('.theme-toggle');
+        // Тёмные кадры приложения (ThemedImage.astro). Медиазапрос описывает только системную
+        // настройку, поэтому ручной выбор переписывает `media` у <source> руками: браузер
+        // пересобирает <picture> при изменении атрибута.
+        var shots = document.querySelectorAll('source[data-theme-dark]');
+        var isDark = function () { var a = root.getAttribute('data-theme'); return a ? a === 'dark' : mq.matches; };
+        var sync = function () {
+          var p = isDark() ? 'true' : 'false';
+          for (var i = 0; i < tgls.length; i++) tgls[i].setAttribute('aria-pressed', p);
+          var a = root.getAttribute('data-theme');
+          var m = a === 'dark' ? 'all' : a === 'light' ? 'not all' : '(prefers-color-scheme: dark)';
+          for (var j = 0; j < shots.length; j++) shots[j].media = m;
+        };
+        var flip = function () {
+          root.setAttribute('data-theme', isDark() ? 'light' : 'dark');
+          try { localStorage.setItem('theme', root.getAttribute('data-theme')); } catch (e) {}
+          sync();
+        };
+        sync();
+        if (mq.addEventListener) mq.addEventListener('change', sync);
+        for (var i = 0; i < tgls.length; i++) tgls[i].addEventListener('click', flip);
+      })();
+    </script><script type="module" src="/_astro/Base.astro_astro_type_script_index_0_lang.p60M4bss.js"></script></body></html>
