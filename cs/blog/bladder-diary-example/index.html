@@ -1,0 +1,260 @@
+<!DOCTYPE html><html lang="cs"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><script>
+      // Тема до первой отрисовки (2026-10-25): без этого тёмная тема, выбранная руками, моргнула бы светлой.
+      // Нет записи — атрибута нет, и сайт идёт за системной настройкой (tokens.css).
+      try { var t = localStorage.getItem('theme'); if (t === 'dark' || t === 'light') document.documentElement.setAttribute('data-theme', t); } catch (e) {}
+    </script><meta name="referrer" content="strict-origin-when-cross-origin"><meta name="p:domain_verify" content="7c68a6b729563967b3145e2843eb0f6c"><meta name="apple-itunes-app" content="app-id=6803224992"><link rel="icon" href="/favicon.png" type="image/png"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="sitemap" href="/sitemap-index.xml"><link rel="alternate" type="application/rss+xml" title="Mikční deník: Fluid Balance — Blog" href="/cs/blog/rss.xml"><title>Příklad mikčního deníku: jeden celý den, řádek po řádku</title><meta name="description" content="Jeden celý ukázkový den z mikčního deníku: patnáct řádků s nápoji, cestami, zaškrtnutím „neměřeno“ a noční cestou, a co každý řádek říká lékaři."><link rel="canonical" href="https://fluidbalanceapp.com/cs/blog/bladder-diary-example/"><link rel="alternate" hreflang="en" href="https://fluidbalanceapp.com/blog/bladder-diary-example/"><link rel="alternate" hreflang="de" href="https://fluidbalanceapp.com/de/blog/bladder-diary-example/"><link rel="alternate" hreflang="fr" href="https://fluidbalanceapp.com/fr/blog/bladder-diary-example/"><link rel="alternate" hreflang="es" href="https://fluidbalanceapp.com/es/blog/bladder-diary-example/"><link rel="alternate" hreflang="it" href="https://fluidbalanceapp.com/it/blog/bladder-diary-example/"><link rel="alternate" hreflang="pt-BR" href="https://fluidbalanceapp.com/pt-br/blog/bladder-diary-example/"><link rel="alternate" hreflang="ru" href="https://fluidbalanceapp.com/ru/blog/bladder-diary-example/"><link rel="alternate" hreflang="ja" href="https://fluidbalanceapp.com/ja/blog/bladder-diary-example/"><link rel="alternate" hreflang="ko" href="https://fluidbalanceapp.com/ko/blog/bladder-diary-example/"><link rel="alternate" hreflang="zh-Hans" href="https://fluidbalanceapp.com/zh-hans/blog/bladder-diary-example/"><link rel="alternate" hreflang="zh-Hant" href="https://fluidbalanceapp.com/zh-hant/blog/bladder-diary-example/"><link rel="alternate" hreflang="pl" href="https://fluidbalanceapp.com/pl/blog/bladder-diary-example/"><link rel="alternate" hreflang="sv" href="https://fluidbalanceapp.com/sv/blog/bladder-diary-example/"><link rel="alternate" hreflang="cs" href="https://fluidbalanceapp.com/cs/blog/bladder-diary-example/"><link rel="alternate" hreflang="x-default" href="https://fluidbalanceapp.com/blog/bladder-diary-example/"><meta property="og:type" content="article"><meta property="article:published_time" content="2026-09-28"><meta property="article:modified_time" content="2026-09-28"><meta property="og:site_name" content="Mikční deník: Fluid Balance"><meta property="og:title" content="Příklad mikčního deníku: jeden celý den, řádek po řádku"><meta property="og:description" content="Jeden celý ukázkový den z mikčního deníku: patnáct řádků s nápoji, cestami, zaškrtnutím „neměřeno“ a noční cestou, a co každý řádek říká lékaři."><meta property="og:url" content="https://fluidbalanceapp.com/cs/blog/bladder-diary-example/"><meta property="og:image" content="https://fluidbalanceapp.com/og-bladder-diary-example.jpg"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:locale" content="cs_CZ"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Příklad mikčního deníku: jeden celý den, řádek po řádku"><meta name="twitter:description" content="Jeden celý ukázkový den z mikčního deníku: patnáct řádků s nápoji, cestami, zaškrtnutím „neměřeno“ a noční cestou, a co každý řádek říká lékaři."><meta name="twitter:image" content="https://fluidbalanceapp.com/og-bladder-diary-example.jpg"><script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://fluidbalanceapp.com/cs/#author","name":"Denis Zinin","jobTitle":"Independent iOS developer","url":"https://fluidbalanceapp.com/cs/","description":"Independent iOS developer, maker of Mikční deník: Fluid Balance. Not a doctor.","knowsAbout":["iOS app development","Apple Watch apps","Bladder diary apps"],"sameAs":["https://apps.apple.com/developer/id6799121582","https://apps.apple.com/app/id6803224992"]},{"@type":"WebSite","@id":"https://fluidbalanceapp.com/cs/#site","name":"Mikční deník: Fluid Balance","alternateName":"Fluid Balance","url":"https://fluidbalanceapp.com/cs/","inLanguage":"cs","publisher":{"@id":"https://fluidbalanceapp.com/cs/#author"},"about":{"@id":"https://fluidbalanceapp.com/cs/#app"}},{"@type":"MobileApplication","@id":"https://fluidbalanceapp.com/cs/#app","name":"Mikční deník: Fluid Balance","alternateName":"Fluid Balance","operatingSystem":["iOS","watchOS"],"softwareRequirements":"iOS 18.0 or later; watchOS 11.0 or later","applicationCategory":"MedicalApplication","softwareVersion":"1.2","datePublished":"2026-08-29","image":"https://fluidbalanceapp.com/apple-touch-icon.png","url":"https://apps.apple.com/app/id6803224992","installUrl":"https://apps.apple.com/app/id6803224992","isAccessibleForFree":true,"offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"featureList":["Two-tap intake and output logging with presets and Not measured","Optional urge rating from 0 to 4","Apple Watch app","Home Screen and Lock Screen widgets","Yesterday's entries one tap away","12- or 24-hour time","Adapted for iPhone Duo","iCloud sync, no account","CSV export","PDF report for your doctor (Pro, one-time purchase)","Advanced analytics (Pro)"],"inLanguage":["en","de","fr","es","it","pt-BR","ru","ja","ko","zh-Hans","zh-Hant","pl","sv","cs"],"description":"Free bladder diary app for iPhone and Apple Watch: the 3–7 day diary your doctor asked for, two taps per entry, a PDF report, nothing leaves your phone.","author":{"@id":"https://fluidbalanceapp.com/cs/#author"},"releaseNotes":"https://fluidbalanceapp.com/cs/blog/fluid-balance-1-2/"},{"@type":"Article","@id":"https://fluidbalanceapp.com/cs/blog/bladder-diary-example/#article","headline":"Příklad mikčního deníku: jeden celý den, řádek po řádku","description":"Jeden celý ukázkový den z mikčního deníku: patnáct řádků s nápoji, cestami, zaškrtnutím „neměřeno“ a noční cestou, a co každý řádek říká lékaři.","datePublished":"2026-09-28","dateModified":"2026-09-28","author":{"@id":"https://fluidbalanceapp.com/cs/#author"},"publisher":{"@id":"https://fluidbalanceapp.com/cs/#author"},"image":["https://fluidbalanceapp.com/og-bladder-diary-example.jpg"],"mainEntityOfPage":{"@type":"WebPage","@id":"https://fluidbalanceapp.com/cs/blog/bladder-diary-example/"},"isPartOf":{"@id":"https://fluidbalanceapp.com/cs/#site"},"inLanguage":"cs","articleSection":"Guide","wordCount":769,"isAccessibleForFree":true,"about":{"@type":"Thing","name":"Bladder diary","sameAs":["https://en.wikipedia.org/wiki/Bladder_diary","https://www.wikidata.org/wiki/Q137357480"]},"mentions":{"@id":"https://fluidbalanceapp.com/cs/#app"},"speakable":{"@type":"SpeakableSpecification","cssSelector":[".tldr"]},"citation":[{"@type":"WebPage","name":"Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025.","url":"https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf"},{"@type":"WebPage","name":"Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16.","url":"https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf"},{"@type":"WebPage","name":"University Hospitals Sussex NHS Foundation Trust. Bladder record chart: pelvic health physiotherapy patient information. Reference 2198; 2023.","url":"https://www.uhsussex.nhs.uk/wp-content/uploads/2023/03/Bladder-Record-chart.pdf"},{"@type":"ScholarlyArticle","name":"Abrams P, Cardozo L, Fall M, et al. The standardisation of terminology of lower urinary tract function: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):167–178.","url":"https://doi.org/10.1002/nau.10052"},{"@type":"ScholarlyArticle","name":"van Kerrebroeck P, Abrams P, Chaikin D, et al. The standardisation of terminology in nocturia: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):179–183.","url":"https://doi.org/10.1002/nau.10053"},{"@type":"ScholarlyArticle","name":"Stav K, Dwyer PL, Rosamilia A. Women overestimate daytime urinary frequency: the importance of the bladder diary. J Urol. 2009;181(5):2176–2180.","url":"https://doi.org/10.1016/j.juro.2009.01.042"}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Úvod","item":"https://fluidbalanceapp.com/cs/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://fluidbalanceapp.com/cs/blog/"},{"@type":"ListItem","position":3,"name":"Příklad mikčního deníku: jeden celý den, řádek po řádku","item":"https://fluidbalanceapp.com/cs/blog/bladder-diary-example/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Kam zapsat první ranní cestu?","acceptedAnswer":{"@type":"Answer","text":"Jako první řádek nového dne, za váš čas vstávání, s objemem, pokud jste měřili. Není to noční cesta, protože jste už byli vzhůru, ale podle definice ICS vznikla tehdy vymočená moč přes noc a počítá se do nočního objemu, takže se vyplatí ji změřit. Třídění je na lékaři."}},{"@type":"Question","name":"Musím součty dělat sám?","acceptedAnswer":{"@type":"Answer","text":"Ne. Formuláře ambulancí mají řádek na součty a některé o ně žádají, ale lékař je může sečíst sám; karta NHS to tak říká. Pokud používáte aplikaci, součty, počet cest i noční počet se spočítají za vás. Co se delegovat nedá, jsou samotné řádky."}},{"@type":"Question","name":"Co když má můj den dvacet řádků?","acceptedAnswer":{"@type":"Answer","text":"Vezměte další stranu a pokračujte. Den s mnoha řádky je úplný den a jen takový lékař chce; vynechávat řádky, aby se to vešlo, je ta chyba. Náš formulář má na A4 24 řádků na stranu a aplikace limit nemá."}}]}]}</script><script async src="https://www.googletagmanager.com/gtag/js?id=G-5C6HFXRKBT"></script><script>(function(){const id = "G-5C6HFXRKBT";
+
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){ dataLayer.push(arguments); }
+      gtag('js', new Date());
+      gtag('config', id);
+      document.addEventListener('click', function (e) {
+        var el = e.target && e.target.closest ? e.target.closest('[data-track]') : null;
+        if (!el) return;
+        gtag('event', el.getAttribute('data-track'), { placement: el.getAttribute('data-placement') || '' });
+      });
+    })();</script><script>
+      // Класс js прячет .reveal-блоки до анимации появления. Страховка (аудит 2026-09-14, P3.4): если модульный скрипт
+      // ниже не отработал за 2,5 с (не загрузился, старый браузер, блокировщик), класс снимается и контент виден.
+      document.documentElement.classList.add('js');
+      setTimeout(function () { if (!window.__reveal) document.documentElement.classList.remove('js'); }, 2500);
+    </script><link rel="stylesheet" href="/_astro/Base.CGnSXUrE.css"></head><body><header class="site-header" id="site-header"><div class="container nav"><a class="brand" href="/cs/"><img src="/favicon.png" width="28" height="28" alt=""><span class="brand-name"><span class="brand-b">Fluid Balance</span></span></a><nav class="nav-links" id="site-nav" aria-label="Hlavní navigace"><a href="/cs/blog/">Blog</a><a href="/cs/support/">Nápověda</a><a href="/cs/bladder-diary-template/">Formuláře PDF zdarma</a><details class="lang" id="lang-switch"><summary aria-label="Jazyk" title="Jazyk"><svg class="lang-globe" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="9"></circle><path d="M3 12h18M12 3c2.5 2.6 2.5 15.4 0 18M12 3c-2.5 2.6-2.5 15.4 0 18"></path></svg><span class="lang-label">Jazyk</span><span class="lang-current">Čeština</span><svg class="lang-chev" viewBox="0 0 16 16" width="12" height="12" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 6.5 8 10.5l4-4"></path></svg></summary><div class="lang-menu"><a href="/blog/bladder-diary-example/" hreflang="en" lang="en">English</a><a href="/de/blog/bladder-diary-example/" hreflang="de" lang="de">Deutsch</a><a href="/fr/blog/bladder-diary-example/" hreflang="fr" lang="fr">Français</a><a href="/es/blog/bladder-diary-example/" hreflang="es" lang="es">Español</a><a href="/it/blog/bladder-diary-example/" hreflang="it" lang="it">Italiano</a><a href="/pt-br/blog/bladder-diary-example/" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a><a href="/ru/blog/bladder-diary-example/" hreflang="ru" lang="ru">Русский</a><a href="/ja/blog/bladder-diary-example/" hreflang="ja" lang="ja">日本語</a><a href="/ko/blog/bladder-diary-example/" hreflang="ko" lang="ko">한국어</a><a href="/zh-hans/blog/bladder-diary-example/" hreflang="zh-Hans" lang="zh-Hans">简体中文</a><a href="/zh-hant/blog/bladder-diary-example/" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a><a href="/pl/blog/bladder-diary-example/" hreflang="pl" lang="pl">Polski</a><a href="/sv/blog/bladder-diary-example/" hreflang="sv" lang="sv">Svenska</a><a href="/cs/blog/bladder-diary-example/" hreflang="cs" lang="cs" aria-current="true">Čeština</a></div></details><!-- Тема — последней строкой меню, под сеткой языков (решение владельца 2026-10-25). На десктопе
+           эта копия скрыта: там тогл в подвале. --><button class="theme-toggle" type="button" aria-pressed="false" aria-label="Tmavý motiv" title="Tmavý motiv"><svg class="theme-icon theme-sun" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="12" cy="12" r="4.2"></circle><path d="M12 2.6v2.2M12 19.2v2.2M4.2 4.2l1.6 1.6M18.2 18.2l1.6 1.6M2.6 12h2.2M19.2 12h2.2M4.2 19.8l1.6-1.6M18.2 5.8l1.6-1.6"></path></svg><svg class="theme-icon theme-moon" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"><path d="M20 14.2A8.2 8.2 0 0 1 9.8 4a8.4 8.4 0 1 0 10.2 10.2Z"></path></svg><span class="theme-label">Tmavý motiv</span><span class="theme-switch" aria-hidden="true"></span></button></nav><a class="btn btn-secondary btn-sm" href="https://apps.apple.com/app/apple-store/id6803224992?pt=129277359&amp;ct=web-header&amp;mt=8" data-track="click_app_store" data-placement="web-header">Stáhnout aplikaci</a><!-- Меню на телефоне (2026-10-15): до 768 px ссылки шапки прятались совсем, и попасть в Blog, Support и шаблоны
+         можно было только из подвала. Кнопка показывается той же медиа-границей, что скрывает ссылки. --><button class="nav-toggle" id="nav-toggle" type="button" aria-controls="site-nav" aria-expanded="false" aria-label="Menu"><span class="nav-toggle-bars" aria-hidden="true"></span></button></div></header><script>
+  (function () {
+    var h = document.getElementById('site-header');
+    var on = function () { h.classList.toggle('scrolled', window.scrollY > 8); };
+    on(); addEventListener('scroll', on, { passive: true });
+
+    // Меню на телефоне: открытие по кнопке, закрытие по повторному нажатию, Escape, клику вне,
+    // переходу по ссылке и при расширении окна до десктопной раскладки.
+    // Выпадашка языков: закрывается кликом вне и по Escape. Открытие и закрытие по нажатию делает сам <details>.
+    var lang = document.getElementById('lang-switch');
+    var closeLang = function () { if (lang) lang.removeAttribute('open'); };
+
+    var btn = document.getElementById('nav-toggle');
+    var nav = document.getElementById('site-nav');
+    var set = function (open) {
+      h.classList.toggle('nav-open', open);
+      // Страница под полотном не скроллится, пока меню открыто.
+      document.documentElement.classList.toggle('nav-locked', open);
+      if (btn) btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+      // На телефоне языки показываются сеткой без раскрывашки (решение владельца 2026-10-24:
+      // две вложенные гармошки на телефоне — плохой UX), поэтому <details> раскрывается вместе с меню.
+      if (lang) { if (open && innerWidth <= 768) lang.setAttribute('open', ''); else if (!open) lang.removeAttribute('open'); }
+    };
+    if (btn && nav) {
+      btn.addEventListener('click', function (e) {
+        e.stopPropagation();
+        closeLang();
+        set(h.classList.contains('nav-open') === false);
+      });
+      nav.addEventListener('click', function (e) { if (e.target.closest('a')) set(false); });
+    }
+    document.addEventListener('click', function (e) {
+      if (h.classList.contains('nav-open') && !e.target.closest('#site-nav') && !e.target.closest('#nav-toggle')) set(false);
+      // Закрытие по клику вне — только для десктопной выпадашки. На телефоне этот же <details> раскрыт
+      // насовсем и работает как блок меню: без проверки ширины нажатие на «Тёмную тему» в соседней строке
+      // схлопывало сетку языков (найдено при переносе тогла вниз меню, 2026-10-25).
+      if (lang && innerWidth > 768 && lang.hasAttribute('open') && !e.target.closest('#lang-switch')) closeLang();
+    });
+    document.addEventListener('keydown', function (e) { if (e.key === 'Escape') { set(false); closeLang(); } });
+
+    addEventListener('resize', function () { if (innerWidth > 768) set(false); }, { passive: true });
+  })();
+</script><main><article class="section"><div class="container prose article"><span class="eyebrow"><a href="/cs/blog/">Blog</a></span><h1 style="margin-top:14px">Příklad mikčního deníku: jeden celý den, řádek po řádku</h1><p class="meta article-meta"><time datetime="2026-09-28">28. září 2026</time><span class="sep">·</span> 4 min čtení</p><img src="/_astro/example-day.CzveJOTG_11rjc0.webp" srcset="/_astro/example-day.CzveJOTG_Z229dvP.webp 700w, /_astro/example-day.CzveJOTG_ZKQI0O.webp 1400w" alt="Vyplněná ukázková strana mikčního deníku: den 1 ze 7 s patnácti řádky" fetchpriority="high" sizes="(max-width: 740px) 100vw, 700px" loading="eager" decoding="async" width="1536" height="1024" class="article-cover"><section class="tldr"><h2>Ve zkratce</h2><p>Níže je příklad mikčního deníku za jeden celý den, řádek po řádku: asi patnáct záznamů, kde každý nápoj má svůj objem, každá cesta objem nebo zaškrtnutí „neměřeno“, jsou tu časy ulehnutí a vstávání a tam, kde se něco stalo, poznámka. Den je vymyšlený, takže jeho součty nejsou cíle. Rozvržení jde po deníku Urology Care Foundation a kartách NHS, jejichž vlastní formuláře ukazují jen jeden dva ukázkové řádky. Co má ten den ukázat:</p><ul><li>Celý den je asi patnáct řádků: každý nápoj s objemem, každá cesta s objemem nebo zaškrtnutím, časy ulehnutí a vstávání a poznámka tam, kde se něco stalo.</li><li>Den níže je vymyšlený. Jeho součty nejsou cíle a není tu norma, se kterou by se daly srovnat.</li><li>Lékař z něj čte počet cest ve dne a v noci, objemy, rozložení nápojů, poznámky a to, jestli je den úplný.</li></ul></section><p class="author">Denis Zinin, vývojář aplikace Mikční deník: Fluid Balance. Není lékař.</p><div class="article-body"><p>Formuláře ambulancí ukazují jeden dva ukázkové řádky: deník Urology Care Foundation má jediný řádek s plechovkou limonády a únikem moči při smíchu,<sup>1</sup> karta NHS Gloucestershire ukazuje ráno s hrnkem čaje a únikem,<sup>2</sup> fyzioterapeutická karta ze Sussexu tři ranní řádky se součty.<sup>3</sup> Užitečné, ale nikomu den netrvá tři řádky. Tady je celý vymyšlený den ve formátu našeho <a href="/cs/bladder-diary-template/">formuláře k vytištění</a> a za ním to, co každá jeho část lékaři říká. Čísla patří tomuhle příkladu a ničemu jinému; na této stránce není norma, se kterou by se dala srovnat.</p>
+<h2 id="jak-vypadá-celý-den-deníku">Jak vypadá celý den deníku?</h2>
+<p>Vyplněný příklad mikčního deníku. Den 1 ze 7. Šel jsem spát 22:45. Vstal jsem 7:00.</p>
+<table>
+<thead>
+<tr>
+<th>Čas</th>
+<th>Vypito (ml)</th>
+<th>Co</th>
+<th>Vymočeno (ml nebo ✓)</th>
+<th>Noc</th>
+<th>Poznámka</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>7:05</td>
+<td></td>
+<td></td>
+<td>350</td>
+<td></td>
+<td>první ráno</td>
+</tr>
+<tr>
+<td>7:20</td>
+<td>250</td>
+<td>čaj</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>8:30</td>
+<td>200</td>
+<td>káva</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>9:40</td>
+<td></td>
+<td></td>
+<td>✓</td>
+<td></td>
+<td>ve spěchu, malý únik</td>
+</tr>
+<tr>
+<td>11:00</td>
+<td>500</td>
+<td>voda</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>11:45</td>
+<td></td>
+<td></td>
+<td>220</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>13:10</td>
+<td>330</td>
+<td>džus</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>13:30</td>
+<td></td>
+<td></td>
+<td>180</td>
+<td></td>
+<td>silné nucení</td>
+</tr>
+<tr>
+<td>15:00</td>
+<td>250</td>
+<td>čaj</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>16:20</td>
+<td></td>
+<td></td>
+<td>260</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>18:00</td>
+<td>250</td>
+<td>voda</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>19:30</td>
+<td>200</td>
+<td>pivo</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>20:15</td>
+<td></td>
+<td></td>
+<td>300</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>22:30</td>
+<td></td>
+<td></td>
+<td>150</td>
+<td></td>
+<td>před spaním</td>
+</tr>
+<tr>
+<td>3:10</td>
+<td></td>
+<td></td>
+<td>180</td>
+<td>✓</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>Patnáct řádků, jedna strana. Den běží od vstávání do vstávání, takže cesta ve 3:10 patří ke dni 1, i když se datum změnilo.</p>
+<h2 id="řádek-po-řádku">Řádek po řádku</h2>
+<p><strong>7:05, 350 ml, „první ráno“.</strong> První cesta po vstávání. Noční není, protože noc deníku skončila v 7:00, ale podle definice ICS vznikla tehdy vymočená moč přes noc a přičítá se k nočnímu objemu,<sup>5</sup> proto se měří a nezaškrtává. Na papíře je to prostě první řádek dne.</p>
+<p><strong>7:20 a 8:30, čaj a káva.</strong> Nápoje s objemem a druhem. Objem pochází z toho, že se hrnek jednou změřil; druh tu je, protože ho formuláře ambulancí chtějí.<sup>1,2</sup></p>
+<p><strong>9:40, zaškrtnutí, „ve spěchu, malý únik“.</strong> Na měření nebyl čas, takže zaškrtnutí místo objemu, a cesta se stejně počítá do denního počtu cest.<sup>2</sup> Poznámka zachycuje únik moči s přibližnou velikostí. Na formuláři se sloupci na úniky by to bylo „malý“ nebo „+“; v prostém deníku je to poznámka s časem.</p>
+<p><strong>11:00, 500 ml vody.</strong> Lahev, takže objem je na ní vytištěný.</p>
+<p><strong>13:30, 180 ml, „silné nucení“.</strong> Změřená cesta se zapsaným nucením: náhlá, těžko odložitelná potřeba.<sup>4</sup> Zapsáno hned, dvěma slovy, víc není třeba.</p>
+<p><strong>19:30, 200 ml piva.</strong> Alkohol je na papíře nápoj jako každý jiný: objem, druh, čas. Deník má ukázat běžný večer, ne uklizený.</p>
+<p><strong>22:30, 150 ml, „před spaním“.</strong> Poslední cesta před časem ulehnutí, který je nahoře na straně. Je to denní cesta; noc začíná ve 22:45.</p>
+<p><strong>3:10, 180 ml, zaškrtnuto jako Noc.</strong> Mezi ulehnutím a vstáváním, takže dostane zaškrtnutí. Právě tenhle řádek umožňuje noční počet; deník bez časů ulehnutí a vstávání tuhle cestu od té ve 22:30 nerozliší.</p>
+<h2 id="kolik-ten-den-dělá-dohromady">Kolik ten den dělá dohromady</h2>
+<p>Jen proto, že to příklad dovolí: 1 980 ml vypito v sedmi nápojích; 1 640 ml vymočeno v sedmi změřených cestách, plus jedna cesta zaškrtnutá bez objemu; celkem osm cest, jedna z nich v noci. Na formuláři ambulance vás možná požádají, abyste tyhle součty napsali do spodního řádku; v aplikaci se objeví na dnešní obrazovce a ve zprávě, aniž by někdo sčítal. Nejsou to cíle a nejsou typické pro nikoho konkrétního. Jejich jediný úkol tady je ukázat, jak vypadá úplný den, když se spočítá.</p>
+<h2 id="co-v-něm-lékař-vidí">Co v něm lékař vidí</h2>
+<p>Osm cest s časy, jedna v noci, jedna neměřená. Sedm změřených objemů, od 150 do 350 ml. Nápoje rozložené od 7:20 do 19:30 se zapsanými druhy. Dvě poznámky, únik moči se spouštěčem a nucení. Časy ulehnutí a vstávání, takže jde noc oddělit ode dne. A den, který je úplný od probuzení do probuzení — to je první věc, kterou kontrolují, protože samotná paměť plete i počet cest.<sup>6</sup> Co ta fakta znamenají, to je na návštěvě; úkolem deníku bylo je přinést.</p>
+<h2 id="váš-den-bude-vypadat-jinak">Váš den bude vypadat jinak</h2>
+<p>Víc řádků nebo míň, jiné nápoje, jiné časy. Stejný zůstává formát: každý nápoj, každá cesta, objem nebo zaškrtnutí, dva časy, které noc rámují, a poznámka tam, kde se něco stalo. <a href="/cs/blog/how-to-keep-a-bladder-diary/">Jak si vést mikční deník</a> popisuje návyky, které k tomu vedou, a <a href="/cs/blog/how-to-measure-urine-output-at-home/">jak doma změřit množství moči</a> odměrku.</p>
+</div><div class="panel paper-panel"><h2 style="margin-top:0">Potřebujete papírovou verzi?</h2><p>Mikční deník k vytištění zdarma se stejnými sloupci: A4 nebo US Letter, celé strany nebo brožurky na přeložení. Bez e-mailu, bez registrace.</p><p style="margin-top:14px"><a class="btn btn-secondary btn-sm" href="/cs/bladder-diary-template/">Formuláře PDF zdarma</a></p></div><div class="faq-group"><h2>Otázky</h2><div class="faq"><details data-track="faq_open" data-placement="Kam zapsat první ranní cestu?"><summary>Kam zapsat první ranní cestu?</summary><p>Jako první řádek nového dne, za váš čas vstávání, s objemem, pokud jste měřili. Není to noční cesta, protože jste už byli vzhůru, ale podle definice ICS vznikla tehdy vymočená moč přes noc a počítá se do nočního objemu,<sup>5</sup> takže se vyplatí ji změřit. Třídění je na lékaři.</p></details><details data-track="faq_open" data-placement="Musím součty dělat sám?"><summary>Musím součty dělat sám?</summary><p>Ne. Formuláře ambulancí mají řádek na součty a některé o ně žádají, ale lékař je může sečíst sám; karta NHS to tak říká.<sup>2</sup> Pokud používáte aplikaci, součty, počet cest i noční počet se spočítají za vás. Co se delegovat nedá, jsou samotné řádky.</p></details><details data-track="faq_open" data-placement="Co když má můj den dvacet řádků?"><summary>Co když má můj den dvacet řádků?</summary><p>Vezměte další stranu a pokračujte. Den s mnoha řádky je úplný den a jen takový lékař chce; vynechávat řádky, aby se to vešlo, je ta chyba. Náš formulář má na A4 24 řádků na stranu a aplikace limit nemá.</p></details></div></div><section class="references-block"><h2>Zdroje</h2><ol class="references"><li>Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025. <a href="https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf" rel="noopener">urologyhealth.org (PDF)</a></li><li>Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. <a href="https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf" rel="noopener">gloshospitals.nhs.uk (PDF)</a></li><li>University Hospitals Sussex NHS Foundation Trust. Bladder record chart: pelvic health physiotherapy patient information. Reference 2198; 2023. <a href="https://www.uhsussex.nhs.uk/wp-content/uploads/2023/03/Bladder-Record-chart.pdf" rel="noopener">uhsussex.nhs.uk (PDF)</a></li><li>Abrams P, Cardozo L, Fall M, et al. The standardisation of terminology of lower urinary tract function: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):167–178. <a href="https://doi.org/10.1002/nau.10052" rel="noopener">doi:10.1002/nau.10052</a></li><li>van Kerrebroeck P, Abrams P, Chaikin D, et al. The standardisation of terminology in nocturia: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):179–183. <a href="https://doi.org/10.1002/nau.10053" rel="noopener">doi:10.1002/nau.10053</a></li><li>Stav K, Dwyer PL, Rosamilia A. Women overestimate daytime urinary frequency: the importance of the bladder diary. J Urol. 2009;181(5):2176–2180. <a href="https://doi.org/10.1016/j.juro.2009.01.042" rel="noopener">doi:10.1016/j.juro.2009.01.042</a></li></ol></section><p class="small muted disclaimer">Tento text vysvětluje, jak si vést deník. Je to obecná informace od vývojáře aplikace, ne lékařská rada: co váš deník znamená, rozhoduje lékař. Deník si vedete sami. Není to zdravotnický dokument.</p><div class="panel" style="margin-top:32px"><h2 style="margin-top:0">Veďte deník v telefonu</h2><p>Dvě klepnutí na záznam, součty spočítá aplikace, na konci zpráva v PDF. Bez účtu, bez serveru, nic neopouští telefon.</p><div class="btn-row" style="margin-top:20px"><a class="btn btn-store " href="https://apps.apple.com/app/apple-store/id6803224992?pt=129277359&amp;ct=web-blog-cs-bladder-diary-example&amp;mt=8" data-track="click_app_store" data-placement="web-blog-cs-bladder-diary-example" aria-label="Stáhnout z App Store"><img src="/_astro/app-store-badge.CVyK0T4N.svg" width="250" height="83" alt="Stáhnout z App Store"></a></div></div><h2>Další čtení</h2><div class="bgrid related"><a class="bcard" href="/cs/blog/how-to-keep-a-bladder-diary/"><span class="bcover-wrap"><img src="/_astro/notebook.BixZsnNK_1X9EMK.webp" srcset="/_astro/notebook.BixZsnNK_1Un1FG.webp 400w, /_astro/notebook.BixZsnNK_2ldMzf.webp 800w" alt sizes="(max-width: 600px) 100vw, 200px" loading="lazy" decoding="async" width="1536" height="1024" class="bcover"></span><span class="bbody"><span class="tag guide">Návod</span><h3>Jak si vést mikční deník: co zapisovat, krok za krokem</h3><span class="bdesc">Co mikční deník zaznamenává, jak ho vyplnit, rozebraný příklad a co vzít na kontrolu. Napsal vývojář aplikace, ne lékař.</span></span></a><a class="bcard" href="/cs/blog/how-to-measure-urine-output-at-home/"><span class="bcover-wrap"><img src="/_astro/glass.CfizSIT1_ZG7rPj.webp" srcset="/_astro/glass.CfizSIT1_Tx7dJ.webp 400w, /_astro/glass.CfizSIT1_Z2dLjCO.webp 800w" alt sizes="(max-width: 600px) 100vw, 200px" loading="lazy" decoding="async" width="1536" height="1024" class="bcover"></span><span class="bbody"><span class="tag guide">Návod</span><h3>Jak doma změřit množství moči pro mikční deník</h3><span class="bdesc">Odměrka, nástavec na záchod nebo odhad: tři způsoby, jak zapsat, kolik jste vymočili, co dělat, když jste neměřili, a jak udržet časy správně.</span></span></a></div></div></article></main><footer class="site-footer"><div class="container"><div class="footer-row"><a class="brand" href="/cs/"><img src="/favicon.png" width="28" height="28" alt=""><span class="brand-name"><span class="brand-b">Fluid Balance</span></span></a><div class="footer-end"><nav class="footer-links" aria-label="Zápatí"><a href="/cs/blog/">Blog</a><a href="/cs/support/">Nápověda</a><a href="/cs/bladder-diary-template/">Formuláře PDF zdarma</a><a href="/cs/privacy/">Soukromí</a><a href="/cs/terms/">Podmínky</a></nav><!-- Тема — в подвале, а не в шапке (решение владельца 2026-10-25: «это просто удобство минимальное»).
+             На телефоне эта копия скрыта: там тогл в самом низу бургера. Обёртка .footer-end держит тогл
+             в одной строке со ссылками: отдельным элементом ряда он срывался на вторую строку. --><button class="theme-toggle" type="button" aria-pressed="false" aria-label="Tmavý motiv" title="Tmavý motiv"><svg class="theme-icon theme-sun" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="12" cy="12" r="4.2"></circle><path d="M12 2.6v2.2M12 19.2v2.2M4.2 4.2l1.6 1.6M18.2 18.2l1.6 1.6M2.6 12h2.2M19.2 12h2.2M4.2 19.8l1.6-1.6M18.2 5.8l1.6-1.6"></path></svg><svg class="theme-icon theme-moon" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"><path d="M20 14.2A8.2 8.2 0 0 1 9.8 4a8.4 8.4 0 1 0 10.2 10.2Z"></path></svg><span class="theme-label">Tmavý motiv</span><span class="theme-switch" aria-hidden="true"></span></button></div></div><div class="footer-bottom"><span>Aplikace ve 14 jazycích</span><span class="sep">·</span><span>Deník si vedete sami</span><span class="sep">·</span><span>Není to zdravotnický dokument</span></div></div></footer><div class="notice" id="ga-notice" hidden><span>Tento web počítá návštěvy pomocí Google Analytics. <a href="/cs/privacy/">Soukromí</a></span><button type="button" id="ga-ok">OK</button></div><script>
+      (function () {
+        var n = document.getElementById('ga-notice');
+        var ok = document.getElementById('ga-ok');
+        var key = 'ga-notice-dismissed';
+        try { if (!localStorage.getItem(key)) n.hidden = false; } catch (e) { n.hidden = false; }
+        ok.addEventListener('click', function () { n.hidden = true; try { localStorage.setItem(key, '1'); } catch (e) {} });
+      })();
+    </script><script>
+      // Тема (2026-10-25). Пока человек не трогал тогл, сайт идёт за системной настройкой; нажатие
+      // записывает выбор в localStorage, и дальше он главнее системы. Состояние кнопки считается
+      // от действующей темы, а не от записи: иначе на «авто» у человека с системной тёмной темой сайт
+      // был бы тёмный, а тогл показывал бы «выключено».
+      // Скрипт в конце <body>, а не в шапке: тоглов в разметке два (подвал и бургер), и запуск после
+      // подвала — единственный момент, когда видны оба.
+      (function () {
+        var root = document.documentElement;
+        var mq = matchMedia('(prefers-color-scheme: dark)');
+        var tgls = document.querySelectorAll('.theme-toggle');
+        // Тёмные кадры приложения (ThemedImage.astro). Медиазапрос описывает только системную
+        // настройку, поэтому ручной выбор переписывает `media` у <source> руками: браузер
+        // пересобирает <picture> при изменении атрибута.
+        var shots = document.querySelectorAll('source[data-theme-dark]');
+        var isDark = function () { var a = root.getAttribute('data-theme'); return a ? a === 'dark' : mq.matches; };
+        var sync = function () {
+          var p = isDark() ? 'true' : 'false';
+          for (var i = 0; i < tgls.length; i++) tgls[i].setAttribute('aria-pressed', p);
+          var a = root.getAttribute('data-theme');
+          var m = a === 'dark' ? 'all' : a === 'light' ? 'not all' : '(prefers-color-scheme: dark)';
+          for (var j = 0; j < shots.length; j++) shots[j].media = m;
+        };
+        var flip = function () {
+          root.setAttribute('data-theme', isDark() ? 'light' : 'dark');
+          try { localStorage.setItem('theme', root.getAttribute('data-theme')); } catch (e) {}
+          sync();
+        };
+        sync();
+        if (mq.addEventListener) mq.addEventListener('change', sync);
+        for (var i = 0; i < tgls.length; i++) tgls[i].addEventListener('click', flip);
+      })();
+    </script><script type="module" src="/_astro/Base.astro_astro_type_script_index_0_lang.p60M4bss.js"></script></body></html>

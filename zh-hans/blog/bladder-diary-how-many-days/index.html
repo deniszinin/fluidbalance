@@ -1,0 +1,166 @@
+<!DOCTYPE html><html lang="zh-Hans"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><script>
+      // Тема до первой отрисовки (2026-10-25): без этого тёмная тема, выбранная руками, моргнула бы светлой.
+      // Нет записи — атрибута нет, и сайт идёт за системной настройкой (tokens.css).
+      try { var t = localStorage.getItem('theme'); if (t === 'dark' || t === 'light') document.documentElement.setAttribute('data-theme', t); } catch (e) {}
+    </script><meta name="referrer" content="strict-origin-when-cross-origin"><meta name="p:domain_verify" content="7c68a6b729563967b3145e2843eb0f6c"><meta name="apple-itunes-app" content="app-id=6803224992"><link rel="icon" href="/favicon.png" type="image/png"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="sitemap" href="/sitemap-index.xml"><link rel="alternate" type="application/rss+xml" title="排尿日记: Fluid Balance — Blog" href="/zh-hans/blog/rss.xml"><title>排尿日记记几天？3 天、7 天还是 24 小时</title><meta name="description" content="NICE、ICS 和门诊说明要求多少天，日子是否必须连着，以及为什么短而完整的日记胜过长而有缺口的。"><link rel="canonical" href="https://fluidbalanceapp.com/zh-hans/blog/bladder-diary-how-many-days/"><link rel="alternate" hreflang="en" href="https://fluidbalanceapp.com/blog/bladder-diary-how-many-days/"><link rel="alternate" hreflang="de" href="https://fluidbalanceapp.com/de/blog/bladder-diary-how-many-days/"><link rel="alternate" hreflang="fr" href="https://fluidbalanceapp.com/fr/blog/bladder-diary-how-many-days/"><link rel="alternate" hreflang="es" href="https://fluidbalanceapp.com/es/blog/bladder-diary-how-many-days/"><link rel="alternate" hreflang="it" href="https://fluidbalanceapp.com/it/blog/bladder-diary-how-many-days/"><link rel="alternate" hreflang="pt-BR" href="https://fluidbalanceapp.com/pt-br/blog/bladder-diary-how-many-days/"><link rel="alternate" hreflang="ru" href="https://fluidbalanceapp.com/ru/blog/bladder-diary-how-many-days/"><link rel="alternate" hreflang="ja" href="https://fluidbalanceapp.com/ja/blog/bladder-diary-how-many-days/"><link rel="alternate" hreflang="ko" href="https://fluidbalanceapp.com/ko/blog/bladder-diary-how-many-days/"><link rel="alternate" hreflang="zh-Hans" href="https://fluidbalanceapp.com/zh-hans/blog/bladder-diary-how-many-days/"><link rel="alternate" hreflang="zh-Hant" href="https://fluidbalanceapp.com/zh-hant/blog/bladder-diary-how-many-days/"><link rel="alternate" hreflang="pl" href="https://fluidbalanceapp.com/pl/blog/bladder-diary-how-many-days/"><link rel="alternate" hreflang="sv" href="https://fluidbalanceapp.com/sv/blog/bladder-diary-how-many-days/"><link rel="alternate" hreflang="cs" href="https://fluidbalanceapp.com/cs/blog/bladder-diary-how-many-days/"><link rel="alternate" hreflang="x-default" href="https://fluidbalanceapp.com/blog/bladder-diary-how-many-days/"><meta property="og:type" content="article"><meta property="article:published_time" content="2026-09-12"><meta property="article:modified_time" content="2026-09-12"><meta property="og:site_name" content="排尿日记: Fluid Balance"><meta property="og:title" content="排尿日记记几天？3 天、7 天还是 24 小时"><meta property="og:description" content="NICE、ICS 和门诊说明要求多少天，日子是否必须连着，以及为什么短而完整的日记胜过长而有缺口的。"><meta property="og:url" content="https://fluidbalanceapp.com/zh-hans/blog/bladder-diary-how-many-days/"><meta property="og:image" content="https://fluidbalanceapp.com/og-bladder-diary-how-many-days.jpg"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:locale" content="zh_CN"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="排尿日记记几天？3 天、7 天还是 24 小时"><meta name="twitter:description" content="NICE、ICS 和门诊说明要求多少天，日子是否必须连着，以及为什么短而完整的日记胜过长而有缺口的。"><meta name="twitter:image" content="https://fluidbalanceapp.com/og-bladder-diary-how-many-days.jpg"><script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://fluidbalanceapp.com/zh-hans/#author","name":"Denis Zinin","jobTitle":"Independent iOS developer","url":"https://fluidbalanceapp.com/zh-hans/","description":"Independent iOS developer, maker of 排尿日记: Fluid Balance. Not a doctor.","knowsAbout":["iOS app development","Apple Watch apps","Bladder diary apps"],"sameAs":["https://apps.apple.com/developer/id6799121582","https://apps.apple.com/app/id6803224992"]},{"@type":"WebSite","@id":"https://fluidbalanceapp.com/zh-hans/#site","name":"排尿日记: Fluid Balance","alternateName":"Fluid Balance","url":"https://fluidbalanceapp.com/zh-hans/","inLanguage":"zh-Hans","publisher":{"@id":"https://fluidbalanceapp.com/zh-hans/#author"},"about":{"@id":"https://fluidbalanceapp.com/zh-hans/#app"}},{"@type":"MobileApplication","@id":"https://fluidbalanceapp.com/zh-hans/#app","name":"排尿日记: Fluid Balance","alternateName":"Fluid Balance","operatingSystem":["iOS","watchOS"],"softwareRequirements":"iOS 18.0 or later; watchOS 11.0 or later","applicationCategory":"MedicalApplication","softwareVersion":"1.2","datePublished":"2026-08-29","image":"https://fluidbalanceapp.com/apple-touch-icon.png","url":"https://apps.apple.com/app/id6803224992","installUrl":"https://apps.apple.com/app/id6803224992","isAccessibleForFree":true,"offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"featureList":["Two-tap intake and output logging with presets and Not measured","Optional urge rating from 0 to 4","Apple Watch app","Home Screen and Lock Screen widgets","Yesterday's entries one tap away","12- or 24-hour time","Adapted for iPhone Duo","iCloud sync, no account","CSV export","PDF report for your doctor (Pro, one-time purchase)","Advanced analytics (Pro)"],"inLanguage":["en","de","fr","es","it","pt-BR","ru","ja","ko","zh-Hans","zh-Hant","pl","sv","cs"],"description":"Free bladder diary app for iPhone and Apple Watch: the 3–7 day diary your doctor asked for, two taps per entry, a PDF report, nothing leaves your phone.","author":{"@id":"https://fluidbalanceapp.com/zh-hans/#author"},"releaseNotes":"https://fluidbalanceapp.com/zh-hans/blog/fluid-balance-1-2/"},{"@type":"Article","@id":"https://fluidbalanceapp.com/zh-hans/blog/bladder-diary-how-many-days/#article","headline":"排尿日记：记几天才够？","description":"NICE、ICS 和门诊说明要求多少天，日子是否必须连着，以及为什么短而完整的日记胜过长而有缺口的。","datePublished":"2026-09-12","dateModified":"2026-09-12","author":{"@id":"https://fluidbalanceapp.com/zh-hans/#author"},"publisher":{"@id":"https://fluidbalanceapp.com/zh-hans/#author"},"image":["https://fluidbalanceapp.com/og-bladder-diary-how-many-days.jpg"],"mainEntityOfPage":{"@type":"WebPage","@id":"https://fluidbalanceapp.com/zh-hans/blog/bladder-diary-how-many-days/"},"isPartOf":{"@id":"https://fluidbalanceapp.com/zh-hans/#site"},"inLanguage":"zh-Hans","articleSection":"Guide","wordCount":129,"isAccessibleForFree":true,"about":{"@type":"Thing","name":"Bladder diary","sameAs":["https://en.wikipedia.org/wiki/Bladder_diary","https://www.wikidata.org/wiki/Q137357480"]},"mentions":{"@id":"https://fluidbalanceapp.com/zh-hans/#app"},"speakable":{"@type":"SpeakableSpecification","cssSelector":[".tldr"]},"citation":[{"@type":"WebPage","name":"National Institute for Health and Care Excellence. Urinary incontinence in women. Quality standard QS77, quality statement 2: bladder diaries and lifestyle changes. London: NICE; 2015.","url":"https://www.nice.org.uk/guidance/qs77/chapter/quality-statement-2-bladder-diaries-and-lifestyle-changes"},{"@type":"WebPage","name":"National Institute for Health and Care Excellence. Urinary incontinence and pelvic organ prolapse in women: management. NICE guideline NG123. London: NICE; 2019.","url":"https://www.nice.org.uk/guidance/ng123"},{"@type":"WebPage","name":"International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee.","url":"https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary"},{"@type":"WebPage","name":"Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025.","url":"https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf"},{"@type":"WebPage","name":"British Association of Urological Surgeons. Information from BAUS about assessing fluid intake & output. Patient leaflet F24/016. BAUS; 2024.","url":"https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Input%20output%20chart.pdf"},{"@type":"WebPage","name":"Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16.","url":"https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf"},{"@type":"ScholarlyArticle","name":"Yap TL, Cromwell DC, Emberton M. A systematic review of the reliability of frequency-volume charts in urological research and its implications for the optimum chart duration. BJU Int. 2007;99(1):9–16.","url":"https://doi.org/10.1111/j.1464-410X.2006.06499.x"},{"@type":"ScholarlyArticle","name":"Dmochowski RR, Sanders SW, Appell RA, Nitti VW, Davila GW. Bladder-health diaries: an assessment of 3-day vs 7-day entries. BJU Int. 2005;96(7):1049–1054.","url":"https://doi.org/10.1111/j.1464-410X.2005.05785.x"},{"@type":"ScholarlyArticle","name":"Ku JH, Jeong IG, Lim DJ, Byun SS, Paick JS, Oh SJ. Voiding diary for the evaluation of urinary incontinence and lower urinary tract symptoms: prospective assessment of patient compliance and burden. Neurourol Urodyn. 2004;23(4):331–335.","url":"https://doi.org/10.1002/nau.20027"},{"@type":"ScholarlyArticle","name":"Konstantinidis C, Kratiras Z, Samarinas M, Skriapas K. Optimal bladder diary duration for patients with suprapontine neurogenic lower urinary tract dysfunction. Int Braz J Urol. 2016;42(4):766–772.","url":"https://doi.org/10.1590/S1677-5538.IBJU.2015.0292"},{"@type":"ScholarlyArticle","name":"Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352.","url":"https://doi.org/10.1002/nau.20994"}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"首页","item":"https://fluidbalanceapp.com/zh-hans/"},{"@type":"ListItem","position":2,"name":"博客","item":"https://fluidbalanceapp.com/zh-hans/blog/"},{"@type":"ListItem","position":3,"name":"排尿日记：记几天才够？","item":"https://fluidbalanceapp.com/zh-hans/blog/bladder-diary-how-many-days/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"人家让我记七天，我能三天就停吗？","acceptedAnswer":{"@type":"Answer","text":"按要求来；医生选七天是有理由的，往往是想看到包含周末的一整周，或者更多个夜晚。如果七个完整的日子不现实，那么三个完整的胜过七个有窟窿的， 所以看诊时直说，并把记完的那几天拿出来。"}},{"@type":"Question","name":"要包含周末吗？","acceptedAnswer":{"@type":"Answer","text":"能的话要。NICE 要求日记涵盖工作日和休息日， Urology Care Foundation 要求有代表性的日子。 坐办公室的一天和在家的一天，在日记上通常很不一样，而你的医生两种都想看到。"}},{"@type":"Question","name":"24 小时的日记够吗？","acceptedAnswer":{"@type":"Answer","text":"这是 International Continence Society 为尿频尿量表给出的最短长度， 有些门诊把一天当作快速快照来用。只记一天，很可能碰上不寻常的一天， 所以多数会要求更长。如果给你的就是 24 小时的表，那就从起床记到第二天起床，并且把每一行都填上。"}}]}]}</script><script async src="https://www.googletagmanager.com/gtag/js?id=G-5C6HFXRKBT"></script><script>(function(){const id = "G-5C6HFXRKBT";
+
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){ dataLayer.push(arguments); }
+      gtag('js', new Date());
+      gtag('config', id);
+      document.addEventListener('click', function (e) {
+        var el = e.target && e.target.closest ? e.target.closest('[data-track]') : null;
+        if (!el) return;
+        gtag('event', el.getAttribute('data-track'), { placement: el.getAttribute('data-placement') || '' });
+      });
+    })();</script><script>
+      // Класс js прячет .reveal-блоки до анимации появления. Страховка (аудит 2026-09-14, P3.4): если модульный скрипт
+      // ниже не отработал за 2,5 с (не загрузился, старый браузер, блокировщик), класс снимается и контент виден.
+      document.documentElement.classList.add('js');
+      setTimeout(function () { if (!window.__reveal) document.documentElement.classList.remove('js'); }, 2500);
+    </script><link rel="stylesheet" href="/_astro/Base.CGnSXUrE.css"></head><body><header class="site-header" id="site-header"><div class="container nav"><a class="brand" href="/zh-hans/"><img src="/favicon.png" width="28" height="28" alt=""><span class="brand-name"><span class="brand-b">Fluid Balance</span></span></a><nav class="nav-links" id="site-nav" aria-label="主导航"><a href="/zh-hans/blog/">博客</a><a href="/zh-hans/support/">帮助</a><a href="/zh-hans/bladder-diary-template/">免费 PDF 模板</a><details class="lang" id="lang-switch"><summary aria-label="语言" title="语言"><svg class="lang-globe" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="9"></circle><path d="M3 12h18M12 3c2.5 2.6 2.5 15.4 0 18M12 3c-2.5 2.6-2.5 15.4 0 18"></path></svg><span class="lang-label">语言</span><span class="lang-current">简体中文</span><svg class="lang-chev" viewBox="0 0 16 16" width="12" height="12" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 6.5 8 10.5l4-4"></path></svg></summary><div class="lang-menu"><a href="/blog/bladder-diary-how-many-days/" hreflang="en" lang="en">English</a><a href="/de/blog/bladder-diary-how-many-days/" hreflang="de" lang="de">Deutsch</a><a href="/fr/blog/bladder-diary-how-many-days/" hreflang="fr" lang="fr">Français</a><a href="/es/blog/bladder-diary-how-many-days/" hreflang="es" lang="es">Español</a><a href="/it/blog/bladder-diary-how-many-days/" hreflang="it" lang="it">Italiano</a><a href="/pt-br/blog/bladder-diary-how-many-days/" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a><a href="/ru/blog/bladder-diary-how-many-days/" hreflang="ru" lang="ru">Русский</a><a href="/ja/blog/bladder-diary-how-many-days/" hreflang="ja" lang="ja">日本語</a><a href="/ko/blog/bladder-diary-how-many-days/" hreflang="ko" lang="ko">한국어</a><a href="/zh-hans/blog/bladder-diary-how-many-days/" hreflang="zh-Hans" lang="zh-Hans" aria-current="true">简体中文</a><a href="/zh-hant/blog/bladder-diary-how-many-days/" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a><a href="/pl/blog/bladder-diary-how-many-days/" hreflang="pl" lang="pl">Polski</a><a href="/sv/blog/bladder-diary-how-many-days/" hreflang="sv" lang="sv">Svenska</a><a href="/cs/blog/bladder-diary-how-many-days/" hreflang="cs" lang="cs">Čeština</a></div></details><!-- Тема — последней строкой меню, под сеткой языков (решение владельца 2026-10-25). На десктопе
+           эта копия скрыта: там тогл в подвале. --><button class="theme-toggle" type="button" aria-pressed="false" aria-label="深色主题" title="深色主题"><svg class="theme-icon theme-sun" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="12" cy="12" r="4.2"></circle><path d="M12 2.6v2.2M12 19.2v2.2M4.2 4.2l1.6 1.6M18.2 18.2l1.6 1.6M2.6 12h2.2M19.2 12h2.2M4.2 19.8l1.6-1.6M18.2 5.8l1.6-1.6"></path></svg><svg class="theme-icon theme-moon" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"><path d="M20 14.2A8.2 8.2 0 0 1 9.8 4a8.4 8.4 0 1 0 10.2 10.2Z"></path></svg><span class="theme-label">深色主题</span><span class="theme-switch" aria-hidden="true"></span></button></nav><a class="btn btn-secondary btn-sm" href="https://apps.apple.com/app/apple-store/id6803224992?pt=129277359&amp;ct=web-header&amp;mt=8" data-track="click_app_store" data-placement="web-header">获取应用</a><!-- Меню на телефоне (2026-10-15): до 768 px ссылки шапки прятались совсем, и попасть в Blog, Support и шаблоны
+         можно было только из подвала. Кнопка показывается той же медиа-границей, что скрывает ссылки. --><button class="nav-toggle" id="nav-toggle" type="button" aria-controls="site-nav" aria-expanded="false" aria-label="菜单"><span class="nav-toggle-bars" aria-hidden="true"></span></button></div></header><script>
+  (function () {
+    var h = document.getElementById('site-header');
+    var on = function () { h.classList.toggle('scrolled', window.scrollY > 8); };
+    on(); addEventListener('scroll', on, { passive: true });
+
+    // Меню на телефоне: открытие по кнопке, закрытие по повторному нажатию, Escape, клику вне,
+    // переходу по ссылке и при расширении окна до десктопной раскладки.
+    // Выпадашка языков: закрывается кликом вне и по Escape. Открытие и закрытие по нажатию делает сам <details>.
+    var lang = document.getElementById('lang-switch');
+    var closeLang = function () { if (lang) lang.removeAttribute('open'); };
+
+    var btn = document.getElementById('nav-toggle');
+    var nav = document.getElementById('site-nav');
+    var set = function (open) {
+      h.classList.toggle('nav-open', open);
+      // Страница под полотном не скроллится, пока меню открыто.
+      document.documentElement.classList.toggle('nav-locked', open);
+      if (btn) btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+      // На телефоне языки показываются сеткой без раскрывашки (решение владельца 2026-10-24:
+      // две вложенные гармошки на телефоне — плохой UX), поэтому <details> раскрывается вместе с меню.
+      if (lang) { if (open && innerWidth <= 768) lang.setAttribute('open', ''); else if (!open) lang.removeAttribute('open'); }
+    };
+    if (btn && nav) {
+      btn.addEventListener('click', function (e) {
+        e.stopPropagation();
+        closeLang();
+        set(h.classList.contains('nav-open') === false);
+      });
+      nav.addEventListener('click', function (e) { if (e.target.closest('a')) set(false); });
+    }
+    document.addEventListener('click', function (e) {
+      if (h.classList.contains('nav-open') && !e.target.closest('#site-nav') && !e.target.closest('#nav-toggle')) set(false);
+      // Закрытие по клику вне — только для десктопной выпадашки. На телефоне этот же <details> раскрыт
+      // насовсем и работает как блок меню: без проверки ширины нажатие на «Тёмную тему» в соседней строке
+      // схлопывало сетку языков (найдено при переносе тогла вниз меню, 2026-10-25).
+      if (lang && innerWidth > 768 && lang.hasAttribute('open') && !e.target.closest('#lang-switch')) closeLang();
+    });
+    document.addEventListener('keydown', function (e) { if (e.key === 'Escape') { set(false); closeLang(); } });
+
+    addEventListener('resize', function () { if (innerWidth > 768) set(false); }, { passive: true });
+  })();
+</script><main><article class="section"><div class="container prose article"><span class="eyebrow"><a href="/zh-hans/blog/">博客</a></span><h1 style="margin-top:14px">排尿日记：记几天才够？</h1><p class="meta article-meta"><time datetime="2026-09-12">2026年9月12日</time><span class="sep">·</span> 约 1 分钟</p><p class="article-note">开始前先说明：我不是医生。我做的是排尿日记：Fluid Balance 这款应用，这篇文章是我试着把临床指南和门诊表格关于「日记该记多少天」的说法集中到一个地方。来源列在文末；你的医生的嘱咐优先。</p><img src="/_astro/days-cards.B3wm8cia_CEuzx.webp" srcset="/_astro/days-cards.B3wm8cia_1YyBv9.webp 700w, /_astro/days-cards.B3wm8cia_2eOliv.webp 1400w" alt="插图：在一个由白天转向黑夜的圆环前，有太阳、日历和月亮三张卡片，一张清单卡片，一杯水和一个马克杯" fetchpriority="high" sizes="(max-width: 740px) 100vw, 700px" loading="eager" decoding="async" width="1536" height="1024" class="article-cover"><section class="tldr"><h2>要点</h2><p>排尿日记该记多少天，由让你记的医生决定：通常的答案是完整的三天，有些门诊要七天，而 24 小时是一张表能容纳的最小单位。NICE 的质量标准 QS77 要求至少三天，International Continence Society 描述的是三到七天的日记，Urology Care Foundation 的表格是三天、且不必连着。无论天数是多少，完整都比长更重要：</p><ul><li>门诊告诉你的天数就是答案；下面解释三天、七天和 24 小时这几个数字是怎么来的。</li><li>除非表格另有要求，日子不必连着，但应该包含不同类型的日子：一个工作日和一个休息日。</li><li>一天是从起床到第二天起床。每一天都记满的短日记，比有缺口的长日记更有价值。</li></ul></section><p class="author">作者：排尿日记: Fluid Balance 的开发者 Denis Zinin。 不是医生。</p><div class="article-body"><p>通常的答案是完整的三天，也就是 3 天排尿日记。有些门诊要 7 天排尿日记，而 24 小时是一张表能覆盖的最短长度。人家告诉你的天数就是答案；下面解释这些数字的由来，好让这条嘱咐讲得通，而不是显得随意。有一条原则高于所有数字：每一天都记满的短日记，比有缺口的长日记更有价值。</p>
+<h2 id="排尿日记该覆盖多少天">排尿日记该覆盖多少天？</h2>
+<table>
+<thead>
+<tr>
+<th>谁</th>
+<th>多长</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NICE，女性尿失禁质量标准<sup>1,2</sup></td>
+<td>至少 3 天</td>
+<td>应涵盖日常活动的差异，比如工作日和休息日</td>
+</tr>
+<tr>
+<td>International Continence Society<sup>3</sup></td>
+<td>尿频尿量表至少 24 小时</td>
+<td>两三天、不必连着，能给出更有用的数据</td>
+</tr>
+<tr>
+<td>Urology Care Foundation（AUA）<sup>4</sup></td>
+<td>至少 3 天</td>
+<td>任意三个有代表性的日子；不必连着；只记一天可能看不出真实情况</td>
+</tr>
+<tr>
+<td>BAUS 出入量表<sup>5</sup></td>
+<td>连着的 3 个平常日</td>
+<td>视情况把工作日或休息日包含进来</td>
+</tr>
+<tr>
+<td>NHS Gloucestershire 尿频尿量表<sup>6</sup></td>
+<td>3 天</td>
+<td>一份三天的排尿日记</td>
+</tr>
+<tr>
+<td>我们的模板和应用</td>
+<td>最多 7 天</td>
+<td>有一行「记录天数」，医生一眼就知道完整到什么程度</td>
+</tr>
+</tbody>
+</table>
+<p>机构不同，意思只有一个：三天几乎到处都是底线，而这些日子应该像你真实的生活。</p>
+<h2 id="为什么是三天">为什么是三天</h2>
+<p>三不是为了方便凑的整数。一篇关于尿频尿量表的系统综述认为，现有证据无法给出关于时长的确定建议，但三天及以上这个共识是最站得住脚的做法。<sup>7</sup> 在两项关于膀胱过度活动症的大型试验中，三天的日记与七天同样有效，作者还指出，较短的日记也许能减少凭记忆补缺口的倾向。<sup>8</sup> 一项把患者随机分到两天、三天或七天日记的研究发现，七天版本加重了患者负担，因而建议缩短天数。<sup>9</sup> 另一项针对神经源性膀胱问题患者的日记研究发现，在排尿次数、每次尿量、尿意和每日尿量上，三天与七天相当，唯有漏尿次数这一项，三天显得勉强。<sup>10</sup></p>
+<p>同一批文献也坦率地承认一点：并不存在一份经过完整验证的通用日记，各家门诊的格式也不一样。<sup>11</sup> 正因如此，你自己门诊的嘱咐——他们的表上写三天，我们的表上写七天——胜过这里写的任何内容。</p>
+<h2 id="为什么不是只记一天">为什么不是只记一天</h2>
+<p>一天只是一张快照，而且很可能恰好是不寻常的一天：一趟长途、一个晚睡的夜、一个比平时喝得少的日子。Urology Care Foundation 说得直白：只记一天的日记，可能提供不了足够的信息来呈现真实情况。<sup>4</sup> 在上面那项神经源性研究里，第一天的记录在每一项指标上都与七天平均值有显著差异。<sup>10</sup> 两三天就能把这种波动抹平。</p>
+<h2 id="什么时候七天才有意义">什么时候七天才有意义</h2>
+<p>有些医生要求一周。一周里包含周末，于是不用特地安排，日记自然涵盖了两类日子。一周里也有七个夜晚，当问题是夜里起床时，这很要紧。代价是投入：七个完整的日子需要毅力，<sup>9</sup> 而有两天空白的一周，不如完整的三天。如果人家要求七天，务实的做法是：让每一天都容易记、把纸或手机带在身上、并如实标出哪几天是完整的。</p>
+<h2 id="24-小时的排尿日记">24 小时的排尿日记</h2>
+<p>二十四小时是 International Continence Society 为尿频尿量表给出的最短长度。<sup>3</sup> 有些门诊在治疗前后用一天做快速检查。如果给你的就是这个，那就把它当作完整的一天来对待：从起床开始，一直记到第二天早上起床，不要因为「只有一天」就留下空行。</p>
+<h2 id="这些天必须连着吗">这些天必须连着吗</h2>
+<p>通常不必。Urology Care Foundation 要求任意三个有代表性的日子，<sup>4</sup> International Continence Society 也指出两三天不必连续。<sup>3</sup> NICE 更进一步，要求这些日子涵盖不同的活动，既有工作日也有休息日，<sup>1,2</sup> 而允许分开挑选时，这更容易安排。也有一些表格要求连续的日子，BAUS 就是其中之一；<sup>5</sup> 如果你的表是这样，就按表来。</p>
+<h2 id="一天是从起床到第二天起床">一天是从起床到第二天起床</h2>
+<p>日记的每一天从你起床开始，一直记到第二天早上起床为止。<sup>4</sup> 夜晚属于它开始的那一天。写下你什么时候上床、什么时候起床；夜间的次数正是这样和白天分开的。</p>
+<h2 id="如果漏了一天">如果漏了一天</h2>
+<p>不要在晚上凭记忆把它补回来。把那天标成不完整，另外补上完整的一天。我们的模板在最后一页有一行：记录天数，共七天；应用也会替你数记录了几天。不管哪一种，医生都能一眼看出手上拿到的是什么。<a href="/zh-hans/blog/how-to-keep-a-bladder-diary/">怎么记排尿日记</a>讲的是这每一天里该写些什么。</p>
+</div><div class="panel paper-panel"><h2 style="margin-top:0">需要纸质版吗？</h2><p>一份免费打印的排尿日记，栏目完全一样：A4 或 US Letter，整页或对折的小册子。不用留邮箱，不用注册。</p><p style="margin-top:14px"><a class="btn btn-secondary btn-sm" href="/zh-hans/bladder-diary-template/">免费 PDF 模板</a></p></div><div class="faq-group"><h2>问题</h2><div class="faq"><details data-track="faq_open" data-placement="人家让我记七天，我能三天就停吗？"><summary>人家让我记七天，我能三天就停吗？</summary><p>按要求来；医生选七天是有理由的，往往是想看到包含周末的一整周，或者更多个夜晚。如果七个完整的日子不现实，那么三个完整的胜过七个有窟窿的，<sup>8</sup> 所以看诊时直说，并把记完的那几天拿出来。</p></details><details data-track="faq_open" data-placement="要包含周末吗？"><summary>要包含周末吗？</summary><p>能的话要。NICE 要求日记涵盖工作日和休息日，<sup>1,2</sup> Urology Care Foundation 要求有代表性的日子。<sup>4</sup> 坐办公室的一天和在家的一天，在日记上通常很不一样，而你的医生两种都想看到。</p></details><details data-track="faq_open" data-placement="24 小时的日记够吗？"><summary>24 小时的日记够吗？</summary><p>这是 International Continence Society 为尿频尿量表给出的最短长度，<sup>3</sup> 有些门诊把一天当作快速快照来用。只记一天，很可能碰上不寻常的一天，<sup>4,10</sup> 所以多数会要求更长。如果给你的就是 24 小时的表，那就从起床记到第二天起床，并且把每一行都填上。</p></details></div></div><section class="references-block"><h2>来源</h2><ol class="references"><li>National Institute for Health and Care Excellence. Urinary incontinence in women. Quality standard QS77, quality statement 2: bladder diaries and lifestyle changes. London: NICE; 2015. <a href="https://www.nice.org.uk/guidance/qs77/chapter/quality-statement-2-bladder-diaries-and-lifestyle-changes" rel="noopener">nice.org.uk</a></li><li>National Institute for Health and Care Excellence. Urinary incontinence and pelvic organ prolapse in women: management. NICE guideline NG123. London: NICE; 2019. <a href="https://www.nice.org.uk/guidance/ng123" rel="noopener">nice.org.uk</a></li><li>International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. <a href="https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary" rel="noopener">ics.org</a></li><li>Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025. <a href="https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf" rel="noopener">urologyhealth.org (PDF)</a></li><li>British Association of Urological Surgeons. Information from BAUS about assessing fluid intake &amp; output. Patient leaflet F24/016. BAUS; 2024. <a href="https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Input%20output%20chart.pdf" rel="noopener">baus.org.uk (PDF)</a></li><li>Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. <a href="https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf" rel="noopener">gloshospitals.nhs.uk (PDF)</a></li><li>Yap TL, Cromwell DC, Emberton M. A systematic review of the reliability of frequency-volume charts in urological research and its implications for the optimum chart duration. BJU Int. 2007;99(1):9–16. <a href="https://doi.org/10.1111/j.1464-410X.2006.06499.x" rel="noopener">doi:10.1111/j.1464-410X.2006.06499.x</a></li><li>Dmochowski RR, Sanders SW, Appell RA, Nitti VW, Davila GW. Bladder-health diaries: an assessment of 3-day vs 7-day entries. BJU Int. 2005;96(7):1049–1054. <a href="https://doi.org/10.1111/j.1464-410X.2005.05785.x" rel="noopener">doi:10.1111/j.1464-410X.2005.05785.x</a></li><li>Ku JH, Jeong IG, Lim DJ, Byun SS, Paick JS, Oh SJ. Voiding diary for the evaluation of urinary incontinence and lower urinary tract symptoms: prospective assessment of patient compliance and burden. Neurourol Urodyn. 2004;23(4):331–335. <a href="https://doi.org/10.1002/nau.20027" rel="noopener">doi:10.1002/nau.20027</a></li><li>Konstantinidis C, Kratiras Z, Samarinas M, Skriapas K. Optimal bladder diary duration for patients with suprapontine neurogenic lower urinary tract dysfunction. Int Braz J Urol. 2016;42(4):766–772. <a href="https://doi.org/10.1590/S1677-5538.IBJU.2015.0292" rel="noopener">doi:10.1590/S1677-5538.IBJU.2015.0292</a></li><li>Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. <a href="https://doi.org/10.1002/nau.20994" rel="noopener">doi:10.1002/nau.20994</a></li></ol></section><p class="small muted disclaimer">这篇文章讲的是怎么记日记。它是一位应用开发者提供的一般信息，不是医疗建议：你的日记意味着什么，由你的医生判断。由你自己填写的日记。不是医疗文件。</p><div class="panel" style="margin-top:32px"><h2 style="margin-top:0">把日记记在手机里</h2><p>每条两次点按，合计自动算好，最后导出 PDF 报告。无需账号，没有服务器，没有数据离开手机。</p><div class="btn-row" style="margin-top:20px"><a class="btn btn-store " href="https://apps.apple.com/app/apple-store/id6803224992?pt=129277359&amp;ct=web-blog-zh-Hans-bladder-diary-how-many-days&amp;mt=8" data-track="click_app_store" data-placement="web-blog-zh-Hans-bladder-diary-how-many-days" aria-label="从 App Store 下载"><img src="/_astro/app-store-badge.CVyK0T4N.svg" width="250" height="83" alt="从 App Store 下载"></a></div></div><h2>相关阅读</h2><div class="bgrid related"><a class="bcard" href="/zh-hans/blog/how-to-keep-a-bladder-diary/"><span class="bcover-wrap"><img src="/_astro/notebook.BixZsnNK_1X9EMK.webp" srcset="/_astro/notebook.BixZsnNK_1Un1FG.webp 400w, /_astro/notebook.BixZsnNK_2ldMzf.webp 800w" alt sizes="(max-width: 600px) 100vw, 200px" loading="lazy" decoding="async" width="1536" height="1024" class="bcover"></span><span class="bbody"><span class="tag guide">指南</span><h3>怎么记排尿日记：该记些什么，一步一步来</h3><span class="bdesc">排尿日记记录什么、怎么填、一个填好的例子，以及看诊时带什么。作者是应用开发者，不是医生。</span></span></a><a class="bcard" href="/zh-hans/blog/how-to-measure-urine-output-at-home/"><span class="bcover-wrap"><img src="/_astro/glass.CfizSIT1_ZG7rPj.webp" srcset="/_astro/glass.CfizSIT1_Tx7dJ.webp 400w, /_astro/glass.CfizSIT1_Z2dLjCO.webp 800w" alt sizes="(max-width: 600px) 100vw, 200px" loading="lazy" decoding="async" width="1536" height="1024" class="bcover"></span><span class="bbody"><span class="tag guide">指南</span><h3>为排尿日记在家量尿量的方法</h3><span class="bdesc">量杯、接尿盆或估计：记录排出量的三种办法，没量成时怎么写，以及怎么把时间记对。</span></span></a></div></div></article></main><footer class="site-footer"><div class="container"><div class="footer-row"><a class="brand" href="/zh-hans/"><img src="/favicon.png" width="28" height="28" alt=""><span class="brand-name"><span class="brand-b">Fluid Balance</span></span></a><div class="footer-end"><nav class="footer-links" aria-label="页脚"><a href="/zh-hans/blog/">博客</a><a href="/zh-hans/support/">帮助</a><a href="/zh-hans/bladder-diary-template/">免费 PDF 模板</a><a href="/zh-hans/privacy/">隐私</a><a href="/zh-hans/terms/">使用条款</a></nav><!-- Тема — в подвале, а не в шапке (решение владельца 2026-10-25: «это просто удобство минимальное»).
+             На телефоне эта копия скрыта: там тогл в самом низу бургера. Обёртка .footer-end держит тогл
+             в одной строке со ссылками: отдельным элементом ряда он срывался на вторую строку. --><button class="theme-toggle" type="button" aria-pressed="false" aria-label="深色主题" title="深色主题"><svg class="theme-icon theme-sun" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="12" cy="12" r="4.2"></circle><path d="M12 2.6v2.2M12 19.2v2.2M4.2 4.2l1.6 1.6M18.2 18.2l1.6 1.6M2.6 12h2.2M19.2 12h2.2M4.2 19.8l1.6-1.6M18.2 5.8l1.6-1.6"></path></svg><svg class="theme-icon theme-moon" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"><path d="M20 14.2A8.2 8.2 0 0 1 9.8 4a8.4 8.4 0 1 0 10.2 10.2Z"></path></svg><span class="theme-label">深色主题</span><span class="theme-switch" aria-hidden="true"></span></button></div></div><div class="footer-bottom"><span>应用支持 14 种语言</span><span class="sep">·</span><span>由你自己填写的日记</span><span class="sep">·</span><span>不是医疗文件</span></div></div></footer><div class="notice" id="ga-notice" hidden><span>本站用 Google Analytics 统计访问量。<a href="/zh-hans/privacy/">隐私</a></span><button type="button" id="ga-ok">好</button></div><script>
+      (function () {
+        var n = document.getElementById('ga-notice');
+        var ok = document.getElementById('ga-ok');
+        var key = 'ga-notice-dismissed';
+        try { if (!localStorage.getItem(key)) n.hidden = false; } catch (e) { n.hidden = false; }
+        ok.addEventListener('click', function () { n.hidden = true; try { localStorage.setItem(key, '1'); } catch (e) {} });
+      })();
+    </script><script>
+      // Тема (2026-10-25). Пока человек не трогал тогл, сайт идёт за системной настройкой; нажатие
+      // записывает выбор в localStorage, и дальше он главнее системы. Состояние кнопки считается
+      // от действующей темы, а не от записи: иначе на «авто» у человека с системной тёмной темой сайт
+      // был бы тёмный, а тогл показывал бы «выключено».
+      // Скрипт в конце <body>, а не в шапке: тоглов в разметке два (подвал и бургер), и запуск после
+      // подвала — единственный момент, когда видны оба.
+      (function () {
+        var root = document.documentElement;
+        var mq = matchMedia('(prefers-color-scheme: dark)');
+        var tgls = document.querySelectorAll('.theme-toggle');
+        // Тёмные кадры приложения (ThemedImage.astro). Медиазапрос описывает только системную
+        // настройку, поэтому ручной выбор переписывает `media` у <source> руками: браузер
+        // пересобирает <picture> при изменении атрибута.
+        var shots = document.querySelectorAll('source[data-theme-dark]');
+        var isDark = function () { var a = root.getAttribute('data-theme'); return a ? a === 'dark' : mq.matches; };
+        var sync = function () {
+          var p = isDark() ? 'true' : 'false';
+          for (var i = 0; i < tgls.length; i++) tgls[i].setAttribute('aria-pressed', p);
+          var a = root.getAttribute('data-theme');
+          var m = a === 'dark' ? 'all' : a === 'light' ? 'not all' : '(prefers-color-scheme: dark)';
+          for (var j = 0; j < shots.length; j++) shots[j].media = m;
+        };
+        var flip = function () {
+          root.setAttribute('data-theme', isDark() ? 'light' : 'dark');
+          try { localStorage.setItem('theme', root.getAttribute('data-theme')); } catch (e) {}
+          sync();
+        };
+        sync();
+        if (mq.addEventListener) mq.addEventListener('change', sync);
+        for (var i = 0; i < tgls.length; i++) tgls[i].addEventListener('click', flip);
+      })();
+    </script><script type="module" src="/_astro/Base.astro_astro_type_script_index_0_lang.p60M4bss.js"></script></body></html>
