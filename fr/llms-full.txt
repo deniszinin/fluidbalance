@@ -1,0 +1,1082 @@
+# Calendrier mictionnel : Fluid Balance
+
+> Calendrier mictionnel : Fluid Balance est une application gratuite pour iPhone et Apple Watch. Elle note ce que vous buvez et ce que vous éliminez, et convient au calendrier de 3–7 jours demandé par votre médecin : les entrées deviennent un rapport PDF. Sans compte, vos données restent sur votre téléphone. Gratuit et Pro. Noter, les stats, les widgets, l’Apple Watch, iCloud et l’export CSV sont gratuits. Pro ajoute le rapport PDF et les analyses avancées, achat unique, sans abonnement. Aucune incitation à l’achat pendant que vous notez.
+
+Pas d’inscription, pas de nom, pas de date de naissance. Ouvrez l’application et commencez. C’est la mention de confidentialité de l’App Store, pas une promesse. Il n’y a aucun serveur à qui envoyer quoi que ce soit. Le rappel facultatif n’arrive que les jours sans entrée et ne dit jamais à quoi sert l’application. Désactivé par défaut.
+
+Aucune note, aucune norme. Seulement ce que vous avez noté. Par Denis Zinin, développeur de Calendrier mictionnel : Fluid Balance. Pas médecin. Calendrier rempli par vous. Pas un document médical.
+
+App Store: https://apps.apple.com/app/id6803224992 (category Medical; version 1.2.1, first released 2026-08-29; requires iOS 18.0 or later, watchOS 11.0 or later; App Store privacy label "Data Not Collected"). Languages: English, Deutsch, Français, Español, Italiano, Português (Brasil), Русский, 日本語, 한국어, 简体中文, 繁體中文, Polski, Svenska, Čeština. iPad: Une version iPad complète est en préparation — bientôt chez vous.
+
+---
+
+## Calendrier mictionnel pour iPhone et Apple Watch
+Source: https://fluidbalanceapp.com/fr/
+
+Calendrier mictionnel gratuit pour iPhone et Apple Watch : 3–7 jours pour votre médecin, deux touches par entrée, un rapport PDF, rien ne quitte le téléphone.
+
+Plus simple que de tenir un calendrier papier.: Une erreur ? Corrigez l’entrée sur place. Pas besoin de recopier toute la journée. Totaux du jour, moyennes et mictions nocturnes s’additionnent au fur et à mesure. Pas d’additions au dos de la feuille, pas de Notes, pas de tableur. Votre téléphone est déjà avec vous. Deux touches, et l’entrée est enregistrée avec l’heure.
+Touche. Touche. C’est noté.: Touchez + Apports ou + Mictions — Deux boutons en bas de l’écran. Rien d’autre à choisir. Touchez une quantité — 100, 200, 250, 330 ou 500 ml. Ou « Valeur libre », quand vous avez un chiffre précis. L’entrée est faite — Enregistrée avec l’heure. Pas de formulaire, pas de compte à rebours, pas de confirmation. Quantité incertaine ? Touchez Non mesuré — l’heure compte quand même. Si votre médecin veut savoir quelle était l’intensité du besoin, activez l’intensité du besoin et touchez 0 à 4 sur la même feuille. Changez l’heure ou ajoutez une note quand vous voulez. Fonctionne aussi depuis le widget de l’écran d’accueil et l’Apple Watch.
+Un rapport qui convient à votre médecin.: Totaux, moyennes et mictions nocturnes, déjà calculés et présentés comme un urologue lit un calendrier mictionnel. Gratuit et Pro. Noter, les stats, les widgets, l’Apple Watch, iCloud et l’export CSV sont gratuits. Pro ajoute le rapport PDF et les analyses avancées, achat unique, sans abonnement. Aucune incitation à l’achat pendant que vous notez.
+Vos semaines d’un coup d’œil.: Les cinq dernières semaines sous forme de grille : jours avec calendrier, jours sans. Touchez un jour pour l’ouvrir. Aucune note, aucune norme. Seulement ce que vous avez noté.
+Un calendrier, tous les écrans.: Widget de l’écran d’accueil — Apports, mictions et bilan d’un coup d’œil, et deux boutons pour noter. Apple Watch — Notez directement depuis la montre : les mêmes quantités et « Non mesuré », sans sortir le téléphone. Widget de l’écran verrouillé — Les totaux du jour sous l’horloge, sans déverrouiller le téléphone. iPad — Une version iPad complète est en préparation — bientôt chez vous.
+Tenu pour la nycturie, la vessie hyperactive, l’incontinence, le suivi de cystite, la prostate — avant et après une opération, et par toute personne à qui l’on a demandé de tenir un calendrier mictionnel (https://fluidbalanceapp.com/fr/blog/how-to-keep-a-bladder-diary/).
+
+---
+
+## Aide — Calendrier mictionnel : Fluid Balance
+Source: https://fluidbalanceapp.com/fr/support/
+
+### Pour commencer
+
+**Est-ce gratuit ?**
+Oui, l’application est gratuite. Noter, le résumé du jour, la grille de statistiques, les widgets, l’Apple Watch, iCloud et l’export CSV restent gratuits aussi longtemps que vous l’utilisez. Pro est un achat unique facultatif qui ajoute le rapport PDF et les graphiques avancés. Il n’y a pas d’abonnement, et rien n’interrompt jamais une entrée pour vous proposer une mise à niveau.
+
+**Ai-je besoin d’un compte ?**
+Non. Pas d’inscription, pas de nom, pas de date de naissance. Ouvrez l’application et commencez.
+
+**Je ne suis pas à l’aise avec les applications. Vais-je y arriver ?**
+Deux boutons et une liste de quantités. Il n’y a rien à configurer.
+
+**Qu’est-ce que je note ?**
+L’heure, ce que vous avez bu et combien, ce que vous avez éliminé ou une coche « Non mesuré », s’il s’agissait d’une miction nocturne, et une note s’il s’est passé quelque chose. Il y a un guide plus long avec un exemple : comment tenir un calendrier mictionnel (https://fluidbalanceapp.com/fr/blog/how-to-keep-a-bladder-diary/).
+
+**Combien de jours dois-je le tenir ?**
+Autant de jours qu’on vous l’a demandé. La plupart des services veulent trois à sept jours complets, et un calendrier court mais complet vaut mieux qu’un long plein de trous. D’où viennent ces chiffres : combien de jours suffisent (https://fluidbalanceapp.com/fr/blog/bladder-diary-how-many-days/).
+
+**Est-ce que ça marche sur Apple Watch ? Quel iPhone ?**
+Apple Watch : les mêmes quantités et « Non mesuré », avec les APPORTS, les MICTIONS et le BILAN du jour. iPhone sous iOS 18 ou plus récent, iPhone Duo compris — sur le grand écran, le calendrier a sa propre mise en page. Sur iPad, l’application tourne pour l’instant comme une application iPhone ; la prise en charge complète de l’iPad arrivera dans une mise à jour.
+
+**Quelles langues ?**
+Anglais, allemand, français, espagnol, italien, portugais (Brésil), russe, japonais, coréen, chinois simplifié, chinois traditionnel, polonais, suédois et tchèque — 14 au total. Le rapport PDF est traduit lui aussi ; le CSV reste en anglais.
+
+### Noter
+
+**Je ne connais pas le volume exact. Que mettre ?**
+Une estimation. Une entrée manquante est pire qu’une entrée imprécise, et rien dans l’application ne marque vos données comme douteuses. Si vous n’avez rien mesuré du tout, utilisez « Non mesuré » : l’entrée compte pour la fréquence et pour les événements nocturnes, et reste en dehors des totaux de volume.Le pot gradué, la cuvette de recueil et l’estimation : comment mesurer sa diurèse à la maison (https://fluidbalanceapp.com/fr/blog/how-to-measure-urine-output-at-home/).
+
+**Puis-je changer l’heure ou ajouter une note ?**
+Oui. Ouvrez l’entrée et changez l’heure, le type ou le volume, ou ajoutez une note.
+
+**Puis-je noter le besoin pressant ou les fuites ?**
+Le besoin, oui. Activez l’intensité du besoin dans les réglages et chaque miction pourra être notée de 0 à 4 ; cela apparaît dans le calendrier, sur un graphique, dans le rapport PDF et dans le CSV. C’est désactivé par défaut, une entrée reste donc à deux touches tant que vous n’en voulez pas plus. Les fuites n’ont pas de champ à elles : mettez-les dans la note de l’entrée.Ce qu’il faut mettre dans la note, et comment les feuilles des services cotent le besoin et les fuites : calendrier mictionnel pour vessie hyperactive et fuites (https://fluidbalanceapp.com/fr/blog/bladder-diary-for-overactive-bladder-and-leaks/).
+
+**L’application me rappelle-t-elle de boire ?**
+Non. Il existe un rappel facultatif pour remplir le calendrier — désactivé par défaut, vous choisissez l’heure. Il n’arrive que les jours sans entrée et se met en pause après une semaine sans aucune. Son texte ne dit jamais à quoi sert l’application : sur un écran verrouillé, il ne révèle rien.
+
+**Puis-je encore voir hier ?**
+Oui. Tant qu’aujourd’hui est vide, une carte sur l’écran du jour montre hier ; une touche l’ouvre.
+
+**Puis-je avoir l’affichage sur 24 heures ?**
+Oui, 12 ou 24 heures, comme vous préférez. Le réglage est dans les réglages.
+
+**Vais-je être invité à passer à Pro à chaque entrée ?**
+Jamais. Vous ne voyez Pro qu’en ouvrant le rapport ou les graphiques avancés.
+
+### Le rapport et vos données
+
+**Comment récupérer mes chiffres ?**
+Par l’export CSV, depuis les réglages, sur tout votre historique, sans restriction. Le rapport PDF (Pro) est présenté comme un calendrier mictionnel se lit habituellement.
+
+**Puis-je imprimer ou envoyer le rapport ?**
+Oui. Le PDF peut être imprimé, partagé, envoyé par e-mail ou montré sur votre téléphone.
+
+**Où sont mes données ? Et si mon téléphone casse ?**
+Sur votre appareil et, si vous activez iCloud, dans votre propre base iCloud privée. Il n’y a ni serveur ni compte. Exportez un CSV quand vous voulez, comme sauvegarde personnelle. Voir la politique de confidentialité (https://fluidbalanceapp.com/fr/privacy/).
+
+**Comment tout supprimer ?**
+Réglages, « Supprimer toutes les données ». Une étape, une confirmation. Cela efface l’appareil et, si elle est activée, votre copie iCloud.
+
+**L’application peut-elle me dire si mes chiffres sont normaux ?**
+Non, et elle ne le fera jamais. Elle note ce que vous lui dites et vous montre les totaux. Pas d’objectifs, pas de normes, pas d’alertes, pas de conseils. L’interprétation appartient à votre médecin.Ce qu’un soignant lit dans le calendrier : ce que montre un calendrier mictionnel (https://fluidbalanceapp.com/fr/blog/what-does-a-bladder-diary-show/).
+
+### Pro
+
+**Qu’y a-t-il exactement dans Pro ?**
+Le rapport PDF, la page « Analyses avancées » (le premier graphique hebdomadaire est gratuit) et l’icône sombre. Achat unique, rien ne se renouvelle.
+
+**J’ai acheté Pro et il n’apparaît pas sur mon autre appareil.**
+Utilisez « Restaurer les achats » dans les réglages, connecté au même compte Apple.
+
+Contact: denacidapp@gmail.com
+
+---
+
+## Modèle de calendrier mictionnel : PDF gratuit à imprimer (A4 et Letter)
+Source: https://fluidbalanceapp.com/fr/bladder-diary-template/
+
+Modèle de calendrier mictionnel gratuit en PDF : A4 en ml, US Letter en oz et livrets à plier. Sept jours, une page par jour, avec le mode d’emploi.
+
+Downloads: https://fluidbalanceapp.com/downloads/bladder-diary-a4.pdf (A4, ml), https://fluidbalanceapp.com/downloads/bladder-diary-letter.pdf (US Letter, oz), https://fluidbalanceapp.com/downloads/bladder-diary-a5.pdf (A5 booklet, ml), https://fluidbalanceapp.com/downloads/bladder-diary-letter-half.pdf (half-Letter booklet, oz). Les feuilles elles-mêmes sont en anglais — les colonnes sont les mêmes.
+Ce qu’il y a sur la feuille: Sept jours, une page par jour. Colonnes : heure · ce que vous avez bu · ce que vous avez éliminé · nuit · note. En haut de chaque page, le numéro du jour, la date et les heures du coucher et du lever ; sur la dernière page, une ligne pour jours notés ▢ sur 7 — la première chose que regarde un médecin. La première page explique comment remplir, avec un exemple. Les services appellent la même feuille calendrier mictionnel, catalogue mictionnel ou courbe mictionnelle ; un calendrier de 3 jours, ce sont simplement les trois premières pages. Les colonnes sont celles qu’on y attend.
+Comment le remplir: 1. Notez l’heure tout de suite — Pas à la fin de la journée. L’heure de chaque entrée compte autant que la quantité. 2. Boissons : prenez la contenance du verre ou de la bouteille — Une tasse fait environ 200 à 250 ml, un verre 250, une canette 330, une petite bouteille 500. 3. Urine : mesurez si vous pouvez, estimez sinon — Un pot gradué ou une cuvette de recueil posée sur les toilettes suffit. Si vous n’avez rien mesuré du tout, cochez « non mesuré » — l’entrée compte quand même.Plus de détails : comment mesurer sa diurèse à la maison (https://fluidbalanceapp.com/fr/blog/how-to-measure-urine-output-at-home/). 4. Marquez les entrées de nuit — Tout ce qui se passe entre le coucher et le lever du matin.
+Trois jours ou sept ?: La plupart des recommandations demandent un calendrier de 3 jours avec des journées complètes ; certains médecins en demandent sept. Complet compte plus que long : suivez ce qu’on vous a demandé. Pourquoi trois, et quand sept ont un sens (https://fluidbalanceapp.com/fr/blog/bladder-diary-how-many-days/).
+Sur quoi il s’appuie: La mise en page suit les calendriers déjà utilisés par les services d’urologie, pour que votre médecin trouve tout là où il l’attend : Catalogue mictionnel, Gloucestershire Hospitals NHS Foundation Trust (https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf) — le ✓ pour une miction sans mesure, les heures de coucher et de lever, un exemple rempli. Bladder Diary, Urology Care Foundation (American Urological Association) (https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf) — des lignes libres plutôt qu’une grille horaire fixe, des contenances de référence, des jours qui n’ont pas besoin de se suivre. International Continence Society, terminologie du calendrier mictionnel (https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary) — ce qu’un calendrier mictionnel enregistre, et les heures de coucher et de lever pour compter les mictions nocturnes. Norme de qualité NICE QS77 (https://www.nice.org.uk/guidance/qs77/chapter/quality-statement-2-bladder-diaries-and-lifestyle-changes) — un calendrier d’au moins trois jours. Les colonnes correspondent à l’application {appName} : un calendrier papier et l’application se lisent donc de la même façon. Compilé par le développeur de l’application, pas par un soignant. Si votre service vous a donné sa propre feuille, utilisez celle-là.
+
+---
+
+## Meilleur calendrier mictionnel gratuit : quoi vérifier avant d’installer
+Source: https://fluidbalanceapp.com/fr/blog/best-free-bladder-diary-app/
+Published: 2026-11-13 · Guide · Par Denis Zinin, développeur de Calendrier mictionnel : Fluid Balance. Pas médecin.
+
+En bref:
+Le meilleur calendrier mictionnel gratuit est celui qui répond encore à la question de votre praticien le jour du rendez-vous, et l’essentiel se décide avant l’installation :
+
+- Le mot gratuit recouvre quatre accords différents : gratuit tout court, gratuit avec publicité, un essai qui s’arrête, et la saisie gratuite avec le rapport ou l’export derrière un achat. La fiche de l’App Store dit lequel avant même le téléchargement.
+- Un calendrier sans volume à chaque miction n’est pas ce que le praticien a demandé. Les recommandations demandent l’heure et le volume de chaque miction, sur au moins trois jours.
+- Ouvrez l’export le premier jour, pas la veille du rendez-vous. Une analyse d’applications de calendrier mictionnel parue en 2026 a trouvé que la plupart manquaient d’éléments cliniques et protégeaient mal les données de santé.
+
+Personne ne peut vous dire quelle application gratuite de calendrier mictionnel est la meilleure pour vous, et dans ce coin de l’App Store la plupart des classements sont publiés par des applications qui y figurent. Ce qui se décide avant l’installation est autre chose : est-ce que l’application aidera encore le jour où vous remettrez le calendrier au praticien. Cela dépend de ce qu’elle enregistre, du nombre de jours qu’elle tient, de ce qu’elle fait de vos notes et de votre capacité à récupérer le calendrier à la fin. Nous faisons l’une de ces applications, lisez donc les deux dernières sections en le sachant. Les vérifications qui précèdent valent pour n’importe quelle application, la nôtre comprise.
+
+### Que veut dire gratuit pour une application de calendrier mictionnel ?
+
+Quatre accords différents portent le même mot, et la fiche de l’App Store dit lequel vous avez sous les yeux avant tout téléchargement.
+
+Certaines applications sont gratuites tout court : rien à payer, rien à débloquer. D’autres sont gratuites parce que la publicité les finance, y compris à trois heures du matin, aux toilettes, au milieu d’une saisie. D’autres offrent un essai d’une ou deux semaines, après quoi la saisie s’arrête ou verrouille ce que vous avez déjà noté, en plein milieu des jours consécutifs demandés. Le cas le plus fréquent est le quatrième : noter gratuitement, payer pour ressortir le calendrier. La saisie ne coûte rien, et le rapport, l’export ou les graphiques sont derrière un achat.
+
+Deux lignes de la fiche App Store tranchent : la liste des Achats intégrés, qui nomme ce qui est vendu et dit si cela se renouvelle, et la confidentialité de l’app. Un calendrier se tient en général sur quelques jours, donc un abonnement et un achat unique ne sont pas du tout la même affaire.
+
+### Ce que le calendrier doit enregistrer
+
+La feuille du service a une colonne pour le volume uriné, en millilitres, et c’est précisément la colonne qu’une application a le plus de chances d’oublier.
+
+L’Association européenne d’urologie distingue deux documents dans sa recommandation sur les symptômes du bas appareil urinaire chez l’homme. Un catalogue mictionnel enregistre l’heure et le volume de chaque miction ; un calendrier mictionnel y ajoute les boissons, les protections, les activités et les scores de symptômes, et la recommandation en demande au moins trois jours.[1] L’International Continence Society décrit le calendrier de la même façon : les volumes urinés avec leur heure, plus les épisodes de fuite, les protections et les boissons.[2] Une revue des données sur le contenu, la forme et la durée des calendriers arrive au même point : ce à quoi sert le calendrier détermine ce qu’il doit contenir.[3]
+
+Une application qui compte les appuis donne un nombre de mictions. C’est une ligne de la feuille demandée, et les volumes mesurés sont justement la part que personne ne pourra reconstituer après coup. La première chose à chercher dans les captures d’écran est donc un champ numérique pour le volume, en millilitres ou en onces, et un moyen de noter une miction que vous n’avez pas pu mesurer. Sans le second, les gens sautent la note entière, et une note manquante vaut moins qu’une note approximative.
+
+### Sept vérifications avant d’installer
+
+- Un volume à chaque miction, en millilitres ou en onces, avec un moyen de signaler une miction non mesurée.
+- L’heure attachée automatiquement, et modifiable quand vous notez une demi-heure plus tard.
+- Les nuits séparées des jours : un marqueur de nuit, ou les heures de coucher et de lever.
+- Trois à sept jours dans un même calendrier, puisque c’est la fourchette demandée. Les travaux comparant les calendriers de trois et de sept jours ont trouvé que le plus court donne des mesures comparables et qu’il est mieux rempli.[4]
+- Un endroit pour le besoin pressant, les fuites et les protections : des champs, ou au moins une note.
+- Un export lisible par un praticien : une page imprimable ou un PDF, pas une capture d’écran de graphique.
+- La confidentialité de l’app, et la question de savoir si un compte est exigé avant le moindre enregistrement.
+
+Ces sept points prennent environ deux minutes sur la fiche de l’App Store, et aucun n’est le critère de tri des classements.
+
+### Ce que le gratuit coûte plus tard
+
+L’échec habituel arrive le dernier jour : trois jours notés, et le rapport se trouve derrière un achat auquel vous ne vous attendiez pas, ou les notes ne sortent de l’application sous aucune forme lisible par un praticien.
+
+Une analyse d’applications électroniques de calendrier mictionnel parue en 2026 a trouvé que la plupart manquaient d’éléments cliniques importants, qu’aucun professionnel n’avait participé à leur conception et qu’elles protégeaient mal les données de santé ; les auteurs concluent que les applications n’égalent pas encore les calendriers papier validés.[5]
+
+La vérification ne coûte rien. Le premier jour, tant que vous n’avez rien à perdre, ouvrez l’écran d’export ou de rapport et regardez ce qui se passe. Si on vous demande de l’argent, vous avez encore le choix d’une autre application et aucune note à déménager.
+
+### Une application gratuite suffit-elle pour le rendez-vous ?
+
+Oui, si elle garde l’heure et le volume de chaque miction, sépare les nuits, couvre les jours demandés et ressort le résultat sous une forme lisible. Le calendrier est demandé parce qu’il enregistre ce qui s’est passé plutôt que ce dont vous vous souvenez,[6] et une application gratuite où chaque miction est notée vaut mieux qu’une payante avec des trous la deuxième nuit.
+
+Aucune application ne devrait interpréter le résultat. Vos chiffres prennent un sens à côté de vos antécédents, et cette lecture revient à votre praticien.
+
+### Ce qui est gratuit dans Fluid Balance et ce qu’ajoute Pro
+
+Gratuit, aussi longtemps que vous utilisez l’application : noter boissons et mictions en deux touches, avec des préréglages et la possibilité de noter une miction sans volume mesuré, l’intensité facultative du besoin de 0 à 4, le résumé du jour, la grille de statistiques, les widgets de l’écran d’accueil et de l’écran verrouillé, l’application Apple Watch, la synchronisation iCloud sans compte, l’export CSV et l’heure sur 12 ou 24 heures. La confidentialité de l’app indique Aucune donnée collectée : pas de compte, pas de serveur, pas d’analytique dans l’application.
+
+Pro est un achat unique, pas un abonnement : il ajoute le rapport PDF pour le praticien, la page d’analyses avancées (le premier graphique hebdomadaire est gratuit) et une icône sombre. Rien n’interrompt jamais une entrée pour vous proposer un achat. Tout cela se voit au premier lancement, et l’application écran par écran est présentée sur [sa propre page](https://fluidbalanceapp.com/).
+
+### Si vous préférez ne rien installer
+
+Le [modèle imprimable gratuit](https://fluidbalanceapp.com/bladder-diary-template/) a les mêmes colonnes : A4 en millilitres, US Letter en onces, livrets à plier en deux, une page par jour avec la notice sur la feuille. Un praticien le lit exactement comme il lit le rapport de l’application, et c’est pour cela que les deux restent identiques.
+
+Dans les deux cas, le meilleur calendrier mictionnel gratuit est celui où, au troisième jour, chaque miction est notée et dont sort un rapport imprimable.
+
+### Questions
+
+**Existe-t-il un calendrier mictionnel entièrement gratuit ?**
+Plusieurs applications laissent noter sans rien payer. Ce qui est payant, c’est en général la partie dont vous avez besoin à la fin : le rapport imprimable, l’export ou les graphiques. C’est acceptable si vous le savez dès le premier jour : repérez la ligne Achats intégrés sur la fiche de l’App Store et ouvrez l’écran des prix de l’application avant d’y avoir trois jours de notes.
+
+**Comment savoir ce qu’une application gratuite fait de mes notes ?**
+Trois endroits, lisibles en une minute : la confidentialité de l’app sur la fiche de l’App Store, qui indique soit Aucune donnée collectée, soit ce qui est lié à vous ; le fait que l’application exige ou non un compte avant d’enregistrer quoi que ce soit ; et la politique de confidentialité. Une analyse d’applications de calendrier mictionnel parue en 2026 a trouvé que la plupart protégeaient mal les données de santé.
+
+**L’urologue acceptera-t-il un calendrier tenu dans une application ?**
+En général oui, s’il montre la même chose que la feuille du service : l’heure et le volume de chaque miction, ce que vous avez bu, les nuits séparées des jours et les jours demandés. Apportez-le imprimé ou en PDF, certains praticiens préfèrent le papier sur le bureau. Si le service vous a donné sa propre feuille avec ses échelles, remplissez cette feuille.
+
+### Sources
+
+1. European Association of Urology. EAU Guidelines on the Management of Non-neurogenic Male LUTS. Arnhem: EAU; 2026. Chapter 4, Diagnostic evaluation. https://uroweb.org/guidelines/management-of-non-neurogenic-male-luts/chapter/diagnostic-evaluation
+2. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+3. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+4. Dmochowski RR, Sanders SW, Appell RA, Nitti VW, Davila GW. Bladder-health diaries: an assessment of 3-day vs 7-day entries. BJU Int. 2005;96(7):1049–1054. https://doi.org/10.1111/j.1464-410X.2005.05785.x
+5. Matthews C, Stothers L, Burke C, Petersen K, Macnab A. A framework analysis of electronic bladder diary apps: suitability for clinical decision-making and comparison to validated paper diaries. Neurourol Urodyn. 2026. https://doi.org/10.1002/nau.70410
+6. National Institute for Health and Care Excellence. Urinary incontinence in women. Quality standard QS77, quality statement 2: bladder diaries and lifestyle changes. London: NICE; 2015. https://www.nice.org.uk/guidance/qs77/chapter/quality-statement-2-bladder-diaries-and-lifestyle-changes
+
+Cet article explique comment tenir un calendrier. C’est une information générale venant d’un développeur d’application, pas un avis médical : ce que votre calendrier signifie, c’est votre médecin qui le dit. Calendrier rempli par vous. Pas un document médical.
+
+---
+
+## Calendrier mictionnel ou catalogue mictionnel : quelle différence ?
+Source: https://fluidbalanceapp.com/fr/blog/bladder-diary-or-frequency-volume-chart/
+Published: 2026-11-02 · Guide · Par Denis Zinin, développeur de Calendrier mictionnel : Fluid Balance. Pas médecin.
+
+En bref:
+Un calendrier mictionnel, un journal mictionnel et un catalogue mictionnel sont, pour la personne qui les remplit, la même feuille. Selon les définitions de l’International Continence Society, un catalogue mictionnel note l’heure et le volume de chaque passage, un calendrier mictionnel y ajoute les boissons, les fuites et les protections, et un relevé des horaires mictionnels ne note que les heures ; voiding diary, urinary diary, bladder chart et feuille d’entrées-sorties désignent la même chose sous d’autres noms. La feuille qu’on vous a donnée est celle qu’il faut utiliser :
+
+- Un catalogue mictionnel note l’heure et le volume de chaque passage. Un calendrier mictionnel, c’est la même chose plus les boissons, les fuites et les protections. Un relevé des horaires ne note que les heures.
+- Voiding diary, urinary diary, bladder chart et feuille d’entrées-sorties sont la même chose sous d’autres noms. La feuille qu’on vous a donnée est celle qu’il faut utiliser.
+- Quel que soit l’intitulé, ce sont les colonnes qui comptent : heure, boisson, volume éliminé, nuit et une note.
+
+On vous a dit de tenir un calendrier mictionnel. La brochure parle de catalogue mictionnel. Le site que vous avez trouvé dit voiding diary, et l’infirmière du service a parlé d’une feuille d’entrées-sorties. Pour ce qui vous concerne, c’est la même feuille. Les différences qui existent vraiment sont minces et bien définies ; elles sont expliquées plus bas, pour que vous cessiez de vous soucier de l’intitulé et passiez aux colonnes.
+
+### La version courte
+
+| Terme | Ce qu’il note | Qui l’emploie |
+|---|---|---|
+| Relevé des horaires mictionnels | Seulement l’heure de chaque passage, jour et nuit | Recherche, certains services |
+| Catalogue mictionnel (frequency–volume chart) | Heure et volume de chaque passage | Urologie britannique, feuilles du NHS, BAUS |
+| Calendrier mictionnel | Heures et volumes, plus boissons, fuites, protections, besoin pressant | Recommandations françaises et internationales, NICE |
+| Voiding diary, urinary diary, micturition diary | Comme le calendrier mictionnel | Services et littérature des États-Unis |
+| Bladder record chart, bladder chart | Comme le calendrier mictionnel | Services de kinésithérapie |
+| Feuille d’entrées-sorties, feuille de bilan hydrique | Boissons et urines sur 24 heures ; à l’hôpital aussi les perfusions et les autres pertes | Services hospitaliers et soins infirmiers ; la BAUS emploie ce nom pour son catalogue |
+
+### Quelle est la différence entre un calendrier mictionnel et un catalogue mictionnel ?
+
+L’International Continence Society, qui fixe la terminologie employée par les urologues, décrit trois niveaux d’enregistrement.[1,3] Un relevé des horaires mictionnels ne note que les heures des passages, jour et nuit, sur au moins 24 heures. Un catalogue mictionnel y ajoute le volume de chaque passage. Un calendrier mictionnel y ajoute les apports de boisson, l’usage de protections, les épisodes d’incontinence et leur importance, et peut aussi noter le besoin pressant et les activités associées à une fuite.[1,2,3] Chaque niveau répond à plus de questions que le précédent, et le calendrier mictionnel est ce que la plupart des recommandations veulent dire quand elles demandent « un calendrier » : le NICE, par exemple, demande aux femmes qui consultent pour incontinence urinaire de tenir un calendrier mictionnel pendant au moins trois jours.[10]
+
+### Pourquoi tant de noms
+
+En partie la géographie, en partie l’histoire. Une revue de la littérature a dû chercher neuf termes différents pour retrouver le même type d’enregistrement : micturition chart, micturition diary, frequency volume chart, bladder chart, bladder diary, urinary chart, urinary diary, voiding chart et voiding diary.[4] Les feuilles américaines disent plutôt voiding ou bladder diary ; celle de l’Urology Care Foundation s’appelle simplement « Bladder Diary ».[7] Les feuilles britanniques gardent souvent le nom clinique le plus ancien même lorsqu’il s’agit de calendriers complets : celle du NHS Gloucestershire est intitulée « Frequency Volume Chart, Three Day Bladder Diary » et comporte des colonnes pour les boissons, les urines, la sensation vésicale et les protections,[5] et la brochure de la BAUS présente sa feuille d’entrées-sorties comme « également appelée frequency-volume chart ou bladder diary ».[6] La kinésithérapie a sa propre variante, le bladder record chart, au contenu identique.[8]
+
+### Feuilles d’entrées-sorties et bilans hydriques
+
+Ces deux noms viennent de l’hôpital. Une feuille de bilan hydrique est un relevé infirmier de tout ce qui entre chez un patient et de tout ce qui en sort, perfusions, drains et vomissements compris, qui sert à gérer les apports à l’hôpital.[9] Quand une infirmière vous renvoie chez vous après une opération ou avec une sonde en vous demandant de « tenir une feuille d’entrées-sorties », elle veut dire en général la version simple : ce que vous avez bu, ce que vous avez éliminé, avec les heures. C’est un catalogue mictionnel avec une colonne boissons — et c’est bien pour cela que la BAUS peut donner ce nom à sa brochure d’urologie.[6] Les colonnes de notre [modèle à imprimer](https://fluidbalanceapp.com/bladder-diary-template/) y suffisent.
+
+### La même chose dans d’autres langues
+
+Si vous tenez le calendrier dans une autre langue, le terme change mais pas la feuille : bladder diary ou voiding diary en anglais, Blasentagebuch ou Miktionsprotokoll en allemand, diario miccional en espagnol, diario minzionale en italien, 排尿日誌 en japonais. En français, les deux noms courants, calendrier mictionnel et catalogue mictionnel, ne désignent pas tout à fait la même chose, comme l’explique le tableau ci-dessus. L’application fonctionne dans les mêmes langues que ce site et imprime le rapport dans la langue que vous choisissez : une urologue allemande reçoit donc des en-têtes de colonnes en allemand.
+
+### Ce que cela change pour vous
+
+Utilisez la feuille qu’on vous a donnée. Si votre service a dit « catalogue mictionnel » et vous a remis une feuille avec une colonne boissons, remplissez les boissons. S’il a dit « calendrier mictionnel » et que la feuille comporte des colonnes pour le besoin pressant et les fuites, servez-vous-en. S’il ne vous a rien donné et a seulement dit « tenez un calendrier », n’importe quelle feuille avec heure, boisson, volume éliminé, nuit et une note fera l’affaire ; c’est ce qu’utilisent le [modèle](https://fluidbalanceapp.com/bladder-diary-template/) et l’application, de sorte qu’un calendrier papier et un calendrier dans le téléphone se lisent de la même façon. L’intitulé n’a jamais été le problème. Les lignes vides, si.
+
+### Questions
+
+**Un voiding diary, est-ce la même chose qu’un calendrier mictionnel ?**
+En pratique, oui. « Voiding diary » est le terme américain courant et « bladder diary » le terme britannique courant ; la littérature emploie les deux, ainsi que urinary diary, micturition diary et bladder chart. Si une feuille a des colonnes pour les boissons et pour les urines avec des heures, c’est un calendrier mictionnel, quel que soit son titre.
+
+**On m’a parlé de catalogue mictionnel. Dois-je quand même noter les boissons ?**
+À la lettre, un catalogue mictionnel ne note que les heures et les volumes d’urine éliminés. La plupart des feuilles de consultation portant ce nom demandent pourtant aussi les boissons, comme celle du NHS Gloucestershire et celle de la BAUS. Suivez la feuille : s’il y a une colonne boissons, remplissez-la ; s’il n’y en a pas, noter les boissons sur une ligne à part n’a jamais nui.
+
+**Qu’est-ce qu’un relevé des horaires mictionnels ?**
+Le plus simple des trois : seulement l’heure de chaque passage, jour et nuit, sur au moins 24 heures. Pas de volumes, pas de boissons. Il répond à la question « à quelle fréquence » et à rien d’autre, ce qui suffit parfois au médecin.
+
+### Sources
+
+1. Abrams P, Cardozo L, Fall M, et al. The standardisation of terminology of lower urinary tract function: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):167–178. https://doi.org/10.1002/nau.10052
+2. Haylen BT, de Ridder D, Freeman RM, et al. An International Urogynecological Association (IUGA)/International Continence Society (ICS) joint report on the terminology for female pelvic floor dysfunction. Neurourol Urodyn. 2010;29(1):4–20. https://doi.org/10.1002/nau.20798
+3. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+4. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+5. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+6. British Association of Urological Surgeons. Information from BAUS about assessing fluid intake & output. Patient leaflet F24/016. BAUS; 2024. https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Input%20output%20chart.pdf
+7. Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025. https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf
+8. University Hospitals Sussex NHS Foundation Trust. Bladder record chart: pelvic health physiotherapy patient information. Reference 2198; 2023. https://www.uhsussex.nhs.uk/wp-content/uploads/2023/03/Bladder-Record-chart.pdf
+9. Scales K, Pilsworth J. The importance of fluid balance in clinical practice. Nurs Stand. 2008;22(47):50–57. https://doi.org/10.7748/ns2008.07.22.47.50.c6634
+10. National Institute for Health and Care Excellence. Urinary incontinence and pelvic organ prolapse in women: management. NICE guideline NG123. London: NICE; 2019. https://www.nice.org.uk/guidance/ng123
+
+Cet article explique comment tenir un calendrier. C’est une information générale venant d’un développeur d’application, pas un avis médical : ce que votre calendrier signifie, c’est votre médecin qui le dit. Calendrier rempli par vous. Pas un document médical.
+
+---
+
+## Calendrier mictionnel : Fluid Balance 1.2 est sur l’App Store
+Source: https://fluidbalanceapp.com/fr/blog/fluid-balance-1-2/
+Published: 2026-10-26 · Mise à jour · Par Denis Zinin, développeur de Calendrier mictionnel : Fluid Balance.
+
+La version 1.2 est sur l’App Store, et elle tient presque entièrement à une chose : vous pouvez désormais noter l’intensité du besoin avant un passage. Le reste, ce sont de petites améliorations de confort.
+
+### Quelle était l’intensité du besoin ?
+
+Dans un calendrier mictionnel pour vessie hyperactive et fuites, le besoin se note avant chaque miction — et jusqu’ici l’application ne savait pas le faire. Pour vous en servir, activez-le dans les réglages : **Intensité du besoin**. Ensuite, chaque entrée de miction reçoit une pastille **Évaluer le besoin** avec cinq niveaux :
+
+- **0** Sans besoin
+- **1** Besoin normal
+- **2** Fort besoin
+- **3** De justesse
+- **4** Trop tard
+
+
+Le niveau 4 signifie que de l’urine est sortie sur le chemin des toilettes ; il reste donc rattaché à son passage au lieu de devenir un événement séparé que vos décomptes devraient ensuite réconcilier.
+
+**Non évalué n’est pas zéro.** Une entrée que vous n’avez pas évaluée n’enregistre rien du tout — la même règle que « Non mesuré » pour le volume. Une journée non évaluée affiche un tiret dans le rapport, pas une rangée de zéros, et les moyennes se font sur les entrées qui portent réellement une évaluation. Un zéro, dans cette application, veut toujours dire que vous avez choisi « Sans besoin ».
+
+**Où l’évaluation apparaît.** À côté de l’entrée dans le calendrier. Dans le rapport PDF sur deux lignes — niveaux 3–4 par jour, et niveau 4 par jour — plus une colonne dans le tableau par jour. Dans le CSV sous forme d’une nouvelle colonne à la fin, ajoutée et non insérée, pour qu’un tableur ou un script bâti sur l’ancien export continue de fonctionner. Si rien n’est évalué sur la période, le rapport laisse la section de côté au lieu d’en imprimer une vide.
+
+Tant que vous ne l’activez pas, une entrée reste deux touches.
+
+### Un rappel qui cesse d’insister
+
+Nous prenons soin de votre attention : un rappel ne doit pas devenir un bruit de fond. Avant, il arrivait chaque jour à l’heure choisie, tant que l’application était installée. Maintenant, il ne vient que les jours sans entrée, et après une semaine sans aucune, il se met en pause tout seul. Un calendrier se tient trois à sept jours ; un rappel qui arrive encore au deuxième mois n’est plus qu’une notification à désactiver.
+
+
+### Un accès simple à hier
+
+Tant qu’aujourd’hui est vide, l’écran Aujourd’hui porte une carte avec les entrées d’hier, et une touche ouvre ce jour-là. La façon la plus courante de perdre une journée de calendrier : s’en souvenir le lendemain matin.
+
+
+### Également dans la 1.2
+
+- **Affichage 12 ou 24 heures**, comme vous préférez, dans les réglages.
+- **Prise en charge complète de l’iPhone Duo.**
+- **Un grand widget pour l’écran d’accueil**, à côté du petit et de celui de l’écran verrouillé.
+- **Quatre nouvelles langues :** polonais, suédois, tchèque et chinois traditionnel, ce qui porte l’application à quatorze. Le rapport PDF est traduit avec l’interface ; le CSV reste en anglais.
+- **Plus rapide quand beaucoup d’entrées se sont accumulées**, ainsi qu’un certain nombre de petites corrections.
+
+### Ce qui n’a pas changé
+
+L’étiquette de confidentialité sur l’App Store reste « Aucune donnée collectée » : pas de compte, pas de serveur, pas d’analyse dans l’application, pas de code tiers. Les entrées vivent sur votre appareil et, si vous l’activez, dans votre propre base iCloud privée — la [politique de confidentialité](https://fluidbalanceapp.com/privacy/) donne le détail. L’application ne pose toujours pas de diagnostic, ne compare vos entrées à aucune norme et ne vous rappelle pas de boire ; l’intensité du besoin est un chiffre que vous avez saisi, et ce qu’il signifie se discute avec votre médecin. La saisie, Aujourd’hui, les statistiques, les widgets, l’Apple Watch, iCloud et l’export CSV restent gratuits, et Pro demeure un achat unique plutôt qu’un abonnement.
+
+### Configuration requise
+
+iPhone avec iOS 18 ou plus récent, iPhone Duo compris. Apple Watch avec watchOS 11 ou plus récent. Sur un iPad, l’application tourne comme une application iPhone. Catégorie App Store : Médecine.
+
+Questions ou demandes : l’[aide](https://fluidbalanceapp.com/support/) donne les réponses aux plus fréquentes et l’adresse où écrire.
+
+---
+
+## Calendrier mictionnel papier ou application : ce que disent les études
+Source: https://fluidbalanceapp.com/fr/blog/paper-bladder-diary-or-app/
+Published: 2026-10-26 · Guide · Par Denis Zinin, développeur de Calendrier mictionnel : Fluid Balance. Pas médecin.
+
+En bref:
+Calendrier mictionnel sur papier ou application : les études répondent par un match nul. Les calendriers électroniques et papier se révèlent d’une fiabilité comparable, et les différences portent sur le moment où les gens remplissent et sur ce qui est additionné. Ce qui tranche, c’est que chaque passage soit noté sur le moment, tous les jours demandés :
+
+- Les deux marchent. Les études trouvent les calendriers électroniques et papier d’une fiabilité comparable ; les différences portent sur le moment où l’on remplit et sur ce qui est additionné.
+- Le papier est rempli après coup plus souvent que les gens ne l’admettent. Les calendriers électroniques horodatent les entrées, mais une analyse d’applications a trouvé qu’il manquait à la plupart des éléments cliniques de base : besoin pressant, fuites ou confidentialité.
+- Choisissez un format pour tout le calendrier, vérifiez qu’il note tout ce que votre service a demandé, et apportez le résultat sous une forme lisible par le médecin.
+
+Papier ou application : ce n’est pas la bonne première question. La première question est de savoir si le calendrier est rempli sur le moment, pour chaque passage, tous les jours demandés. Les deux formats, la feuille papier et un calendrier mictionnel numérique dans une application, en sont capables, et tous deux peuvent y échouer. Ce texte passe en revue ce que la recherche a réellement trouvé en les comparant, ce qui manquait aux applications selon une analyse récente, et comment choisir sans se retrouver avec un demi-calendrier sur papier et un demi-calendrier sur le téléphone. Nous faisons une application : lisez la dernière section en le sachant.
+
+### Ce que le papier fait bien
+
+Les services le connaissent. La feuille arrive avec les colonnes que le service veut, dans sa propre échelle pour le besoin pressant ou les fuites, et le médecin peut écrire dessus. Il n’y a rien à installer ni à apprendre, cela fonctionne dans des toilettes d’hôpital sans téléphone, et la personne qui remplit peut avoir quatre-vingts ans et n’avoir jamais possédé de smartphone. Pour un calendrier de trois jours remis avec la convocation, le papier est un outil parfaitement valable.
+
+### Là où le papier échoue
+
+Il est rempli après coup. La preuve la plus nette vient d’une étude qui avait caché un capteur dans le classeur d’un calendrier papier pour enregistrer quand il était réellement ouvert : les patients déclaraient l’avoir rempli comme demandé la plupart du temps, mais le classeur montrait qu’ils ne l’avaient fait qu’à une petite fraction des occasions prévues, beaucoup d’entrées ayant été écrites en bloc plus tard.[1] La recherche sur les calendriers mictionnels observe la même tendance de l’autre côté : dans les essais comparant trois jours et sept jours, les auteurs notent que le calendrier le plus court réduit sans doute la tentation de combler les trous de mémoire.[2] Or la mémoire, pour cet usage, est mauvaise.
+
+Les autres défaillances sont pratiques. La feuille n’est pas dans la salle de bains à trois heures du matin. Les totaux et le comptage des nuits doivent se faire à la main, ou pas du tout. Et un calendrier posé sur la table de la cuisine se perd facilement et s’oublie facilement à la maison le jour venu.
+
+### Les calendriers électroniques sont-ils plus exacts que le papier ?
+
+Les calendriers électroniques sont apparus tôt dans la littérature. Un journal quotidien électronique pour l’hyperactivité vésicale, testé en 2003, recueillait les données de symptômes avec des horodatages et a été jugé facile à utiliser, les auteurs citant les données en temps réel comme principal avantage sur le papier.[3] Un essai randomisé comparant un calendrier mictionnel électronique au papier chez des femmes ayant des symptômes urinaires a trouvé les deux fiables au test répété, avec un peu moins de mictions et de fuites notées par voie électronique, et a conclu que la version électronique était acceptable et fiable.[4] Autrement dit : pas de miracle, mais une alternative solide, l’horodatage étant le gain concret.
+
+### Ce qui manquait aux applications
+
+Que le format fonctionne ne veut pas dire que chaque application fonctionne. Une analyse de 2026 des applications de calendrier mictionnel, confrontées au contenu des calendriers papier validés, a trouvé qu’il manquait à la plupart des éléments cliniques importants, qu’aucun professionnel n’avait été associé à leur conception et qu’elles étaient faibles sur la sécurité des données de santé ; elle concluait qu’un développement supplémentaire était nécessaire avant que les applications n’égalent les calendriers papier validés.[5] La littérature reconnaît aussi honnêtement qu’il n’existe de calendrier entièrement validé dans aucun format, papier compris.[7]
+
+En pratique : jugez une application sur ce qu’elle enregistre par rapport à la feuille de votre service, pas sur ses notes. La liste est courte :
+
+- **Une heure sur chaque entrée**, mise automatiquement et modifiable quand vous saisissez en retard.
+- **Des passages sans volume**, pour qu’une coche dans des toilettes publiques reste une entrée complète.
+- **Les heures de coucher et de lever, ou un marqueur de nuit**, pour que les nuits puissent être comptées.[8]
+- **Une place pour le besoin pressant, les fuites et les protections**, en champs ou au moins en notes.
+- **Un export** que le médecin puisse lire : un rapport imprimable, ou un tableau à envoyer par courriel.
+- **Ce qu’il advient des données** : compte, serveur, publicité. L’étiquette de confidentialité de l’App Store le dit en une ligne.
+- **Si la saisie est parfois interrompue**, par des inscriptions ou des invitations à payer.
+
+### Comment choisir, honnêtement
+
+Si votre service vous a donné une feuille avec ses propres échelles, utilisez la feuille. Si on vous a seulement dit « tenez un calendrier » en vous laissant faire, choisissez le format que vous aurez réellement avec vous aux moments qui comptent, ce qui est le téléphone pour la plupart des gens. Quel que soit votre choix, choisissez une fois : un calendrier partagé entre une feuille et un écran, ce sont deux demi-calendriers, et aucun des deux ne tombe juste. La charge que représente la tenue d’un calendrier est réelle,[6] et le format qui l’allège pour vous est le bon.
+
+Notre position, dite franchement : Calendrier mictionnel : Fluid Balance enregistre un passage en deux touches avec l’heure, compte les nuits, fait les totaux et imprime un rapport, et son étiquette de confidentialité est « Aucune donnée collectée ». Le besoin pressant a son propre champ, une évaluation facultative de 0 à 4 ; les fuites et les protections vont dans une note. Si vous préférez le papier, le [modèle gratuit](https://fluidbalanceapp.com/bladder-diary-template/) a les mêmes colonnes, de sorte que les deux se lisent pareil et qu’un médecin ne voit aucune différence de structure. Dans un cas comme dans l’autre, ce qui rend le calendrier utile est ce que les études retrouvent sans cesse : remplissez-le au moment où cela arrive.
+
+### Questions
+
+**Mon médecin acceptera-t-il un rapport issu d’une application ?**
+En général oui, s’il montre les mêmes choses que la feuille papier : heures, volumes, boissons, nuits, et les notes sur le besoin pressant ou les fuites. Imprimez-le ou envoyez-le à l’avance par courriel si vous le pouvez ; certains médecins préfèrent le papier sur le bureau. En cas de doute, posez la question au moment où le calendrier est demandé.
+
+**Une application est-elle plus exacte que le papier ?**
+Pour les heures, oui : une entrée faite sur le téléphone porte l’heure à laquelle elle a été faite, alors qu’une heure sur papier est celle que vous avez écrite. Pour les volumes, non : le pot est le même. Dans une comparaison randomisée, les calendriers électroniques et papier se sont montrés tous deux fiables, avec un peu moins de passages et de fuites saisis par voie électronique. L’exactitude vient du fait de remplir sur le moment, quel que soit le format.
+
+**Puis-je simplement utiliser l’application Notes de mon téléphone ?**
+Vous pouvez, et c’est mieux que rien. Ce que vous perdez, c’est la structure : pas de colonnes, pas de totaux, pas de comptage des nuits, et un rapport que vous devrez rédiger vous-même avant la consultation. Si vous faites ainsi, écrivez chaque ligne comme heure, quoi, combien, et gardez les heures de coucher et de lever.
+
+### Sources
+
+1. Stone AA, Shiffman S, Schwartz JE, Broderick JE, Hufford MR. Patient non-compliance with paper diaries. BMJ. 2002;324(7347):1193–1194. https://doi.org/10.1136/bmj.324.7347.1193
+2. Dmochowski RR, Sanders SW, Appell RA, Nitti VW, Davila GW. Bladder-health diaries: an assessment of 3-day vs 7-day entries. BJU Int. 2005;96(7):1049–1054. https://doi.org/10.1111/j.1464-410X.2005.05785.x
+3. Quinn P, Goka J, Richardson H. Assessment of an electronic daily diary in patients with overactive bladder. BJU Int. 2003;91(7):647–652. https://doi.org/10.1046/j.1464-410X.2003.04168.x
+4. Sussman RD, Richter LA, Tefera E, et al. Utilizing technology in assessment of lower urinary tract symptoms: a randomized trial of electronic versus paper voiding diaries. Female Pelvic Med Reconstr Surg. 2016;22(4):224–228. https://doi.org/10.1097/SPV.0000000000000266
+5. Matthews C, Stothers L, Burke C, Petersen K, Macnab A. A framework analysis of electronic bladder diary apps: suitability for clinical decision-making and comparison to validated paper diaries. Neurourol Urodyn. 2026. https://doi.org/10.1002/nau.70410
+6. Ku JH, Jeong IG, Lim DJ, Byun SS, Paick JS, Oh SJ. Voiding diary for the evaluation of urinary incontinence and lower urinary tract symptoms: prospective assessment of patient compliance and burden. Neurourol Urodyn. 2004;23(4):331–335. https://doi.org/10.1002/nau.20027
+7. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+8. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+
+Cet article explique comment tenir un calendrier. C’est une information générale venant d’un développeur d’application, pas un avis médical : ce que votre calendrier signifie, c’est votre médecin qui le dit. Calendrier rempli par vous. Pas un document médical.
+
+---
+
+## Calendrier mictionnel, vessie hyperactive et fuites : quoi noter
+Source: https://fluidbalanceapp.com/fr/blog/bladder-diary-for-overactive-bladder-and-leaks/
+Published: 2026-10-19 · Mis à jour le: 2026-10-26 · Guide · Par Denis Zinin, développeur de Calendrier mictionnel : Fluid Balance. Pas médecin.
+
+En bref:
+Un calendrier mictionnel pour la vessie hyperactive et les fuites note quatre choses en plus des boissons, des passages et des heures : si le passage s’accompagnait d’un besoin pressant, s’il y a eu une fuite et environ combien, si vous avez changé de protection, et ce que vous faisiez à ce moment-là. Les définitions de l’ICS et de l’IUGA, les recommandations du NICE et de l’AUA, et les feuilles de l’Urology Care Foundation, du NHS et de la BAUS demandent tout cela sous une forme ou une autre. Comment le noter pour que ce soit lisible :
+
+- Pour la vessie hyperactive et l’incontinence, le calendrier note quatre choses de plus : le besoin pressant, les fuites et environ leur importance, les changements de protection, et ce que vous faisiez.
+- Utilisez l’échelle de la feuille de votre service et n’en changez pas en cours de route. Sur un calendrier simple, les quatre vont dans la colonne Note, avec l’heure.
+- Les épisodes de fuite sont la mesure la plus sensible aux jours manquants : notez tous les jours demandés, y compris les bons.
+
+Un calendrier mictionnel simple note les boissons, les passages et les heures. Un calendrier pour l’incontinence ou la vessie hyperactive a besoin de quatre choses de plus sur la même feuille, parce que ce que le médecin regarde, ce sont justement le besoin pressant et les fuites : si le passage s’accompagnait d’un besoin pressant, s’il y a eu une fuite et environ combien, si vous avez changé de protection, et ce que vous faisiez à ce moment-là. Ce texte explique comment les feuilles de consultation demandent ces quatre éléments, comment les coter toujours de la même façon, et où les mettre quand votre calendrier n’a pas de colonne pour eux.
+
+### Pourquoi ces quatre-là
+
+Les termes ont des définitions précises. Le besoin pressant est une envie soudaine et impérieuse d’uriner, difficile à différer ; l’incontinence urinaire est toute fuite involontaire, et l’incontinence par urgenturie est une fuite accompagnée d’un besoin pressant ; la vessie hyperactive, elle, associe besoin pressant, le plus souvent fréquence et passages nocturnes, avec ou sans fuite.[1,3] La recommandation américaine sur la vessie hyperactive inclut un calendrier mictionnel dans l’évaluation,[2] et le NICE demande aux femmes qui consultent pour incontinence un calendrier d’au moins trois jours, puis classe l’incontinence d’après l’histoire : fuite à l’effort, comme en toussant, fuite avec besoin pressant, ou les deux.[4] Les quatre colonnes supplémentaires sont la manière dont le calendrier soutient ce classement. « Fuite en éternuant » et « fuite en allant aux toilettes avec un besoin pressant » sont deux constats différents, et c’est dans le calendrier que la différence est consignée avec une heure.
+
+### Comment les feuilles de consultation notent-elles le besoin pressant et les fuites ?
+
+Les feuilles diffèrent par les mots, pas par le fond.
+
+- **Urology Care Foundation (AUA).** Pour chaque passage : avez-vous ressenti un besoin pressant, oui ou non ; y a-t-il eu une fuite, et de quelle importance ; que faisiez-vous à ce moment-là, « éternuer, faire du sport, etc. »[5]
+- **NHS Gloucestershire.** Un score de sensation vésicale de 0 à 4 : 0 aucune sensation, passage pour raisons de convenance ; 1 envie normale ; 2 besoin pressant qui est passé ; 3 besoin pressant, toilettes atteintes sans fuite ; 4 besoin pressant avec fuite. Plus LEAK inscrit dans la colonne des urines, et une coche ou un poids pour chaque protection.[6]
+- **University Hospitals Sussex, kinésithérapie.** Un oui pour un besoin fort et soudain, et une sévérité de la fuite : D humide, W mouillé, V très mouillé.[7]
+- **BAUS.** Une colonne WET avec +, ++ ou +++ pour une fuite petite, moyenne ou importante.[8]
+
+La description du calendrier mictionnel par l’International Continence Society énumère les mêmes éléments : épisodes d’incontinence, importance de l’incontinence, usage de protections et besoin pressant.[9]
+
+### Coter toujours de la même façon
+
+Choisissez une échelle, celle de votre feuille, et tenez-vous-y pour tout le calendrier. Un « 3 » au premier jour et un « assez gênant » au troisième ne se comparent pas, et c’est la comparaison qui compte. Si votre feuille n’a pas d’échelle, trois niveaux suffisent pour les fuites — petite, moyenne, importante — et un oui ou un non suffit pour le besoin pressant. Notez sur le moment : une fuite dont on se souvient le soir devient volontiers « un peu », quelle qu’elle ait été.
+
+Notez l’activité en quelques mots : en toussant, en riant, en soulevant, en me levant, en allant aux toilettes, au lit. C’est la colonne que les médecins lisent pour distinguer un type de fuite d’un autre.[4,5]
+
+### Où cela va dans un calendrier simple
+
+Si votre calendrier n’a que l’heure, la boisson, le volume et une note, les quatre éléments vont dans la note, avec l’heure du passage auquel ils se rapportent. Notre [modèle à imprimer](https://fluidbalanceapp.com/bladder-diary-template/) a justement une colonne Note intitulée « besoin pressant, fuite, protection, tout ce qui sort de l’ordinaire », et son exemple rempli montre un passage avec « pressé, petite fuite ». Dans l’application, le besoin pressant a son propre champ — une évaluation facultative de 0 à 4, désactivée tant que vous ne l’activez pas — et les fuites, les protections et les déclencheurs vont dans la note ; le rapport imprime les deux à côté de leurs heures. Si votre service veut ses propres colonnes cotées, remplissez-les comme la feuille le demande : une cotation de 0 à 4 n’est pas la même échelle que le score de sensation d’une feuille, et la comparaison est précisément ce à quoi sert la cotation.
+
+### Fuites nocturnes et protections la nuit
+
+Une fuite au lit est une ligne de nuit : l’heure, « fuite », son importance, et si vous dormiez ou si vous alliez aux toilettes. Une protection changée la nuit est une ligne de protection. Les deux se placent entre vos heures de coucher et de lever, pour que le médecin puisse séparer la nuit du jour ; [noter les passages de nuit](https://fluidbalanceapp.com/blog/bladder-diary-for-nocturia/) explique comment fonctionnent ces heures.
+
+### Notez aussi les bons jours
+
+Les épisodes de fuite sont la mesure du calendrier que les jours manquants faussent le plus. Dans une étude comparant les durées de calendrier, trois jours valaient sept pour le nombre de passages, le volume par passage, le besoin pressant et le volume quotidien, mais pour les épisodes d’incontinence trois jours paraissaient limites.[10] Moins vous notez de jours, plus une seule journée sans fuite ou une seule mauvaise journée déforme le tableau. Notez tous les jours demandés, y compris ceux où il n’y a rien à signaler, et dites lesquels sont complets.
+
+### Ce que le médecin en fait
+
+Il trie les événements par type, par heure et par déclencheur, à côté de vos boissons et de vos volumes, et lit l’ensemble à la lumière de votre histoire et de l’examen. Ce qu’il en conclut et ce qu’il propose lui appartient ; il n’y a sur cette page ni seuil ni conseil sur ce qu’il faudrait boire ou quand. [Comment tenir un calendrier mictionnel](https://fluidbalanceapp.com/blog/how-to-keep-a-bladder-diary/) couvre le reste de l’enregistrement.
+
+### Questions
+
+**Dois-je noter une fuite si j’ai quand même atteint les toilettes ?**
+Notez le besoin pressant, pas la fuite. Le besoin pressant est l’envie soudaine et difficile à différer d’uriner ; une fuite, c’est de l’urine qui s’échappe avant que vous n’arriviez. La feuille du NHS cote les deux séparément : un besoin pressant maîtrisé vaut 3, un besoin pressant avec fuite vaut 4. Les deux lignes sont utiles, et ce sont deux lignes différentes.
+
+**Comment noter les protections ?**
+Cochez chaque changement, avec l’heure, dans la colonne des protections ou dans la note. Certains services demandent de peser les protections usagées, et la feuille du NHS donne la conversion : 1 gramme pour 1 ml. Ne le faites que si on vous l’a demandé. Le relevé habituel est un simple décompte des changements.
+
+**Comment noter le besoin pressant et les fuites dans l’application ?**
+Le besoin pressant a son propre champ : activez l’évaluation du besoin dans les réglages, et un passage peut alors être coté de 0 à 4. Les fuites et les protections vont dans la note de l’entrée : « fuite, petite, en toussant », « protection ». Le rapport imprime les deux à côté de leurs heures, pour que le médecin les voie dans l’ordre. Si la feuille de votre service a ses propres colonnes et échelles, remplissez-les comme elle le demande : une cotation de 0 à 4 et le score de sensation d’une feuille ne sont pas la même échelle.
+
+### Sources
+
+1. Abrams P, Cardozo L, Fall M, et al. The standardisation of terminology of lower urinary tract function: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):167–178. https://doi.org/10.1002/nau.10052
+2. Cameron AP, Chung DE, Dielubanza EJ, et al. The AUA/SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder. J Urol. 2024;212(1):11–20. https://doi.org/10.1097/JU.0000000000003985
+3. Haylen BT, de Ridder D, Freeman RM, et al. An International Urogynecological Association (IUGA)/International Continence Society (ICS) joint report on the terminology for female pelvic floor dysfunction. Neurourol Urodyn. 2010;29(1):4–20. https://doi.org/10.1002/nau.20798
+4. National Institute for Health and Care Excellence. Urinary incontinence and pelvic organ prolapse in women: management. NICE guideline NG123. London: NICE; 2019. https://www.nice.org.uk/guidance/ng123
+5. Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025. https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf
+6. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+7. University Hospitals Sussex NHS Foundation Trust. Bladder record chart: pelvic health physiotherapy patient information. Reference 2198; 2023. https://www.uhsussex.nhs.uk/wp-content/uploads/2023/03/Bladder-Record-chart.pdf
+8. British Association of Urological Surgeons. Information from BAUS about assessing fluid intake & output. Patient leaflet F24/016. BAUS; 2024. https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Input%20output%20chart.pdf
+9. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+10. Konstantinidis C, Kratiras Z, Samarinas M, Skriapas K. Optimal bladder diary duration for patients with suprapontine neurogenic lower urinary tract dysfunction. Int Braz J Urol. 2016;42(4):766–772. https://doi.org/10.1590/S1677-5538.IBJU.2015.0292
+
+Cet article explique comment tenir un calendrier. C’est une information générale venant d’un développeur d’application, pas un avis médical : ce que votre calendrier signifie, c’est votre médecin qui le dit. Calendrier rempli par vous. Pas un document médical.
+
+---
+
+## Calendrier mictionnel et nycturie : noter les passages de nuit
+Source: https://fluidbalanceapp.com/fr/blog/bladder-diary-for-nocturia/
+Published: 2026-10-12 · Guide · Par Denis Zinin, développeur de Calendrier mictionnel : Fluid Balance. Pas médecin.
+
+En bref:
+Un calendrier pour la nycturie est un calendrier mictionnel ordinaire dont la nuit est correctement notée : l’heure du coucher, l’heure du lever, et chaque passage entre les deux avec son heure et, quand c’est possible, son volume. L’International Continence Society définit la nycturie comme le fait de se réveiller la nuit pour uriner, et l’EAU comme l’ICS comptent les passages et l’urine de la nuit à partir de ces heures exactement. Trois choses à bien faire :
+
+- Notez l’heure à laquelle vous vous êtes couché et celle à laquelle vous vous êtes levé. Tout passage entre les deux est un passage de nuit : cochez-le, gardez l’heure, mesurez si vous pouvez.
+- Le premier passage après le lever s’écrit sur la première ligne du nouveau jour, mais son volume appartient à la nuit. Le médecin fera le tri ; vous, vous n’avez besoin que des heures.
+- Tenez au moins trois nuits et ne changez rien à vos boissons du soir pour le calendrier. C’est le schéma qui compte.
+
+Un calendrier pour la nycturie est un calendrier mictionnel ordinaire dont la nuit est correctement notée. Si on vous en a demandé un parce que vous vous levez la nuit, la nuit est la partie du calendrier qui compte le plus — et c’est aussi celle que l’on note le plus mal : à moitié endormi, dans le noir, sans aucune envie de tenir un pot. Ce texte explique comment réussir les nuits avec le moins d’effort possible. Il ne dit pas combien de passages font trop ; cette question revient au médecin qui a demandé le calendrier.
+
+### Ce qui compte comme passage de nuit
+
+L’International Continence Society définit la nycturie, les mictions nocturnes, comme le fait de se réveiller la nuit pour uriner : chaque passage est précédé et suivi de sommeil.[1,2] Le calendrier traduit cette définition en deux heures — celle où vous vous êtes couché pour dormir et celle où vous vous êtes levé pour la journée — et tout ce qui se trouve entre les deux est la nuit.
+
+C’est pourquoi chaque formulaire demande ces deux heures. Sur la feuille du NHS, vous écrivez BED et WOKE dans la colonne des heures ;[8] la feuille de la BAUS demande deux traits en travers de la colonne du jour ;[9] notre [modèle à imprimer](https://fluidbalanceapp.com/bladder-diary-template/) prévoit une case pour chacune en haut de chaque page et une colonne Nuit à cocher. L’application compte les passages de nuit dans une fenêtre fixe, de 22:00 à 07:00, et l’indique sur le rapport. Si vos nuits suivent une autre horloge, inscrivez vos vraies heures de coucher et de lever dans les notes, ou prenez la feuille papier ; le médecin a besoin de votre nuit, pas d’une nuit par défaut.
+
+### Pourquoi le calendrier plutôt qu’un simple récit
+
+Les recommandations sont ici inhabituellement directes. L’European Association of Urology recommande un calendrier mictionnel d’au moins trois jours pour évaluer les symptômes urinaires masculins, « en particulier pour la nycturie », parce que c’est le calendrier qui permet au médecin de distinguer les différentes causes des passages nocturnes.[3] Une revue systématique de la nycturie a conclu que les outils objectifs comme le catalogue mictionnel sont sous-utilisés et que l’évaluation en pâtit.[4] La mémoire est meilleure pour les nuits que pour les jours,[10] mais un décompte n’est pas une trace avec des heures et des volumes, et c’est dans les volumes que se trouve l’essentiel de l’information.
+
+### Le premier passage du matin
+
+Le passage que vous faites après vous être levé n’est pas un passage de nuit : vous étiez déjà debout.[1,2] Mais l’urine que vous éliminez alors a été produite pendant la nuit, et selon la définition de l’ICS son volume s’ajoute au volume urinaire nocturne.[1] Sur papier, écrivez-le sur la première ligne après votre heure de lever, avec son volume si vous l’avez mesuré. Vous n’avez aucun calcul à faire. Le médecin, lui, en fera — et c’est exactement pour cela que cette première mesure vaut le pot.
+
+### Quoi écrire pour chaque passage de nuit
+
+- **L’heure.** Regardez l’horloge avant toute chose. Si vous ne vous en souvenez plus le matin, écrivez votre meilleure estimation et marquez « env. » dans la note.
+- **Le volume, si vous le pouvez.** Une cuvette posée sous la lunette avant le coucher le recueille sans que vous teniez quoi que ce soit ; lisez-la au matin s’il le faut, mais écrivez l’heure tout de suite.[6,7]
+- **Une coche, si vous n’avez pas pu mesurer.** Un passage de nuit coché reste un passage.
+- **Une note quand quelque chose sort de l’ordinaire.** « Réveillé de toute façon », « réveillé par un besoin pressant », « fuite avant d’arriver », une douleur. Ce sont ces lignes-là que le médecin lit.
+
+### Ce que le médecin calcule à partir des nuits
+
+De vos heures et de vos volumes, il déduit la quantité d’urine produite la nuit, la part que cela représente sur les 24 heures, et combien de temps vous avez dormi avant le premier passage.[1,2,5] Ces chiffres sont la raison pour laquelle les deux heures et le volume du premier matin comptent autant : sans eux, les passages de nuit ne sont qu’un décompte, et c’est précisément ce que le calendrier devait améliorer. Les seuils que le médecin applique à ces chiffres dépendent de l’âge et du reste de votre histoire, et lui appartiennent.
+
+### Combien de nuits un calendrier pour la nycturie doit-il couvrir ?
+
+Au moins trois, selon la recommandation de l’EAU et selon la plupart des feuilles de consultation.[3,8,9] Plus de nuits donnent au médecin un meilleur échantillon d’un schéma qui varie d’une nuit à l’autre ; une semaine est courante quand la nycturie est la question principale. Quel que soit le nombre, chaque nuit doit être complète : heure du coucher, chaque passage, heure du lever. [Combien de jours un calendrier doit couvrir](https://fluidbalanceapp.com/blog/bladder-diary-how-many-days/) détaille les recommandations.
+
+### Ne changez pas vos soirées pour le calendrier
+
+Si vous prenez d’habitude un thé à neuf heures, prenez votre thé à neuf heures. Un calendrier tenu sur des soirées exceptionnellement sobres montre au médecin un schéma qui n’est pas le vôtre, et la consultation part d’une image fausse. Notez les boissons du soir avec leur heure et leur quantité ; la relation entre ce que vous buvez le soir et les passages de la nuit est l’une des choses que le calendrier existe pour montrer.
+
+### Pour que ce soit plus simple
+
+Mettez la cuvette en place et le stylo sur la feuille avant de vous coucher. Laissez une petite lumière allumée. Si la feuille n’est pas près des toilettes, le téléphone, lui, y est : le widget de l’écran verrouillé et l’application Apple Watch enregistrent un passage en deux touches sans rien déverrouiller, et l’heure est notée pour vous. Quel que soit votre choix, la règle est la même : l’heure d’abord, le volume ensuite, et jamais de ligne sautée.
+
+### Questions
+
+**Le premier passage après le lever compte-t-il comme un passage de nuit ?**
+Pas comme un passage, mais son volume compte comme urine de la nuit. Selon la définition de l’ICS, la nycturie consiste à se réveiller la nuit pour uriner ; un passage fait une fois levé pour la journée n’en est donc pas un. L’urine que vous éliminez alors a pourtant été produite pendant la nuit et s’ajoute au volume nocturne. Écrivez-le sur la première ligne après votre heure de lever et laissez le médecin faire le tri.
+
+**Et si j’étais réveillé de toute façon et que j’y suis allé parce que j’étais debout ?**
+Notez le passage avec son heure et ajoutez une remarque : « réveillé de toute façon ». La définition de la nycturie par l’ICS suppose un réveil pour uriner, le médecin voudra donc savoir quels passages vous ont réveillé et lesquels ont eu lieu parce que vous étiez déjà debout. Une courte note suffit.
+
+**Dois-je mesurer la nuit ?**
+Si vous le pouvez, oui, car ce sont les volumes de la nuit que le médecin additionne. Une cuvette posée sous la lunette avant de vous coucher rend la chose simple : rien à tenir, rien à chercher dans le noir. Si vous ne pouvez pas, cochez le passage et gardez l’heure ; un passage de nuit coché reste un passage.
+
+### Sources
+
+1. van Kerrebroeck P, Abrams P, Chaikin D, et al. The standardisation of terminology in nocturia: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):179–183. https://doi.org/10.1002/nau.10053
+2. Hashim H, Blanker MH, Drake MJ, et al. International Continence Society (ICS) report on the terminology for nocturia and nocturnal lower urinary tract function. Neurourol Urodyn. 2019;38(2):499–508. https://doi.org/10.1002/nau.23917
+3. European Association of Urology. EAU Guidelines on the Management of Non-neurogenic Male LUTS. Arnhem: EAU; 2026. Chapter 4, Diagnostic evaluation. https://uroweb.org/guidelines/management-of-non-neurogenic-male-luts/chapter/diagnostic-evaluation
+4. Cornu JN, Abrams P, Chapple CR, et al. A contemporary assessment of nocturia: definition, epidemiology, pathophysiology, and management—a systematic review and meta-analysis. Eur Urol. 2012;62(5):877–890. https://doi.org/10.1016/j.eururo.2012.07.004
+5. Epstein M, Blaivas J, Wein AJ, Weiss JP. Nocturia treatment outcomes: analysis of contributory frequency volume chart parameters. Neurourol Urodyn. 2018;37(1):186–191. https://doi.org/10.1002/nau.23272
+6. European Association of Urology, Patient Information. Bladder diary for nocturia. Uroweb. https://patients.uroweb.org/condition/nocturia/treatment-options-nocturia/bladder-diary-for-nocturia
+7. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+8. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+9. British Association of Urological Surgeons. Information from BAUS about assessing fluid intake & output. Patient leaflet F24/016. BAUS; 2024. https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Input%20output%20chart.pdf
+10. Stav K, Dwyer PL, Rosamilia A. Women overestimate daytime urinary frequency: the importance of the bladder diary. J Urol. 2009;181(5):2176–2180. https://doi.org/10.1016/j.juro.2009.01.042
+
+Cet article explique comment tenir un calendrier. C’est une information générale venant d’un développeur d’application, pas un avis médical : ce que votre calendrier signifie, c’est votre médecin qui le dit. Calendrier rempli par vous. Pas un document médical.
+
+---
+
+## Que montre un calendrier mictionnel ? Ce que lit votre urologue
+Source: https://fluidbalanceapp.com/fr/blog/what-does-a-bladder-diary-show/
+Published: 2026-10-05 · Guide · Par Denis Zinin, développeur de Calendrier mictionnel : Fluid Balance. Pas médecin.
+
+En bref:
+Ce qu’un calendrier mictionnel montre à un soignant se ramène à cinq choses : à quelle fréquence vous allez, de jour et de nuit ; combien vous éliminez à chaque fois ; quelle part de votre urine est produite la nuit ; ce que vous buvez et quand ; et à quel point le relevé est complet. Aucune ne vient avec un chiffre à atteindre ; la lecture appartient au soignant qui connaît votre histoire :
+
+- Un soignant lit cinq choses dans un calendrier : à quelle fréquence vous allez de jour et de nuit, combien vous éliminez à chaque fois, quelle quantité d’urine vous fabriquez la nuit, ce que vous buvez et quand, et à quel point le relevé est complet.
+- Aucune n’a un chiffre à viser. Les mêmes valeurs signifient des choses différentes selon les personnes, et seul le soignant qui connaît votre histoire peut les lire.
+- Ce que vous maîtrisez, c’est le relevé : chaque passage avec son heure, les volumes quand vous pouvez, les heures de coucher et de lever, et des trous honnêtes plutôt que comblés.
+
+Un calendrier mictionnel montre à un soignant cinq choses : à quelle fréquence vous allez, de jour et de nuit ; combien vous éliminez à chaque fois ; quelle part de votre urine est produite la nuit ; ce que vous buvez et quand ; et à quel point le relevé est complet. Rien sur cette page ne dit ce que ces chiffres devraient être, et rien n’interprète des résultats de calendrier. Cette lecture appartient au soignant qui connaît votre histoire ; ce à quoi sert un calendrier mictionnel, c’est à poser ces cinq choses devant lui. Cet article explique ce qu’il regarde, pour que chaque colonne de la feuille ait du sens pendant que vous la remplissez.
+
+### À quoi sert un calendrier mictionnel ?
+
+L’International Continence Society définit les termes sur lesquels un calendrier est construit : la fréquence diurne, la nycturie, le volume uriné et la courbe mictionnelle qui les enregistre.[1] La recherche sur ces courbes s’est fixée sur une poignée de variables qu’on relit sans cesse : le nombre de mictions de jour et de nuit, le volume de chaque miction, le plus grand volume et le total sur 24 heures.[2] Les recommandations disent ensuite aux cliniciens de demander le calendrier : l’European Association of Urology recommande un calendrier d’au moins trois jours dans l’évaluation des symptômes urinaires masculins, en particulier pour la nycturie,[3] le NICE en demande un quand des femmes consultent pour incontinence urinaire,[4] et la recommandation américaine sur la vessie hyperactive l’inclut dans l’évaluation.[5]
+
+### 1. À quelle fréquence vous allez, jour et nuit séparément
+
+Le premier décompte, ce sont les passages par 24 heures. Le deuxième, souvent plus important, c’est combien d’entre eux ont eu lieu la nuit : l’International Continence Society définit la nycturie comme le fait de se réveiller la nuit pour uriner, chaque passage étant précédé et suivi de sommeil.[1,6,7] C’est pour cela que tout calendrier demande quand vous vous êtes couché et quand vous vous êtes levé. Sans ces deux heures, les passages de nuit ne peuvent pas être séparés de ceux du jour, et la moitié de l’utilité du calendrier disparaît.
+
+Les passages que vous n’avez pas pu mesurer comptent ici aussi. Une coche avec son heure est une entrée complète à cet égard ; une ligne manquante ne l’est pas.
+
+### 2. Combien vous éliminez à chaque fois
+
+Chaque volume mesuré dit déjà quelque chose au soignant, et ensemble ils donnent deux autres chiffres : le plus grand volume éliminé pendant le calendrier et l’écart entre le plus petit et le plus grand.[2] Une série de petits volumes et une série de grands se lisent différemment, et toutes deux se lisent au regard de tout ce que le soignant sait par ailleurs de vous. C’est la partie du calendrier qu’un pot gradué ou une cuvette de recueil rend possible ; [mesurer sa diurèse à la maison](https://fluidbalanceapp.com/blog/how-to-measure-urine-output-at-home/) couvre l’aspect pratique.
+
+### 3. Quelle quantité d’urine vous fabriquez la nuit
+
+Les cliniciens additionnent les volumes nocturnes à part. Selon la définition de l’ICS, le volume d’urine nocturne inclut la première miction après le lever du matin, parce que cette urine a été produite pendant la nuit, même si le passage lui-même a lieu après le réveil.[6,7] À partir du volume nocturne et du volume sur 24 heures, ils calculent la part produite la nuit, et à partir des heures ils voient combien de temps vous avez dormi avant le premier passage.[8] Ce sont des calculs, pas des verdicts : les chiffres sont comparés à votre âge, à votre sommeil et à vos antécédents, et les seuils, c’est à eux de les appliquer.
+
+### 4. Ce que vous buvez, et quand
+
+Le côté apports se lit davantage pour le rythme que pour le total : comment les boissons se répartissent dans la journée, ce qu’elles étaient, et à quoi ressemble la soirée. Les feuilles de service demandent le type de boisson pour la même raison.[1] Le soignant regarde si ce qui est entré et ce qui est sorti coïncident dans le temps ; c’est une question sur votre relevé, pas un jugement sur vos habitudes.
+
+### 5. Les notes : besoins pressants, fuites, protections
+
+Là où la feuille a des colonnes pour le besoin pressant, les fuites et les changements de protection, elles se lisent comme des événements datés. L’ICS définit ces termes aussi : le besoin pressant comme une envie soudaine et impérieuse d’uriner, difficile à différer, et l’incontinence comme toute fuite involontaire.[1,10] Une note qui dit « fuite en toussant » ou « besoin pressant sur le chemin du retour » est exactement la ligne à laquelle sert la deuxième lecture.
+
+### La vérification qui passe avant : est-il complet ?
+
+Avant tout ce qui précède, un soignant regarde quelle part du calendrier est là : combien de journées sont remplies d’un réveil à l’autre, combien de passages ont un volume, combien sont des coches. Un calendrier avec deux journées complètes se lit ; un calendrier avec cinq journées de lignes éparses, c’est une conversation sur le fait de recommencer. Les cliniciens s’appuient sur le calendrier précisément parce que la mémoire est mauvaise à cet endroit : dans une étude, la moitié des femmes interrogées surestimaient la fréquence de leurs passages dans la journée par rapport à leur propre calendrier.[9] Notre [modèle](https://fluidbalanceapp.com/bladder-diary-template/) a une ligne « jours notés » sur la dernière page, et l’application compte les jours notés pour la même raison.
+
+### Pourquoi vous ne trouverez pas de valeurs normales ici
+
+Deux raisons. D’abord, il n’existe pas de calendrier validé unique, et les services utilisent des feuilles différentes, des longueurs de journée différentes et des définitions de la nuit différentes ;[11,12] un chiffre d’une feuille ne se transpose pas proprement à une autre. Ensuite, et c’est plus important : chaque valeur d’un calendrier se lit au regard de la personne — l’âge, les boissons, les médicaments, le sommeil, les autres maladies. Une fréquence banale chez l’un est l’élément clé chez l’autre. Publier un tableau de valeurs « normales » reviendrait à vous inviter à vous noter avec un outil qui n’a jamais été conçu pour cela. Le calendrier est un relevé. Le lire, c’est le rendez-vous.
+
+### L’apporter
+
+Apportez toutes les pages, dites quelles journées sont complètes, et, si vous avez utilisé une application, imprimez le rapport ou tenez-le prêt sur le téléphone. [Tenir un calendrier mictionnel](https://fluidbalanceapp.com/blog/how-to-keep-a-bladder-diary/) couvre le reste : quoi noter, les erreurs courantes, et que faire des journées qui ont mal tourné.
+
+### Questions
+
+**Puis-je comprendre moi-même ce que dit mon calendrier ?**
+Pas de façon fiable, et cet article ne donne volontairement aucun seuil. Un soignant lit le calendrier à côté de votre histoire, d’un examen et parfois de tests ; le même nombre de passages ou le même volume nocturne peut être banal chez une personne et être l’élément clé chez une autre. Gardez le relevé complet et laissez-les le lire.
+
+**Le médecin lit-il vraiment chaque ligne ?**
+Il commence en général par le résumé : passages de jour et de nuit, volumes les plus grands et habituels, diurèse nocturne, apports, et combien de journées sont complètes. Puis il va aux lignes qui ressortent : une fuite, une note sur un besoin pressant, une soirée très arrosée. Chaque ligne est là pour ce deuxième coup d’œil.
+
+**Et si mon calendrier a l’air mauvais ?**
+Il n’y a pas de mauvais calendrier, sauf un calendrier incomplet. C’est le relevé de quelques jours, pas un examen qu’on réussit ou qu’on rate, et les soignants s’y fient davantage qu’à ce dont les gens se souviennent en consultation. Ne le nettoyez pas ; apportez-le tel quel.
+
+### Sources
+
+1. Abrams P, Cardozo L, Fall M, et al. The standardisation of terminology of lower urinary tract function: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):167–178. https://doi.org/10.1002/nau.10052
+2. Yap TL, Cromwell DC, Emberton M. A systematic review of the reliability of frequency-volume charts in urological research and its implications for the optimum chart duration. BJU Int. 2007;99(1):9–16. https://doi.org/10.1111/j.1464-410X.2006.06499.x
+3. European Association of Urology. EAU Guidelines on the Management of Non-neurogenic Male LUTS. Arnhem: EAU; 2026. Chapter 4, Diagnostic evaluation. https://uroweb.org/guidelines/management-of-non-neurogenic-male-luts/chapter/diagnostic-evaluation
+4. National Institute for Health and Care Excellence. Urinary incontinence and pelvic organ prolapse in women: management. NICE guideline NG123. London: NICE; 2019. https://www.nice.org.uk/guidance/ng123
+5. Cameron AP, Chung DE, Dielubanza EJ, et al. The AUA/SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder. J Urol. 2024;212(1):11–20. https://doi.org/10.1097/JU.0000000000003985
+6. van Kerrebroeck P, Abrams P, Chaikin D, et al. The standardisation of terminology in nocturia: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):179–183. https://doi.org/10.1002/nau.10053
+7. Hashim H, Blanker MH, Drake MJ, et al. International Continence Society (ICS) report on the terminology for nocturia and nocturnal lower urinary tract function. Neurourol Urodyn. 2019;38(2):499–508. https://doi.org/10.1002/nau.23917
+8. Epstein M, Blaivas J, Wein AJ, Weiss JP. Nocturia treatment outcomes: analysis of contributory frequency volume chart parameters. Neurourol Urodyn. 2018;37(1):186–191. https://doi.org/10.1002/nau.23272
+9. Stav K, Dwyer PL, Rosamilia A. Women overestimate daytime urinary frequency: the importance of the bladder diary. J Urol. 2009;181(5):2176–2180. https://doi.org/10.1016/j.juro.2009.01.042
+10. Haylen BT, de Ridder D, Freeman RM, et al. An International Urogynecological Association (IUGA)/International Continence Society (ICS) joint report on the terminology for female pelvic floor dysfunction. Neurourol Urodyn. 2010;29(1):4–20. https://doi.org/10.1002/nau.20798
+11. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+12. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+
+Cet article explique comment tenir un calendrier. C’est une information générale venant d’un développeur d’application, pas un avis médical : ce que votre calendrier signifie, c’est votre médecin qui le dit. Calendrier rempli par vous. Pas un document médical.
+
+---
+
+## Exemple de calendrier mictionnel : une journée entière, ligne par ligne
+Source: https://fluidbalanceapp.com/fr/blog/bladder-diary-example/
+Published: 2026-09-28 · Guide · Par Denis Zinin, développeur de Calendrier mictionnel : Fluid Balance. Pas médecin.
+
+En bref:
+Un exemple de calendrier mictionnel sur une journée entière est présenté ci-dessous, ligne par ligne : une quinzaine d’entrées avec chaque boisson et sa quantité, chaque passage avec un volume ou une coche pour non mesuré, les heures de coucher et de lever, et une note là où quelque chose s’est produit. La journée est inventée, ses totaux ne sont donc pas des objectifs. La présentation suit le calendrier de l’Urology Care Foundation et les feuilles du NHS, dont les formulaires ne montrent qu’une ou deux lignes d’exemple. Ce que cette journée doit montrer :
+
+- Une journée complète, c’est une quinzaine de lignes : chaque boisson avec sa quantité, chaque passage avec un volume ou une coche, les heures de coucher et de lever, et une note là où quelque chose s’est produit.
+- L’exemple ci-dessous est une journée inventée. Ses totaux ne sont pas des objectifs, et il n’y a ici aucune norme à laquelle les comparer.
+- Un soignant y lit le nombre de passages de jour et de nuit, les volumes, le rythme des boissons, les notes, et si la journée est complète.
+
+Les feuilles de service montrent une ou deux lignes d’exemple : le calendrier de l’Urology Care Foundation a une seule ligne avec une canette de soda et une fuite en riant,[1] la feuille du NHS Gloucestershire montre un matin avec une tasse de thé et une fuite,[2] la feuille de kinésithérapie du Sussex trois lignes du matin avec des totaux.[3] Utile, mais la journée de personne ne fait trois lignes. Voici une journée entière inventée, au format de notre [modèle à imprimer](https://fluidbalanceapp.com/bladder-diary-template/), suivie de ce que chacune de ses parties dit à un soignant. Les chiffres sont ceux de cet exemple et rien d’autre ; il n’y a sur cette page aucune norme à laquelle les comparer.
+
+### À quoi ressemble une journée entière de calendrier ?
+
+Un exemple de calendrier mictionnel rempli. Jour 1 sur 7. Couché à 22:45. Levé à 7:00.
+
+| Heure | Bu (ml) | Quoi | Éliminé (ml ou ✓) | Nuit | Note |
+|---|---|---|---|---|---|
+| 7:05 | | | 350 | | premier du matin |
+| 7:20 | 250 | thé | | | |
+| 8:30 | 200 | café | | | |
+| 9:40 | | | ✓ | | pressé, petite fuite |
+| 11:00 | 500 | eau | | | |
+| 11:45 | | | 220 | | |
+| 13:10 | 330 | jus | | | |
+| 13:30 | | | 180 | | besoin pressant |
+| 15:00 | 250 | thé | | | |
+| 16:20 | | | 260 | | |
+| 18:00 | 250 | eau | | | |
+| 19:30 | 200 | bière | | | |
+| 20:15 | | | 300 | | |
+| 22:30 | | | 150 | | avant de me coucher |
+| 3:10 | | | 180 | ✓ | |
+
+Quinze lignes, une page. La journée va du lever au lever, le passage de 3:10 appartient donc au jour 1, même si la date a changé.
+
+### Ligne par ligne
+
+**7:05, 350 ml, « premier du matin ».** Le premier passage après le lever. Ce n’est pas un passage de nuit, puisque la nuit du calendrier s’est terminée à 7:00, mais selon la définition de l’ICS l’urine éliminée alors a été produite pendant la nuit et s’ajoute au volume nocturne,[5] ce qui explique qu’on la mesure au lieu de cocher. Sur le papier, c’est simplement la première ligne de la journée.
+
+**7:20 et 8:30, thé et café.** Des boissons avec la quantité et le type. La quantité vient d’avoir mesuré la tasse une fois ; le type est là parce que les feuilles de service le demandent.[1,2]
+
+**9:40, une coche, « pressé, petite fuite ».** Pas le temps de mesurer, donc une coche au lieu d’un volume, et le passage compte quand même dans le total des passages du jour.[2] La note consigne la fuite avec une taille approximative. Sur une feuille avec des colonnes pour les fuites, ce serait un « petite » ou un « + » ; sur un calendrier simple, c’est une note avec son heure.
+
+**11:00, 500 ml d’eau.** Une bouteille : la quantité est imprimée dessus.
+
+**13:30, 180 ml, « besoin pressant ».** Un passage mesuré avec le besoin noté : une envie soudaine et impérieuse d’aller aux toilettes.[4] Écrit sur le moment, en deux mots, ce qui suffit.
+
+**19:30, 200 ml de bière.** L’alcool est une boisson comme une autre sur la feuille : quantité, type, heure. Le calendrier doit montrer une vraie soirée, pas une soirée arrangée.
+
+**22:30, 150 ml, « avant de me coucher ».** Le dernier passage avant l’heure du coucher inscrite en haut de la page. C’est un passage de journée ; la nuit commence à 22:45.
+
+**3:10, 180 ml, coché Nuit.** Entre le coucher et le lever, donc il reçoit la coche. C’est la ligne qui rend le décompte de nuit possible ; un calendrier sans heures de coucher et de lever ne peut pas distinguer ce passage de celui de 22:30.
+
+### Ce que fait ce total
+
+Uniquement parce que l’exemple le permet : 1 980 ml bus en sept boissons ; 1 640 ml éliminés en sept passages mesurés, plus un passage coché sans volume ; huit passages en tout, dont un la nuit. Sur une feuille de service, on vous demandera peut-être d’écrire ces totaux sur la dernière ligne ; dans l’application ils apparaissent sur l’écran du jour et dans le rapport sans aucune addition. Ce ne sont pas des objectifs et ils ne sont typiques de personne en particulier. Leur seul rôle ici est de montrer à quoi ressemble une journée complète une fois comptée.
+
+### Ce qu’un soignant y voit
+
+Huit passages avec leurs heures, un la nuit, un non mesuré. Sept volumes mesurés, de 150 à 350 ml. Des boissons réparties de 7:20 à 19:30 avec les types notés. Deux notes, une fuite avec son déclencheur et un besoin pressant. Les heures de coucher et de lever, pour que la nuit puisse être séparée du jour. Et une journée complète d’un réveil à l’autre, ce qui est la première chose vérifiée, parce que la mémoire seule se trompe même sur le nombre de passages.[6] Ce que ces faits signifient, c’est le rendez-vous ; le rôle du calendrier était de les apporter.
+
+### Votre journée sera différente
+
+Plus de lignes ou moins, d’autres boissons, d’autres heures. Ce qui ne change pas, c’est le format : chaque boisson, chaque passage, un volume ou une coche, les deux heures qui encadrent la nuit, et une note là où quelque chose s’est produit. [Tenir un calendrier mictionnel](https://fluidbalanceapp.com/blog/how-to-keep-a-bladder-diary/) détaille les habitudes qui y mènent, et [mesurer sa diurèse à la maison](https://fluidbalanceapp.com/blog/how-to-measure-urine-output-at-home/) parle du pot gradué.
+
+### Questions
+
+**Où est-ce que j’écris le premier passage du matin ?**
+Comme première ligne de la nouvelle journée, après votre heure de lever, avec son volume si vous l’avez mesuré. Ce n’est pas un passage de nuit, puisque vous étiez levé, mais selon la définition de l’ICS cette urine a été produite pendant la nuit et compte dans le volume nocturne, il vaut donc la peine de la mesurer. Le tri, c’est l’affaire du soignant.
+
+**Dois-je faire les totaux moi-même ?**
+Non. Les feuilles de service laissent une ligne de total, et certaines la demandent, mais le soignant peut additionner ; la feuille du NHS le dit d’ailleurs. Si vous utilisez l’application, les totaux, le nombre de passages et le décompte de nuit sont faits pour vous. Ce qu’on ne peut pas déléguer, ce sont les lignes elles-mêmes.
+
+**Et si ma journée fait vingt lignes ?**
+Prenez la page suivante et continuez. Une journée avec beaucoup de lignes est une journée complète, et c’est la seule sorte que le soignant veut ; omettre des lignes pour que ça rentre, voilà l’erreur. Notre modèle a 24 lignes par page en A4, et l’application n’a pas de limite.
+
+### Sources
+
+1. Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025. https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf
+2. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+3. University Hospitals Sussex NHS Foundation Trust. Bladder record chart: pelvic health physiotherapy patient information. Reference 2198; 2023. https://www.uhsussex.nhs.uk/wp-content/uploads/2023/03/Bladder-Record-chart.pdf
+4. Abrams P, Cardozo L, Fall M, et al. The standardisation of terminology of lower urinary tract function: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):167–178. https://doi.org/10.1002/nau.10052
+5. van Kerrebroeck P, Abrams P, Chaikin D, et al. The standardisation of terminology in nocturia: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):179–183. https://doi.org/10.1002/nau.10053
+6. Stav K, Dwyer PL, Rosamilia A. Women overestimate daytime urinary frequency: the importance of the bladder diary. J Urol. 2009;181(5):2176–2180. https://doi.org/10.1016/j.juro.2009.01.042
+
+Cet article explique comment tenir un calendrier. C’est une information générale venant d’un développeur d’application, pas un avis médical : ce que votre calendrier signifie, c’est votre médecin qui le dit. Calendrier rempli par vous. Pas un document médical.
+
+---
+
+## Mesurer sa diurèse à la maison pour un calendrier mictionnel
+Source: https://fluidbalanceapp.com/fr/blog/how-to-measure-urine-output-at-home/
+Published: 2026-09-21 · Guide · Par Denis Zinin, développeur de Calendrier mictionnel : Fluid Balance. Pas médecin.
+
+En bref:
+La diurèse pour un calendrier mictionnel se mesure à la maison de trois façons : dans un pot en plastique gradué en millilitres, dans une cuvette de recueil posée sous la lunette, ou, quand ni l’un ni l’autre n’est possible, en gardant l’heure et en cochant le passage comme non mesuré. Les services acceptent les trois. Ce que réclament d’abord les feuilles du NHS et du BAUS et le calendrier de l’Urology Care Foundation, c’est chaque passage avec son heure ; le volume vient ensuite. Les détails qui rendent les chiffres exploitables :
+
+- Mesurez dans un pot en plastique gradué en millilitres, ou recueillez dans une cuvette posée sous la lunette. Écrivez le chiffre tout de suite.
+- Quand vous ne pouvez pas mesurer, gardez l’heure et cochez le passage comme non mesuré. Il compte toujours pour la fréquence et pour le décompte de nuit.
+- Gardez une seule unité pour tout le calendrier, mesurez une fois votre tasse habituelle pour le côté boissons, et rincez le pot ou la cuvette après chaque usage.
+
+Il y a trois façons de noter ce que vous éliminez pour un calendrier mictionnel : le mesurer dans un pot gradué, le recueillir dans une cuvette posée sous la lunette, ou, quand ni l’un ni l’autre n’est possible, garder l’heure et cocher le passage comme non mesuré. Les services acceptent les trois. Ce dont ils ont besoin, c’est de chaque passage avec son heure ; le volume vient ensuite.
+
+### Ce que le calendrier demande
+
+La « miction » dans un calendrier, c’est le volume de chaque passage aux toilettes, en millilitres ou en onces liquides, écrit à côté de l’heure. Les volumes urinés et leurs heures sont le cœur de la courbe mictionnelle telle que la définit l’International Continence Society, et de tous les formats de calendrier étudiés depuis.[1,2] Les feuilles de service le présentent différemment : la feuille d’entrées et de sorties du BAUS a une colonne SORTIES en face de chaque heure,[3] le calendrier de l’Urology Care Foundation demande « combien d’urine ? » à chaque passage,[4] et notre [modèle à imprimer](https://fluidbalanceapp.com/bladder-diary-template/) a une colonne Éliminé marquée « ml ou ✓ ». Tous acceptent une coche quand vous n’avez pas pu mesurer. Aucun ne demande si vos chiffres sont normaux ; votre médecin lit le schéma, vous fournissez le relevé. Comment l’ensemble du calendrier s’articule est expliqué dans [tenir un calendrier mictionnel](https://fluidbalanceapp.com/blog/how-to-keep-a-bladder-diary/).
+
+### Méthode 1 : un pot gradué
+
+N’importe quel pot en plastique gradué en millilitres fera l’affaire.[5] Le BAUS en suggère un d’au moins 500 ml ;[3] on en trouve en pharmacie ou au rayon cuisine d’un supermarché. Réservez-le au calendrier, et gardez-le près des toilettes.
+
+Asseyez-vous sur les toilettes et tenez le pot dans la cuvette. La feuille de kinésithérapie du Sussex est précise là-dessus : asseyez-vous vraiment, ne restez pas accroupi au-dessus de la lunette, car la position assise laisse le périnée se relâcher et vous videz plus complètement.[6] Les hommes peuvent rester debout et utiliser le pot directement.
+
+Posez le pot sur une surface plane, lisez le niveau à hauteur des yeux, puis écrivez le chiffre avant de faire quoi que ce soit d’autre. Arrondissez au trait le plus proche ; la graduation n’est pas plus fine, et le calendrier non plus. Videz et rincez le pot à l’eau.
+
+### Méthode 2 : une cuvette de recueil
+
+Une cuvette de recueil est un bac en plastique à large rebord qui se pose sous la lunette, avec une graduation imprimée à l’intérieur en millilitres et en onces liquides. Les services en distribuent souvent une avec le calendrier.[4] Si le vôtre ne l’a pas fait, les pharmacies et les boutiques en ligne en vendent sous le nom de cuvette de recueil d’urines.
+
+Placez-la sous la lunette vers l’avant de la cuvette, asseyez-vous comme d’habitude, puis lisez le niveau, notez-le, videz la cuvette dans les toilettes et rincez-la.[4] Rien à tenir : c’est pourquoi c’est la solution la plus simple la nuit et quand vous êtes pressé.
+
+### Méthode 3 : quand vous ne pouvez pas mesurer
+
+Au travail, dans un magasin, au milieu de la nuit à moitié endormi : gardez l’heure et cochez le passage. La feuille du NHS et celle du BAUS disent exactement cela, une coche dans la colonne urine ;[3,5] notre modèle a un ✓ dans la colonne Éliminé ; dans l’application, c’est le bouton Non mesuré. Le passage compte toujours pour la fréquence et pour le décompte de nuit. Il n’ajoute simplement rien au total des volumes.
+
+Une estimation est également admise. Si vous avez mesuré pendant un jour ou deux et que vous savez à quoi ressemble un passage habituel dans votre pot, écrivez votre estimation et marquez-la « env. ». Dans le doute, cochez.
+
+Ce qui gâche un calendrier, c’est un passage qui n’est pas noté du tout. Une ligne cochée avec son heure dit quelque chose à votre médecin ; une ligne vide ne lui dit rien.
+
+### Millilitres ou onces liquides : quelle unité ?
+
+Gardez une seule unité pour tout le calendrier, celle imprimée sur la feuille de votre service. Si vous devez convertir :
+
+- 1 once liquide américaine fait environ 30 ml (29,6 ml exactement).
+- 1 cup, soit 8 onces liquides, fait environ 240 ml.
+- 100 ml font environ 3,4 onces liquides ; une bouteille de 500 ml, environ 17.
+
+Notre modèle existe dans les deux : feuilles A4 en millilitres, feuilles US Letter en onces liquides. Dans l’application, l’unité est un réglage, et le rapport utilise celle que vous avez choisie.
+
+### Le côté boissons
+
+Mesurer ce que vous buvez est plus simple : la quantité est en général imprimée sur le contenant. Tailles courantes, les mêmes que notre modèle et l’application utilisent en valeurs prêtes : une tasse 200–250 ml, un verre 250 ml, une canette 330 ml, une petite bouteille 500 ml. L’Urology Care Foundation donne les équivalents américains : une tasse de 8 oz, une canette de 12 oz, une bouteille de 20 oz.[4]
+
+Pour votre propre tasse, verre ou bouteille d’eau, mesurez-la une fois avec le pot, puis utilisez le même contenant pendant les jours du calendrier. Le BAUS et la feuille du Sussex le suggèrent tous les deux.[3,6] Notez aussi le type de boisson — thé, café, eau, bière ; les services le demandent.[3,7]
+
+### La nuit
+
+Avant de vous coucher, mettez la cuvette en place ou laissez le pot près des toilettes, et laissez une petite lumière allumée. L’heure d’abord, le volume ensuite : si mesurer n’arrive pas à trois heures du matin, cochez et retournez dormir.
+
+Notez quand vous vous êtes couché et quand vous vous êtes levé. Le BAUS demande deux traits en travers de la colonne du jour, la feuille du NHS demande BED et WOKE dans la colonne des heures,[3,5] et notre modèle a une case pour chacun en haut de chaque page. C’est ainsi que les passages de nuit sont comptés.
+
+### Après une opération ou avec une sonde
+
+En service hospitalier, le même relevé s’appelle feuille d’entrées et de sorties ou feuille de bilan hydrique, et ce sont les infirmiers qui la remplissent. Si vous rentrez chez vous avec une sonde, votre infirmier vous montrera comment lire et vider la poche ; la ligne du calendrier reste la même, heure et quantité. Suivez leurs consignes sur ce qu’il faut noter et à quelle fréquence.
+
+### Garder les choses propres et simples
+
+Réservez le pot ou la cuvette à cet usage et à rien d’autre. Rincez après chaque utilisation,[4] lavez au savon une fois par jour, lavez-vous les mains. Gardez l’objet là où vous l’utilisez, pas dans un placard. Et écrivez le chiffre à l’instant où vous l’avez : un volume dont on se souvient deux heures plus tard est une supposition.
+
+### Questions
+
+**Puis-je estimer au lieu de mesurer ?**
+Quand vous ne pouvez pas mesurer, oui : gardez l’heure et soit cochez le passage, soit écrivez une estimation marquée « env. ». Si vous avez un pot gradué, mesurez ; ce sont les volumes mesurés que le service a demandés. Une estimation ou une coche est faite pour les passages où le pot n’était pas possible, pas pour tous les passages.
+
+**Dois-je mesurer la nuit ?**
+Si vous le pouvez. Une cuvette laissée sous la lunette avant de vous coucher simplifie tout : rien à tenir, rien à chercher dans le noir. Si vous ne pouvez pas, cochez le passage et gardez l’heure. Les passages de nuit se comptent par leur heure, pas par leur volume : notez donc aussi quand vous vous êtes couché et quand vous vous êtes levé.
+
+**Et hors de chez moi ?**
+Gardez l’heure et cochez le passage. Un petit verre doseur tient dans un sac, mais personne n’attend de vous que vous en transportiez un ; des toilettes publiques, c’est une coche parfaitement légitime. L’erreur, c’est d’omettre le passage, pas d’omettre le volume.
+
+### Sources
+
+1. Abrams P, Cardozo L, Fall M, et al. The standardisation of terminology of lower urinary tract function: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):167–178. https://doi.org/10.1002/nau.10052
+2. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+3. British Association of Urological Surgeons. Information from BAUS about assessing fluid intake & output. Patient leaflet F24/016. BAUS; 2024. https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Input%20output%20chart.pdf
+4. Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025. https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf
+5. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+6. University Hospitals Sussex NHS Foundation Trust. Bladder record chart: pelvic health physiotherapy patient information. Reference 2198; 2023. https://www.uhsussex.nhs.uk/wp-content/uploads/2023/03/Bladder-Record-chart.pdf
+7. European Association of Urology, Patient Information. I want to know about keeping a bladder diary. Uroweb. https://patients.uroweb.org/condition/urinary-incontinence/bladder-diary
+
+Cet article explique comment tenir un calendrier. C’est une information générale venant d’un développeur d’application, pas un avis médical : ce que votre calendrier signifie, c’est votre médecin qui le dit. Calendrier rempli par vous. Pas un document médical.
+
+---
+
+## Calendrier mictionnel : combien de jours ? 3, 7 ou 24 heures
+Source: https://fluidbalanceapp.com/fr/blog/bladder-diary-how-many-days/
+Published: 2026-09-12 · Guide · Par Denis Zinin, développeur de Calendrier mictionnel : Fluid Balance. Pas médecin.
+
+Une remarque avant de commencer : je ne suis pas médecin. Je fais l’application Calendrier mictionnel : Fluid Balance, et ce guide est ma tentative de réunir au même endroit ce que les recommandations cliniques et les feuilles des services disent du nombre de jours que doit couvrir un calendrier mictionnel. Les sources sont en fin de page ; les consignes de votre médecin passent avant.
+
+En bref:
+Le nombre de jours que doit couvrir un calendrier mictionnel est décidé par le soignant qui l’a demandé : trois jours complets est la réponse habituelle, certains services en demandent sept, et 24 heures est le minimum qu’une feuille puisse contenir. La norme de qualité QS77 du NICE demande au moins trois jours, l’International Continence Society décrit des calendriers de trois à sept jours, et la feuille de l’Urology Care Foundation court sur trois jours qui n’ont pas besoin de se suivre. Quel que soit le nombre, complet compte plus que long :
+
+- Le nombre que votre service vous a donné est celui qui compte ; ce qui suit explique d’où viennent trois jours, sept jours et 24 heures.
+- Les jours n’ont pas besoin de se suivre sauf si votre feuille l’exige, mais ils devraient couvrir des journées de nature différente : un jour travaillé et un jour de repos.
+- Une journée va du réveil au réveil. Un calendrier court dont chaque journée est complète vaut mieux qu’un long avec des trous.
+
+Trois jours complets est la réponse habituelle : un calendrier mictionnel de 3 jours. Certains services demandent un calendrier de 7 jours, et 24 heures est le minimum qu’une feuille puisse couvrir. Le nombre qu’on vous a donné est celui qui compte ; ce qui suit explique d’où viennent ces chiffres, pour que la consigne ait du sens au lieu de paraître arbitraire. Une règle domine toutes les autres : un calendrier court dont chaque journée est complète vaut mieux qu’un long avec des trous.
+
+### Combien de jours un calendrier mictionnel doit-il couvrir ?
+
+| Qui | Combien de temps | Remarques |
+|---|---|---|
+| NICE, norme de qualité sur l’incontinence urinaire féminine[1,2] | Au moins 3 jours | Doit couvrir les variations de l’activité habituelle, jours travaillés et jours de repos |
+| International Continence Society[3] | Au moins 24 heures pour une courbe mictionnelle | Deux ou trois jours, pas nécessairement consécutifs, donnent des données plus utiles |
+| Urology Care Foundation (AUA)[4] | Au moins 3 jours | Trois journées typiques quelconques ; elles n’ont pas à se suivre ; une seule journée peut ne pas donner une image fidèle |
+| Feuille d’entrées et de sorties BAUS[5] | 3 jours normaux consécutifs | En incluant jours travaillés ou de repos selon le cas |
+| Courbe mictionnelle NHS Gloucestershire[6] | 3 jours | Un calendrier mictionnel de trois jours |
+| Notre modèle et l’application | Jusqu’à 7 jours | Une ligne « jours notés » pour que le soignant voie la complétude |
+
+Des organismes différents, un même thème : trois jours est le plancher presque partout, et les jours doivent ressembler à votre vraie vie.
+
+### Pourquoi trois
+
+Trois n’est pas un chiffre rond choisi par commodité. Une revue systématique des courbes mictionnelles a conclu qu’on ne pouvait pas tirer de recommandations fermes sur la durée à partir des données, mais que le consensus en faveur de relevés de trois jours ou plus était la politique la plus défendable.[7] Dans deux grands essais sur la vessie hyperactive, les calendriers de trois jours se sont montrés aussi efficaces que ceux de sept, et les auteurs ont relevé qu’un calendrier plus court peut réduire la tendance à combler les trous de mémoire.[8] Une étude ayant réparti au hasard des patients entre des calendriers de deux, trois ou sept jours a trouvé que la version de sept jours alourdissait la charge et a recommandé moins de jours.[9] Et une étude de calendriers chez des patients ayant des troubles vésicaux d’origine neurologique a trouvé trois jours comparables à sept pour le nombre de passages, le volume par passage, le besoin pressant et le volume quotidien, les épisodes de fuite étant la seule mesure où trois jours paraissaient limites.[10]
+
+La même littérature est honnête sur une réserve : il n’existe pas de calendrier unique pleinement validé, et les formats diffèrent d’un service à l’autre.[11] C’est pourquoi la consigne de votre propre service — trois jours sur leur feuille, sept sur la nôtre — l’emporte sur tout ce qui est écrit ici.
+
+### Pourquoi pas une seule journée
+
+Une journée est un instantané, et il y a de bonnes chances qu’elle soit atypique : un long trajet, une soirée tardive, une journée où l’on a moins bu que d’habitude. L’Urology Care Foundation le dit franchement : un calendrier d’un jour peut ne pas fournir assez d’informations pour donner une image fidèle.[4] Dans l’étude neurologique citée plus haut, les relevés du premier jour s’écartaient significativement de la moyenne sur sept jours pour chaque mesure.[10] Deux ou trois jours lissent cela.
+
+### Quand sept jours ont du sens
+
+Certains soignants demandent une semaine. Une semaine contient un week-end : le calendrier couvre donc les deux types de journée sans que personne ait à le planifier. Elle contient aussi sept nuits, ce qui compte quand la question porte sur les levers nocturnes. La contrepartie est l’effort : sept journées complètes demandent de la discipline,[9] et une semaine avec deux journées blanches vaut moins que trois journées pleines. Si on vous demande sept jours, le conseil pratique est de rendre chaque journée facile à noter, de garder la feuille ou le téléphone avec vous, et de marquer honnêtement les journées complètes.
+
+### Les calendriers mictionnels de 24 heures
+
+Vingt-quatre heures est le minimum décrit par l’International Continence Society pour une courbe mictionnelle.[3] Certains services utilisent une journée unique comme vérification rapide avant ou après un traitement. Si c’est ce qu’on vous a donné, traitez-la comme une journée complète : commencez au réveil, notez tout jusqu’au réveil du lendemain matin, et ne laissez pas de lignes vides sous prétexte que « ce n’est qu’une journée ».
+
+### Les jours doivent-ils se suivre ?
+
+En général non. L’Urology Care Foundation demande trois journées typiques quelconques,[4] et l’International Continence Society note que deux ou trois jours n’ont pas à être consécutifs.[3] Le NICE va plus loin et demande que les jours couvrent des activités différentes, jours travaillés comme jours de repos,[1,2] ce qui est plus facile à organiser quand on peut les répartir. Certaines feuilles, dont celle du BAUS, demandent des jours consécutifs ;[5] si c’est le cas de la vôtre, suivez la feuille.
+
+### Une journée va du réveil au réveil
+
+Commencez chaque journée de calendrier au lever, et continuez jusqu’au lever du lendemain matin.[4] La nuit appartient à la journée qui l’a commencée. Notez quand vous vous êtes couché et quand vous vous êtes levé ; c’est ainsi que les passages de nuit sont séparés de ceux de la journée.
+
+### Si vous sautez une journée
+
+Ne la reconstituez pas de mémoire le soir. Laissez-la marquée comme incomplète et ajoutez plutôt une journée pleine de plus. Notre modèle a une ligne pour cela sur la dernière page, jours notés sur sept, et l’application compte les jours notés pour vous ; dans les deux cas, le soignant voit d’un coup d’œil ce dont il dispose. [Tenir un calendrier mictionnel](https://fluidbalanceapp.com/blog/how-to-keep-a-bladder-diary/) détaille ce qui entre dans chacune de ces journées.
+
+### Questions
+
+**On m’a demandé sept jours. Puis-je m’arrêter après trois ?**
+Faites ce qu’on vous a demandé ; le soignant a choisi sept pour une raison, souvent pour voir une semaine entière avec le week-end, ou davantage de nuits. Si sept journées complètes ne sont pas réalistes, trois complètes valent mieux que sept avec des trous, alors dites-le au rendez-vous et montrez les journées que vous avez terminées.
+
+**Faut-il inclure un week-end ?**
+Oui, si possible. Le NICE demande des calendriers couvrant les jours travaillés et les jours de repos, et l’Urology Care Foundation demande des journées typiques. Une journée au bureau et une journée à la maison se ressemblent rarement dans un calendrier, et votre médecin veut voir les deux.
+
+**Un calendrier de 24 heures suffit-il ?**
+C’est le minimum décrit par l’International Continence Society pour une courbe mictionnelle, et certains services s’en servent comme aperçu rapide. Une journée unique a plus de chances d’être atypique, c’est pourquoi la plupart en demandent davantage. Si on vous a donné une feuille de 24 heures, faites-la courir du réveil au réveil et remplissez chaque ligne.
+
+### Sources
+
+1. National Institute for Health and Care Excellence. Urinary incontinence in women. Quality standard QS77, quality statement 2: bladder diaries and lifestyle changes. London: NICE; 2015. https://www.nice.org.uk/guidance/qs77/chapter/quality-statement-2-bladder-diaries-and-lifestyle-changes
+2. National Institute for Health and Care Excellence. Urinary incontinence and pelvic organ prolapse in women: management. NICE guideline NG123. London: NICE; 2019. https://www.nice.org.uk/guidance/ng123
+3. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+4. Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025. https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf
+5. British Association of Urological Surgeons. Information from BAUS about assessing fluid intake & output. Patient leaflet F24/016. BAUS; 2024. https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Input%20output%20chart.pdf
+6. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+7. Yap TL, Cromwell DC, Emberton M. A systematic review of the reliability of frequency-volume charts in urological research and its implications for the optimum chart duration. BJU Int. 2007;99(1):9–16. https://doi.org/10.1111/j.1464-410X.2006.06499.x
+8. Dmochowski RR, Sanders SW, Appell RA, Nitti VW, Davila GW. Bladder-health diaries: an assessment of 3-day vs 7-day entries. BJU Int. 2005;96(7):1049–1054. https://doi.org/10.1111/j.1464-410X.2005.05785.x
+9. Ku JH, Jeong IG, Lim DJ, Byun SS, Paick JS, Oh SJ. Voiding diary for the evaluation of urinary incontinence and lower urinary tract symptoms: prospective assessment of patient compliance and burden. Neurourol Urodyn. 2004;23(4):331–335. https://doi.org/10.1002/nau.20027
+10. Konstantinidis C, Kratiras Z, Samarinas M, Skriapas K. Optimal bladder diary duration for patients with suprapontine neurogenic lower urinary tract dysfunction. Int Braz J Urol. 2016;42(4):766–772. https://doi.org/10.1590/S1677-5538.IBJU.2015.0292
+11. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+
+Cet article explique comment tenir un calendrier. C’est une information générale venant d’un développeur d’application, pas un avis médical : ce que votre calendrier signifie, c’est votre médecin qui le dit. Calendrier rempli par vous. Pas un document médical.
+
+---
+
+## Tenir un calendrier mictionnel : quoi noter, étape par étape
+Source: https://fluidbalanceapp.com/fr/blog/how-to-keep-a-bladder-diary/
+Published: 2026-09-12 · Guide · Par Denis Zinin, développeur de Calendrier mictionnel : Fluid Balance. Pas médecin.
+
+Une remarque avant de commencer : je ne suis pas médecin. Je fais l’application Calendrier mictionnel : Fluid Balance, et ce guide est ma tentative de réunir au même endroit ce que les recommandations cliniques et les feuilles des services demandent quand on vous dit de tenir un calendrier mictionnel. Les sources sont en fin de page ; les consignes de votre médecin passent avant.
+
+En bref:
+On tient un calendrier mictionnel en notant, au moment où elles arrivent, chaque boisson et chaque passage aux toilettes avec l’heure, pendant les trois à sept jours demandés par un soignant. C’est le relevé que réclament les recommandations du NICE, l’International Continence Society et l’Urology Care Foundation quand on évalue la fréquence, le besoin pressant, les fuites ou les levers nocturnes. Sur papier ou dans une application, ce sont les mêmes habitudes qui le rendent utile :
+
+- Notez chaque boisson et chaque passage aux toilettes avec l’heure, au moment où cela arrive, pendant les trois à sept jours demandés.
+- Mesurez l’urine avec un pot gradué ou une cuvette de recueil quand vous le pouvez. Sinon, cochez le passage et gardez l’heure : il compte quand même.
+- Notez l’heure du coucher et celle du lever, marquez les passages de nuit et apportez toutes les pages. Un calendrier court mais complet vaut mieux qu’un long plein de trous.
+
+Un calendrier mictionnel est un relevé écrit de ce que vous buvez, de ce que vous éliminez et de quand, tenu pendant quelques jours pour que votre médecin voie le schéma au lieu de s’en remettre à la mémoire, qui se trompe généralement sur les chiffres.[1] Le tenir se ramène à quatre habitudes : écrire l’heure tout de suite, noter chaque boisson avec sa quantité, mesurer l’urine quand c’est possible et cocher le passage quand ça ne l’est pas, et marquer ce qui s’est passé la nuit.
+
+Votre urologue, votre médecin traitant, une infirmière ou un kinésithérapeute du périnée l’appellera peut-être catalogue mictionnel, courbe mictionnelle ou calendrier des mictions ; l’International Continence Society définit chacun de ces termes.[2,3] À l’hôpital, le même relevé s’appelle feuille d’entrées et de sorties. Les colonnes sont pratiquement les mêmes ; le nom dépend de qui vous tend la feuille.
+
+### À quoi sert un calendrier mictionnel, et pourquoi on vous l’a demandé
+
+Le calendrier répond à des questions auxquelles une consultation ne peut pas répondre. À quelle fréquence allez-vous sur un jour et une nuit entiers ? Quelle quantité sort à chaque fois ? Quel rapport avec ce que vous avez bu, et quand ? Combien de fois vous levez-vous la nuit ?
+
+L’International Continence Society définit la courbe mictionnelle comme le relevé de l’heure et du volume de chaque miction sur au moins 24 heures, et le calendrier mictionnel comme le même relevé auquel s’ajoutent les apports de boisson, les fuites et l’usage de protections.[2,3] Les services en demandent un avant un premier rendez-vous et s’en servent à nouveau pour voir si un traitement agit.[4] Ce que les chiffres veulent dire, c’est l’affaire de votre médecin. Le vôtre, c’est un relevé complet et honnête.
+
+### Ce qu’il faut noter dans un calendrier mictionnel
+
+Un calendrier mictionnel a cinq colonnes : l’heure, ce que vous avez bu et combien, combien vous avez éliminé (ou une coche pour non mesuré), si c’était la nuit, et une note. Cinq colonnes couvrent presque toutes les feuilles de service.
+
+- **L’heure.** Chaque boisson et chaque passage, écrits au moment où cela arrive. L’heure compte autant que la quantité : le même volume à trois heures de l’après-midi et à trois heures du matin ne dit pas la même chose à un soignant.
+- **Ce que vous avez bu, et combien.** Le type et la quantité : 250 ml de thé, une canette de 330 ml, une bouteille de 500 ml. Mesurez une fois votre tasse habituelle, votre verre et votre bouteille avec un pot gradué, puis réutilisez les chiffres.
+- **Combien vous avez éliminé.** En millilitres ou en onces liquides, avec un pot gradué ou une cuvette de recueil posée sous la lunette. Si vous avez uriné sans pouvoir mesurer, mettez une coche et gardez l’heure. C’est exactement ce que dit la feuille du NHS.[5]
+- **La nuit.** Notez quand vous vous êtes couché et quand vous vous êtes levé, et marquez chaque passage entre les deux.[5,6] Avec les heures de coucher et de lever sur la feuille, votre médecin peut séparer le jour de la nuit.
+- **Les notes.** Un besoin pressant, une fuite et à peu près combien, un changement de protection, une douleur, tout ce qui sort de l’ordinaire. Certaines feuilles ont des colonnes à part pour le besoin et les fuites ; si la vôtre en a, servez-vous-en.
+
+### Avant de commencer
+
+1. **Procurez-vous de quoi mesurer.** N’importe quel pot gradué de cuisine en millilitres fera l’affaire ; l’Urology Care Foundation suggère un verre doseur de cuisine ou une tasse dont vous connaissez la contenance.[7] Les services distribuent souvent une cuvette de recueil. Gardez-la près des toilettes et rincez-la après chaque usage.
+2. **Mesurez une fois vos contenants de tous les jours.** Votre tasse, votre verre, votre bouteille d’eau. Ensuite vous écrivez le chiffre, pas une estimation.
+3. **Choisissez les jours.** La plupart des services demandent trois jours ; certains en demandent sept, et la recherche sur la durée d’un calendrier va dans le même sens.[9] La norme de qualité du NICE pour les femmes souffrant d’incontinence urinaire demande au moins trois jours couvrant jours travaillés et jours de repos,[4] et l’Urology Care Foundation demande trois jours typiques qui n’ont pas besoin de se suivre.[7] Si on vous a donné un nombre, c’est celui-là.
+4. **Gardez la feuille là où vous vous en servirez.** Près des toilettes, dans une poche, ou sur votre téléphone. Un calendrier que vous n’avez pas sur vous ne peut pas être rempli.
+5. **Continuez comme d’habitude.** Le calendrier est fait pour montrer des journées normales.[8] Ne buvez pas moins pour que cela paraisse plus propre.
+
+### Une journée remplie, ligne par ligne
+
+Voici trois lignes de l’exemple rempli sur la première page de notre [modèle à imprimer](https://fluidbalanceapp.com/bladder-diary-template/) :
+
+(Image: Trois lignes d’exemple du modèle à imprimer : 7:20, 250 ml de thé bus, 320 ml éliminés ; 9:40, une coche pour non mesuré, avec la note « pressé, petite fuite » ; 3:10, 180 ml éliminés, cochés comme nuit)
+
+- **7:20.** Une tasse de thé, 250 ml, et le premier passage du matin, 320 ml, mesuré au pot gradué.
+- **9:40.** Un passage dans l’urgence : pas le temps de mesurer, donc une coche à la place d’un chiffre, et une note sur une petite fuite. Le passage compte quand même.
+- **3:10.** 180 ml au milieu de la nuit. Il reçoit une coche dans la colonne Nuit parce qu’il a eu lieu entre le coucher et le lever.
+
+Trois lignes, et un soignant voit déjà une miction mesurée, une non mesurée qui compte quand même, et un passage de nuit avec son volume. Une journée entière a plus de lignes, mais chacune est tout aussi simple. Nous parcourons une journée entière, ses quinze lignes, dans [Exemple de calendrier mictionnel : une journée entière, ligne par ligne](https://fluidbalanceapp.com/blog/bladder-diary-example/).
+
+Ou tenez le même calendrier dans [l’application Calendrier mictionnel : Fluid Balance](https://fluidbalanceapp.com/) : les mêmes colonnes, deux touches par entrée, toujours dans la poche, et gratuit.
+
+### Les erreurs qui gâchent un calendrier
+
+- **Le remplir de mémoire le soir.** Les heures glissent et les petits passages disparaissent ; même le nombre de passages est mal retenu.[1] Écrivez au fur et à mesure.
+- **Sauter un passage parce que vous n’avez pas pu mesurer.** Un passage coché avec son heure montre encore à quelle fréquence vous allez et combien de fois vous vous êtes levé la nuit. Un passage manquant ne montre rien. Une estimation vaut mieux qu’un trou.
+- **Oublier les heures de coucher et de lever.** Sans elles, les passages de nuit ne peuvent pas être comptés.
+- **S’arrêter à mi-chemin.** Deux journées complètes valent mieux que quatre avec des trous. La complétude est la première chose qu’un soignant regarde.
+- **Changer ses habitudes à cause du calendrier.** Sauter votre thé du soir pendant trois jours cache exactement le schéma que le calendrier doit montrer.
+
+### L’apporter au rendez-vous
+
+Apportez toutes les pages, y compris les jours avec des trous, et dites quelles journées sont complètes.[7,8] Notre modèle a une ligne pour cela sur la dernière page : jours notés, sur sept. Photographiez chaque page en sauvegarde avant de la remettre.
+
+Si vous avez tenu le calendrier dans une application, exportez le rapport et imprimez-le, envoyez-le par e-mail au service ou montrez-le sur votre téléphone. Certains soignants préfèrent le papier ; une page imprimée n’est jamais une erreur.
+
+Si vous avez commencé ou arrêté un médicament pendant les jours du calendrier, écrivez-le dans les notes. Ne changez rien pour le calendrier.
+
+### Papier ou application
+
+Une feuille de papier fonctionne, et les services y sont habitués. Une application ajoute l’heure toute seule, fait les totaux et produit un rapport à la fin. Si vous préférez le papier, le [modèle gratuit](https://fluidbalanceapp.com/bladder-diary-template/) a les mêmes colonnes que l’application, en A4 et US Letter, en pages entières ou en livrets à plier. Si vous préférez le téléphone, [Calendrier mictionnel : Fluid Balance](https://fluidbalanceapp.com/) demande deux touches par entrée et ne commente jamais vos chiffres.
+
+### À qui on en demande un
+
+Nycturie, vessie hyperactive, incontinence, suivi après une infection urinaire, prostate augmentée de volume avant et après l’opération, rééducation périnéale, récupération après une sonde. Le relevé est le même dans tous les cas. Ce que le soignant y cherche diffère, et cette partie lui revient.
+
+### Questions
+
+**Faut-il mesurer à chaque fois ?**
+Non. Mesurez quand vous êtes chez vous et que vous avez un pot gradué ou une cuvette de recueil sous la main ; sinon, cochez le passage et gardez l’heure. Une entrée sans volume compte toujours pour la fréquence et pour les passages de nuit. Ce qui coûte cher, c’est la ligne que vous n’avez pas écrite, pas le volume que vous n’avez pas pu mesurer.
+
+**Les jours doivent-ils se suivre ?**
+Pas forcément. L’Urology Care Foundation demande trois journées ordinaires, qui n’ont pas à se suivre, et le NICE au moins trois jours couvrant jours travaillés et jours de repos. Suivez la consigne qu’on vous a donnée. À défaut, choisissez des jours que vous pourrez mener à terme plutôt que des jours côte à côte dans le calendrier. Plus de détails : combien de jours suffisent (https://fluidbalanceapp.com/fr/blog/bladder-diary-how-many-days/).
+
+**Et si j’ai oublié de noter quelque chose ?**
+Notez ce dont vous êtes sûr et laissez le reste vide. Ne reconstituez pas la journée de mémoire : la mémoire se trompe sur la fréquence et sur les volumes, et c’est précisément pour cela qu’on tient un calendrier. Si une journée entière manque, ajoutez un jour à la fin au lieu de compter celle qui est trouée, et dites au rendez-vous quelle journée était incomplète.
+
+### Sources
+
+1. Stav K, Dwyer PL, Rosamilia A. Women overestimate daytime urinary frequency: the importance of the bladder diary. J Urol. 2009;181(5):2176–2180. https://doi.org/10.1016/j.juro.2009.01.042
+2. Abrams P, Cardozo L, Fall M, et al. The standardisation of terminology of lower urinary tract function: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):167–178. https://doi.org/10.1002/nau.10052
+3. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+4. National Institute for Health and Care Excellence. Urinary incontinence in women. Quality standard QS77, quality statement 2: bladder diaries and lifestyle changes. London: NICE; 2015. https://www.nice.org.uk/guidance/qs77/chapter/quality-statement-2-bladder-diaries-and-lifestyle-changes
+5. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+6. European Association of Urology, Patient Information. I want to know about keeping a bladder diary. Uroweb. https://patients.uroweb.org/condition/urinary-incontinence/bladder-diary
+7. Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025. https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf
+8. British Association of Urological Surgeons. Information from BAUS about assessing fluid intake & output. Patient leaflet F24/016. BAUS; 2024. https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Input%20output%20chart.pdf
+9. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+
+Cet article explique comment tenir un calendrier. C’est une information générale venant d’un développeur d’application, pas un avis médical : ce que votre calendrier signifie, c’est votre médecin qui le dit. Calendrier rempli par vous. Pas un document médical.
+
+---
+
+## Calendrier mictionnel : Fluid Balance 1.0 est sur l’App Store
+Source: https://fluidbalanceapp.com/fr/blog/fluid-balance-1-0/
+Published: 2026-08-29 · Mise à jour · Par Denis Zinin, développeur de Calendrier mictionnel : Fluid Balance.
+
+Calendrier mictionnel : Fluid Balance 1.0 est arrivé sur l’App Store le 29 août 2026. C’est un calendrier mictionnel pour iPhone et Apple Watch : ce que vous buvez, ce que vous éliminez et quand, tenu pendant les trois à sept jours qu’un médecin demande, avec un rapport PDF à la fin. L’application est gratuite ; Pro est un achat unique.
+
+Ce billet est le relevé de ce que contient la première version. Les versions suivantes auront leurs propres billets, pour qu’il y ait toujours un endroit où voir ce qui a changé et quand.
+
+### Ce qu’il y a dans la 1.0
+
+**Noter.** Touchez + Apports ou + Mictions, puis une quantité : 100, 200, 250, 330 ou 500 ml, ou « Valeur libre » pour un chiffre précis. L’entrée est enregistrée avec l’heure. « Non mesuré » note un passage aux toilettes sans volume ; il compte pour la fréquence et les événements de nuit et reste en dehors des totaux. Toute entrée peut être modifiée ensuite : heure, type, volume et une note.
+
+
+**Aujourd’hui.** APPORTS, MICTIONS et BILAN en haut de l’écran, les entrées du jour en dessous, et une ligne de jours récents pour naviguer.
+
+
+**Stats.** Une grille des cinq dernières semaines montrant les jours avec un calendrier. Les analyses avancées, incluses dans Pro, ajoutent cinq graphiques : apports et mictions par jour, volumes par heure, passages de nuit dans le temps, répartition des volumes urinés et intervalles entre les passages. Le premier graphique est gratuit.
+
+
+**Rapport.** Un PDF sur la période de votre choix, présenté comme un calendrier mictionnel se lit habituellement : totaux du jour, chaque volume uriné avec son heure, événements de nuit, jours notés et les moyennes qu’un soignant regarde. Imprimez-le, envoyez-le par e-mail ou montrez-le sur le téléphone. L’export CSV de tout l’historique est gratuit.
+
+
+**Widgets et Apple Watch.** Un widget d’écran d’accueil et un widget d’écran verrouillé, avec les totaux du jour et les deux boutons. L’application Apple Watch a les mêmes quantités et « Non mesuré ».
+
+
+**iCloud.** Les entrées se synchronisent entre vos propres appareils via votre base iCloud privée. Il n’y a ni compte ni serveur de notre côté.
+
+**Rappel.** Un rappel quotidien facultatif pour remplir le calendrier, désactivé par défaut. Son texte ne dit jamais à quoi sert l’application.
+
+**Supprimer toutes les données.** Une étape dans les réglages. Cela efface l’appareil et, si iCloud est activé, votre copie iCloud.
+
+**Langues.** Anglais, allemand, français, espagnol, italien, portugais (Brésil), russe, japonais, coréen et chinois simplifié. Le rapport PDF est traduit lui aussi ; le CSV reste en anglais.
+
+### Gratuit et Pro
+
+Noter, l’écran du jour, les stats, les widgets, l’Apple Watch, iCloud et l’export CSV sont gratuits, aussi longtemps que vous utilisez l’application. Pro est un achat unique, pas un abonnement : il ajoute le rapport PDF, la page des analyses avancées et une icône sombre. Rien n’interrompt une entrée pour vous proposer de passer à la version payante.
+
+### Confidentialité
+
+La mention de confidentialité sur l’App Store est « Aucune donnée collectée ». L’application n’a aucune mesure d’audience, aucun rapport de plantage, aucune publicité et aucun code tiers. Les entrées vivent sur votre appareil et, si vous l’activez, dans votre propre iCloud. La [politique de confidentialité](https://fluidbalanceapp.com/privacy/) donne les détails.
+
+### Ce qu’elle ne fait pas
+
+Elle ne pose pas de diagnostic, ne compare pas vos entrées à une norme, ne les interprète pas et ne vous rappelle pas de boire. Elle note ce que vous lui dites et vous rend le relevé. Si les calendriers mictionnels sont nouveaux pour vous, [tenir un calendrier mictionnel](https://fluidbalanceapp.com/blog/how-to-keep-a-bladder-diary/) explique quoi noter et pourquoi.
+
+### Configuration requise
+
+iPhone sous iOS 18 ou plus récent. Apple Watch sous watchOS 11 ou plus récent. Sur iPad, l’application tourne comme une application iPhone. Catégorie App Store : Médecine. Taille du téléchargement : environ 11 Mo.
+
+### Historique des versions
+
+| Version | Date | Ce qui a changé |
+|---|---|---|
+| 1.2 | 26 octobre 2026 | Intensité du besoin, rappels seulement les jours sans entrée, carte « hier », affichage 12 ou 24 heures, iPhone Duo, grand widget, quatre nouvelles langues |
+| 1.0 | 29 août 2026 | Première version |
+
+Questions ou demandes : l’[aide](https://fluidbalanceapp.com/support/) contient les réponses aux questions courantes et l’adresse où écrire.
+
+---

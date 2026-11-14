@@ -1,0 +1,1082 @@
+# Mikční deník: Fluid Balance
+
+> Mikční deník: Fluid Balance je bezplatná aplikace pro iPhone a Apple Watch. Zapisuje, kolik vypijete a kolik vymočíte, a hodí se na deník na 3–7 dní, o který vás požádal lékař: ze záznamů vznikne zpráva v PDF. Bez účtu, data zůstávají ve vašem telefonu. Zdarma a Pro. Zapisování, statistiky, widgety, Apple Watch, iCloud a export CSV jsou zdarma. Pro přidává zprávu v PDF a pokročilé analýzy, jednorázový nákup bez předplatného. Při zapisování vás nic nevybízí k nákupu.
+
+Žádná registrace, žádné jméno, žádné datum narození. Otevřete aplikaci a začněte. Tak zní štítek o soukromí v App Store — není to slib, ale stav věci. Není server, kam by se dalo cokoli poslat. Volitelné připomenutí přijde jen ve dnech bez záznamů a nikdy neprozradí, o čem aplikace je. Ve výchozím nastavení vypnuto.
+
+Žádné známkování, žádné normy. Jen to, co jste zapsali. Denis Zinin, vývojář aplikace Mikční deník: Fluid Balance. Není lékař. Deník si vedete sami. Není to zdravotnický dokument.
+
+App Store: https://apps.apple.com/app/id6803224992 (category Medical; version 1.2.1, first released 2026-08-29; requires iOS 18.0 or later, watchOS 11.0 or later; App Store privacy label "Data Not Collected"). Languages: English, Deutsch, Français, Español, Italiano, Português (Brasil), Русский, 日本語, 한국어, 简体中文, 繁體中文, Polski, Svenska, Čeština. iPad: Plnohodnotná verze pro iPad se připravuje — brzy u vás.
+
+---
+
+## Mikční deník pro iPhone a Apple Watch
+Source: https://fluidbalanceapp.com/cs/
+
+Bezplatný mikční deník pro iPhone a Apple Watch: deník na 3–7 dní, o který vás požádal lékař, dvě klepnutí na záznam, zpráva v PDF, data zůstávají v telefonu.
+
+Snazší než vést deník na papíře.: Chyba? Opravte záznam na místě. Není třeba přepisovat celý den znovu. Součty dne, průměry a počet nočních mikcí se sčítají průběžně. Žádné počítání na druhé straně papíru, žádné poznámky, žádná tabulka. Telefon už stejně nosíte s sebou. Dvě klepnutí a záznam je uložený i s časem.
+Klepnutí. Klepnutí. Hotovo.: Klepněte na + Příjem nebo + Močení — Dvě tlačítka dole na obrazovce. Nic dalšího se nevybírá. Klepněte na objem — 100, 200, 250, 330 nebo 500 ml. Nebo „Vlastní objem“, když máte přesné číslo. A to je celý záznam — Uložený i s časem. Žádné formuláře, žádné odpočty, žádná potvrzení. Nejste si objemem jistí? Klepněte na Neměřeno — čas se počítá dál. Pokud se lékař ptá, jak silné bylo nucení, zapněte sílu nucení a klepněte na stejné obrazovce na 0 až 4. Čas můžete změnit a poznámku přidat kdykoli. Funguje i z widgetu na ploše a z Apple Watch.
+Zpráva, která se lékaři hodí.: Součty, průměry a noční mikce jsou už spočítané a uspořádané tak, jak se mikční deník v urologii čte. Zdarma a Pro. Zapisování, statistiky, widgety, Apple Watch, iCloud a export CSV jsou zdarma. Pro přidává zprávu v PDF a pokročilé analýzy, jednorázový nákup bez předplatného. Při zapisování vás nic nevybízí k nákupu.
+Vaše týdny jedním pohledem.: Posledních pět týdnů v mřížce: dny s deníkem a dny bez něj. Klepnutím den otevřete. Žádné známkování, žádné normy. Jen to, co jste zapsali.
+Jeden deník, každá obrazovka.: Widget na ploše — Příjem, močení a bilance jedním pohledem a dvě tlačítka k zapsání. Apple Watch — Zapisujte rovnou z hodinek: stejné objemy i „Neměřeno“, telefon vytahovat nemusíte. Widget na uzamčené obrazovce — Součty dne pod hodinami, bez odemykání telefonu. iPad — Plnohodnotná verze pro iPad se připravuje — brzy u vás.
+Vede se při nykturii, hyperaktivním močovém měchýři, inkontinenci, kontrole po cystitidě, prostatě — před operací a po ní, a všemi, které požádali, aby si vedli mikční deník (https://fluidbalanceapp.com/cs/blog/how-to-keep-a-bladder-diary/).
+
+---
+
+## Nápověda: Mikční deník: Fluid Balance
+Source: https://fluidbalanceapp.com/cs/support/
+
+### Začínáme
+
+**Je zdarma?**
+Ano, aplikace je zdarma. Zapisování, denní přehled, mřížka statistik, widgety, Apple Watch, iCloud a export CSV zůstávají zdarma, dokud ji používáte. Pro je volitelný jednorázový nákup, který přidává zprávu v PDF a pokročilé grafy. Není tu žádné předplatné a nic nikdy nepřeruší záznam nabídkou nákupu.
+
+**Potřebuji účet?**
+Ne. Žádná registrace, žádné jméno, žádné datum narození. Otevřete aplikaci a začněte.
+
+**S aplikacemi mi to moc nejde. Zvládnu to?**
+Dvě tlačítka a seznam objemů. Není co nastavovat.
+
+**Co mám zapisovat?**
+Čas, co a kolik jste vypili, kolik jste vymočili nebo zaškrtnutí „Neměřeno“, jestli šlo o noční mikci, a poznámku, pokud se něco stalo. Je k tomu delší návod s rozebraným příkladem: jak si vést mikční deník (https://fluidbalanceapp.com/cs/blog/how-to-keep-a-bladder-diary/).
+
+**Kolik dní si ho mám vést?**
+Tolik, kolik po vás chtěli. Většina ambulancí chce tři až sedm úplných dní a krátký, ale úplný deník má větší cenu než dlouhý s mezerami. Odkud ta čísla jsou: kolik dní stačí (https://fluidbalanceapp.com/cs/blog/bladder-diary-how-many-days/).
+
+**Funguje na Apple Watch? Jaký iPhone?**
+Apple Watch: stejné objemy a „Neměřeno“, spolu s PŘÍJMEM, MOČENÍM a BILANCÍ daného dne. iPhone s iOS 18 nebo novějším, včetně iPhonu Duo — na široké obrazovce má deník vlastní rozvržení. Na iPadu aplikace zatím běží jako aplikace pro iPhone; plná podpora přijde v některé z aktualizací.
+
+**V jakých jazycích?**
+Angličtina, němčina, francouzština, španělština, italština, portugalština (Brazílie), ruština, japonština, korejština, zjednodušená čínština, tradiční čínština, polština, švédština a čeština — celkem 14. Zpráva v PDF je přeložená také; soubor CSV zůstává anglicky.
+
+### Zapisování
+
+**Neznám přesný objem. Co mám napsat?**
+Odhad. Chybějící záznam je horší než nepřesný a nic v aplikaci neoznačí vaše data jako nespolehlivá. Pokud jste neměřili vůbec, použijte „Neměřeno“: záznam se počítá do četnosti a do nočních událostí a zůstane mimo součty objemu.Odměrka, nástavec na záchod a odhad: jak doma změřit množství moči (https://fluidbalanceapp.com/cs/blog/how-to-measure-urine-output-at-home/).
+
+**Můžu změnit čas nebo přidat poznámku?**
+Ano. Otevřete záznam a změňte čas, druh nebo objem, případně přidejte poznámku.
+
+**Můžu zapisovat nucení nebo únik moči?**
+Nucení ano. V nastavení zapněte sílu nucení a každou mikci půjde ohodnotit od 0 do 4; objeví se v deníku, v grafu, ve zprávě PDF i v CSV. Ve výchozím nastavení je vypnutá, takže záznam zůstává na dvou klepnutích, dokud nechcete víc. Únik moči vlastní pole nemá — napište ho do poznámky u záznamu.Co patří do poznámky a jak formuláře ambulancí bodují nucení a únik: mikční deník při hyperaktivním měchýři a úniku moči (https://fluidbalanceapp.com/cs/blog/bladder-diary-for-overactive-bladder-and-leaks/).
+
+**Připomíná mi aplikace pití?**
+Ne. Je tu volitelné připomenutí, abyste deník vyplnili — ve výchozím nastavení vypnuté, čas si volíte sami. Přijde jen ve dnech bez záznamů a po týdnu bez nich se pozastaví. Jeho text nikdy neprozradí, o čem aplikace je, takže na uzamčené obrazovce nic neukáže.
+
+**Uvidím ještě včerejšek?**
+Ano. Dokud dnešek nemá žádný záznam, karta na dnešní obrazovce ukazuje včerejšek; jedním klepnutím se ten den otevře.
+
+**Může být 24hodinový čas?**
+Ano, 12 nebo 24 hodin, jak vám to vyhovuje. Přepínač je v nastavení.
+
+**Bude mi u každého záznamu nabízet nákup?**
+Nikdy. Pro uvidíte jen tehdy, když otevřete zprávu nebo pokročilé grafy.
+
+### Zpráva a vaše data
+
+**Jak dostanu svá čísla ven?**
+Exportem CSV z nastavení, přes celou historii a bez omezení. Zpráva v PDF (Pro) je sestavená tak, jak se mikční deník obvykle čte.
+
+**Můžu zprávu vytisknout nebo poslat?**
+Ano. PDF lze vytisknout, sdílet, poslat e-mailem nebo ukázat v telefonu.
+
+**Kde jsou moje data? A když se telefon rozbije?**
+Ve vašem zařízení a, pokud zapnete iCloud, i ve vaší vlastní soukromé databázi iCloud. Není tu server ani účet. Kdykoli si vyexportujte CSV jako vlastní zálohu. Viz zásady ochrany soukromí (https://fluidbalanceapp.com/cs/privacy/).
+
+**Jak všechno smažu?**
+Nastavení, „Smazat všechna data“. Jeden krok, jedno potvrzení. Vymaže zařízení a, pokud je iCloud zapnutý, i kopii v něm.
+
+**Řekne mi aplikace, jestli jsou moje čísla normální?**
+Ne a nikdy neřekne. Zapisuje to, co jí sdělíte, a ukazuje součty. Žádné cíle, žádné normy, žádná varování, žádné rady. Výklad patří lékaři.Co z deníku čte lékař: co mikční deník ukáže (https://fluidbalanceapp.com/cs/blog/what-does-a-bladder-diary-show/).
+
+### Pro
+
+**Co přesně je v Pro?**
+Zpráva v PDF, stránka pokročilých analýz (první týdenní graf je zdarma) a tmavá ikona aplikace. Jednorázový nákup, nic se neobnovuje.
+
+**Koupil jsem Pro a na druhém zařízení se neobjevuje.**
+Použijte „Obnovit nákupy“ v nastavení, přihlášení stejným účtem Apple.
+
+Contact: denacidapp@gmail.com
+
+---
+
+## Formulář mikčního deníku: PDF k vytištění zdarma (A4 a Letter)
+Source: https://fluidbalanceapp.com/cs/bladder-diary-template/
+
+Bezplatný formulář mikčního deníku v PDF: A4 v ml, US Letter v oz a brožurky na přeložení. Sedm dní, jedna strana na den, s návodem k vyplnění.
+
+Downloads: https://fluidbalanceapp.com/downloads/bladder-diary-a4.pdf (A4, ml), https://fluidbalanceapp.com/downloads/bladder-diary-letter.pdf (US Letter, oz), https://fluidbalanceapp.com/downloads/bladder-diary-a5.pdf (A5 booklet, ml), https://fluidbalanceapp.com/downloads/bladder-diary-letter-half.pdf (half-Letter booklet, oz). Samotné listy jsou anglicky — sloupce jsou stejné.
+Co je na listu: Sedm dní, jedna strana na den. Sloupce: čas · co jste vypili · kolik jste vymočili · noc · poznámka. Nahoře na každé straně číslo dne, datum a časy, kdy jste šli spát a kdy jste vstali; na poslední straně řádek zapsaných dní ▢ ze 7 — první věc, na kterou se lékař podívá. První strana vysvětluje vyplňování na příkladu. V ambulancích se témuž listu říká mikční deník, mikční karta nebo pitná a mikční karta; třídenní deník jsou prostě první tři strany. Sloupce jsou ty, které tam čekají.
+Jak ho vyplnit: 1. Čas zapisujte hned — Ne na konci dne. Čas každého záznamu znamená stejně jako objem. 2. Nápoje: vezměte objem hrnku nebo lahve — Hrnek má zhruba 200–250 ml, sklenice 250, plechovka 330, malá lahev 500. 3. Moč: změřte, když to jde, jinak odhadněte — Stačí odměrka nebo nástavec do záchodové mísy. Pokud jste neměřili vůbec, zaškrtněte „neměřeno“ — záznam se počítá dál.Více: jak doma změřit množství moči (https://fluidbalanceapp.com/cs/blog/how-to-measure-urine-output-at-home/). 4. Označte noční záznamy — Všechno mezi ulehnutím a ranním vstáváním.
+Tři dny, nebo sedm?: Většina doporučení žádá třídenní deník s úplnými dny; někteří lékaři chtějí sedm. Úplnost váží víc než délka — držte se toho, o co vás požádali. Proč tři a kdy dává smysl sedm (https://fluidbalanceapp.com/cs/blog/bladder-diary-how-many-days/).
+Z čeho vychází: Rozvržení kopíruje deníky, které urologické ambulance už používají, aby lékař našel všechno tam, kde to čeká: Karta četnosti a objemu, Gloucestershire Hospitals NHS Foundation Trust (https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf) — ✓ pro mikci bez měření, časy ulehnutí a vstávání, vyplněný příklad. Bladder Diary, Urology Care Foundation (American Urological Association) (https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf) — volné řádky místo pevné hodinové mřížky, objemy nádob jako vodítko, dny, které nemusí jít po sobě. International Continence Society, terminologie mikčního deníku (https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary) — co deník zaznamenává a proč jsou potřeba časy ulehnutí a vstávání k počítání nočních mikcí. Standard kvality NICE QS77 (https://www.nice.org.uk/guidance/qs77/chapter/quality-statement-2-bladder-diaries-and-lifestyle-changes) — deník alespoň na tři dny. Sloupce odpovídají aplikaci {appName}, takže papírový deník a aplikace se čtou stejně. Sestavil vývojář aplikace, ne zdravotník. Pokud vám v ambulanci dali vlastní formulář, vyplňte ten.
+
+---
+
+## Nejlepší mikční deník zdarma: co ověřit před instalací
+Source: https://fluidbalanceapp.com/cs/blog/best-free-bladder-diary-app/
+Published: 2026-11-13 · Návod · Denis Zinin, vývojář aplikace Mikční deník: Fluid Balance. Není lékař.
+
+Ve zkratce:
+Nejlepší mikční deník zdarma je ten, který v den návštěvy pořád odpovídá na to, oč ordinace žádala, a většina se rozhodne ještě před instalací:
+
+- Slovo zdarma pokrývá čtyři různé dohody: zdarma úplně, zdarma s reklamou, zkušební období, které skončí, a bezplatné zapisování se zprávou nebo exportem za peníze. Která z nich platí, je vidět na stránce v App Store ještě před stažením.
+- Deník bez objemu u každé mikce není to, oč ordinace žádala. Doporučené postupy žádají čas a objem každé mikce nejméně po tři dny.
+- Otevřete export hned první den, ne v noci před návštěvou. Analýza aplikací pro mikční deník z roku 2026 zjistila, že většině chybějí klinické položky a že slabě chrání zdravotní údaje.
+
+Nikdo vám neřekne, která bezplatná aplikace pro mikční deník je nejlepší právě pro vás, a v tomhle koutě App Store vydávají většinu žebříčků nejlepších aplikací samy aplikace, které v nich stojí. Před instalací se rozhoduje něco jiného: jestli aplikace pomůže i v den, kdy deník odevzdáte lékaři. Záleží na tom, co zaznamenává, kolik dní udrží, co se stane s vašimi záznamy a jestli z ní deník nakonec dostanete ven. Jednu z těchto aplikací děláme my, takže poslední dvě části čtěte s tímto vědomím. Kontroly před nimi platí pro jakoukoli aplikaci, i pro tu naši.
+
+### Co znamená zdarma u aplikace pro mikční deník?
+
+Pod jedním slovem běží čtyři různé dohody a stránka v App Store prozradí, o kterou jde, ještě před stažením.
+
+Některé aplikace jsou zdarma úplně: není co platit ani co odemykat. Některé jsou zdarma proto, že je platí reklama, i ve tři ráno, na záchodě, uprostřed záznamu. Některé dají zkušební období na týden nebo dva, po kterém se zapisování zastaví nebo zamkne to, co jste už vložili, přesně uprostřed těch po sobě jdoucích dní, o které ordinace žádala. Nejčastější je ta čtvrtá: zapisovat zdarma, platit za vytažení. Záznamy nic nestojí a zpráva, export nebo grafy jsou za nákupem.
+
+Dva řádky na stránce v App Store to rozhodnou: seznam Nákupy v aplikaci, který pojmenuje, co se prodává a jestli se to obnovuje, a štítek soukromí. Deník se obvykle vede pár dní, takže předplatné a jednorázový nákup nejsou totéž.
+
+### Co musí deník zaznamenat
+
+Formulář z ordinace má sloupec na to, kolik jste vymočili, v mililitrech, a právě ten sloupec aplikace nejsnáz vynechá.
+
+Evropská urologická společnost ve svém doporučeném postupu k příznakům dolních močových cest u mužů rozlišuje dva dokumenty. Karta četnosti a objemu zaznamenává čas a objem každé mikce; mikční deník přidává přijaté tekutiny, vložky, činnosti a skóre příznaků a doporučený postup žádá nejméně tři dny takového deníku.[1] International Continence Society popisuje deník stejně: objemy mikcí s časem, k tomu epizody úniku moči, vložky a příjem tekutin.[2] Přehled důkazů o obsahu, podobě a délce deníků dochází ke stejnému: k čemu deník slouží, určuje, co v něm musí být.[3]
+
+Aplikace, která počítá klepnutí, dá počet mikcí. To je jeden řádek formuláře, o který ordinace žádala, a změřené objemy jsou právě ta část, kterou potom nikdo nedopočítá. První, co tedy hledat na snímcích obrazovky, je číselné pole pro objem, v mililitrech nebo uncích, a způsob, jak zapsat mikci, kterou se změřit nepodařilo. Bez toho druhého lidé záznam úplně vynechají, a chybějící záznam je horší než nepřesný.
+
+### Sedm kontrol před instalací
+
+- Objem u každé mikce, v mililitrech nebo uncích, a způsob, jak označit tu, kterou jste nezměřili.
+- Čas se doplní sám a dá se upravit, když zapisujete o půl hodiny později.
+- Noci oddělené ode dní: označení noci, nebo časy ulehnutí a vstávání.
+- Tři až sedm dní v jednom deníku, protože o takové rozmezí ordinace žádají. Výzkum porovnávající tří- a sedmidenní deníky zjistil, že ten kratší dává srovnatelné hodnoty a bývá vyplněn lépe.[4]
+- Místo na nucení, únik moči a vložky: políčka, nebo aspoň poznámka.
+- Export, který lékař přečte: stránka k vytištění nebo PDF, ne snímek obrazovky s grafem.
+- Štítek soukromí a to, jestli je vůbec potřeba účet dřív, než aplikace něco zaznamená.
+
+Těchto sedm je asi na dvě minuty na stránce v App Store a podle žádné z nich se žebříčky nejlepších aplikací neřadí.
+
+### Co zdarma stojí později
+
+Obvyklý nezdar přichází poslední den: tři dny zapsané, a zpráva je za platbou, kterou jste nečekali, nebo záznamy z aplikace nevyjdou v žádné podobě, kterou by lékař přečetl.
+
+Analýza elektronických aplikací pro mikční deník z roku 2026 zjistila, že většině chyběly důležité klinické položky, že se na jejich vzniku nepodíleli odborníci a že ochrana zdravotních údajů byla slabá; autoři uzavírají, že aplikace se zatím validovaným papírovým deníkům nevyrovnají.[5]
+
+Kontrola nic nestojí. První den, dokud není co ztratit, otevřete obrazovku exportu nebo zprávy a podívejte se, co se stane. Když si řekne o peníze, pořád máte na výběr jinou aplikaci a žádné záznamy, které by se musely stěhovat.
+
+### Stačí bezplatná aplikace na návštěvu?
+
+Ano, pokud drží čas a objem každé mikce, odděluje noci, pokrývá dny, o které vás požádali, a výsledek vydá v čitelné podobě. O deník se žádá proto, že je záznamem toho, co se stalo, a ne toho, co si pamatujete,[6] a bezplatná aplikace s každou mikcí uvnitř porazí placenou s dírou druhou noc.
+
+Výsledek by žádná aplikace vykládat neměla. Vaše čísla něco znamenají vedle vaší anamnézy a to čtení patří lékaři.
+
+### Co je ve Fluid Balance zdarma a co přidává Pro
+
+Zdarma, dokud aplikaci používáte: zapisování příjmu a mikcí dvěma klepnutími, s přednastavenými hodnotami a možností zapsat mikci bez změřeného objemu, volitelné hodnocení nucení od 0 do 4, denní přehled, mřížka statistik, widgety na ploše i na zamčené obrazovce, aplikace pro Apple Watch, synchronizace přes iCloud bez účtu, export CSV a 12- nebo 24hodinový čas. Na štítku soukromí stojí, že se nesbírají žádná data: žádný účet, žádný server, žádná analytika uvnitř aplikace.
+
+Pro je jednorázový nákup, ne předplatné: přidává zprávu v PDF pro lékaře, stránku pokročilých analýz (první týdenní graf je zdarma) a tmavou ikonu. Nic nepřeruší záznam nabídkou nákupu. Všechno to uvidíte při prvním spuštění a jak aplikace vypadá obrazovku po obrazovce, je na [její vlastní stránce](https://fluidbalanceapp.com/).
+
+### Když nechcete nic instalovat
+
+[Bezplatná šablona k vytištění](https://fluidbalanceapp.com/bladder-diary-template/) má stejné sloupce: A4 v mililitrech, US Letter v uncích, sešitky na přeložení, jedna stránka na den a návod přímo na listu. Lékař ji čte přesně tak jako zprávu z aplikace, a právě proto se obě drží ve stejné podobě.
+
+Tak či tak je nejlepší mikční deník zdarma ten, ve kterém je třetí den zapsaná každá mikce a ze kterého vyjde zpráva, kterou si vytisknete.
+
+### Otázky
+
+**Existuje úplně bezplatný mikční deník?**
+Zapisovat zdarma umožňuje několik aplikací. Platí se obvykle ta část, kterou potřebujete na konci: zpráva k vytištění, export nebo grafy. To je v pořádku, pokud to víte první den, takže si na stránce v App Store najděte řádek Nákupy v aplikaci a otevřete cenovou obrazovku samotné aplikace dřív, než v ní budou tři dny záznamů.
+
+**Jak poznám, co bezplatná aplikace dělá s mými záznamy?**
+Tři místa, všechna k přečtení za minutu: štítek soukromí na stránce v App Store, kde buď stojí, že se nesbírají žádná data, nebo je vypsáno, co se s vámi propojuje; jestli aplikace vyžaduje účet dřív, než vůbec něco zaznamená; a zásady ochrany soukromí. Analýza aplikací pro mikční deník z roku 2026 zjistila, že většina chrání zdravotní údaje slabě.
+
+**Přijme urolog deník vedený v aplikaci?**
+Obvykle ano, pokud ukazuje totéž co formulář z ordinace: čas a objem každé mikce, co jste vypili, noci oddělené ode dní a dny, o které vás požádali. Přineste jej vytištěný nebo v PDF, někteří lékaři mají radši papír na stole. Pokud vám ordinace dala vlastní formulář s vlastními škálami, vyplňte ten.
+
+### Zdroje
+
+1. European Association of Urology. EAU Guidelines on the Management of Non-neurogenic Male LUTS. Arnhem: EAU; 2026. Chapter 4, Diagnostic evaluation. https://uroweb.org/guidelines/management-of-non-neurogenic-male-luts/chapter/diagnostic-evaluation
+2. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+3. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+4. Dmochowski RR, Sanders SW, Appell RA, Nitti VW, Davila GW. Bladder-health diaries: an assessment of 3-day vs 7-day entries. BJU Int. 2005;96(7):1049–1054. https://doi.org/10.1111/j.1464-410X.2005.05785.x
+5. Matthews C, Stothers L, Burke C, Petersen K, Macnab A. A framework analysis of electronic bladder diary apps: suitability for clinical decision-making and comparison to validated paper diaries. Neurourol Urodyn. 2026. https://doi.org/10.1002/nau.70410
+6. National Institute for Health and Care Excellence. Urinary incontinence in women. Quality standard QS77, quality statement 2: bladder diaries and lifestyle changes. London: NICE; 2015. https://www.nice.org.uk/guidance/qs77/chapter/quality-statement-2-bladder-diaries-and-lifestyle-changes
+
+Tento text vysvětluje, jak si vést deník. Je to obecná informace od vývojáře aplikace, ne lékařská rada: co váš deník znamená, rozhoduje lékař. Deník si vedete sami. Není to zdravotnický dokument.
+
+---
+
+## Mikční deník nebo karta četnosti a objemu: jaký je rozdíl?
+Source: https://fluidbalanceapp.com/cs/blog/bladder-diary-or-frequency-volume-chart/
+Published: 2026-11-02 · Návod · Denis Zinin, vývojář aplikace Mikční deník: Fluid Balance. Není lékař.
+
+Ve zkratce:
+Mikční deník, deník močení a karta četnosti a objemu jsou pro toho, kdo je vyplňuje, tentýž list. Podle definic International Continence Society karta četnosti a objemu zaznamenává čas a objem každé cesty, mikční deník k tomu přidává nápoje, úniky a vložky a karta časů mikce zaznamenává jen časy; voiding diary, urinary diary, bladder chart a bilance tekutin jsou totéž pod jinými jmény. Použijte formulář, který jste dostal:
+
+- Karta četnosti a objemu zaznamenává čas a objem každé cesty. Mikční deník je totéž plus nápoje, úniky a vložky. Karta časů mikce zaznamenává jen časy.
+- Voiding diary, urinary diary, bladder chart a bilance tekutin jsou totéž pod jinými jmény. Použijte formulář, který jste dostal.
+- Ať je nadpis jakýkoli, rozhodují sloupce: čas, nápoj, vymočený objem, noc a poznámka.
+
+Řekli vám, ať si vedete mikční deník. V letáku stojí karta četnosti a objemu. Na webu, který jste našel, je voiding diary, a sestra na oddělení tomu říkala bilance tekutin. Pro vaše účely je to tentýž list. Rozdíly, které skutečně existují, jsou malé a definované; vysvětlujeme je níž, abyste se přestal starat o nadpis a pustil se do sloupců.
+
+### Krátká verze
+
+| Termín | Co zaznamenává | Kdo to tak říká |
+|---|---|---|
+| Karta časů mikce | Pouze čas každé cesty, ve dne i v noci | Výzkum, některé ambulance |
+| Karta četnosti a objemu (frequency–volume chart) | Čas a objem každé cesty | Britská urologie, formuláře NHS, BAUS |
+| Mikční deník | Časy a objemy plus nápoje, úniky, vložky, nucení | Domácí i mezinárodní doporučení, NICE |
+| Voiding diary, urinary diary, micturition diary | Totéž co mikční deník | Americké ambulance a literatura |
+| Bladder record chart, bladder chart | Totéž co mikční deník | Fyzioterapeutická pracoviště |
+| Bilance tekutin, záznam příjmu a výdeje | Nápoje a moč za 24 hodin; v nemocnici i infuze a další ztráty | Oddělení a ošetřovatelství; BAUS tak nazývá svou kartu četnosti a objemu |
+
+### Jaký je rozdíl mezi mikčním deníkem a kartou četnosti a objemu?
+
+International Continence Society, která stanovuje terminologii urologů, popisuje tři úrovně záznamu.[1,3] Karta časů mikce zaznamenává jen časy cest, ve dne i v noci, po dobu nejméně 24 hodin. Karta četnosti a objemu přidává objem každé cesty. Mikční deník přidává příjem tekutin, spotřebu vložek, epizody inkontinence a jejich stupeň a může zaznamenávat i nucení a činnosti, které provázely únik.[1,2,3] Každá úroveň odpovídá na víc otázek než ta předchozí a mikční deník je to, co má většina doporučení na mysli, když žádá „deník“: NICE například žádá od žen, které přicházejí s inkontinencí moči, aby vyplnily mikční deník po dobu nejméně tří dnů.[10]
+
+### Proč je názvů tolik
+
+Zčásti zeměpis, zčásti historie. Přehledová práce musela hledat devět různých termínů, aby našla tentýž druh záznamu: micturition chart, micturition diary, frequency volume chart, bladder chart, bladder diary, urinary chart, urinary diary, voiding chart a voiding diary.[4] Americké formuláře říkají spíš voiding nebo bladder diary; pacientský formulář Urology Care Foundation se jmenuje prostě „Bladder Diary“.[7] Britské formuláře často podržují starší klinický název, i když jde o plnohodnotné deníky: karta NHS Gloucestershire má nadpis „Frequency Volume Chart, Three Day Bladder Diary“ a sloupce na nápoje, moč, čití měchýře a vložky,[5] a leták BAUS svůj záznam příjmu a výdeje popisuje jako „známý také jako frequency-volume chart nebo bladder diary“.[6] Fyzioterapie má vlastní variantu, bladder record chart, se stejným obsahem.[8]
+
+### Záznamy příjmu a výdeje a bilance tekutin
+
+Tyhle dva názvy pocházejí z oddělení. Bilance tekutin je ošetřovatelský záznam všeho, co jde do pacienta, a všeho, co z něj jde ven, včetně infuzí, drénů a zvratků, a slouží k vedení tekutin v nemocnici.[9] Když vás sestra po operaci nebo s katétrem posílá domů s tím, abyste si „vedl příjem a výdej“, myslí tím obvykle jednodušší verzi: co jste vypil, co jste vymočil, s časy. To je karta četnosti a objemu se sloupcem na nápoje — a právě proto může BAUS tenhle název použít ve svém urologickém letáku.[6] Sloupce našeho [formuláře k vytištění](https://fluidbalanceapp.com/bladder-diary-template/) to pokryjí.
+
+### Totéž v jiných jazycích
+
+Vedete-li deník v jiném jazyce, mění se termín, ne list: bladder diary nebo voiding diary anglicky, Blasentagebuch nebo Miktionsprotokoll německy, calendrier mictionnel francouzsky, diario miccional španělsky, diario minzionale italsky, 排尿日誌 japonsky. Aplikace běží ve stejných jazycích jako tenhle web a zprávu tiskne v jazyce, který si zvolíte, takže německá uroložka dostane německé záhlaví sloupců.
+
+### Co z toho plyne pro vás
+
+Použijte formulář, který jste dostal. Řekla-li ambulance „karta četnosti a objemu“ a podala vám list se sloupcem na nápoje, nápoje vyplňte. Řekla-li „mikční deník“ a list má sloupce na nucení a úniky, využijte je. Nedala-li vám nic a řekla jen „veďte si deník“, postačí jakýkoli formulář s časem, nápojem, vymočeným objemem, nocí a poznámkou; přesně to používá [formulář](https://fluidbalanceapp.com/bladder-diary-template/) i aplikace, takže papírový deník a deník v telefonu se čtou stejně. Nadpis nahoře nikdy nebyl problém. Prázdné řádky ano.
+
+### Otázky
+
+**Je voiding diary totéž co mikční deník?**
+V praxi ano. „Voiding diary“ je obvyklý americký termín a „bladder diary“ obvyklý britský; odborná literatura používá oba, a k tomu urinary diary, micturition diary a bladder chart. Má-li formulář sloupce na nápoje a na moč s časy, je to mikční deník, ať je nahoře napsáno cokoli.
+
+**V ambulanci řekli karta četnosti a objemu. Mám přesto zapisovat nápoje?**
+Přísně vzato karta četnosti a objemu zaznamenává jen časy a objemy vymočené moči. Většina ambulantních formulářů s tímto názvem se však ptá i na nápoje, jako karta NHS Gloucestershire a karta BAUS. Řiďte se formulářem: má-li sloupec na nápoje, vyplňte ho; nemá-li, zapsat nápoje na zvláštní řádek nikdy neuškodilo.
+
+**Co je karta časů mikce?**
+Nejjednodušší ze tří: pouze čas každé cesty, ve dne i v noci, po dobu nejméně 24 hodin. Žádné objemy, žádné nápoje. Odpovídá na otázku „jak často“ a na nic jiného, což lékaři někdy stačí.
+
+### Zdroje
+
+1. Abrams P, Cardozo L, Fall M, et al. The standardisation of terminology of lower urinary tract function: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):167–178. https://doi.org/10.1002/nau.10052
+2. Haylen BT, de Ridder D, Freeman RM, et al. An International Urogynecological Association (IUGA)/International Continence Society (ICS) joint report on the terminology for female pelvic floor dysfunction. Neurourol Urodyn. 2010;29(1):4–20. https://doi.org/10.1002/nau.20798
+3. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+4. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+5. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+6. British Association of Urological Surgeons. Information from BAUS about assessing fluid intake & output. Patient leaflet F24/016. BAUS; 2024. https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Input%20output%20chart.pdf
+7. Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025. https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf
+8. University Hospitals Sussex NHS Foundation Trust. Bladder record chart: pelvic health physiotherapy patient information. Reference 2198; 2023. https://www.uhsussex.nhs.uk/wp-content/uploads/2023/03/Bladder-Record-chart.pdf
+9. Scales K, Pilsworth J. The importance of fluid balance in clinical practice. Nurs Stand. 2008;22(47):50–57. https://doi.org/10.7748/ns2008.07.22.47.50.c6634
+10. National Institute for Health and Care Excellence. Urinary incontinence and pelvic organ prolapse in women: management. NICE guideline NG123. London: NICE; 2019. https://www.nice.org.uk/guidance/ng123
+
+Tento text vysvětluje, jak si vést deník. Je to obecná informace od vývojáře aplikace, ne lékařská rada: co váš deník znamená, rozhoduje lékař. Deník si vedete sami. Není to zdravotnický dokument.
+
+---
+
+## Mikční deník: Fluid Balance 1.2 je v App Store
+Source: https://fluidbalanceapp.com/cs/blog/fluid-balance-1-2/
+Published: 2026-10-26 · Novinka · Denis Zinin, vývojář aplikace Mikční deník: Fluid Balance.
+
+Verze 1.2 je v App Store a je skoro celá o jedné věci: teď si můžete zapsat, jak silné bylo nucení před mikcí. Zbytek jsou drobná vylepšení pro pohodlí.
+
+### Jak silné bylo nucení?
+
+V mikčním deníku při hyperaktivním močovém měchýři a únicích se nucení hodnotí před každou mikcí — a aplikace to dosud neuměla. Abyste to mohli použít, zapněte to v nastavení: **Síla nucení**. Od té chvíle dostane každý záznam o mikci odznak **Ohodnotit nucení** s pěti stupni:
+
+- **0** Bez nucení
+- **1** Běžné nucení
+- **2** Silné nucení
+- **3** Sotva jsem to stihl(a)
+- **4** Nestihl(a) jsem to
+
+
+Stupeň 4 znamená, že moč vyšla cestou na záchod; proto zůstává připnutý ke své mikci místo toho, aby se stal samostatnou událostí, kterou by vaše počty musely potom srovnávat.
+
+**Neohodnoceno není nula.** Záznam, který jste neohodnotil, neukládá vůbec nic — totéž pravidlo jako „Neměřeno“ u objemu. Den bez hodnocení ukáže ve zprávě pomlčku, ne řadu nul, a průměry se počítají ze záznamů, které hodnocení opravdu nesou. Nula v této aplikaci vždycky znamená, že jste zvolil „Bez nucení“.
+
+**Kde se hodnocení objeví.** V deníku vedle záznamu. Ve zprávě v PDF jako dva řádky — stupně 3–4 za den a stupeň 4 za den — plus sloupec v tabulce po dnech. V CSV jako nový sloupec na konci, připojený a nevložený doprostřed, aby tabulka nebo skript postavené na starém exportu dál fungovaly. Pokud ve zvoleném období není ohodnoceno nic, zpráva ten oddíl vynechá, místo aby tiskla prázdný.
+
+Dokud to nezapnete, zůstává záznam dvě klepnutí.
+
+### Připomenutí, které přestane otravovat
+
+Záleží nám na vaší pozornosti: připomenutí se nemá změnit v šum na pozadí. Dřív chodilo každý den ve zvolený čas, dokud byla aplikace nainstalovaná. Teď přijde jen ve dnech bez záznamů, a po týdnu bez jediného se samo pozastaví. Deník se vede tři až sedm dní; připomenutí, které chodí ještě druhý měsíc, je jen oznámení k vypnutí.
+
+
+### Snadná cesta ke včerejšku
+
+Dokud je dnešek ještě prázdný, nese obrazovka Dnes kartu se včerejšími záznamy a jedno klepnutí ten den otevře. Nejčastější způsob, jak přijít o den deníku, je vzpomenout si na něj až druhý den ráno.
+
+
+### Dále v 1.2
+
+- **12- nebo 24hodinový formát**, jak je vám milejší, v nastavení.
+- **Plná podpora iPhonu Duo.**
+- **Velký widget na plochu**, vedle malého a toho na uzamčené obrazovce.
+- **Čtyři nové jazyky:** polština, švédština, čeština a tradiční čínština, aplikace jich má tedy čtrnáct. Zpráva v PDF se překládá spolu s rozhraním; CSV zůstává anglicky.
+- **Rychlejší, když se nasbíralo hodně záznamů**, a k tomu řada drobných oprav.
+
+### Co zůstalo stejné
+
+Štítek o soukromí v App Store zní dál „Nesbírá žádná data“: žádný účet, žádný server, žádná analytika uvnitř aplikace, žádný cizí kód. Záznamy žijí na vašem zařízení a, pokud to zapnete, ve vaší vlastní soukromé databázi iCloud — podrobnosti má [zásady ochrany soukromí](https://fluidbalanceapp.com/privacy/). Aplikace pořád nestanovuje diagnózy, neporovnává vaše záznamy s žádnou normou a nepřipomíná vám pití; síla nucení je číslo, které jste zadal vy, a co znamená, je rozhovor s lékařem. Zapisování, Dnes, statistiky, widgety, Apple Watch, iCloud i export do CSV zůstávají zdarma a Pro je pořád jednorázový nákup, ne předplatné.
+
+### Požadavky
+
+iPhone s iOS 18 nebo novějším, iPhone Duo včetně. Apple Watch s watchOS 11 nebo novějším. Na iPadu běží jako aplikace pro iPhone. Kategorie v App Store: Zdraví a medicína.
+
+Dotazy nebo přání: [nápověda](https://fluidbalanceapp.com/support/) má odpovědi na ty časté a adresu, kam napsat.
+
+---
+
+## Mikční deník na papíře, nebo v aplikaci: co říkají studie
+Source: https://fluidbalanceapp.com/cs/blog/paper-bladder-diary-or-app/
+Published: 2026-10-26 · Návod · Denis Zinin, vývojář aplikace Mikční deník: Fluid Balance. Není lékař.
+
+Ve zkratce:
+Mikční deník na papíře, nebo v aplikaci je otázka, na kterou studie odpovídají remízou: elektronické a papírové deníky vycházejí podobně spolehlivě a rozdíly jsou v tom, kdy je lidé vyplňují a kolik se nakonec sečte. Rozhoduje něco jiného: jestli se každá cesta zapíše hned, v každém vyžádaném dni:
+
+- Funguje obojí. Studie považují elektronické i papírové deníky za podobně spolehlivé; rozdíly jsou v tom, kdy se vyplňují a kolik se sečte.
+- Papír se vyplňuje dodatečně častěji, než lidé přiznávají. Elektronické deníky si čas zapisují samy, ale analýza aplikací zjistila, že většině chybí klinické základy: nucení, úniky nebo soukromí.
+- Zvolte jeden formát na celý deník, ověřte, že zapíše vše, oč ambulance žádala, a výsledek přineste v podobě, kterou lékař přečte.
+
+Papír, nebo aplikace není dobrá první otázka. První otázka zní, jestli se deník vyplňuje hned, u každé cesty, v každém vyžádaném dni. Oba formáty — papírový list i elektronický mikční deník v aplikaci — to zvládnou a u obou se to může nepovést. Tenhle text probírá, co výzkum při jejich srovnání skutečně zjistil, co podle novější analýzy aplikacím chybělo a jak vybrat, abyste neskončil s půlkou deníku na papíře a půlkou v telefonu. Děláme aplikaci — poslední oddíl čtěte s vědomím toho.
+
+### Co papír umí
+
+Ambulance ho znají. Formulář přijde se sloupci, které ambulance chce, v její vlastní škále pro nucení nebo úniky, a lékař do něj může psát. Není co instalovat ani se učit, funguje na nemocničním záchodě bez telefonu a ten, kdo vyplňuje, může být osmdesátiletý a nikdy nemít chytrý telefon. Pro třídenní deník předaný spolu s pozvánkou je papír naprosto dobrý nástroj.
+
+### Kde papír selhává
+
+Vyplňuje se dodatečně. Nejjasnější doklad pochází ze studie, která ukryla čidlo do pořadače papírového deníku, aby zaznamenala, kdy se opravdu otevírá: pacienti uváděli, že vyplňovali podle pokynů v drtivé většině případů, pořadač ale ukázal, že tak učinili jen u malé části plánovaných příležitostí a mnoho záznamů vzniklo později najednou.[1] Výzkum mikčních deníků vidí tentýž sklon z druhé strany: ve studiích, které porovnávaly tří- a sedmidenní deníky, autoři poznamenávají, že kratší deník nejspíš snižuje pokušení zaplňovat mezery z paměti.[2] A paměť je na tohle špatná.
+
+Ostatní slabiny jsou praktické. List neleží ve tři ráno na záchodě. Součty a počty nocí se musí sčítat ručně, nebo vůbec. A deník na kuchyňském stole se snadno ztratí a snadno zůstane v den návštěvy doma.
+
+### Jsou elektronické mikční deníky přesnější než papír?
+
+Elektronické deníky vstoupily do literatury brzy. Elektronický denní deník pro hyperaktivní močový měchýř, ověřovaný v roce 2003, sbíral údaje o příznacích s časovými razítky a byl hodnocen jako snadno použitelný; autoři uváděli data v reálném čase jako jeho hlavní výhodu proti papíru.[3] Randomizovaná studie, která u žen s močovými příznaky porovnala elektronický mikční deník s papírovým, shledala oba při opakování spolehlivými, s o něco menším počtem mikcí a úniků zapsaných elektronicky, a uzavřela, že elektronická verze je přijatelná a spolehlivá.[4] Jinými slovy: žádné kouzlo, ale solidní alternativa, jejímž konkrétním ziskem je časové razítko.
+
+### Co podle analýzy aplikacím chybělo
+
+To, že formát funguje, neznamená, že funguje každá aplikace. Analýza aplikací pro mikční deník z roku 2026, porovnaná s obsahem validovaných papírových deníků, zjistila, že většině aplikací chybějí důležité klinické položky, že se na nich nepodíleli odborníci a že jsou slabé v zabezpečení zdravotních informací, a uzavřela, že je potřeba další vývoj, než se aplikace vyrovnají validovaným papírovým deníkům.[5] Literatura je zároveň upřímná v tom, že plně validovaný deník neexistuje v žádném formátu, papír nevyjímaje.[7]
+
+Praktické čtení: posuzujte aplikaci podle toho, jestli zapisuje to, co zapisuje formulář vaší ambulance, ne podle hodnocení. Seznam je krátký:
+
+- **Čas u každého záznamu**, doplněný sám a opravitelný, když zapisujete později.
+- **Cesty bez objemu**, aby zaškrtnutí na veřejném záchodě zůstalo plnohodnotným záznamem.
+- **Časy ulehnutí a vstávání nebo označení noci**, aby šlo noci spočítat.[8]
+- **Místo pro nucení, úniky a vložky**, jako pole, nebo aspoň jako poznámky.
+- **Export**, který lékař přečte: zpráva k vytištění, nebo tabulka k odeslání.
+- **Co se děje s daty**: účet, server, reklama. Štítek o soukromí v App Store to řekne na jednom řádku.
+- **Jestli se zápis někdy přeruší** registrací nebo výzvou k zaplacení.
+
+### Jak vybrat poctivě
+
+Dala-li vám ambulance formulář s vlastními škálami, použijte formulář. Řekli-li vám jen „veďte si deník“ a nechali vás být, zvolte formát, který s sebou ve chvílích, na kterých záleží, opravdu budete mít — pro většinu lidí je to telefon. Ať zvolíte cokoli, zvolte jednou: deník rozdělený mezi list a obrazovku jsou dva poloviční deníky a ani jeden nevychází. Zátěž vedení deníku je skutečná[6] a správný formát je ten, který ji pro vás sníží.
+
+Naše stanovisko, bez obalu: Mikční deník: Fluid Balance zapíše cestu dvěma klepnutími i s časem, počítá noci, udělá součty a vytiskne zprávu a jeho štítek o soukromí zní „Nesbírá žádná data“. Nucení má vlastní pole, nepovinné hodnocení od 0 do 4; úniky a vložky jdou do poznámky. Máte-li radši papír, [formulář zdarma](https://fluidbalanceapp.com/bladder-diary-template/) má tytéž sloupce, takže se oba čtou stejně a lékař nevidí v uspořádání rozdíl. Tak či tak dělá deník užitečným totéž, co studie nacházejí znovu a znovu: vyplňte ho, když se to stane.
+
+### Otázky
+
+**Přijme lékař zprávu z aplikace?**
+Obvykle ano, pokud ukazuje totéž co papírový formulář: časy, objemy, nápoje, noci a poznámky o nucení či únicích. Pokud můžete, vytiskněte ji nebo pošlete předem e-mailem; někteří lékaři mají radši papír na stole. Když si nejste jistý, zeptejte se ve chvíli, kdy deník předepisují.
+
+**Je aplikace přesnější než papír?**
+U časů ano: záznam pořízený v telefonu nese čas, kdy vznikl, zatímco čas na papíře je ten, který jste napsal. U objemů ne: odměrka je táž. V randomizovaném srovnání byly elektronické i papírové deníky spolehlivé, s o něco menším počtem cest a úniků zapsaných elektronicky. Přesnost plyne z toho, že zapisujete hned, ať už v jakémkoli formátu.
+
+**Můžu použít prostě poznámky v telefonu?**
+Můžete a je to lepší než nic. Ztrácíte strukturu: žádné sloupce, žádné součty, žádné počítání nocí a zprávu před návštěvou si musíte napsat sám. Jdete-li touhle cestou, pište každý řádek jako čas, co, kolik, a nechte si časy ulehnutí a vstávání.
+
+### Zdroje
+
+1. Stone AA, Shiffman S, Schwartz JE, Broderick JE, Hufford MR. Patient non-compliance with paper diaries. BMJ. 2002;324(7347):1193–1194. https://doi.org/10.1136/bmj.324.7347.1193
+2. Dmochowski RR, Sanders SW, Appell RA, Nitti VW, Davila GW. Bladder-health diaries: an assessment of 3-day vs 7-day entries. BJU Int. 2005;96(7):1049–1054. https://doi.org/10.1111/j.1464-410X.2005.05785.x
+3. Quinn P, Goka J, Richardson H. Assessment of an electronic daily diary in patients with overactive bladder. BJU Int. 2003;91(7):647–652. https://doi.org/10.1046/j.1464-410X.2003.04168.x
+4. Sussman RD, Richter LA, Tefera E, et al. Utilizing technology in assessment of lower urinary tract symptoms: a randomized trial of electronic versus paper voiding diaries. Female Pelvic Med Reconstr Surg. 2016;22(4):224–228. https://doi.org/10.1097/SPV.0000000000000266
+5. Matthews C, Stothers L, Burke C, Petersen K, Macnab A. A framework analysis of electronic bladder diary apps: suitability for clinical decision-making and comparison to validated paper diaries. Neurourol Urodyn. 2026. https://doi.org/10.1002/nau.70410
+6. Ku JH, Jeong IG, Lim DJ, Byun SS, Paick JS, Oh SJ. Voiding diary for the evaluation of urinary incontinence and lower urinary tract symptoms: prospective assessment of patient compliance and burden. Neurourol Urodyn. 2004;23(4):331–335. https://doi.org/10.1002/nau.20027
+7. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+8. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+
+Tento text vysvětluje, jak si vést deník. Je to obecná informace od vývojáře aplikace, ne lékařská rada: co váš deník znamená, rozhoduje lékař. Deník si vedete sami. Není to zdravotnický dokument.
+
+---
+
+## Mikční deník při hyperaktivním měchýři a únicích: co zapisovat
+Source: https://fluidbalanceapp.com/cs/blog/bladder-diary-for-overactive-bladder-and-leaks/
+Published: 2026-10-19 · Aktualizováno: 2026-10-26 · Návod · Denis Zinin, vývojář aplikace Mikční deník: Fluid Balance. Není lékař.
+
+Ve zkratce:
+Mikční deník při hyperaktivním močovém měchýři (OAB) a únicích zapisuje kromě nápojů, cest a časů ještě čtyři věci: jestli cestu provázelo nucení, jestli došlo k úniku a přibližně jakému, jestli jste měnil vložku a co jste zrovna dělal. Definice ICS a IUGA, doporučení NICE a AUA i formuláře Urology Care Foundation, NHS a BAUS se na to v té či oné podobě ptají. Jak to zapsat, aby se to dalo přečíst:
+
+- Při hyperaktivním měchýři a inkontinenci deník zapisuje čtyři věci navíc: nucení, únik moči a přibližně kolik, výměny vložek a to, co jste zrovna dělal.
+- Použijte škálu z formuláře své ambulance a neměňte ji v půlce. V obyčejném deníku jdou všechny čtyři do sloupce Poznámka, spolu s časem.
+- Epizody úniku jsou údaj nejcitlivější na chybějící dny: zapisujte každý vyžádaný den, i ty dobré.
+
+Obyčejný mikční deník zapisuje nápoje, cesty a časy. Deník při inkontinenci nebo hyperaktivním močovém měchýři (OAB) potřebuje na témže listu čtyři věci navíc, protože právě nucení a úniky jsou to, na co se lékař dívá: jestli cestu provázelo nucení, jestli došlo k úniku a přibližně jakému, jestli jste měnil vložku a co jste zrovna dělal. Tenhle text vysvětluje, jak se na ty čtyři věci ptají ambulantní formuláře, jak je hodnotit pokaždé stejně a kam je psát, když pro ně váš deník nemá sloupec.
+
+### Proč právě tyhle čtyři
+
+Ty pojmy mají přesné definice. Urgence je náhlá, naléhavá touha močit, kterou je těžké odložit; inkontinence moči je jakýkoli mimovolní únik a urgentní inkontinence je únik, který přichází s nucením; a hyperaktivní močový měchýř znamená nucení, obvykle spolu s častým močením a nočními cestami, s úniky nebo bez nich.[1,3] Americké doporučení pro hyperaktivní měchýř zahrnuje mikční deník do vyšetření,[2] a NICE žádá od žen, které přicházejí s inkontinencí, deník na nejméně tři dny a inkontinenci třídí podle anamnézy: únik při námaze, třeba při kašli, únik s nucením, nebo obojí.[4] Čtyři sloupce navíc jsou způsob, jímž deník to třídění podpírá. „Uniklo mi, když jsem kýchl“ a „uniklo mi cestou na záchod při silném nucení“ jsou různé nálezy a deník je místo, kde se ten rozdíl zapíše s časem.
+
+### Jak ambulantní formuláře zapisují nucení a úniky
+
+Formuláře se liší formulacemi, ne podstatou.
+
+- **Urology Care Foundation (AUA).** U každé cesty: cítil jste silné nucení, ano nebo ne; došlo k úniku a jak velkému; co jste zrovna dělal, „kýchání, cvičení apod.“[5]
+- **NHS Gloucestershire.** Skóre čití močového měchýře od 0 do 4: 0 žádný pocit, šel jsem pro pohodlí; 1 běžná potřeba; 2 nucení, které přešlo; 3 nucení, došel jsem na záchod bez úniku; 4 nucení a únik. K tomu LEAK napsané ve sloupci moči a zaškrtnutí nebo hmotnost u každé vložky.[6]
+- **University Hospitals Sussex, fyzioterapie.** „Ano“ u silného, náhlého nucení a závažnost úniku: D vlhko, W mokro, V velmi mokro.[7]
+- **BAUS.** Sloupec WET s +, ++ nebo +++ pro malý, střední nebo velký únik.[8]
+
+Popis mikčního deníku od International Continence Society uvádí tytéž položky: epizody inkontinence, stupeň inkontinence, spotřebu vložek a nucení.[9]
+
+### Hodnotit pokaždé stejně
+
+Vyberte jednu škálu — tu ze svého formuláře — a veďte podle ní celý deník. „3“ první den a „dost zlé“ třetí den se porovnat nedají, a právě o porovnání jde. Pokud formulář škálu nemá, pro únik stačí tři stupně — malý, střední, velký — a pro nucení stačí ano nebo ne. Pište to hned; únik, na který si vzpomenete večer, se rád promění v „trochu“, ať byl jakýkoli.
+
+Zapište činnost několika slovy: kašel, smích, zvedání, vstávání, cestou na záchod, v posteli. To je sloupec, podle kterého lékaři odlišují jeden druh úniku od druhého.[4,5]
+
+### Kam to psát v obyčejném deníku
+
+Má-li váš deník jen čas, nápoj, objem a poznámku, všechny čtyři položky jdou do poznámky, s časem cesty, ke které patří. Náš [formulář k vytištění](https://fluidbalanceapp.com/bladder-diary-template/) má právě na to sloupec Poznámka s popisem „nucení, únik, vložka, cokoli neobvyklého“ a v jeho vyplněném příkladu je cesta s poznámkou „ve spěchu, malý únik“. V aplikaci má nucení vlastní pole — nepovinné hodnocení od 0 do 4, vypnuté, dokud ho nezapnete — a úniky, vložky i okolnosti jdou do poznámky; zpráva tiskne obojí vedle času. Chce-li ambulance své vlastní bodované sloupce, vyplňte je tak, jak formulář žádá: hodnocení od 0 do 4 není tatáž škála jako skóre čití z formuláře, a porovnatelnost je přesně to, k čemu bodování slouží.
+
+### Noční úniky a vložky v noci
+
+Únik v posteli je noční řádek: čas, „únik“, kolik, a jestli jste spal, nebo šel na záchod. Vložka vyměněná v noci je řádek vložky. Obojí patří mezi váš čas ulehnutí a čas vstávání, aby lékař mohl oddělit noc ode dne; jak ty časy fungují, vysvětluje [jak zapisovat noční cesty](https://fluidbalanceapp.com/blog/bladder-diary-for-nocturia/).
+
+### Zapisujte i dobré dny
+
+Epizody úniku jsou údaj deníku, který chybějící dny ovlivňují nejvíc. Ve studii, která porovnávala délky deníku, se tři dny vyrovnaly sedmi v počtu cest, objemu na cestu, nucení i denním objemu, ale u epizod inkontinence vypadaly tři dny hraničně.[10] Čím méně dní zapíšete, tím víc jediný suchý nebo jediný špatný den zkreslí obraz. Zapisujte každý vyžádaný den, i ty, kdy není co hlásit, a řekněte, které dny jsou úplné.
+
+### Co s tím lékař dělá
+
+Setřídí události podle druhu, času a toho, co je vyvolalo, vedle vašich nápojů a objemů, a celek čte spolu s anamnézou a vyšetřením. Co z toho vyvodí a co navrhne, je na něm; na této stránce nejsou žádné prahy ani rady, co a kdy pít. Zbytek záznamu probírá [jak vést mikční deník](https://fluidbalanceapp.com/blog/how-to-keep-a-bladder-diary/).
+
+### Otázky
+
+**Mám zapsat únik, když jsem to nakonec na záchod stihl?**
+Zapište nucení, ne únik. Urgence je náhlá, obtížně odložitelná potřeba jít; únik je moč, která vyjde dřív, než dojdete. Formulář NHS obojí boduje zvlášť: zvládnuté nucení je 3, nucení s únikem je 4. Oba řádky jsou užitečné a jsou to různé řádky.
+
+**Jak zapisovat vložky?**
+Zaškrtněte každou výměnu s časem ve sloupci vložek nebo v poznámce. Některé ambulance žádají použité vložky vážit a formulář NHS uvádí převod: 1 gram odpovídá 1 ml. Dělejte to jen tehdy, když vás o to požádali. Obvyklým záznamem je počet výměn.
+
+**Jak zapisovat nucení a úniky v aplikaci?**
+Nucení má vlastní pole: v nastavení zapněte hodnocení síly nucení a cestu půjde ohodnotit od 0 do 4. Úniky a vložky jdou do poznámky u záznamu: „únik, malý, při kašli“, „vložka“. Zpráva tiskne obojí vedle času, takže to lékař vidí popořadě. Má-li formulář vaší ambulance vlastní sloupce a škály, vyplňte je tak, jak formulář žádá: hodnocení od 0 do 4 a skóre čití z formuláře nejsou tatáž škála.
+
+### Zdroje
+
+1. Abrams P, Cardozo L, Fall M, et al. The standardisation of terminology of lower urinary tract function: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):167–178. https://doi.org/10.1002/nau.10052
+2. Cameron AP, Chung DE, Dielubanza EJ, et al. The AUA/SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder. J Urol. 2024;212(1):11–20. https://doi.org/10.1097/JU.0000000000003985
+3. Haylen BT, de Ridder D, Freeman RM, et al. An International Urogynecological Association (IUGA)/International Continence Society (ICS) joint report on the terminology for female pelvic floor dysfunction. Neurourol Urodyn. 2010;29(1):4–20. https://doi.org/10.1002/nau.20798
+4. National Institute for Health and Care Excellence. Urinary incontinence and pelvic organ prolapse in women: management. NICE guideline NG123. London: NICE; 2019. https://www.nice.org.uk/guidance/ng123
+5. Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025. https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf
+6. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+7. University Hospitals Sussex NHS Foundation Trust. Bladder record chart: pelvic health physiotherapy patient information. Reference 2198; 2023. https://www.uhsussex.nhs.uk/wp-content/uploads/2023/03/Bladder-Record-chart.pdf
+8. British Association of Urological Surgeons. Information from BAUS about assessing fluid intake & output. Patient leaflet F24/016. BAUS; 2024. https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Input%20output%20chart.pdf
+9. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+10. Konstantinidis C, Kratiras Z, Samarinas M, Skriapas K. Optimal bladder diary duration for patients with suprapontine neurogenic lower urinary tract dysfunction. Int Braz J Urol. 2016;42(4):766–772. https://doi.org/10.1590/S1677-5538.IBJU.2015.0292
+
+Tento text vysvětluje, jak si vést deník. Je to obecná informace od vývojáře aplikace, ne lékařská rada: co váš deník znamená, rozhoduje lékař. Deník si vedete sami. Není to zdravotnický dokument.
+
+---
+
+## Mikční deník při nykturii: jak zapisovat noční cesty
+Source: https://fluidbalanceapp.com/cs/blog/bladder-diary-for-nocturia/
+Published: 2026-10-12 · Návod · Denis Zinin, vývojář aplikace Mikční deník: Fluid Balance. Není lékař.
+
+Ve zkratce:
+Deník při nykturii je obyčejný mikční deník s pořádně zapsanou nocí: čas, kdy jste si lehli, čas, kdy jste vstali, a každá cesta mezi tím s časem a, kde to jde, s objemem. International Continence Society definuje nykturii jako probuzení v noci kvůli močení a EAU i ICS počítají noční cesty a noční moč právě z těchto dvou časů. Tři věci, které je třeba udělat správně:
+
+- Zapište, kdy jste si lehli a kdy jste vstali. Každá cesta mezi tím je noční: zaškrtněte ji, nechte si čas, změřte, pokud to jde.
+- První cesta po vstávání se píše jako první řádek nového dne, ale její objem patří noci. Rozdělí to lékař; vy potřebujete jen časy.
+- Veďte aspoň tři noci a kvůli deníku neměňte večerní pití. Jde o vzorec.
+
+Deník při nykturii je obyčejný mikční deník s pořádně zapsanou nocí. Pokud vás o něj požádali proto, že v noci vstáváte, je noc tou nejdůležitější částí deníku — a zároveň tou, kterou lidé zapisují nejhůř: v polospánku, potmě, bez nejmenší chuti držet odměrku. Tenhle text je o tom, jak noci zvládnout správně s co nejmenší námahou. Neříká, kolik cest je moc; ta otázka patří lékaři, který deník předepsal.
+
+### Co se počítá jako noční cesta
+
+International Continence Society definuje nykturii, tedy noční močení, jako probuzení v noci kvůli močení: před každou cestou i po ní je spánek.[1,2] Deník tuhle definici převádí na dva časy — ten, kdy jste si lehli s úmyslem spát, a ten, kdy jste vstali na den — a všechno mezi nimi je noc.
+
+Proto se každý formulář ptá na tyto dva časy. Na listu NHS píšete do sloupce časů BED a WOKE;[8] list BAUS žádá dvě čáry napříč sloupcem dne;[9] náš [formulář k vytištění](https://fluidbalanceapp.com/bladder-diary-template/) má nahoře na každé straně políčko pro obojí a sloupec Noc k zaškrtnutí. Aplikace počítá noční cesty v pevném okně, od 22:00 do 07:00, a píše to do zprávy. Pokud vaše noc běží podle jiných hodin, napište své skutečné časy ulehnutí a vstávání do poznámek nebo vezměte papírový list; lékař potřebuje vaši noc, ne přednastavenou.
+
+### Proč deník, a ne jen vyprávění
+
+Doporučené postupy jsou tu nezvykle přímé. European Association of Urology doporučuje mikční deník na nejméně tři dny k hodnocení mužských močových příznaků, „zvláště u nykturie“, protože právě deník umožňuje lékaři odlišit různé příčiny nočních cest.[3] Systematický přehled o nykturii zjistil, že objektivní nástroje, jako je karta četnosti a objemu, se používají málo a hodnocení tím trpí.[4] Paměť zvládá noci lépe než dny,[10] ale počet není totéž co záznam s časy a objemy, a většinu informace nesou právě objemy.
+
+### První ranní cesta
+
+Cesta, kterou podniknete po vstávání, není noční: už jste byl vzhůru.[1,2] Ale moč, kterou tehdy vymočíte, vznikla během noci, takže podle definice ICS se její objem přičítá k nočnímu objemu moči.[1] Na papíře ji napište jako první řádek po svém čase vstávání, s objemem, pokud jste měřil. Nemusíte s ní nic počítat. Počítat bude lékař — a právě proto se u téhle první mikce vyplatí sáhnout po odměrce.
+
+### Co zapsat u každé noční cesty
+
+- **Čas.** Podívejte se na hodiny dřív než na cokoli jiného. Když si ho ráno nevybavíte, napište nejlepší odhad a v poznámce označte „cca“.
+- **Objem, pokud to jde.** Nástavec vložený pod prkénko před spaním ho zachytí, aniž byste cokoli držel; odečíst můžete ráno, pokud to jinak nejde, ale čas napište hned.[6,7]
+- **Zaškrtnutí, když se změřit nepodařilo.** Zaškrtnutá noční cesta se pořád počítá jako cesta.
+- **Poznámku, když bylo něco neobvyklé.** „Stejně jsem byl vzhůru“, „probudilo mě silné nucení“, „uniklo mi, než jsem došel“, bolest. Tyhle řádky lékař čte.
+
+### Co lékař z nocí vypočítá
+
+Z vašich časů a objemů vyjde, kolik moči v noci vzniklo, jaký podíl z celodenního množství to je a jak dlouho jste spal do první cesty.[1,2,5] Právě kvůli těmto hodnotám jsou ty dva časy a objem první ranní mikce tak důležité: bez nich jsou noční cesty jen počet, a počet je přesně to, co měl deník zlepšit. Jaké prahy k těm hodnotám lékař přiloží, závisí na věku a na zbytku vaší anamnézy a zůstává na něm.
+
+### Kolik nocí má deník při nykturii pokrýt?
+
+Nejméně tři, podle doporučení EAU i podle většiny ambulantních formulářů.[3,8,9] Více nocí dá lékaři lepší vzorek vzorce, který se noc od noci mění; týden je běžný, když je nykturie hlavní otázkou. Ať je jich kolik chce, každá noc by měla být úplná: čas ulehnutí, každá cesta, čas vstávání. [Kolik dní má deník pokrýt](https://fluidbalanceapp.com/blog/bladder-diary-how-many-days/) probírá doporučení podrobně.
+
+### Neměňte kvůli deníku své večery
+
+Jestli si obvykle dáváte v devět čaj, dejte si v devět čaj. Deník vedený v neobvykle suché večery ukáže lékaři vzorec, podle kterého ve skutečnosti nežijete, a návštěva začne od špatného obrázku. Zapisujte večerní nápoje s časem a množstvím; jak večerní pití souvisí s nočními cestami, je jedna z věcí, kvůli kterým deník existuje.
+
+### Aby to šlo snáz
+
+Před spaním dejte nástavec na místo a tužku položte na list. Nechte rozsvícené malé světlo. Když list není u záchodu, telefon tam je: widget na uzamčené obrazovce a aplikace pro Apple Watch zapíšou cestu dvěma klepnutími, aniž byste cokoli odemykal, a čas se uloží sám. Ať použijete cokoli, pravidlo je stejné: nejdřív čas, pak objem, a nikdy nevynechat řádek.
+
+### Otázky
+
+**Počítá se první cesta po vstávání jako noční?**
+Jako cesta ne, ale její objem se počítá jako noční moč. Podle definice ICS je nykturie probuzení v noci kvůli močení, takže cesta, kterou podniknete už po vstání na den, jí není. Moč, kterou tehdy vymočíte, však vznikla během noci a přičítá se k nočnímu objemu. Napište ji jako první řádek po svém čase vstávání a rozdělování nechte na lékaři.
+
+**A co když jsem stejně nespal a šel jsem jen proto, že jsem byl vzhůru?**
+Zapište cestu s časem a připojte poznámku: „stejně jsem byl vzhůru“. Definice nykturie podle ICS předpokládá probuzení kvůli močení, lékař tedy bude chtít vědět, které cesty vás probudily a které se staly proto, že jste už byl vzhůru. Stačí krátká poznámka.
+
+**Musím měřit i v noci?**
+Pokud to jde, ano, protože lékař sčítá právě noční objemy. Nástavec vložený pod prkénko před spaním to velmi usnadní: není co držet ani co hledat potmě. Pokud to nejde, cestu zaškrtněte a nechte si čas; zaškrtnutá noční cesta se pořád počítá jako cesta.
+
+### Zdroje
+
+1. van Kerrebroeck P, Abrams P, Chaikin D, et al. The standardisation of terminology in nocturia: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):179–183. https://doi.org/10.1002/nau.10053
+2. Hashim H, Blanker MH, Drake MJ, et al. International Continence Society (ICS) report on the terminology for nocturia and nocturnal lower urinary tract function. Neurourol Urodyn. 2019;38(2):499–508. https://doi.org/10.1002/nau.23917
+3. European Association of Urology. EAU Guidelines on the Management of Non-neurogenic Male LUTS. Arnhem: EAU; 2026. Chapter 4, Diagnostic evaluation. https://uroweb.org/guidelines/management-of-non-neurogenic-male-luts/chapter/diagnostic-evaluation
+4. Cornu JN, Abrams P, Chapple CR, et al. A contemporary assessment of nocturia: definition, epidemiology, pathophysiology, and management—a systematic review and meta-analysis. Eur Urol. 2012;62(5):877–890. https://doi.org/10.1016/j.eururo.2012.07.004
+5. Epstein M, Blaivas J, Wein AJ, Weiss JP. Nocturia treatment outcomes: analysis of contributory frequency volume chart parameters. Neurourol Urodyn. 2018;37(1):186–191. https://doi.org/10.1002/nau.23272
+6. European Association of Urology, Patient Information. Bladder diary for nocturia. Uroweb. https://patients.uroweb.org/condition/nocturia/treatment-options-nocturia/bladder-diary-for-nocturia
+7. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+8. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+9. British Association of Urological Surgeons. Information from BAUS about assessing fluid intake & output. Patient leaflet F24/016. BAUS; 2024. https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Input%20output%20chart.pdf
+10. Stav K, Dwyer PL, Rosamilia A. Women overestimate daytime urinary frequency: the importance of the bladder diary. J Urol. 2009;181(5):2176–2180. https://doi.org/10.1016/j.juro.2009.01.042
+
+Tento text vysvětluje, jak si vést deník. Je to obecná informace od vývojáře aplikace, ne lékařská rada: co váš deník znamená, rozhoduje lékař. Deník si vedete sami. Není to zdravotnický dokument.
+
+---
+
+## Co ukazuje mikční deník? Co v něm čte urolog
+Source: https://fluidbalanceapp.com/cs/blog/what-does-a-bladder-diary-show/
+Published: 2026-10-05 · Návod · Denis Zinin, vývojář aplikace Mikční deník: Fluid Balance. Není lékař.
+
+Ve zkratce:
+To, co mikční deník ukazuje lékaři, se dá shrnout do pěti věcí: jak často chodíte ve dne a v noci; kolik pokaždé vymočíte; kolik moči vzniká v noci; co a kdy pijete; a jak úplný je záznam. K žádné z nich nepatří číslo, kterého byste měli dosáhnout; číst je umí lékař, který zná vaši anamnézu:
+
+- Lékař čte v deníku pět věcí: jak často chodíte ve dne a v noci, kolik pokaždé vymočíte, kolik moči vzniká v noci, co a kdy pijete a jak úplný je záznam.
+- Ani jedna z nich nemá číslo, kterého byste měli dosáhnout. Stejné hodnoty znamenají u různých lidí něco jiného a přečíst je dokáže jen lékař, který zná vaši anamnézu.
+- Ve vašich rukou je samotný záznam: každá cesta s časem, objemy tam, kde to šlo, čas ulehnutí a vstávání a poctivé mezery místo dopsaných čísel.
+
+Mikční deník ukazuje lékaři pět věcí: jak často chodíte ve dne a v noci; kolik pokaždé vymočíte; kolik moči vzniká v noci; co a kdy pijete; a jak úplný je záznam. Nic na této stránce neříká, jaká ta čísla mají být, a neinterpretuje výsledky mikčního deníku. To čtení patří lékaři, který zná vaši anamnézu; k čemu mikční deník slouží, je položit těchto pět věcí před něj. Tento text vysvětluje, na co se lékař dívá, aby každý sloupec formuláře dával smysl už při vyplňování.
+
+### K čemu mikční deník slouží?
+
+International Continence Society definuje pojmy, na nichž deník stojí: denní četnost, nykturii, objem mikce a kartu četnosti a objemu, která to všechno zaznamenává.[1] Výzkum těchto karet se ustálil na hrstce veličin, které se čtou znovu a znovu: počet mikcí ve dne a v noci, objem každé z nich, největší objem a součet za 24 hodin.[2] Doporučené postupy pak lékařům ukládají si deník vyžádat: European Association of Urology doporučuje mikční deník nejméně na tři dny při hodnocení mužských příznaků dolních močových cest, zvláště nykturie,[3] NICE jej žádá u žen, které přicházejí s inkontinencí moči,[4] a americké doporučení pro hyperaktivní močový měchýř jej zahrnuje do vyšetření.[5]
+
+### 1. Jak často chodíte — zvlášť ve dne a v noci
+
+První, co se počítá, jsou cesty za 24 hodin. Druhé, a často důležitější, je kolik z nich připadlo na noc: International Continence Society definuje nykturii jako probuzení v noci kvůli močení, přičemž před touto cestou i po ní byl spánek.[1,6,7] Proto se každý deník ptá, kdy jste si lehli a kdy vstali. Bez těchto dvou časů nelze noční cesty oddělit od denních a polovina smyslu deníku zmizí.
+
+Cesty, které se nepodařilo změřit, se tady počítají stejně. Zaškrtnutí s časem je pro toto počítání plnohodnotný záznam; chybějící řádek není.
+
+### 2. Kolik pokaždé vymočíte
+
+Každý změřený objem říká lékaři něco sám o sobě a dohromady dávají ještě dvě veličiny: největší objem za dobu deníku a rozpětí mezi nejmenším a největším.[2] Řada malých objemů a řada velkých se čtou jinak a obě vedle všeho ostatního, co o vás lékař ví. Právě tuhle část deníku umožňuje odměrka nebo sběrná nádoba; praktickou stránku popisuje [jak doma změřit](https://fluidbalanceapp.com/blog/how-to-measure-urine-output-at-home/).
+
+### 3. Kolik moči vzniká v noci
+
+Noční objemy se sčítají zvlášť. Podle definice ICS patří do nočního množství moči i první mikce po ranním vstávání, protože ta moč vznikla v noci, i když k samotné cestě dojde až po probuzení.[6,7] Z nočního a celodenního objemu se vypočítá podíl vytvořený v noci a z časů je vidět, jak dlouho jste spali do první cesty.[8] Jsou to výpočty, ne verdikty: čísla se porovnávají s vaším věkem, spánkem a anamnézou a prahy k nim přikládá lékař.
+
+### 4. Co pijete a kdy
+
+Strana pití se nečte podle součtu, ale podle rozložení: jak jsou nápoje rozprostřené přes den, co to bylo a jak vypadá večer. Formuláře v ambulancích se ptají na druh nápoje ze stejného důvodu.[1] Lékař se dívá, jestli si to, co přišlo dovnitř, a to, co vyšlo ven, časově odpovídá; to je otázka na váš záznam, ne hodnocení vašich zvyků.
+
+### 5. Poznámky: nucení, úniky, vložky
+
+Tam, kde formulář má sloupce pro nucení, únik moči a výměnu vložky, se čtou jako události s připojeným časem. Tyto pojmy ICS také definuje: urgenci jako náhlou, obtížně odložitelnou potřebu močit, a inkontinenci jako jakýkoli mimovolní únik.[1,10] Poznámka „uniklo mi, když jsem zakašlal“ nebo „silné nucení cestou domů“ je přesně ten řádek, kvůli kterému se dělá druhé čtení.
+
+### Kontrola, která přichází první: je úplný?
+
+Před vším výše uvedeným se lékař dívá, kolik deníku vůbec je: kolik dní je vyplněno od probuzení k probuzení, u kolika cest je objem, kolik z nich jsou jen zaškrtnutí. Deník se dvěma úplnými dny se čte; deník s pěti dny roztroušených řádků je rozhovor o tom, že se bude psát znovu. Lékaři se o deník opírají právě proto, že paměť v tomhle selhává: v jedné studii polovina dotázaných žen nadhodnotila, jak často přes den chodí, ve srovnání s vlastním deníkem.[9] Náš [formulář](https://fluidbalanceapp.com/bladder-diary-template/) má na poslední straně řádek „zapsaných dní“ a aplikace počítá zapsané dny ze stejného důvodu.
+
+### Proč tu nenajdete normální hodnoty
+
+Dva důvody. Zaprvé, žádný jediný ověřený deník neexistuje a ambulance používají různé formuláře, různě dlouhý den a různé definice noci;[11,12] číslo z jednoho formuláře se do druhého nepřenese čistě. Zadruhé, a to je důležitější, každá hodnota v deníku se čte vzhledem k člověku: věk, tekutiny, léky, spánek, jiné nemoci. Četnost, která je u jednoho bez významu, je u druhého tím rozhodujícím nálezem. Uveřejnit tabulku „normálních“ hodnot by znamenalo vyzvat vás, abyste si dávali známky nástrojem, který k tomu nikdy nebyl určen. Deník je záznam. Jeho čtení je ta návštěva.
+
+### S čím přijít
+
+Vezměte všechny strany, řekněte, které dny jsou úplné, a pokud jste použili aplikaci, vytiskněte zprávu nebo ji mějte připravenou v telefonu. Zbytek popisuje [jak vést mikční deník](https://fluidbalanceapp.com/blog/how-to-keep-a-bladder-diary/): co zapisovat, časté chyby a co dělat se dny, které se nepovedly.
+
+### Otázky
+
+**Můžu si sám odvodit, co můj deník znamená?**
+Spolehlivě ne a tento text záměrně neuvádí žádné prahové hodnoty. Lékař čte deník vedle vaší anamnézy, vyšetření a někdy i testů; stejný počet cest nebo stejné noční množství může být u jednoho člověka bez významu a u druhého tím rozhodujícím nálezem. Veďte záznam úplně a čtení nechte na lékaři.
+
+**Čte lékař opravdu každý řádek?**
+Obvykle začne přehledem: cesty ve dne a v noci, největší a obvyklé objemy, noční množství moči, vypité nápoje a kolik dní je úplných. Pak jde na řádky, které vyčnívají: únik moči, poznámka o nucení, večer s velkým pitím. Každý řádek tam je kvůli tomu druhému pohledu.
+
+**Co když můj deník vypadá špatně?**
+Špatný deník neexistuje, jen neúplný. Je to záznam několika dní, ne zkouška, kterou lze složit nebo propadnout, a lékaři mu věří víc než tomu, co si lidé vybaví při návštěvě. Neuklízejte v něm; přineste ho tak, jak je.
+
+### Zdroje
+
+1. Abrams P, Cardozo L, Fall M, et al. The standardisation of terminology of lower urinary tract function: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):167–178. https://doi.org/10.1002/nau.10052
+2. Yap TL, Cromwell DC, Emberton M. A systematic review of the reliability of frequency-volume charts in urological research and its implications for the optimum chart duration. BJU Int. 2007;99(1):9–16. https://doi.org/10.1111/j.1464-410X.2006.06499.x
+3. European Association of Urology. EAU Guidelines on the Management of Non-neurogenic Male LUTS. Arnhem: EAU; 2026. Chapter 4, Diagnostic evaluation. https://uroweb.org/guidelines/management-of-non-neurogenic-male-luts/chapter/diagnostic-evaluation
+4. National Institute for Health and Care Excellence. Urinary incontinence and pelvic organ prolapse in women: management. NICE guideline NG123. London: NICE; 2019. https://www.nice.org.uk/guidance/ng123
+5. Cameron AP, Chung DE, Dielubanza EJ, et al. The AUA/SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder. J Urol. 2024;212(1):11–20. https://doi.org/10.1097/JU.0000000000003985
+6. van Kerrebroeck P, Abrams P, Chaikin D, et al. The standardisation of terminology in nocturia: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):179–183. https://doi.org/10.1002/nau.10053
+7. Hashim H, Blanker MH, Drake MJ, et al. International Continence Society (ICS) report on the terminology for nocturia and nocturnal lower urinary tract function. Neurourol Urodyn. 2019;38(2):499–508. https://doi.org/10.1002/nau.23917
+8. Epstein M, Blaivas J, Wein AJ, Weiss JP. Nocturia treatment outcomes: analysis of contributory frequency volume chart parameters. Neurourol Urodyn. 2018;37(1):186–191. https://doi.org/10.1002/nau.23272
+9. Stav K, Dwyer PL, Rosamilia A. Women overestimate daytime urinary frequency: the importance of the bladder diary. J Urol. 2009;181(5):2176–2180. https://doi.org/10.1016/j.juro.2009.01.042
+10. Haylen BT, de Ridder D, Freeman RM, et al. An International Urogynecological Association (IUGA)/International Continence Society (ICS) joint report on the terminology for female pelvic floor dysfunction. Neurourol Urodyn. 2010;29(1):4–20. https://doi.org/10.1002/nau.20798
+11. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+12. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+
+Tento text vysvětluje, jak si vést deník. Je to obecná informace od vývojáře aplikace, ne lékařská rada: co váš deník znamená, rozhoduje lékař. Deník si vedete sami. Není to zdravotnický dokument.
+
+---
+
+## Příklad mikčního deníku: jeden celý den, řádek po řádku
+Source: https://fluidbalanceapp.com/cs/blog/bladder-diary-example/
+Published: 2026-09-28 · Návod · Denis Zinin, vývojář aplikace Mikční deník: Fluid Balance. Není lékař.
+
+Ve zkratce:
+Níže je příklad mikčního deníku za jeden celý den, řádek po řádku: asi patnáct záznamů, kde každý nápoj má svůj objem, každá cesta objem nebo zaškrtnutí „neměřeno“, jsou tu časy ulehnutí a vstávání a tam, kde se něco stalo, poznámka. Den je vymyšlený, takže jeho součty nejsou cíle. Rozvržení jde po deníku Urology Care Foundation a kartách NHS, jejichž vlastní formuláře ukazují jen jeden dva ukázkové řádky. Co má ten den ukázat:
+
+- Celý den je asi patnáct řádků: každý nápoj s objemem, každá cesta s objemem nebo zaškrtnutím, časy ulehnutí a vstávání a poznámka tam, kde se něco stalo.
+- Den níže je vymyšlený. Jeho součty nejsou cíle a není tu norma, se kterou by se daly srovnat.
+- Lékař z něj čte počet cest ve dne a v noci, objemy, rozložení nápojů, poznámky a to, jestli je den úplný.
+
+Formuláře ambulancí ukazují jeden dva ukázkové řádky: deník Urology Care Foundation má jediný řádek s plechovkou limonády a únikem moči při smíchu,[1] karta NHS Gloucestershire ukazuje ráno s hrnkem čaje a únikem,[2] fyzioterapeutická karta ze Sussexu tři ranní řádky se součty.[3] Užitečné, ale nikomu den netrvá tři řádky. Tady je celý vymyšlený den ve formátu našeho [formuláře k vytištění](https://fluidbalanceapp.com/bladder-diary-template/) a za ním to, co každá jeho část lékaři říká. Čísla patří tomuhle příkladu a ničemu jinému; na této stránce není norma, se kterou by se dala srovnat.
+
+### Jak vypadá celý den deníku?
+
+Vyplněný příklad mikčního deníku. Den 1 ze 7. Šel jsem spát 22:45. Vstal jsem 7:00.
+
+| Čas | Vypito (ml) | Co | Vymočeno (ml nebo ✓) | Noc | Poznámka |
+|---|---|---|---|---|---|
+| 7:05 | | | 350 | | první ráno |
+| 7:20 | 250 | čaj | | | |
+| 8:30 | 200 | káva | | | |
+| 9:40 | | | ✓ | | ve spěchu, malý únik |
+| 11:00 | 500 | voda | | | |
+| 11:45 | | | 220 | | |
+| 13:10 | 330 | džus | | | |
+| 13:30 | | | 180 | | silné nucení |
+| 15:00 | 250 | čaj | | | |
+| 16:20 | | | 260 | | |
+| 18:00 | 250 | voda | | | |
+| 19:30 | 200 | pivo | | | |
+| 20:15 | | | 300 | | |
+| 22:30 | | | 150 | | před spaním |
+| 3:10 | | | 180 | ✓ | |
+
+Patnáct řádků, jedna strana. Den běží od vstávání do vstávání, takže cesta ve 3:10 patří ke dni 1, i když se datum změnilo.
+
+### Řádek po řádku
+
+**7:05, 350 ml, „první ráno“.** První cesta po vstávání. Noční není, protože noc deníku skončila v 7:00, ale podle definice ICS vznikla tehdy vymočená moč přes noc a přičítá se k nočnímu objemu,[5] proto se měří a nezaškrtává. Na papíře je to prostě první řádek dne.
+
+**7:20 a 8:30, čaj a káva.** Nápoje s objemem a druhem. Objem pochází z toho, že se hrnek jednou změřil; druh tu je, protože ho formuláře ambulancí chtějí.[1,2]
+
+**9:40, zaškrtnutí, „ve spěchu, malý únik“.** Na měření nebyl čas, takže zaškrtnutí místo objemu, a cesta se stejně počítá do denního počtu cest.[2] Poznámka zachycuje únik moči s přibližnou velikostí. Na formuláři se sloupci na úniky by to bylo „malý“ nebo „+“; v prostém deníku je to poznámka s časem.
+
+**11:00, 500 ml vody.** Lahev, takže objem je na ní vytištěný.
+
+**13:30, 180 ml, „silné nucení“.** Změřená cesta se zapsaným nucením: náhlá, těžko odložitelná potřeba.[4] Zapsáno hned, dvěma slovy, víc není třeba.
+
+**19:30, 200 ml piva.** Alkohol je na papíře nápoj jako každý jiný: objem, druh, čas. Deník má ukázat běžný večer, ne uklizený.
+
+**22:30, 150 ml, „před spaním“.** Poslední cesta před časem ulehnutí, který je nahoře na straně. Je to denní cesta; noc začíná ve 22:45.
+
+**3:10, 180 ml, zaškrtnuto jako Noc.** Mezi ulehnutím a vstáváním, takže dostane zaškrtnutí. Právě tenhle řádek umožňuje noční počet; deník bez časů ulehnutí a vstávání tuhle cestu od té ve 22:30 nerozliší.
+
+### Kolik ten den dělá dohromady
+
+Jen proto, že to příklad dovolí: 1 980 ml vypito v sedmi nápojích; 1 640 ml vymočeno v sedmi změřených cestách, plus jedna cesta zaškrtnutá bez objemu; celkem osm cest, jedna z nich v noci. Na formuláři ambulance vás možná požádají, abyste tyhle součty napsali do spodního řádku; v aplikaci se objeví na dnešní obrazovce a ve zprávě, aniž by někdo sčítal. Nejsou to cíle a nejsou typické pro nikoho konkrétního. Jejich jediný úkol tady je ukázat, jak vypadá úplný den, když se spočítá.
+
+### Co v něm lékař vidí
+
+Osm cest s časy, jedna v noci, jedna neměřená. Sedm změřených objemů, od 150 do 350 ml. Nápoje rozložené od 7:20 do 19:30 se zapsanými druhy. Dvě poznámky, únik moči se spouštěčem a nucení. Časy ulehnutí a vstávání, takže jde noc oddělit ode dne. A den, který je úplný od probuzení do probuzení — to je první věc, kterou kontrolují, protože samotná paměť plete i počet cest.[6] Co ta fakta znamenají, to je na návštěvě; úkolem deníku bylo je přinést.
+
+### Váš den bude vypadat jinak
+
+Víc řádků nebo míň, jiné nápoje, jiné časy. Stejný zůstává formát: každý nápoj, každá cesta, objem nebo zaškrtnutí, dva časy, které noc rámují, a poznámka tam, kde se něco stalo. [Jak si vést mikční deník](https://fluidbalanceapp.com/blog/how-to-keep-a-bladder-diary/) popisuje návyky, které k tomu vedou, a [jak doma změřit množství moči](https://fluidbalanceapp.com/blog/how-to-measure-urine-output-at-home/) odměrku.
+
+### Otázky
+
+**Kam zapsat první ranní cestu?**
+Jako první řádek nového dne, za váš čas vstávání, s objemem, pokud jste měřili. Není to noční cesta, protože jste už byli vzhůru, ale podle definice ICS vznikla tehdy vymočená moč přes noc a počítá se do nočního objemu, takže se vyplatí ji změřit. Třídění je na lékaři.
+
+**Musím součty dělat sám?**
+Ne. Formuláře ambulancí mají řádek na součty a některé o ně žádají, ale lékař je může sečíst sám; karta NHS to tak říká. Pokud používáte aplikaci, součty, počet cest i noční počet se spočítají za vás. Co se delegovat nedá, jsou samotné řádky.
+
+**Co když má můj den dvacet řádků?**
+Vezměte další stranu a pokračujte. Den s mnoha řádky je úplný den a jen takový lékař chce; vynechávat řádky, aby se to vešlo, je ta chyba. Náš formulář má na A4 24 řádků na stranu a aplikace limit nemá.
+
+### Zdroje
+
+1. Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025. https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf
+2. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+3. University Hospitals Sussex NHS Foundation Trust. Bladder record chart: pelvic health physiotherapy patient information. Reference 2198; 2023. https://www.uhsussex.nhs.uk/wp-content/uploads/2023/03/Bladder-Record-chart.pdf
+4. Abrams P, Cardozo L, Fall M, et al. The standardisation of terminology of lower urinary tract function: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):167–178. https://doi.org/10.1002/nau.10052
+5. van Kerrebroeck P, Abrams P, Chaikin D, et al. The standardisation of terminology in nocturia: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):179–183. https://doi.org/10.1002/nau.10053
+6. Stav K, Dwyer PL, Rosamilia A. Women overestimate daytime urinary frequency: the importance of the bladder diary. J Urol. 2009;181(5):2176–2180. https://doi.org/10.1016/j.juro.2009.01.042
+
+Tento text vysvětluje, jak si vést deník. Je to obecná informace od vývojáře aplikace, ne lékařská rada: co váš deník znamená, rozhoduje lékař. Deník si vedete sami. Není to zdravotnický dokument.
+
+---
+
+## Jak doma změřit množství moči pro mikční deník
+Source: https://fluidbalanceapp.com/cs/blog/how-to-measure-urine-output-at-home/
+Published: 2026-09-21 · Návod · Denis Zinin, vývojář aplikace Mikční deník: Fluid Balance. Není lékař.
+
+Ve zkratce:
+Množství moči pro mikční deník se doma měří jedním ze tří způsobů: v plastové odměrce s mililitrovou stupnicí, v nástavci vkládaném pod prkénko záchodu, nebo — když nejde ani jedno — tak, že si necháte čas a cestu zaškrtnete jako neměřenou. Ambulance berou všechny tři. Formuláře NHS a BAUS i deník Urology Care Foundation potřebují nejdřív každou cestu s časem; objem je až druhý. Podrobnosti, díky kterým jsou čísla použitelná:
+
+- Měřte v plastové odměrce s mililitrovou stupnicí, nebo zachytávejte do nástavce pod prkénkem. Číslo zapisujte hned.
+- Když měřit nejde, nechte si čas a cestu zaškrtněte jako neměřenou. Pořád se počítá do četnosti i do počtu nočních.
+- Držte v celém deníku jednu jednotku, jednou si změřte svůj obvyklý hrnek kvůli nápojům, a odměrku i nástavec po každém použití vypláchněte.
+
+Zapsat do mikčního deníku, kolik jste vymočili, jde třemi způsoby: změřit v odměrce, zachytit do nástavce pod prkénkem záchodu, nebo — když nejde ani jedno — nechat si čas a cestu zaškrtnout jako neměřenou. Ambulance berou všechny tři. Potřebují každou cestu s časem; objem je až druhý.
+
+### Co deník chce
+
+„Močení“ v deníku je objem každé cesty na záchod, v mililitrech nebo tekutých uncích, zapsaný vedle času. Objemy mikcí a jejich časy jsou jádrem karty četnosti a objemu, jak ji definuje International Continence Society, i každého formátu deníku, který se od té doby zkoumal.[1,2] Formuláře ambulancí to rozkládají různě: karta bilance BAUS má proti každé hodině sloupec VÝDEJ,[3] deník Urology Care Foundation se u každé cesty ptá „kolik moči?“,[4] a náš [formulář k vytištění](https://fluidbalanceapp.com/bladder-diary-template/) má sloupec Vymočeno s popisem „ml nebo ✓“. Každý z nich přijme zaškrtnutí, když se změřit nedalo. Žádný se neptá, jestli jsou vaše čísla normální; vzorec čte lékař, záznam dodáváte vy. Jak do sebe celý deník zapadá, je v [jak si vést mikční deník](https://fluidbalanceapp.com/blog/how-to-keep-a-bladder-diary/).
+
+### Způsob 1: odměrka
+
+Stačí jakákoli plastová odměrka s mililitrovou stupnicí.[5] BAUS doporučuje takovou, do které se vejde alespoň 500 ml;[3] mají je v lékárně i v kuchyňském oddělení supermarketu. Mějte ji jen na deník a mějte ji u záchodu.
+
+Posaďte se na záchod a držte odměrku v míse. Fyzioterapeutický formulář ze Sussexu je v tom konkrétní: sedněte si pořádně, nezůstávejte v podřepu nad prkénkem, protože vsedě se pánevní dno uvolní a vyprázdníte se úplněji.[6] Muži mohou stát a použít odměrku přímo.
+
+Postavte odměrku na rovnou plochu, odečtěte hladinu ve výšce očí a zapište číslo dřív, než uděláte cokoli jiného. Zaokrouhlete na nejbližší rysku; stupnice jemnější není a deník taky ne. Vylijte a odměrku vypláchněte vodou.
+
+### Způsob 2: nástavec na záchod
+
+Nástavec je plochá plastová mísa se širokým okrajem, která se vkládá pod prkénko, a uvnitř má vytištěnou stupnici v mililitrech a tekutých uncích. Ambulance ho často vydávají spolu s deníkem.[4] Pokud vám ho nedali, lékárny a e-shopy je prodávají jako nástavec na sběr moči.
+
+Vložte ho pod prkénko blíž k přední části mísy, posaďte se jako obvykle, pak odečtěte hladinu, zapište ji, obsah vylijte do záchodu a nástavec vypláchněte.[4] Není co držet — proto je to v noci a ve spěchu nejjednodušší řešení.
+
+### Způsob 3: když změřit nejde
+
+V práci, v obchodě, uprostřed noci v polospánku: nechte si čas a cestu zaškrtněte. Formulář NHS i formulář BAUS říkají přesně tohle, zaškrtnutí ve sloupci moči;[3,5] náš formulář má ✓ ve sloupci Vymočeno; v aplikaci je to tlačítko „Neměřeno“. Cesta se pořád počítá do četnosti i do počtu nočních. Jen se nepřičte k součtu objemu.
+
+Odhad je také v pořádku. Pokud jste den dva měřili a víte, jak ve vaší odměrce vypadá obvyklá cesta, napište odhad a označte ho „cca“. Když si nejste jistí, zaškrtněte.
+
+Deník kazí cesta, která není zapsaná vůbec. Zaškrtnutý řádek s časem lékaři něco říká; prázdný řádek neříká nic.
+
+### Mililitry, nebo tekuté unce?
+
+Držte v celém deníku jednu jednotku — tu, která je vytištěná na formuláři vaší ambulance. Když potřebujete převádět:
+
+- 1 americká tekutá unce je přibližně 30 ml (přesně 29,6 ml).
+- 1 cup, tedy 8 tekutých uncí, je přibližně 240 ml.
+- 100 ml je přibližně 3,4 tekuté unce; lahev 500 ml asi 17.
+
+Náš formulář je v obou: listy A4 v mililitrech, listy US Letter v tekutých uncích. V aplikaci je jednotka nastavením a zpráva použije tu, kterou jste zvolili.
+
+### Strana nápojů
+
+Měřit, co vypijete, je snazší: množství bývá vytištěné na obalu. Běžné velikosti, tytéž, které náš formulář a aplikace nabízejí jako hotové hodnoty: hrnek 200–250 ml, sklenice 250 ml, plechovka 330 ml, malá lahev 500 ml. Urology Care Foundation uvádí americké ekvivalenty: hrnek 8 oz, plechovka 12 oz, lahev 20 oz.[4]
+
+Svůj vlastní hrnek, sklenici nebo láhev na vodu si jednou změřte odměrkou a pak po dny deníku používejte tutéž nádobu. Doporučuje to BAUS i formulář ze Sussexu.[3,6] Napište i druh nápoje: čaj, káva, voda, pivo; ambulance se na to ptají.[3,7]
+
+### V noci
+
+Před spaním vložte nástavec nebo nechte odměrku u záchodu a nechte rozsvícené malé světlo. Nejdřív čas, pak objem: jestli se ve tři ráno měření stejně nestane, zaškrtněte a běžte spát.
+
+Zapište, kdy jste šli spát a kdy jste vstali. BAUS žádá dvě čáry napříč sloupcem dne, formulář NHS žádá BED a WOKE ve sloupci času,[3,5] a náš formulář má nahoře na každé straně políčko pro obojí. Takhle se noční cesty počítají.
+
+### Po operaci nebo s katétrem
+
+Na oddělení se tentýž záznam jmenuje bilance tekutin a vyplňují ho sestry. Pokud jdete domů s katétrem, sestra vám ukáže, jak sáček odečítat a vyprazdňovat; řádek deníku zůstává stejný, čas a množství. Řiďte se jejich pokyny, co a jak často zapisovat.
+
+### Udržujte to čisté a jednoduché
+
+Odměrku nebo nástavec používejte jen na tohle a na nic jiného. Po každém použití vypláchněte,[4] jednou denně umyjte mycím prostředkem, umyjte si ruce. Mějte je tam, kde je používáte, ne ve skříňce. A číslo zapište ve chvíli, kdy ho máte: objem, na který si vzpomenete za dvě hodiny, je dohad.
+
+### Otázky
+
+**Můžu odhadovat místo měření?**
+Když měřit nejde, ano: nechte si čas a buď cestu zaškrtněte, nebo napište odhad s poznámkou „cca“. Pokud odměrku máte, měřte; ambulance si vyžádala změřené objemy. Odhad nebo zaškrtnutí je pro ty cesty, kde odměrka nebyla možná, ne pro každou.
+
+**Musím měřit i v noci?**
+Pokud to jde. Nástavec nechaný pod prkénkem před spaním to hodně usnadní: není co držet ani co hledat potmě. Když to nejde, cestu zaškrtněte a nechte si čas. Noční cesty se počítají podle času, ne podle objemu, takže si zapište i to, kdy jste šli spát a kdy jste vstali.
+
+**A mimo domov?**
+Nechte si čas a cestu zaškrtněte. Malá odměrka se vejde do tašky, ale nikdo nečeká, že ji budete nosit s sebou; veřejný záchod je zcela legitimní zaškrtnutí. Chyba je vynechat cestu, ne vynechat objem.
+
+### Zdroje
+
+1. Abrams P, Cardozo L, Fall M, et al. The standardisation of terminology of lower urinary tract function: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):167–178. https://doi.org/10.1002/nau.10052
+2. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+3. British Association of Urological Surgeons. Information from BAUS about assessing fluid intake & output. Patient leaflet F24/016. BAUS; 2024. https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Input%20output%20chart.pdf
+4. Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025. https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf
+5. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+6. University Hospitals Sussex NHS Foundation Trust. Bladder record chart: pelvic health physiotherapy patient information. Reference 2198; 2023. https://www.uhsussex.nhs.uk/wp-content/uploads/2023/03/Bladder-Record-chart.pdf
+7. European Association of Urology, Patient Information. I want to know about keeping a bladder diary. Uroweb. https://patients.uroweb.org/condition/urinary-incontinence/bladder-diary
+
+Tento text vysvětluje, jak si vést deník. Je to obecná informace od vývojáře aplikace, ne lékařská rada: co váš deník znamená, rozhoduje lékař. Deník si vedete sami. Není to zdravotnický dokument.
+
+---
+
+## Mikční deník: kolik dní? 3, 7 nebo 24 hodin
+Source: https://fluidbalanceapp.com/cs/blog/bladder-diary-how-many-days/
+Published: 2026-09-12 · Návod · Denis Zinin, vývojář aplikace Mikční deník: Fluid Balance. Není lékař.
+
+Poznámka na začátek: nejsem lékař. Dělám aplikaci Mikční deník: Fluid Balance a tento text je můj pokus shromáždit na jednom místě to, co klinická doporučení a formuláře ambulancí říkají o tom, kolik dní má mikční deník pokrývat. Zdroje jsou na konci; pokyny vašeho lékaře platí především.
+
+Ve zkratce:
+Kolik dní má mikční deník pokrývat, rozhoduje lékař, který o něj požádal: obvyklá odpověď jsou tři celé dny, některé ambulance žádají sedm a 24 hodin je nejméně, co karta pojme. Standard kvality NICE QS77 žádá nejméně tři dny, International Continence Society popisuje deníky na tři až sedm dní a formulář Urology Care Foundation pokrývá tři dny, které nemusí jít po sobě. Ať je číslo jakékoli, úplnost váží víc než délka:
+
+- Číslo, které vám řekla ambulance, je to platné; níže se vysvětluje, odkud se vzaly tři dny, sedm dní a 24 hodin.
+- Dny nemusí jít po sobě, pokud to váš formulář nežádá, ale měly by zahrnout různé druhy dnů: pracovní a volný.
+- Den běží od probuzení do probuzení. Krátký deník, kde je každý den úplný, má větší cenu než dlouhý s mezerami.
+
+Obvyklá odpověď jsou tři celé dny: třídenní mikční deník. Některé ambulance žádají sedmidenní mikční deník a 24 hodin je nejméně, co karta pokryje. Číslo, které vám řekli, je to platné; níže se vysvětluje, odkud se ta čísla vzala, aby pokyn dával smysl místo aby působil náhodně. Jedno pravidlo stojí nade všemi: krátký deník, kde je každý den úplný, má větší cenu než dlouhý s mezerami.
+
+### Kolik dní má mikční deník pokrývat?
+
+| Kdo | Jak dlouho | Poznámky |
+|---|---|---|
+| NICE, standard kvality pro inkontinenci moči u žen[1,2] | Nejméně 3 dny | Má pokrýt výkyvy běžné aktivity, třeba pracovní a volné dny |
+| International Continence Society[3] | Nejméně 24 hodin pro kartu četnosti a objemu | Dva nebo tři dny, nemusí jít po sobě, dávají užitečnější data |
+| Urology Care Foundation (AUA)[4] | Nejméně 3 dny | Libovolné tři typické dny; nemusí jít po sobě; jediný den nemusí dát pravdivý obraz |
+| Karta bilance BAUS[5] | 3 běžné dny po sobě | Včetně pracovních nebo volných dnů, je-li to na místě |
+| Karta četnosti a objemu NHS Gloucestershire[6] | 3 dny | Třídenní mikční deník |
+| Náš formulář a aplikace | Až 7 dní | Řádek „zapsaných dní“, aby lékař viděl, jak je úplný |
+
+Různé instituce, jedno téma: tři dny jsou skoro všude spodní hranicí a dny mají vypadat jako váš skutečný život.
+
+### Proč tři
+
+Trojka není kulaté číslo vybrané pro pohodlí. Systematický přehled karet četnosti a objemu došel k závěru, že z důkazů nelze odvodit pevná doporučení k délce, ale že shoda na kartách na tři a více dní je nejlépe obhajitelnou politikou.[7] Ve dvou velkých studiích hyperaktivního měchýře byly třídenní deníky stejně účinné jako sedmidenní a autoři poznamenali, že kratší deník může snížit sklon doplňovat mezery po paměti.[8] Studie, která pacienty náhodně rozdělila na deníky na dva, tři nebo sedm dní, zjistila, že sedmidenní verze zvyšuje zátěž, a doporučila méně dní.[9] A studie deníků u pacientů s neurogenními potížemi měchýře zjistila, že tři dny jsou srovnatelné se sedmi co do počtu mikcí, objemu na mikci, nucení i denního objemu; jedinou mírou, kde tři dny vypadaly hraničně, byly epizody úniku moči.[10]
+
+Táž literatura poctivě přiznává jednu výhradu: jediný plně validovaný deník neexistuje a formáty se liší ambulanci od ambulance.[11] Právě proto pokyn vaší vlastní ambulance — tři dny na jejich formuláři, sedm na našem — vítězí nad čímkoli, co je tu napsané.
+
+### Proč ne jen jeden den
+
+Jeden den je momentka a spíš to bude ten neobvyklý: dlouhá cesta autem, pozdní večer, den, kdy jste vypili míň než jindy. Urology Care Foundation to říká natvrdo: jednodenní deník nemusí poskytnout dost informací, aby dal pravdivý obraz.[4] Ve zmíněné neurogenní studii se záznamy prvního dne u každé míry významně lišily od sedmidenního průměru.[10] Dva nebo tři dny to vyhladí.
+
+### Kdy dává smysl sedm dní
+
+Někteří lékaři žádají týden. Týden obsahuje víkend, takže deník pokryje oba druhy dnů, aniž by to někdo musel plánovat. Obsahuje také sedm nocí, což se počítá, když je otázkou noční vstávání. Daní je námaha: sedm úplných dní chce kázeň,[9] a týden se dvěma prázdnými dny má menší cenu než tři plné. Když po vás chtějí sedm, praktická rada zní: udělejte si zapisování každého dne snadné, mějte papír nebo telefon u sebe a poctivě označte, které dny jsou úplné.
+
+### 24hodinové mikční deníky
+
+Dvacet čtyři hodin je minimum, které International Continence Society popisuje pro kartu četnosti a objemu.[3] Některé ambulance používají jediný den jako rychlou kontrolu před léčbou nebo po ní. Pokud jste dostali tohle, berte to jako jeden úplný den: začněte, když se probudíte, zapisujte všechno až do probuzení druhý den ráno a nenechávejte řádky prázdné jen proto, že je to „jen jeden den“.
+
+### Musí jít dny po sobě?
+
+Obvykle ne. Urology Care Foundation žádá libovolné tři typické dny,[4] a International Continence Society poznamenává, že dva nebo tři dny nemusí být po sobě.[3] NICE jde dál a žádá, aby dny pokryly různé druhy činnosti, pracovní i volné,[1,2] což se snáz zařídí, když je lze rozložit. Některé formuláře, mezi nimi BAUS, po sobě jdoucí dny žádají;[5] pokud to dělá i ten váš, řiďte se formulářem.
+
+### Den běží od probuzení do probuzení
+
+Každý den deníku začněte, když vstanete, a veďte ho, dokud nevstanete druhý den ráno.[4] Noc patří ke dni, kterým začala. Zapište, kdy jste šli spát a kdy jste vstali; takhle se noční mikce oddělí od denních.
+
+### Když vám den uteče
+
+Nerekonstruujte ho večer po paměti. Nechte ho označený jako neúplný a přidejte místo něj další plný den. Náš formulář má na to na poslední straně řádek — zapsaných dní ze sedmi — a aplikace zapsané dny spočítá za vás; tak či tak lékař na první pohled vidí, s čím pracuje. [Jak si vést mikční deník](https://fluidbalanceapp.com/blog/how-to-keep-a-bladder-diary/) popisuje, co do každého takového dne patří.
+
+### Otázky
+
+**Chtěli po mně sedm dní. Můžu skončit po třech?**
+Udělejte to, oč vás požádali; lékař zvolil sedm z nějakého důvodu, často aby viděl celý týden včetně víkendu nebo víc nocí. Pokud sedm úplných dní není reálných, tři úplné porazí sedm s dírami, takže to na kontrole řekněte a ukažte dny, které jste dotáhli.
+
+**Mám zahrnout víkend?**
+Ano, pokud to jde. NICE žádá deníky, které pokrývají pracovní i volné dny, a Urology Care Foundation žádá typické dny. Den u stolu a den doma vypadají v deníku obvykle jinak a váš lékař chce vidět oba.
+
+**Stačí 24hodinový deník?**
+Je to minimum, které International Continence Society popisuje pro kartu četnosti a objemu, a některé ambulance ho používají jako rychlý snímek. Jediný den bude spíš tím neobvyklým, proto většina žádá víc. Pokud jste dostali 24hodinovou kartu, veďte ji od probuzení do probuzení a vyplňte každý řádek.
+
+### Zdroje
+
+1. National Institute for Health and Care Excellence. Urinary incontinence in women. Quality standard QS77, quality statement 2: bladder diaries and lifestyle changes. London: NICE; 2015. https://www.nice.org.uk/guidance/qs77/chapter/quality-statement-2-bladder-diaries-and-lifestyle-changes
+2. National Institute for Health and Care Excellence. Urinary incontinence and pelvic organ prolapse in women: management. NICE guideline NG123. London: NICE; 2019. https://www.nice.org.uk/guidance/ng123
+3. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+4. Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025. https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf
+5. British Association of Urological Surgeons. Information from BAUS about assessing fluid intake & output. Patient leaflet F24/016. BAUS; 2024. https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Input%20output%20chart.pdf
+6. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+7. Yap TL, Cromwell DC, Emberton M. A systematic review of the reliability of frequency-volume charts in urological research and its implications for the optimum chart duration. BJU Int. 2007;99(1):9–16. https://doi.org/10.1111/j.1464-410X.2006.06499.x
+8. Dmochowski RR, Sanders SW, Appell RA, Nitti VW, Davila GW. Bladder-health diaries: an assessment of 3-day vs 7-day entries. BJU Int. 2005;96(7):1049–1054. https://doi.org/10.1111/j.1464-410X.2005.05785.x
+9. Ku JH, Jeong IG, Lim DJ, Byun SS, Paick JS, Oh SJ. Voiding diary for the evaluation of urinary incontinence and lower urinary tract symptoms: prospective assessment of patient compliance and burden. Neurourol Urodyn. 2004;23(4):331–335. https://doi.org/10.1002/nau.20027
+10. Konstantinidis C, Kratiras Z, Samarinas M, Skriapas K. Optimal bladder diary duration for patients with suprapontine neurogenic lower urinary tract dysfunction. Int Braz J Urol. 2016;42(4):766–772. https://doi.org/10.1590/S1677-5538.IBJU.2015.0292
+11. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+
+Tento text vysvětluje, jak si vést deník. Je to obecná informace od vývojáře aplikace, ne lékařská rada: co váš deník znamená, rozhoduje lékař. Deník si vedete sami. Není to zdravotnický dokument.
+
+---
+
+## Jak si vést mikční deník: co zapisovat, krok za krokem
+Source: https://fluidbalanceapp.com/cs/blog/how-to-keep-a-bladder-diary/
+Published: 2026-09-12 · Návod · Denis Zinin, vývojář aplikace Mikční deník: Fluid Balance. Není lékař.
+
+Poznámka na začátek: nejsem lékař. Dělám aplikaci Mikční deník: Fluid Balance a tento text je můj pokus shromáždit na jednom místě to, co po vás chtějí klinická doporučení a formuláře ambulancí, když vám řeknou, abyste si vedli mikční deník. Zdroje jsou na konci; pokyny vašeho lékaře platí především.
+
+Ve zkratce:
+Mikční deník se vede tak, že každý nápoj a každou cestu na záchod zapíšete s časem ve chvíli, kdy se dějí, po ty tři až sedm dní, o které lékař požádá. Je to přesně ten záznam, který požadují doporučení NICE, International Continence Society i Urology Care Foundation, když se posuzuje četnost, nucení, únik moči nebo noční vstávání. Na papíře i v aplikaci ho užitečným dělají stejné návyky:
+
+- Zapisujte každý nápoj a každou cestu na záchod s časem, ve chvíli, kdy se dějí, po ty tři až sedm dní, o které vás požádali.
+- Moč měřte odměrkou nebo nástavcem na záchod, když to jde. Když to nejde, cestu zaškrtněte a nechte čas: pořád se počítá.
+- Zapište, kdy jste šli spát a kdy vstali, označte noční cesty a vezměte s sebou všechny stránky. Krátký, ale úplný deník má větší cenu než dlouhý s mezerami.
+
+Mikční deník je písemný záznam toho, co pijete, kolik vymočíte a kdy, vedený pár dní, aby lékař viděl vzorec a nespoléhal na paměť, která čísla obvykle plete.[1] Vést ho znamená čtyři návyky: zapsat čas hned, poznamenat každý nápoj s množstvím, měřit moč, když to jde, a cestu zaškrtnout, když to nejde, a označit, co se dělo v noci.
+
+Váš urolog, praktický lékař, sestra nebo fyzioterapeut pánevního dna tomu může říkat mikční deník, mikční karta nebo karta četnosti a objemu; International Continence Society definuje každý z těch pojmů.[2,3] V nemocnici je týž záznam bilance tekutin. Sloupce jsou téměř stejné; název závisí na tom, kdo vám papír podá.
+
+### K čemu mikční deník je a proč vás o něj požádali
+
+Deník odpovídá na otázky, na které návštěva odpovědět neumí. Jak často chodíte za celý den a noc? Kolik pokaždé odejde? Jak to souvisí s tím, co jste vypili, a kdy? Kolikrát v noci vstáváte?
+
+International Continence Society definuje kartu četnosti a objemu jako záznam času a objemu každé mikce po dobu nejméně 24 hodin a mikční deník jako týž záznam plus příjem tekutin, úniky moči a spotřebu vložek.[2,3] Ambulance o něj žádají před první návštěvou a vracejí se k němu, aby viděly, jestli léčba funguje.[4] Co čísla znamenají, rozhoduje lékař. Vaším úkolem je záznam, který je úplný a poctivý.
+
+### Co do mikčního deníku zapisovat
+
+Mikční deník má pět sloupců: čas, co jste vypili a kolik, kolik jste vymočili (nebo zaškrtnutí „neměřeno“), jestli to bylo v noci, a poznámku. Pět sloupců pokryje skoro každý formulář ambulance.
+
+- **Čas.** Každý nápoj a každá cesta, zapsané ve chvíli, kdy se dějí. Čas znamená stejně jako množství: týž objem ve tři odpoledne a ve tři ráno říká lékaři něco jiného.
+- **Co jste vypili a kolik.** Druh a množství: 250 ml čaje, plechovka 330 ml, malá lahev 500 ml. Svůj obvyklý hrnek, sklenici a lahev si jednou změřte odměrkou a pak ta čísla používejte dál.
+- **Kolik jste vymočili.** V mililitrech nebo tekutých uncích, pomocí odměrky nebo nástavce, který se vkládá pod prkénko. Pokud jste se vymočili, ale nešlo to změřit, udělejte zaškrtnutí a nechte čas. Přesně to říká formulář NHS.[5]
+- **Noc.** Zapište, kdy jste šli spát a kdy jste vstali, a označte každou cestu mezi tím.[5,6] S časy ulehnutí a vstávání na papíře lékař oddělí den od noci.
+- **Poznámky.** Silné nucení, únik moči a přibližně kolik, výměna vložky, bolest, cokoli neobvyklého. Některé formuláře mají na nucení a úniky zvláštní sloupce; pokud je ten váš má, použijte je.
+
+### Než začnete
+
+1. **Sežeňte si něco na měření.** Stačí jakákoli kuchyňská odměrka s mililitry; Urology Care Foundation navrhuje kuchyňskou odměrku nebo hrnek, jehož objem znáte.[7] Ambulance často vydávají nástavec na záchod. Mějte ho u záchodu a po každém použití vypláchněte.
+2. **Své každodenní nádoby jednou změřte.** Hrnek, sklenici, láhev na vodu. Od té chvíle píšete číslo, ne odhad.
+3. **Vyberte dny.** Většina ambulancí žádá tři; některé sedm a výzkum o délce deníku ukazuje stejným směrem.[9] Standard kvality NICE pro ženy s inkontinencí moči žádá nejméně tři dny zahrnující pracovní i volné dny,[4] a Urology Care Foundation žádá tři typické dny, které nemusí jít po sobě.[7] Pokud vám počet řekli, platí ten.
+4. **Mějte papír tam, kde ho použijete.** U záchodu, v kapse nebo v telefonu. Deník, který u sebe nemáte, se vyplnit nedá.
+5. **Žijte jako obvykle.** Deník má ukázat běžné dny.[8] Nepijte méně, aby vypadal úhledněji.
+
+### Vyplněný den, řádek po řádku
+
+Tady jsou tři řádky z rozebraného příkladu na první straně našeho [formuláře k vytištění](https://fluidbalanceapp.com/bladder-diary-template/):
+
+(Image: Tři ukázkové řádky z formuláře k vytištění: 7:20, vypito 250 ml čaje, vymočeno 320 ml; 9:40, zaškrtnutí „neměřeno“ s poznámkou „ve spěchu, malý únik“; 3:10, vymočeno 180 ml, označeno jako noc)
+
+- **7:20.** Hrnek čaje, 250 ml, a první ranní cesta, 320 ml, změřeno odměrkou.
+- **9:40.** Cesta ve spěchu: na měření nebyl čas, takže zaškrtnutí místo čísla a poznámka o malém úniku. Cesta se počítá dál.
+- **3:10.** 180 ml uprostřed noci. Dostane zaškrtnutí ve sloupci Noc, protože se stala mezi ulehnutím a vstáváním.
+
+Tři řádky, a lékař už vidí změřenou mikci, nezměřenou, která se přesto počítá, a noční cestu i s objemem. Celý den má řádků víc, ale každý je stejně jednoduchý. Celý den, všech patnáct řádků, procházíme v [Příklad mikčního deníku: jeden celý den, řádek po řádku](https://fluidbalanceapp.com/blog/bladder-diary-example/).
+
+Nebo si veďte týž deník v [aplikaci Mikční deník: Fluid Balance](https://fluidbalanceapp.com/): stejné sloupce, dvě klepnutí na záznam, pořád v kapse, a zdarma.
+
+### Chyby, které deník zkazí
+
+- **Vyplňovat ho večer po paměti.** Časy se posouvají a drobné cesty mizí; i počet cest si člověk pamatuje špatně.[1] Pište průběžně.
+- **Vynechat cestu, protože nešla změřit.** Zaškrtnutá cesta s časem pořád ukazuje, jak často chodíte a kolikrát jste v noci vstali. Chybějící cesta neukáže nic. Odhad je lepší než mezera.
+- **Vynechat časy ulehnutí a vstávání.** Bez nich se noční cesty spočítat nedají.
+- **Skončit v půli.** Dva úplné dny mají větší cenu než čtyři s dírami. Úplnost je první věc, kterou lékař kontroluje.
+- **Měnit kvůli deníku zvyky.** Vynechat na tři dny večerní čaj znamená schovat přesně ten vzorec, který má deník ukázat.
+
+### Vzít ho na kontrolu
+
+Vezměte všechny stránky, i dny s mezerami, a řekněte, které dny jsou úplné.[7,8] Náš formulář má na to na poslední straně řádek: zapsaných dní ze sedmi. Než papíry odevzdáte, vyfoťte si každou stránku jako kopii.
+
+Pokud jste si deník vedli v aplikaci, vyexportujte zprávu a vytiskněte ji, pošlete ji ambulanci e-mailem nebo ji ukažte v telefonu. Někteří lékaři dávají přednost papíru; vytištěná stránka nikdy neuškodí.
+
+Jestli jste v době deníku začali nebo vysadili lék, napište to do poznámek. Kvůli deníku nic neměňte.
+
+### Papír, nebo aplikace
+
+Papír funguje a ambulance jsou na něj zvyklé. Aplikace přidá čas sama, spočítá součty a na konci vytvoří zprávu. Pokud máte raději papír, [formulář zdarma](https://fluidbalanceapp.com/bladder-diary-template/) má stejné sloupce jako aplikace, v A4 i US Letter, jako celé strany nebo brožurky na přeložení. Pokud máte raději telefon, [Mikční deník: Fluid Balance](https://fluidbalanceapp.com/) potřebuje dvě klepnutí na záznam a vaše čísla nikdy nekomentuje.
+
+### Koho o něj žádají
+
+Nykturie, hyperaktivní močový měchýř, inkontinence, kontrola po infekci močových cest, zvětšená prostata před operací a po ní, fyzioterapie pánevního dna, zotavení po katétru. Záznam je ve všech případech stejný. Liší se to, co v něm lékař hledá, a ta část patří jemu.
+
+### Otázky
+
+**Musím měřit pokaždé?**
+Ne. Měřte, když jste doma a máte po ruce odměrku nebo nástavec na záchod; jinak cestu zaškrtněte a uchovejte čas. Záznam bez objemu se stále počítá do četnosti i do nočních cest. Draho přijde řádek, který jste nenapsali, ne objem, který se nepodařilo změřit.
+
+**Musí jít dny po sobě?**
+Nemusí. Urology Care Foundation žádá tři běžné dny, které nemusí jít po sobě, a NICE alespoň tři dny zahrnující pracovní i volné. Držte se toho, co vám řekli. Pokud konkrétní pokyn nepadl, vyberte dny, které dokážete dotáhnout do konce, ne dny vedle sebe v kalendáři. Podrobněji: kolik dní stačí (https://fluidbalanceapp.com/cs/blog/bladder-diary-how-many-days/).
+
+**Co když jsem zapomněl něco zapsat?**
+Zapište, čím jste si jistí, zbytek nechte prázdný. Nedoplňujte den po paměti: paměť se v četnosti i objemech mýlí — právě proto se deník vede. Pokud zůstal bez záznamu celý den, přidejte raději jeden den na konec, než abyste počítali ten děravý, a při návštěvě řekněte, který den vyšel neúplný.
+
+### Zdroje
+
+1. Stav K, Dwyer PL, Rosamilia A. Women overestimate daytime urinary frequency: the importance of the bladder diary. J Urol. 2009;181(5):2176–2180. https://doi.org/10.1016/j.juro.2009.01.042
+2. Abrams P, Cardozo L, Fall M, et al. The standardisation of terminology of lower urinary tract function: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):167–178. https://doi.org/10.1002/nau.10052
+3. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+4. National Institute for Health and Care Excellence. Urinary incontinence in women. Quality standard QS77, quality statement 2: bladder diaries and lifestyle changes. London: NICE; 2015. https://www.nice.org.uk/guidance/qs77/chapter/quality-statement-2-bladder-diaries-and-lifestyle-changes
+5. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+6. European Association of Urology, Patient Information. I want to know about keeping a bladder diary. Uroweb. https://patients.uroweb.org/condition/urinary-incontinence/bladder-diary
+7. Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025. https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf
+8. British Association of Urological Surgeons. Information from BAUS about assessing fluid intake & output. Patient leaflet F24/016. BAUS; 2024. https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Input%20output%20chart.pdf
+9. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+
+Tento text vysvětluje, jak si vést deník. Je to obecná informace od vývojáře aplikace, ne lékařská rada: co váš deník znamená, rozhoduje lékař. Deník si vedete sami. Není to zdravotnický dokument.
+
+---
+
+## Mikční deník: Fluid Balance 1.0 je v App Store
+Source: https://fluidbalanceapp.com/cs/blog/fluid-balance-1-0/
+Published: 2026-08-29 · Novinka · Denis Zinin, vývojář aplikace Mikční deník: Fluid Balance.
+
+Mikční deník: Fluid Balance 1.0 vyšel v App Store 29. srpna 2026. Je to mikční deník pro iPhone a Apple Watch: co pijete, kolik vymočíte a kdy, vedený po ty tři až sedm dní, o které lékař požádá, se zprávou v PDF na konci. Aplikace je zdarma; Pro je jednorázový nákup.
+
+Tento příspěvek je záznamem toho, co obsahuje první verze. Pozdější verze dostanou vlastní příspěvky, aby bylo vždy místo, kde je vidět, co a kdy se změnilo.
+
+### Co je v 1.0
+
+**Zapisování.** Klepněte na + Příjem nebo + Močení a pak na objem: 100, 200, 250, 330 nebo 500 ml, případně na „Vlastní objem“ pro přesné číslo. Záznam se uloží i s časem. „Neměřeno“ zaznamená cestu na záchod bez objemu; počítá se do četnosti a do nočních událostí a zůstává mimo součty. Každý záznam lze později upravit: čas, druh, objem a poznámku.
+
+
+**Dnes.** PŘÍJEM, MOČENÍ a BILANCE nahoře na obrazovce, záznamy dne pod tím a řada posledních dnů k přepínání.
+
+
+**Statistiky.** Mřížka posledních pěti týdnů ukazuje, ve kterých dnech deník vznikl. Pokročilé analýzy, součást Pro, přidávají pět grafů: příjem a močení po dnech, objemy po hodinách, noční cesty v čase, rozložení objemů mikcí a odstupy mezi cestami. První graf je zdarma.
+
+
+**Zpráva.** PDF za libovolné období, sestavené tak, jak se mikční deník obvykle čte: denní součty, každý objem mikce s časem, noční události, zapsané dny a průměry, na které se lékař dívá. Vytiskněte ji, pošlete e-mailem nebo ukažte v telefonu. Export celé historie do CSV je zdarma.
+
+
+**Widgety a Apple Watch.** Widget na ploše a widget na uzamčené obrazovce, se součty dne a dvěma tlačítky. Aplikace pro Apple Watch má tytéž objemy a „Neměřeno“.
+
+
+**iCloud.** Záznamy se synchronizují mezi vašimi zařízeními přes vaši soukromou databázi iCloud. Není tu účet ani náš server.
+
+**Připomenutí.** Volitelné každodenní připomenutí, abyste deník vyplnili, ve výchozím nastavení vypnuté. Jeho text nikdy neřekne, o čem aplikace je.
+
+**Smazat všechna data.** Jeden krok v nastavení. Vymaže zařízení a, je-li iCloud zapnutý, i kopii v něm.
+
+**Jazyky.** Angličtina, němčina, francouzština, španělština, italština, portugalština (Brazílie), ruština, japonština, korejština a zjednodušená čínština. Zpráva v PDF je přeložená také; soubor CSV zůstává anglicky.
+
+### Zdarma a Pro
+
+Zapisování, dnešní obrazovka, statistiky, widgety, Apple Watch, iCloud a export CSV jsou zdarma, dokud aplikaci používáte. Pro je jednorázový nákup, ne předplatné: přidává zprávu v PDF, stránku pokročilých analýz a tmavou ikonu. Nic nepřeruší záznam nabídkou nákupu.
+
+### Soukromí
+
+Štítek o soukromí v App Store zní „Nesbírá žádná data“. Aplikace nemá analytiku, hlášení o pádech, reklamu ani kód třetích stran. Záznamy žijí na vašem zařízení a, pokud to zapnete, ve vašem vlastním iCloudu. Podrobnosti jsou v [zásadách ochrany soukromí](https://fluidbalanceapp.com/privacy/).
+
+### Co nedělá
+
+Nestanovuje diagnózu, neporovnává vaše záznamy s žádnou normou, nevykládá je a nepřipomíná vám pití. Zapisuje to, co jí sdělíte, a záznam vám vrací. Pokud jsou pro vás mikční deníky novinkou, [jak si vést mikční deník](https://fluidbalanceapp.com/blog/how-to-keep-a-bladder-diary/) vysvětluje, co zapisovat a proč.
+
+### Požadavky
+
+iPhone s iOS 18 nebo novějším. Apple Watch s watchOS 11 nebo novějším. Na iPadu běží jako aplikace pro iPhone. Kategorie v App Store: Zdraví a lékařství. Velikost stahování: asi 11 MB.
+
+### Historie verzí
+
+| Verze | Datum | Co se změnilo |
+|---|---|---|
+| 1.2 | 26. října 2026 | Síla nucení, připomenutí jen ve dnech bez záznamů, karta „včera“, 12 nebo 24 hodin, iPhone Duo, velký widget, čtyři nové jazyky |
+| 1.0 | 29. srpna 2026 | První vydání |
+
+Dotazy nebo přání: v [nápovědě](https://fluidbalanceapp.com/support/) jsou odpovědi na ty časté a adresa, kam napsat.
+
+---

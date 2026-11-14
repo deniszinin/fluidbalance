@@ -1,0 +1,1082 @@
+# Diario minzionale: Fluid Balance
+
+> Diario minzionale: Fluid Balance è un’app gratuita per iPhone e Apple Watch. Annota quanto bevi e quanto emetti, ed è adatta al diario di 3–7 giorni che ti ha chiesto il medico: dalle voci nasce un referto PDF. Senza account, i tuoi dati restano sul telefono. Gratis e Pro. Annotare, le statistiche, i widget, l’Apple Watch, iCloud e l’esportazione CSV sono gratis. Pro aggiunge il referto PDF e le analisi avanzate, acquisto una tantum, senza abbonamento. Nessun invito all’acquisto mentre annoti.
+
+Nessuna registrazione, nessun nome, nessuna data di nascita. Apri l’app e comincia. È l’etichetta privacy dell’App Store, non una promessa. Non c’è nessun server a cui mandare qualcosa. Il promemoria facoltativo arriva solo nei giorni senza voci e non dice mai a cosa serve l’app. Disattivato di base.
+
+Nessun punteggio, nessun valore di riferimento. Solo quello che hai annotato. Di Denis Zinin, sviluppatore di Diario minzionale: Fluid Balance. Non è un medico. Diario compilato da te. Non è un documento medico.
+
+App Store: https://apps.apple.com/app/id6803224992 (category Medical; version 1.2.1, first released 2026-08-29; requires iOS 18.0 or later, watchOS 11.0 or later; App Store privacy label "Data Not Collected"). Languages: English, Deutsch, Français, Español, Italiano, Português (Brasil), Русский, 日本語, 한국어, 简体中文, 繁體中文, Polski, Svenska, Čeština. iPad: Una versione completa per iPad è in lavorazione — presto da te.
+
+---
+
+## App diario minzionale per iPhone e Apple Watch
+Source: https://fluidbalanceapp.com/it/
+
+Diario minzionale gratuito per iPhone e Apple Watch: il diario di 3–7 giorni chiesto dal medico, due tocchi per voce, referto PDF, i dati restano sul telefono.
+
+Più facile che tenere un diario di carta.: Hai sbagliato? Correggi la voce dov’è. Non serve ricopiare tutta la giornata. Totali del giorno, medie e minzioni notturne si sommano da sé. Niente conti sul retro del foglio, niente Note, niente foglio di calcolo. Il telefono ce l’hai già con te. Due tocchi e la voce è salvata con l’ora.
+Tocca. Tocca. Fatto.: Tocca + Assunzione o + Minzione — Due pulsanti in fondo allo schermo. Non c’è altro da scegliere. Tocca una quantità — 100, 200, 250, 330 o 500 ml. Oppure «Personalizzato», quando hai un numero preciso. La voce è registrata — Salvata con l’ora. Niente moduli, niente conti alla rovescia, niente conferme. Non sei sicuro della quantità? Tocca Non misurato: l’ora conta lo stesso. Se il medico vuole sapere quanto era forte lo stimolo, attiva l’intensità dello stimolo e tocca da 0 a 4 sullo stesso foglio. Cambia l’ora o aggiungi una nota quando serve. Funziona anche dal widget della schermata Home e dall’Apple Watch.
+Un referto adatto al tuo medico.: Totali, medie e minzioni notturne, già calcolati e impaginati come un urologo legge un diario minzionale. Gratis e Pro. Annotare, le statistiche, i widget, l’Apple Watch, iCloud e l’esportazione CSV sono gratis. Pro aggiunge il referto PDF e le analisi avanzate, acquisto una tantum, senza abbonamento. Nessun invito all’acquisto mentre annoti.
+Le tue settimane a colpo d’occhio.: Le ultime cinque settimane in una griglia: giorni con il diario, giorni senza. Tocca un giorno per aprirlo. Nessun punteggio, nessun valore di riferimento. Solo quello che hai annotato.
+Un diario, ogni schermo.: Widget della schermata Home — Assunzione, minzione e bilancio a colpo d’occhio, e due pulsanti per annotare. Apple Watch — Annota direttamente dall’orologio: le stesse quantità e «Non misurato», senza tirare fuori il telefono. Widget della schermata di blocco — I totali del giorno sotto l’orologio, senza sbloccare il telefono. iPad — Una versione completa per iPad è in lavorazione — presto da te.
+Tenuto per nicturia, vescica iperattiva, incontinenza, controllo dopo una cistite, prostata — prima e dopo un intervento, e da chiunque debba tenere un diario minzionale (https://fluidbalanceapp.com/it/blog/how-to-keep-a-bladder-diary/).
+
+---
+
+## Assistenza di Diario minzionale: Fluid Balance
+Source: https://fluidbalanceapp.com/it/support/
+
+### Per iniziare
+
+**È gratis?**
+Sì, l’app è gratuita. Annotare, il riepilogo del giorno, la griglia delle statistiche, i widget, l’Apple Watch, iCloud e l’esportazione CSV restano gratis finché la usi. Pro è un acquisto una tantum facoltativo che aggiunge il referto PDF e i grafici avanzati. Non c’è abbonamento e nulla interrompe mai una voce per proporti un acquisto.
+
+**Serve un account?**
+No. Nessuna registrazione, nessun nome, nessuna data di nascita. Apri l’app e comincia.
+
+**Non sono pratico di app. Ce la farò?**
+Due pulsanti e un elenco di quantità. Non c’è nulla da configurare.
+
+**Che cosa annoto?**
+L’ora, cosa hai bevuto e quanto, quanto hai emesso o una spunta su «Non misurato», se era una minzione notturna e una nota se è successo qualcosa. C’è una guida più lunga con un esempio: come tenere un diario minzionale (https://fluidbalanceapp.com/it/blog/how-to-keep-a-bladder-diary/).
+
+**Per quanti giorni devo tenerlo?**
+Per quanti te ne hanno chiesti. Gli ambulatori chiedono quasi sempre da tre a sette giorni completi, e un diario breve ma completo vale più di uno lungo con dei buchi. Da dove vengono questi numeri: quanti giorni bastano (https://fluidbalanceapp.com/it/blog/bladder-diary-how-many-days/).
+
+**Funziona su Apple Watch? Su quale iPhone?**
+Apple Watch: le stesse quantità e «Non misurato», con ASSUNTO, EMESSO e BILANCIO del giorno. iPhone con iOS 18 o successivo, iPhone Duo compreso: sullo schermo largo il diario ha un’impaginazione tutta sua. Su iPad l’app per ora gira come app per iPhone; il supporto completo arriverà con un aggiornamento.
+
+**In quali lingue?**
+Inglese, tedesco, francese, spagnolo, italiano, portoghese (Brasile), russo, giapponese, coreano, cinese semplificato, cinese tradizionale, polacco, svedese e ceco: 14 in tutto. Anche il referto PDF è tradotto; il CSV resta in inglese.
+
+### Annotare
+
+**Non so il volume esatto. Cosa scrivo?**
+Una stima. Una voce che manca è peggio di una imprecisa, e nulla nell’app segna i tuoi dati come poco attendibili. Se non hai misurato per niente, usa «Non misurato»: la voce conta per la frequenza e per gli episodi notturni e resta fuori dai totali di volume.Il misurino, la bacinella sul water e le stime: come misurare l’urina a casa (https://fluidbalanceapp.com/it/blog/how-to-measure-urine-output-at-home/).
+
+**Posso cambiare l’ora o aggiungere una nota?**
+Sì. Apri la voce e cambia l’ora, il tipo o il volume, oppure aggiungi una nota.
+
+**Posso annotare lo stimolo o le perdite?**
+Lo stimolo sì. Attiva l’intensità dello stimolo nelle impostazioni e ogni minzione si potrà valutare da 0 a 4; compare nel diario, in un grafico, nel referto PDF e nel CSV. È disattivata di base, quindi una voce resta di due tocchi finché non vuoi di più. Le perdite non hanno un campo proprio: scrivile nella nota della voce.Cosa mettere nella nota e come i moduli degli ambulatori valutano stimolo e perdite: diario minzionale per vescica iperattiva e perdite (https://fluidbalanceapp.com/it/blog/bladder-diary-for-overactive-bladder-and-leaks/).
+
+**L’app mi ricorda di bere?**
+No. C’è un promemoria facoltativo per compilare il diario: disattivato di base, l’ora la scegli tu. Arriva solo nei giorni senza voci e si mette in pausa dopo una settimana senza nessuna. Il suo testo non dice mai di cosa si occupa l’app, quindi su uno schermo bloccato non rivela nulla.
+
+**Posso ancora vedere ieri?**
+Sì. Finché oggi è vuoto, una scheda sulla schermata di oggi mostra ieri; un tocco lo apre.
+
+**Posso avere il formato 24 ore?**
+Sì, 12 o 24 ore, come preferisci. L’impostazione è nelle impostazioni.
+
+**Mi chiederà di passare a Pro a ogni voce?**
+Mai. Vedi Pro solo quando apri il referto o i grafici avanzati.
+
+### Il referto e i tuoi dati
+
+**Come tiro fuori i miei numeri?**
+Con l’esportazione CSV, dalle impostazioni, su tutto lo storico e senza limiti. Il referto PDF (Pro) è impaginato come si legge di solito un diario minzionale.
+
+**Posso stampare o inviare il referto?**
+Sì. Il PDF si può stampare, condividere, inviare per e-mail o mostrare sul telefono.
+
+**Dove sono i miei dati? E se il telefono si rompe?**
+Sul tuo dispositivo e, se attivi iCloud, nel tuo database privato iCloud. Non c’è né server né account. Esporta un CSV quando vuoi come copia tua. Vedi l’informativa sulla privacy (https://fluidbalanceapp.com/it/privacy/).
+
+**Come cancello tutto?**
+Impostazioni, «Elimina tutti i dati». Un passaggio, una conferma. Pulisce il dispositivo e, se attiva, la tua copia su iCloud.
+
+**L’app può dirmi se i miei numeri sono normali?**
+No, e non lo farà mai. Annota quello che le dici e ti mostra i totali. Nessun obiettivo, nessun valore di riferimento, nessun avviso, nessun consiglio. L’interpretazione è del tuo medico.Cosa legge un clinico nel diario: cosa mostra un diario minzionale (https://fluidbalanceapp.com/it/blog/what-does-a-bladder-diary-show/).
+
+### Pro
+
+**Cosa c’è esattamente in Pro?**
+Il referto PDF, la pagina «Analisi avanzate» (il primo grafico settimanale è gratis) e l’icona scura. Acquisto una tantum, non si rinnova nulla.
+
+**Ho comprato Pro e sull’altro dispositivo non compare.**
+Usa «Ripristina acquisti» nelle impostazioni, con lo stesso account Apple.
+
+Contact: denacidapp@gmail.com
+
+---
+
+## Modello di diario minzionale: PDF gratuito da stampare (A4 e Letter)
+Source: https://fluidbalanceapp.com/it/bladder-diary-template/
+
+Modello di diario minzionale gratuito in PDF: A4 in ml, US Letter in oz e libretti da piegare. Sette giorni, una pagina al giorno, con le istruzioni.
+
+Downloads: https://fluidbalanceapp.com/downloads/bladder-diary-a4.pdf (A4, ml), https://fluidbalanceapp.com/downloads/bladder-diary-letter.pdf (US Letter, oz), https://fluidbalanceapp.com/downloads/bladder-diary-a5.pdf (A5 booklet, ml), https://fluidbalanceapp.com/downloads/bladder-diary-letter-half.pdf (half-Letter booklet, oz). I fogli sono in inglese — le colonne sono le stesse.
+Cosa c’è sul foglio: Sette giorni, una pagina al giorno. Colonne: ora · cosa hai bevuto · cosa hai emesso · notte · nota. In alto su ogni pagina il numero del giorno, la data e gli orari in cui sei andato a letto e ti sei alzato; nell’ultima pagina una riga per giorni annotati ▢ su 7, la prima cosa che un medico guarda. La prima pagina spiega come compilarlo, con un esempio. Negli ambulatori lo stesso foglio si chiama diario minzionale, scheda minzionale o diario frequenza-volume; un diario di 3 giorni sono semplicemente le prime tre pagine. Le colonne sono quelle che si aspettano.
+Come compilarlo: 1. Scrivi subito l’ora — Non a fine giornata. L’ora di ogni voce conta quanto la quantità. 2. Bevande: usa la quantità della tazza o della bottiglia — Una tazza sono circa 200-250 ml, un bicchiere 250, una lattina 330, una bottiglietta 500. 3. Urina: misura se puoi, stima se non puoi — Bastano un misurino o una bacinella appoggiata sul water. Se non hai misurato per niente, spunta «non misurato»: la voce conta lo stesso.Più in dettaglio: come misurare l’urina a casa (https://fluidbalanceapp.com/it/blog/how-to-measure-urine-output-at-home/). 4. Segna le voci notturne — Tutto quello che succede tra quando vai a letto e quando ti alzi la mattina.
+Tre giorni o sette?: Quasi tutte le linee guida chiedono un diario di 3 giorni con giornate complete; alcuni medici ne chiedono sette. Completo conta più di lungo: segui quello che ti hanno chiesto. Perché tre, e quando sette hanno senso (https://fluidbalanceapp.com/it/blog/bladder-diary-how-many-days/).
+Su cosa si basa: L’impaginazione segue i diari che gli ambulatori di urologia già usano, così il medico trova ogni cosa dove se l’aspetta: Diario frequenza-volume, Gloucestershire Hospitals NHS Foundation Trust (https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf) — il ✓ per una minzione senza misura, gli orari di coricarsi e alzarsi, un esempio compilato. Bladder Diary, Urology Care Foundation (American Urological Association) (https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf) — righe libere invece di una griglia oraria fissa, dimensioni dei contenitori come riferimento, giorni che non devono essere consecutivi. International Continence Society, terminologia del diario minzionale (https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary) — cosa registra un diario minzionale e gli orari di coricarsi e alzarsi per contare le minzioni notturne. Standard di qualità NICE QS77 (https://www.nice.org.uk/guidance/qs77/chapter/quality-statement-2-bladder-diaries-and-lifestyle-changes) — un diario di almeno tre giorni. Le colonne corrispondono a quelle dell’app {appName}, così un diario di carta e l’app si leggono allo stesso modo. Raccolto dallo sviluppatore dell’app, non da un clinico. Se in ambulatorio ti hanno dato il loro modulo, usa quello.
+
+---
+
+## Miglior diario minzionale gratis: cosa guardare prima di installarlo
+Source: https://fluidbalanceapp.com/it/blog/best-free-bladder-diary-app/
+Published: 2026-11-13 · Guida · Di Denis Zinin, sviluppatore di Diario minzionale: Fluid Balance. Non è un medico.
+
+In breve:
+Il miglior diario minzionale gratis è quello che il giorno della visita risponde ancora a ciò che ti è stato chiesto, e quasi tutto si decide prima di installare qualcosa:
+
+- La parola gratis copre quattro accordi diversi: gratis del tutto, gratis con pubblicità, una prova che finisce, e annotare gratis con il referto o l’esportazione dietro un acquisto. La scheda dell’App Store dice quale prima di scaricare.
+- Un diario senza il volume di ogni minzione non è quello che ha chiesto l’ambulatorio. Le linee guida chiedono l’ora e il volume di ogni minzione per almeno tre giorni.
+- Apri l’esportazione il primo giorno, non la sera prima della visita. Un’analisi di app di diario minzionale del 2026 ha trovato che alla maggior parte mancavano elementi clinici e che proteggevano male i dati sanitari.
+
+Nessuno può dirti quale app gratuita di diario minzionale sia la migliore per te, e in questo angolo dell’App Store la maggior parte delle classifiche è pubblicata da app che ci compaiono dentro. Prima di installare si decide un’altra cosa: se l’app servirà ancora il giorno in cui consegnerai il diario al medico. Dipende da che cosa registra, da quanti giorni regge, da che fine fanno le tue voci e dal fatto che tu possa tirare fuori il diario alla fine. Noi facciamo una di queste app, quindi leggi le ultime due sezioni sapendolo. I controlli prima valgono per qualsiasi app, anche per la nostra.
+
+### Che cosa vuol dire gratis in un’app di diario minzionale?
+
+Quattro accordi diversi vanno sotto la stessa parola, e la scheda dell’App Store dice quale hai davanti prima di scaricare.
+
+Alcune app sono gratis del tutto: niente da pagare e niente da sbloccare. Altre sono gratis perché le paga la pubblicità, anche alle tre di notte, in bagno, a metà di una voce. Altre danno una prova di una o due settimane, dopo la quale annotare si ferma o blocca quello che hai già scritto, proprio in mezzo ai giorni consecutivi richiesti. Il caso più comune è il quarto: annotare gratis, pagare per tirare fuori il diario. Registrare non costa nulla, mentre il referto, l’esportazione o i grafici stanno dietro un acquisto.
+
+Due righe della scheda dell’App Store lo chiariscono: l’elenco degli Acquisti in-app, che dice che cosa si vende e se si rinnova, e la privacy dell’app. Un diario si tiene di solito per pochi giorni, quindi un abbonamento e un acquisto una tantum non sono lo stesso affare.
+
+### Che cosa deve registrare il diario
+
+La scheda dell’ambulatorio ha una colonna per quanto hai urinato, in millilitri, ed è proprio la colonna che un’app lascia fuori più facilmente.
+
+L’Associazione Europea di Urologia distingue due documenti nella linea guida sui sintomi delle basse vie urinarie nell’uomo. Un diario frequenza-volume registra l’ora e il volume di ogni minzione; un diario minzionale aggiunge i liquidi assunti, gli assorbenti, le attività e i punteggi dei sintomi, e la linea guida ne chiede almeno tre giorni.[1] L’International Continence Society descrive il diario allo stesso modo: volumi urinati con l’ora, più episodi di perdita, assorbenti e liquidi assunti.[2] Una revisione delle prove su contenuto, formato e durata dei diari arriva allo stesso punto: a che cosa serve il diario determina che cosa deve contenere.[3]
+
+Un’app che conta i tocchi dà un numero di minzioni. È una riga della scheda richiesta, e i volumi misurati sono proprio la parte che nessuno può ricostruire dopo. Quindi la prima cosa da cercare negli screenshot è un campo numerico per il volume, in millilitri o once, e un modo per annotare una minzione che non sei riuscito a misurare. Senza il secondo la voce viene saltata del tutto, e una voce mancante è peggio di una approssimativa.
+
+### Sette controlli prima di installare
+
+- Un volume a ogni minzione, in millilitri o once, con un modo per segnare quella che non hai misurato.
+- L’ora messa in automatico e modificabile quando annoti mezz’ora più tardi.
+- Le notti separate dai giorni: un contrassegno di notte, oppure gli orari di quando vai a letto e ti alzi.
+- Da tre a sette giorni in un unico diario, perché è l’intervallo che chiedono gli ambulatori. La ricerca che confronta diari di tre e di sette giorni ha trovato che quello breve dà misure confrontabili e viene compilato meglio.[4]
+- Un posto per lo stimolo, le perdite e gli assorbenti: campi o almeno una nota.
+- Un’esportazione che il medico possa leggere: una pagina stampabile o un PDF, non uno screenshot di un grafico.
+- La privacy dell’app, e se serve un account prima ancora che l’app registri qualcosa.
+
+Questi sette sono circa due minuti sulla scheda dell’App Store, e nessuno di essi è il criterio con cui ordinano le classifiche.
+
+### Che cosa costa dopo il gratis
+
+Il fallimento tipico arriva l’ultimo giorno: tre giorni annotati, e il referto sta dietro un pagamento che non ti aspettavi, oppure le voci non escono dall’app in nessuna forma leggibile dal medico.
+
+Un’analisi di app elettroniche di diario minzionale del 2026 ha trovato che alla maggior parte mancavano elementi clinici importanti, che nessun professionista aveva partecipato alla loro progettazione e che proteggevano male i dati sanitari; gli autori concludono che le app non eguagliano ancora i diari cartacei validati.[5]
+
+Il controllo non costa nulla. Il primo giorno, finché non hai niente da perdere, apri la schermata di esportazione o del referto e guarda che cosa succede. Se chiede denaro, hai ancora la scelta di un’altra app e nessuna voce da spostare.
+
+### Basta un’app gratis per la visita?
+
+Sì, se tiene l’ora e il volume di ogni minzione, separa le notti, copre i giorni richiesti e restituisce il risultato in una forma leggibile. Il diario viene chiesto perché è un registro di quello che è successo e non di quello che ricordi,[6] e un’app gratis con dentro ogni minzione batte una a pagamento con buchi la seconda notte.
+
+Nessuna app dovrebbe interpretare il risultato. I tuoi numeri significano qualcosa accanto alla tua storia, e quella lettura spetta al medico.
+
+### Che cosa è gratis in Fluid Balance e che cosa aggiunge Pro
+
+Gratis finché usi l’app: annotare liquidi e minzioni in due tocchi, con i preimpostati e la possibilità di annotare una minzione senza volume misurato, l’intensità facoltativa dello stimolo da 0 a 4, il riepilogo del giorno, la griglia delle statistiche, i widget della schermata Home e della schermata di blocco, l’app per Apple Watch, la sincronizzazione iCloud senza account, l’esportazione CSV e l’ora su 12 o 24 ore. Nella privacy dell’app c’è scritto Nessun dato raccolto: niente account, niente server, nessuna analitica dentro l’app.
+
+Pro è un acquisto una tantum, non un abbonamento: aggiunge il referto PDF per il medico, la pagina delle analisi avanzate (il primo grafico settimanale è gratis) e un’icona scura. Nulla interrompe una voce per proporti un acquisto. Tutto questo si vede al primo avvio, e com’è fatta l’app schermata per schermata sta sulla [sua pagina](https://fluidbalanceapp.com/).
+
+### Se preferisci non installare nulla
+
+Il [modello stampabile gratuito](https://fluidbalanceapp.com/bladder-diary-template/) ha le stesse colonne: A4 in millilitri, US Letter in once, libretti da piegare a metà, una pagina al giorno con le istruzioni sul foglio. Un medico lo legge esattamente come legge il referto dell’app, ed è per questo che i due restano identici.
+
+In ogni caso, il miglior diario minzionale gratis è quello in cui al terzo giorno c’è dentro ogni minzione e da cui esce un referto che puoi stampare.
+
+### Domande
+
+**Esiste un diario minzionale del tutto gratis?**
+Diverse app lasciano annotare senza pagare nulla. Di solito si paga la parte che serve alla fine: il referto stampabile, l’esportazione o i grafici. È corretto, purché tu lo sappia il primo giorno: cerca la riga Acquisti in-app sulla scheda dell’App Store e apri la schermata dei prezzi dell’app prima di avere dentro tre giorni di voci.
+
+**Come capisco che cosa fa un’app gratis con le mie voci?**
+Tre punti, leggibili in un minuto: la privacy dell’app sulla scheda dell’App Store, che dice Nessun dato raccolto oppure elenca ciò che viene collegato a te; se l’app pretende un account prima di registrare qualsiasi cosa; e l’informativa sulla privacy. Un’analisi di app di diario minzionale del 2026 ha trovato che la maggior parte proteggeva male i dati sanitari.
+
+**L’urologo accetterà un diario tenuto in un’app?**
+Di solito sì, se mostra le stesse cose della scheda dell’ambulatorio: ora e volume di ogni minzione, che cosa hai bevuto, le notti separate dai giorni e i giorni richiesti. Portalo stampato o in PDF, perché alcuni medici preferiscono la carta sulla scrivania. Se l’ambulatorio ti ha dato la sua scheda con le sue scale, compila quella.
+
+### Fonti
+
+1. European Association of Urology. EAU Guidelines on the Management of Non-neurogenic Male LUTS. Arnhem: EAU; 2026. Chapter 4, Diagnostic evaluation. https://uroweb.org/guidelines/management-of-non-neurogenic-male-luts/chapter/diagnostic-evaluation
+2. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+3. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+4. Dmochowski RR, Sanders SW, Appell RA, Nitti VW, Davila GW. Bladder-health diaries: an assessment of 3-day vs 7-day entries. BJU Int. 2005;96(7):1049–1054. https://doi.org/10.1111/j.1464-410X.2005.05785.x
+5. Matthews C, Stothers L, Burke C, Petersen K, Macnab A. A framework analysis of electronic bladder diary apps: suitability for clinical decision-making and comparison to validated paper diaries. Neurourol Urodyn. 2026. https://doi.org/10.1002/nau.70410
+6. National Institute for Health and Care Excellence. Urinary incontinence in women. Quality standard QS77, quality statement 2: bladder diaries and lifestyle changes. London: NICE; 2015. https://www.nice.org.uk/guidance/qs77/chapter/quality-statement-2-bladder-diaries-and-lifestyle-changes
+
+Questo articolo spiega come tenere un diario. È un’informazione generale di uno sviluppatore di app, non un parere medico: cosa significhi il tuo diario lo stabilisce il medico. Diario compilato da te. Non è un documento medico.
+
+---
+
+## Diario minzionale o diario frequenza-volume: qual è la differenza
+Source: https://fluidbalanceapp.com/it/blog/bladder-diary-or-frequency-volume-chart/
+Published: 2026-11-02 · Guida · Di Denis Zinin, sviluppatore di Diario minzionale: Fluid Balance. Non è un medico.
+
+In breve:
+Un diario minzionale, un diario delle minzioni e un diario frequenza-volume sono, per chi li compila, lo stesso foglio. Secondo le definizioni dell’International Continence Society un diario frequenza-volume registra l’ora e il volume di ogni minzione, un diario minzionale aggiunge bevande, perdite e assorbenti, e un diario degli orari minzionali registra solo le ore; voiding diary, urinary diary, bladder chart e scheda entrate-uscite sono la stessa cosa sotto altri nomi. Il modulo che ti hanno dato è quello da usare:
+
+- Un diario frequenza-volume registra l’ora e il volume di ogni minzione. Un diario minzionale è lo stesso più bevande, perdite e assorbenti. Un diario degli orari registra solo le ore.
+- Voiding diary, urinary diary, bladder chart e scheda entrate-uscite sono la stessa cosa sotto altri nomi. Il modulo che ti hanno dato è quello da usare.
+- Qualunque sia il titolo, contano le colonne: ora, bevanda, volume emesso, notte e una nota.
+
+Ti hanno detto di tenere un diario minzionale. L’opuscolo parla di diario frequenza-volume. Il sito che hai trovato dice voiding diary, e l’infermiera in reparto l’ha chiamato scheda entrate-uscite. Per quel che ti riguarda, è lo stesso foglio. Le differenze che esistono davvero sono piccole e definite, e sono spiegate qui sotto, così puoi smettere di preoccuparti del titolo e occuparti delle colonne.
+
+### La versione breve
+
+| Termine | Cosa registra | Chi lo usa |
+|---|---|---|
+| Diario degli orari minzionali | Solo l’ora di ogni minzione, di giorno e di notte | Ricerca, alcuni ambulatori |
+| Diario frequenza-volume (frequency–volume chart) | Ora e volume di ogni minzione | Urologia britannica, moduli NHS, BAUS |
+| Diario minzionale | Orari e volumi più bevande, perdite, assorbenti, stimolo | Linee guida nazionali e internazionali, NICE |
+| Voiding diary, urinary diary, micturition diary | Come il diario minzionale | Ambulatori e letteratura statunitensi |
+| Bladder record chart, bladder chart | Come il diario minzionale | Servizi di fisioterapia |
+| Scheda entrate-uscite, bilancio idrico | Bevande e urina nelle 24 ore; in ospedale anche flebo e altre perdite | Reparti e infermieristica; la BAUS usa il nome per il suo diario frequenza-volume |
+
+### Qual è la differenza fra un diario minzionale e un diario frequenza-volume?
+
+L’International Continence Society, che fissa la terminologia usata dagli urologi, descrive tre livelli di registrazione.[1,3] Un diario degli orari minzionali annota solo gli orari delle minzioni, di giorno e di notte, per almeno 24 ore. Un diario frequenza-volume aggiunge il volume di ciascuna. Un diario minzionale aggiunge l’assunzione di liquidi, l’uso di assorbenti, gli episodi di incontinenza e la loro entità, e può registrare anche lo stimolo e le attività che hanno accompagnato una perdita.[1,2,3] Ogni livello risponde a più domande del precedente, e il diario minzionale è ciò che la maggior parte delle linee guida intende quando chiede «un diario»: il NICE, per esempio, chiede alle donne che si presentano con incontinenza urinaria di compilare un diario minzionale per almeno tre giorni.[10]
+
+### Perché ci sono tanti nomi
+
+In parte geografia, in parte storia. Una revisione della letteratura ha dovuto cercare nove termini diversi per trovare lo stesso tipo di registrazione: micturition chart, micturition diary, frequency volume chart, bladder chart, bladder diary, urinary chart, urinary diary, voiding chart e voiding diary.[4] I moduli americani tendono a dire voiding o bladder diary; quello per i pazienti della Urology Care Foundation si chiama semplicemente «Bladder Diary».[7] I moduli britannici conservano spesso il nome clinico più antico anche quando sono diari completi: quello del NHS Gloucestershire è intitolato «Frequency Volume Chart, Three Day Bladder Diary» e ha colonne per bevande, urina, sensazione vescicale e assorbenti,[5] e l’opuscolo della BAUS presenta la sua scheda entrate-uscite come «nota anche come frequency-volume chart o bladder diary».[6] La fisioterapia ha la sua variante, il bladder record chart, con lo stesso contenuto.[8]
+
+### Schede entrate-uscite e bilanci idrici
+
+Questi due nomi vengono dal reparto. Una scheda di bilancio idrico è una registrazione infermieristica di tutto ciò che entra in un paziente e tutto ciò che esce, flebo, drenaggi e vomito compresi, e serve a gestire i liquidi in ospedale.[9] Quando un’infermiera ti manda a casa dopo un intervento o con un catetere dicendoti di «tenere una scheda entrate-uscite», di solito intende la versione semplice: cosa hai bevuto, cosa hai emesso, con gli orari. È un diario frequenza-volume con una colonna per le bevande, ed è proprio per questo che la BAUS può usare quel nome per il suo opuscolo di urologia.[6] Le colonne del nostro [modello da stampare](https://fluidbalanceapp.com/bladder-diary-template/) bastano allo scopo.
+
+### La stessa cosa in altre lingue
+
+Se tieni il diario in un’altra lingua, cambia il termine ma non il foglio: bladder diary o voiding diary in inglese, Blasentagebuch o Miktionsprotokoll in tedesco, calendrier mictionnel in francese, diario miccional in spagnolo, 排尿日誌 in giapponese. L’app funziona nelle stesse lingue di questo sito e stampa il referto nella lingua che scegli, così un’urologa tedesca riceve intestazioni di colonna in tedesco.
+
+### Cosa significa per te
+
+Usa il modulo che ti hanno dato. Se in ambulatorio hanno detto «diario frequenza-volume» e ti hanno consegnato un foglio con la colonna delle bevande, compila le bevande. Se hanno detto «diario minzionale» e il foglio ha colonne per lo stimolo e le perdite, usale. Se non ti hanno dato nulla e hanno detto solo «tieni un diario», va bene qualunque modulo con ora, bevanda, volume emesso, notte e una nota: è quello che usano sia il [modello](https://fluidbalanceapp.com/bladder-diary-template/) sia l’app, così un diario di carta e uno sul telefono si leggono allo stesso modo. Il titolo in alto non è mai stato il problema. Le righe vuote sì.
+
+### Domande
+
+**Un voiding diary è la stessa cosa di un diario minzionale?**
+In pratica sì. «Voiding diary» è il termine americano più comune e «bladder diary» quello britannico; la letteratura usa entrambi, insieme a urinary diary, micturition diary e bladder chart. Se un modulo ha colonne per le bevande e per l’urina con gli orari, è un diario minzionale qualunque cosa ci sia scritto in cima.
+
+**In ambulatorio hanno detto diario frequenza-volume. Devo comunque annotare le bevande?**
+A rigore un diario frequenza-volume registra solo orari e volumi dell’urina emessa. La maggior parte dei moduli ambulatoriali con quel nome chiede però anche le bevande, come quello del NHS Gloucestershire e quello della BAUS. Segui il modulo: se c’è una colonna per le bevande, compilala; se non c’è, annotare le bevande su una riga a parte non ha mai fatto male.
+
+**Cos’è un diario degli orari minzionali?**
+Il più semplice dei tre: solo l’ora di ogni minzione, di giorno e di notte, per almeno 24 ore. Niente volumi, niente bevande. Risponde alla domanda «quanto spesso» e a nient’altro, il che a volte è tutto ciò che serve al medico.
+
+### Fonti
+
+1. Abrams P, Cardozo L, Fall M, et al. The standardisation of terminology of lower urinary tract function: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):167–178. https://doi.org/10.1002/nau.10052
+2. Haylen BT, de Ridder D, Freeman RM, et al. An International Urogynecological Association (IUGA)/International Continence Society (ICS) joint report on the terminology for female pelvic floor dysfunction. Neurourol Urodyn. 2010;29(1):4–20. https://doi.org/10.1002/nau.20798
+3. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+4. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+5. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+6. British Association of Urological Surgeons. Information from BAUS about assessing fluid intake & output. Patient leaflet F24/016. BAUS; 2024. https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Input%20output%20chart.pdf
+7. Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025. https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf
+8. University Hospitals Sussex NHS Foundation Trust. Bladder record chart: pelvic health physiotherapy patient information. Reference 2198; 2023. https://www.uhsussex.nhs.uk/wp-content/uploads/2023/03/Bladder-Record-chart.pdf
+9. Scales K, Pilsworth J. The importance of fluid balance in clinical practice. Nurs Stand. 2008;22(47):50–57. https://doi.org/10.7748/ns2008.07.22.47.50.c6634
+10. National Institute for Health and Care Excellence. Urinary incontinence and pelvic organ prolapse in women: management. NICE guideline NG123. London: NICE; 2019. https://www.nice.org.uk/guidance/ng123
+
+Questo articolo spiega come tenere un diario. È un’informazione generale di uno sviluppatore di app, non un parere medico: cosa significhi il tuo diario lo stabilisce il medico. Diario compilato da te. Non è un documento medico.
+
+---
+
+## Diario minzionale: Fluid Balance 1.2 è su App Store
+Source: https://fluidbalanceapp.com/it/blog/fluid-balance-1-2/
+Published: 2026-10-26 · Aggiornamento · Di Denis Zinin, sviluppatore di Diario minzionale: Fluid Balance.
+
+La versione 1.2 è su App Store, e riguarda quasi per intero una cosa sola: ora puoi annotare quanto era forte lo stimolo prima di una minzione. Il resto sono piccoli miglioramenti di comodità.
+
+### Quanto era forte lo stimolo?
+
+In un diario minzionale per vescica iperattiva e perdite lo stimolo si valuta prima di ogni minzione — e finora l’app non sapeva farlo. Per usarlo, attivalo nelle impostazioni: **Intensità dello stimolo**. Da lì in poi ogni voce di minzione riceve una pastiglia **Valuta lo stimolo** con cinque livelli:
+
+- **0** Nessuno stimolo
+- **1** Stimolo normale
+- **2** Stimolo forte
+- **3** Appena in tempo
+- **4** Non in tempo
+
+
+Il livello 4 vuol dire che è uscita urina lungo la strada per il bagno; resta quindi attaccato alla minzione cui appartiene invece di diventare un episodio a sé che i tuoi conteggi dovrebbero poi far quadrare.
+
+**Non valutato non è zero.** Una voce che non hai valutato non memorizza proprio nulla — la stessa regola di «Non misurato» per il volume. Un giorno non valutato mostra un trattino nel referto, non una fila di zeri, e le medie si fanno sulle voci che una valutazione ce l’hanno davvero. Uno zero, in questa app, significa sempre che hai scelto «Nessuno stimolo».
+
+**Dove compare la valutazione.** Accanto alla voce nel diario. Nel referto PDF su due righe — livelli 3–4 al giorno e livello 4 al giorno — più una colonna nella tabella per giorni. Nel CSV come nuova colonna in fondo, aggiunta e non inserita, così un foglio di calcolo o uno script costruiti sull’esportazione vecchia continuano a funzionare. Se nell’intervallo non c’è nulla di valutato, il referto salta la sezione invece di stamparne una vuota.
+
+Finché non lo attivi, una voce resta due tocchi.
+
+### Un promemoria che smette di insistere
+
+Teniamo alla tua attenzione: un promemoria non deve diventare rumore di fondo. Prima arrivava ogni giorno all’ora scelta, finché l’app restava installata. Ora arriva solo nei giorni senza voci, e dopo una settimana senza nessuna si mette in pausa da sé. Un diario si tiene da tre a sette giorni; un promemoria che arriva ancora al secondo mese è solo una notifica da spegnere.
+
+
+### Accesso facile a ieri
+
+Finché oggi è ancora vuoto, la schermata Oggi porta una scheda con le voci di ieri, e un tocco apre quel giorno. Il modo più comune di perdere un giorno di diario è ricordarsene la mattina dopo.
+
+
+### Inoltre nella 1.2
+
+- **Formato 12 o 24 ore**, quello che preferisci, nelle impostazioni.
+- **Supporto completo per iPhone Duo.**
+- **Un widget grande per la schermata Home**, accanto a quello piccolo e a quello della schermata di blocco.
+- **Quattro nuove lingue:** polacco, svedese, ceco e cinese tradizionale, che portano l’app a quattordici. Il referto PDF è tradotto insieme all’interfaccia; il CSV resta in inglese.
+- **Più veloce quando si sono accumulate molte voci**, più una serie di piccole correzioni.
+
+### Cosa non è cambiato
+
+L’etichetta sulla privacy su App Store è sempre «Nessun dato raccolto»: nessun account, nessun server, nessuna analisi dentro l’app, nessun codice di terzi. Le voci vivono sul tuo dispositivo e, se lo attivi, nel tuo database iCloud privato — la [politica sulla privacy](https://fluidbalanceapp.com/privacy/) ha i dettagli. L’app continua a non fare diagnosi, a non confrontare le tue voci con alcuna norma e a non ricordarti di bere; l’intensità dello stimolo è un numero che hai inserito tu, e che cosa significhi si discute con il medico. Annotare, Oggi, le statistiche, i widget, l’Apple Watch, iCloud e l’esportazione CSV restano gratis, e Pro resta un acquisto una tantum e non un abbonamento.
+
+### Requisiti
+
+iPhone con iOS 18 o successivo, iPhone Duo compreso. Apple Watch con watchOS 11 o successivo. Su iPad gira come app per iPhone. Categoria App Store: Medicina.
+
+Domande o richieste: l’[assistenza](https://fluidbalanceapp.com/support/) ha le risposte a quelle frequenti e l’indirizzo a cui scrivere.
+
+---
+
+## Diario minzionale di carta o app: cosa dicono gli studi
+Source: https://fluidbalanceapp.com/it/blog/paper-bladder-diary-or-app/
+Published: 2026-10-26 · Guida · Di Denis Zinin, sviluppatore di Diario minzionale: Fluid Balance. Non è un medico.
+
+In breve:
+Diario minzionale di carta o app è una domanda a cui gli studi rispondono con un pareggio: i diari elettronici e quelli di carta risultano di affidabilità simile, e le differenze stanno in quando le persone li compilano e in quanto viene sommato. A decidere è se ogni minzione viene annotata sul momento, in tutti i giorni richiesti:
+
+- Funzionano entrambi. Gli studi trovano i diari elettronici e quelli di carta di affidabilità simile; le differenze stanno in quando si compila e in quanto viene sommato.
+- La carta viene compilata dopo più spesso di quanto le persone ammettano. I diari elettronici mettono l’ora da soli, ma un’analisi di app ha trovato che alla maggior parte mancavano elementi clinici di base: stimolo, perdite o riservatezza.
+- Scegli un formato per tutto il diario, controlla che registri tutto ciò che il tuo ambulatorio ha chiesto e porta il risultato in una forma che il medico possa leggere.
+
+Carta o app non è la prima domanda giusta. La prima domanda è se il diario viene compilato sul momento, per ogni minzione, in tutti i giorni richiesti. Entrambi i formati, il foglio di carta e un diario minzionale digitale in un’app, possono farlo, ed entrambi possono fallire. Questo testo passa in rassegna cosa ha davvero trovato la ricerca confrontandoli, cosa è risultato mancante in un’analisi recente delle app, e come scegliere senza ritrovarsi con mezzo diario sulla carta e mezzo sul telefono. Noi facciamo un’app: leggi l’ultima sezione sapendolo.
+
+### Cosa fa bene la carta
+
+Gli ambulatori la conoscono. Il foglio arriva con le colonne che l’ambulatorio vuole, nella sua scala per lo stimolo o le perdite, e il medico può scriverci sopra. Non c’è niente da installare né da imparare, funziona nel bagno di un ospedale senza telefono, e chi compila può avere ottant’anni e non aver mai posseduto uno smartphone. Per un diario di tre giorni consegnato con la lettera dell’appuntamento, la carta è uno strumento del tutto valido.
+
+### Dove la carta fallisce
+
+Viene compilata dopo. La prova più chiara viene da uno studio che aveva nascosto un sensore nel raccoglitore di un diario cartaceo per registrare quando veniva davvero aperto: i pazienti dichiaravano di averlo compilato come indicato nella grande maggioranza dei casi, ma il raccoglitore mostrava che lo avevano fatto solo in una piccola parte delle occasioni previste, con molte voci scritte in blocco più tardi.[1] La ricerca sui diari minzionali osserva la stessa tendenza dall’altro lato: negli studi che confrontavano diari di tre e sette giorni, gli autori notano che il diario più corto riduce la tentazione di colmare i vuoti a memoria.[2] E la memoria, per questo scopo, è scarsa.
+
+Gli altri difetti sono pratici. Il foglio non è in bagno alle tre di notte. I totali e il conteggio delle notti vanno fatti a mano, o non si fanno. E un diario sul tavolo della cucina si perde facilmente e si dimentica facilmente a casa il giorno della visita.
+
+### I diari elettronici sono più precisi della carta?
+
+I diari elettronici sono entrati presto nella letteratura. Un diario elettronico giornaliero per la vescica iperattiva, testato nel 2003, raccoglieva i dati sui sintomi con marche temporali ed è stato giudicato facile da usare, con gli autori che indicavano i dati in tempo reale come il suo vantaggio principale sulla carta.[3] Uno studio randomizzato che ha confrontato un diario minzionale elettronico con la carta in donne con sintomi urinari ha trovato entrambi affidabili alla ripetizione, con qualche minzione e perdita in meno registrata per via elettronica, e ha concluso che la versione elettronica era accettabile e affidabile.[4] In altre parole: non è magia, ma è un’alternativa solida, con la marca temporale come guadagno concreto.
+
+### Cosa mancava alle app
+
+Che il formato funzioni non vuol dire che funzioni ogni app. Un’analisi del 2026 delle app di diario minzionale, confrontate con il contenuto dei diari cartacei validati, ha trovato che alla maggior parte mancavano voci cliniche importanti, che non c’era stato coinvolgimento professionale e che erano deboli sulla sicurezza delle informazioni sanitarie, e ha concluso che serviva ulteriore sviluppo prima che le app eguagliassero i diari cartacei validati.[5] La letteratura è anche onesta nel riconoscere che non esiste un diario pienamente validato in nessun formato, carta compresa.[7]
+
+La lettura pratica: giudica un’app da quello che registra rispetto al modulo del tuo ambulatorio, non dalle sue valutazioni. L’elenco è breve:
+
+- **L’ora su ogni voce**, messa in automatico e modificabile quando inserisci in ritardo.
+- **Minzioni senza volume**, così una spunta in un bagno pubblico resta una voce completa.
+- **Orari di coricarsi e di alzarsi, o un indicatore di notte**, così le notti si possono contare.[8]
+- **Un posto per stimolo, perdite e assorbenti**, come campi o almeno come note.
+- **Un’esportazione** che il medico possa leggere: un referto stampabile o una tabella da inviare.
+- **Che fine fanno i dati**: account, server, pubblicità. L’etichetta sulla privacy dell’App Store lo dice in una riga.
+- **Se l’inserimento viene mai interrotto**, da registrazioni o da inviti a pagare.
+
+### Come scegliere, onestamente
+
+Se il tuo ambulatorio ti ha dato un modulo con le sue scale, usa il modulo. Se ti hanno solo detto «tieni un diario» lasciandoti fare, scegli il formato che avrai davvero con te nei momenti che contano, che per la maggior parte delle persone è il telefono. Qualunque cosa scegli, sceglila una volta sola: un diario diviso fra un foglio e uno schermo sono due mezzi diari, e nessuno dei due torna. Il peso di tenere un diario è reale,[6] e il formato che te lo alleggerisce è quello giusto.
+
+La nostra posizione, detta chiaramente: Diario minzionale: Fluid Balance registra una minzione in due tocchi con l’ora già attaccata, conta le notti, fa i totali e stampa un referto, e la sua etichetta sulla privacy è «Nessun dato raccolto». Lo stimolo ha un campo suo, una valutazione facoltativa da 0 a 4; perdite e assorbenti vanno in una nota. Se preferisci la carta, il [modello gratuito](https://fluidbalanceapp.com/bladder-diary-template/) ha le stesse colonne, così i due si leggono allo stesso modo e un medico non vede alcuna differenza di struttura. In ogni caso, ciò che rende utile il diario è la stessa cosa che gli studi continuano a trovare: compilalo quando succede.
+
+### Domande
+
+**Il mio medico accetterà un referto da un’app?**
+Di solito sì, se mostra le stesse cose del modulo di carta: orari, volumi, bevande, notti e le note su stimolo o perdite. Stampalo o mandalo in anticipo per email se puoi; alcuni medici preferiscono la carta sulla scrivania. Nel dubbio, chiedi quando ti viene richiesto il diario.
+
+**Un’app è più precisa della carta?**
+Per gli orari sì: una voce inserita sul telefono porta l’ora in cui è stata inserita, mentre un’ora sulla carta è quella che hai scritto tu. Per i volumi no: il misurino è lo stesso. In un confronto randomizzato i diari elettronici e quelli di carta sono risultati entrambi affidabili, con qualche minzione e perdita in meno registrata per via elettronica. La precisione viene dal compilare sul momento, qualunque sia il formato.
+
+**Posso usare semplicemente l’app delle note del telefono?**
+Puoi, ed è meglio di niente. Quello che perdi è la struttura: niente colonne, niente totali, niente conteggio delle notti, e un referto che dovrai scrivere tu prima della visita. Se fai così, scrivi ogni riga come ora, cosa, quanto, e tieni gli orari di coricarti e di alzarti.
+
+### Fonti
+
+1. Stone AA, Shiffman S, Schwartz JE, Broderick JE, Hufford MR. Patient non-compliance with paper diaries. BMJ. 2002;324(7347):1193–1194. https://doi.org/10.1136/bmj.324.7347.1193
+2. Dmochowski RR, Sanders SW, Appell RA, Nitti VW, Davila GW. Bladder-health diaries: an assessment of 3-day vs 7-day entries. BJU Int. 2005;96(7):1049–1054. https://doi.org/10.1111/j.1464-410X.2005.05785.x
+3. Quinn P, Goka J, Richardson H. Assessment of an electronic daily diary in patients with overactive bladder. BJU Int. 2003;91(7):647–652. https://doi.org/10.1046/j.1464-410X.2003.04168.x
+4. Sussman RD, Richter LA, Tefera E, et al. Utilizing technology in assessment of lower urinary tract symptoms: a randomized trial of electronic versus paper voiding diaries. Female Pelvic Med Reconstr Surg. 2016;22(4):224–228. https://doi.org/10.1097/SPV.0000000000000266
+5. Matthews C, Stothers L, Burke C, Petersen K, Macnab A. A framework analysis of electronic bladder diary apps: suitability for clinical decision-making and comparison to validated paper diaries. Neurourol Urodyn. 2026. https://doi.org/10.1002/nau.70410
+6. Ku JH, Jeong IG, Lim DJ, Byun SS, Paick JS, Oh SJ. Voiding diary for the evaluation of urinary incontinence and lower urinary tract symptoms: prospective assessment of patient compliance and burden. Neurourol Urodyn. 2004;23(4):331–335. https://doi.org/10.1002/nau.20027
+7. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+8. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+
+Questo articolo spiega come tenere un diario. È un’informazione generale di uno sviluppatore di app, non un parere medico: cosa significhi il tuo diario lo stabilisce il medico. Diario compilato da te. Non è un documento medico.
+
+---
+
+## Diario minzionale per vescica iperattiva e perdite: cosa annotare
+Source: https://fluidbalanceapp.com/it/blog/bladder-diary-for-overactive-bladder-and-leaks/
+Published: 2026-10-19 · Aggiornato il: 2026-10-26 · Guida · Di Denis Zinin, sviluppatore di Diario minzionale: Fluid Balance. Non è un medico.
+
+In breve:
+Un diario minzionale per vescica iperattiva e perdite annota quattro cose oltre a bevande, minzioni e orari: se la minzione è arrivata con uno stimolo forte, se c’è stata una perdita e all’incirca quanta, se hai cambiato l’assorbente e cosa stavi facendo quando è successo. Le definizioni di ICS e IUGA, le indicazioni di NICE e AUA e i moduli di Urology Care Foundation, NHS e BAUS chiedono tutto questo in una forma o nell’altra. Come annotarlo perché sia leggibile:
+
+- Per la vescica iperattiva e l’incontinenza il diario annota quattro cose in più: lo stimolo, le perdite e all’incirca quanta urina, i cambi di assorbente e cosa stavi facendo.
+- Usa la scala del modulo del tuo ambulatorio e non cambiarla a metà strada. Su un diario semplice, tutte e quattro vanno nella colonna Nota, con l’ora.
+- Gli episodi di perdita sono la misura più sensibile ai giorni mancanti: annota tutti i giorni richiesti, compresi quelli buoni.
+
+Un diario minzionale semplice annota bevande, minzioni e orari. Un diario per l’incontinenza o la vescica iperattiva ha bisogno di quattro cose in più sullo stesso foglio, perché quello che il medico guarda sono proprio lo stimolo e le perdite: se la minzione è arrivata con uno stimolo forte, se c’è stata una perdita e all’incirca quanta, se hai cambiato l’assorbente e cosa stavi facendo quando è successo. Questo testo spiega come i moduli ambulatoriali chiedono queste quattro cose, come valutarle allo stesso modo ogni volta e dove metterle quando il tuo diario non ha una colonna apposta.
+
+### Perché proprio queste quattro
+
+I termini hanno definizioni precise. Lo stimolo è un desiderio improvviso e impellente di urinare, difficile da rimandare; l’incontinenza urinaria è qualunque perdita involontaria, e l’incontinenza da urgenza è la perdita che arriva con lo stimolo; la vescica iperattiva è stimolo, di solito con frequenza e minzioni notturne, con o senza perdite.[1,3] La linea guida americana sulla vescica iperattiva include un diario minzionale nella valutazione,[2] e il NICE chiede alle donne che si presentano con incontinenza un diario di almeno tre giorni e classifica l’incontinenza a partire dall’anamnesi: perdita da sforzo, per esempio tossendo; perdita con stimolo; oppure entrambe.[4] Le quattro colonne in più sono il modo in cui il diario sostiene quella classificazione. «Persa urina starnutendo» e «persa urina andando in bagno con uno stimolo forte» sono due rilievi diversi, e il diario è dove quella differenza viene annotata con un orario.
+
+### Come i moduli ambulatoriali registrano stimolo e perdite
+
+I moduli differiscono nelle parole, non nella sostanza.
+
+- **Urology Care Foundation (AUA).** Per ogni minzione: hai sentito uno stimolo forte, sì o no; c’è stata una perdita, e di quanto; cosa stavi facendo in quel momento, «starnutire, fare attività fisica, ecc.»[5]
+- **NHS Gloucestershire.** Un punteggio di sensazione vescicale da 0 a 4: 0 nessuna sensazione, sono andato per comodità; 1 desiderio normale; 2 stimolo poi passato; 3 stimolo, bagno raggiunto senza perdita; 4 stimolo e perdita. In più LEAK scritto nella colonna dell’urina e una spunta o un peso per ogni assorbente.[6]
+- **University Hospitals Sussex, fisioterapia.** Un sì per uno stimolo forte e improvviso, e una gravità della perdita: D umido, W bagnato, V molto bagnato.[7]
+- **BAUS.** Una colonna WET con +, ++ o +++ per una perdita piccola, moderata o grande.[8]
+
+La descrizione del diario minzionale dell’International Continence Society elenca le stesse voci: episodi di incontinenza, entità dell’incontinenza, uso di assorbenti e stimolo.[9]
+
+### Valutare allo stesso modo ogni volta
+
+Scegli una scala, quella del tuo modulo, e usala per tutto il diario. Un «3» il primo giorno e un «abbastanza brutto» il terzo non si possono confrontare, e il confronto è il punto. Se il tuo modulo non ha una scala, per le perdite bastano tre livelli — piccola, moderata o grande — e per lo stimolo basta un sì o un no. Scrivilo sul momento: una perdita ricordata la sera tende a diventare «un po’», qualunque cosa sia stata.
+
+Annota l’attività in poche parole: tossendo, ridendo, sollevando, alzandomi, andando in bagno, a letto. È la colonna che i medici leggono per distinguere un tipo di perdita dall’altro.[4,5]
+
+### Dove va in un diario semplice
+
+Se il tuo diario ha solo ora, bevanda, volume e una nota, le quattro voci vanno nella nota, con l’ora della minzione a cui si riferiscono. Il nostro [modello da stampare](https://fluidbalanceapp.com/bladder-diary-template/) ha proprio per questo una colonna Nota intitolata «stimolo, perdita, assorbente, qualunque cosa insolita», e il suo esempio compilato mostra una minzione con «di fretta, piccola perdita». Nell’app lo stimolo ha un campo suo — una valutazione facoltativa da 0 a 4, spenta finché non la accendi — e perdite, assorbenti e fattori scatenanti vanno nella nota; il referto stampa entrambi accanto ai rispettivi orari. Se il tuo ambulatorio vuole le proprie colonne con punteggio, compilale come chiede il modulo: una valutazione da 0 a 4 non è la stessa scala del punteggio di sensazione di un modulo, e il confronto è esattamente ciò a cui serve il punteggio.
+
+### Perdite notturne e assorbenti di notte
+
+Una perdita a letto è una riga notturna: ora, «perdita», quanta, e se dormivi o stavi andando in bagno. Un assorbente cambiato di notte è una riga di assorbente. Entrambe stanno fra l’ora in cui sei andato a letto e quella in cui ti sei alzato, così il medico può separare la notte dal giorno; [annotare le minzioni notturne](https://fluidbalanceapp.com/blog/bladder-diary-for-nocturia/) spiega come funzionano quegli orari.
+
+### Annota anche i giorni buoni
+
+Gli episodi di perdita sono la misura del diario che più risente dei giorni mancanti. In uno studio che confrontava durate diverse, tre giorni equivalevano a sette per il numero di minzioni, il volume per minzione, lo stimolo e il volume giornaliero, ma per gli episodi di incontinenza tre giorni risultavano al limite.[10] Meno giorni annoti, più un singolo giorno asciutto o un singolo giorno brutto deforma il quadro. Annota tutti i giorni che ti sono stati chiesti, compresi quelli in cui non c’è nulla da segnalare, e di’ quali giorni sono completi.
+
+### Cosa ne fa il medico
+
+Ordina gli episodi per tipo, per orario e per ciò che li ha scatenati, accanto alle tue bevande e ai tuoi volumi, e legge il tutto insieme alla tua anamnesi e alla visita. Quello che ne conclude, e quello che propone, spetta a lui; su questa pagina non ci sono soglie né consigli su cosa bere o quando. [Come tenere un diario minzionale](https://fluidbalanceapp.com/blog/how-to-keep-a-bladder-diary/) copre il resto della registrazione.
+
+### Domande
+
+**Devo annotare una perdita se alla fine sono arrivato in bagno?**
+Annota lo stimolo, non la perdita. Lo stimolo è il bisogno improvviso e difficile da rimandare di andare; una perdita è urina che esce prima che tu arrivi. Il modulo dell’NHS li valuta separatamente: uno stimolo che hai tenuto vale 3, uno stimolo con perdita vale 4. Entrambe le righe servono, e sono righe diverse.
+
+**Come annoto gli assorbenti?**
+Spunta ogni cambio, con l’ora, nella colonna degli assorbenti o nella nota. Alcuni ambulatori chiedono di pesare gli assorbenti usati, e il modulo dell’NHS dà la conversione, 1 grammo per 1 ml; fallo solo se te l’hanno chiesto. Di solito basta contare i cambi.
+
+**Come annoto stimolo e perdite nell’app?**
+Lo stimolo ha un campo suo: attiva la valutazione dello stimolo nelle impostazioni e una minzione potrà essere valutata da 0 a 4. Perdite e assorbenti vanno nella nota della voce: «perdita, piccola, tossendo», «assorbente». Il referto stampa entrambi accanto ai rispettivi orari, così il medico li vede in ordine. Se il modulo del tuo ambulatorio ha colonne e scale proprie, compilale come chiede il modulo: una valutazione da 0 a 4 e il punteggio di sensazione di un modulo non sono la stessa scala.
+
+### Fonti
+
+1. Abrams P, Cardozo L, Fall M, et al. The standardisation of terminology of lower urinary tract function: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):167–178. https://doi.org/10.1002/nau.10052
+2. Cameron AP, Chung DE, Dielubanza EJ, et al. The AUA/SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder. J Urol. 2024;212(1):11–20. https://doi.org/10.1097/JU.0000000000003985
+3. Haylen BT, de Ridder D, Freeman RM, et al. An International Urogynecological Association (IUGA)/International Continence Society (ICS) joint report on the terminology for female pelvic floor dysfunction. Neurourol Urodyn. 2010;29(1):4–20. https://doi.org/10.1002/nau.20798
+4. National Institute for Health and Care Excellence. Urinary incontinence and pelvic organ prolapse in women: management. NICE guideline NG123. London: NICE; 2019. https://www.nice.org.uk/guidance/ng123
+5. Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025. https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf
+6. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+7. University Hospitals Sussex NHS Foundation Trust. Bladder record chart: pelvic health physiotherapy patient information. Reference 2198; 2023. https://www.uhsussex.nhs.uk/wp-content/uploads/2023/03/Bladder-Record-chart.pdf
+8. British Association of Urological Surgeons. Information from BAUS about assessing fluid intake & output. Patient leaflet F24/016. BAUS; 2024. https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Input%20output%20chart.pdf
+9. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+10. Konstantinidis C, Kratiras Z, Samarinas M, Skriapas K. Optimal bladder diary duration for patients with suprapontine neurogenic lower urinary tract dysfunction. Int Braz J Urol. 2016;42(4):766–772. https://doi.org/10.1590/S1677-5538.IBJU.2015.0292
+
+Questo articolo spiega come tenere un diario. È un’informazione generale di uno sviluppatore di app, non un parere medico: cosa significhi il tuo diario lo stabilisce il medico. Diario compilato da te. Non è un documento medico.
+
+---
+
+## Diario minzionale per la nicturia: come annotare le minzioni notturne
+Source: https://fluidbalanceapp.com/it/blog/bladder-diary-for-nocturia/
+Published: 2026-10-12 · Guida · Di Denis Zinin, sviluppatore di Diario minzionale: Fluid Balance. Non è un medico.
+
+In breve:
+Un diario per la nicturia è un normale diario minzionale con la notte annotata per bene: l’ora in cui sei andato a letto, l’ora in cui ti sei alzato e ogni minzione fra le due con la sua ora e, quando puoi, il suo volume. L’International Continence Society definisce la nicturia come svegliarsi di notte per urinare, e sia l’EAU sia l’ICS contano le minzioni e l’urina della notte proprio a partire da quelle ore. Tre cose da fare bene:
+
+- Annota a che ora sei andato a letto e a che ora ti sei alzato. Ogni minzione fra le due è notturna: spuntala, tieni l’ora, misura se puoi.
+- La prima minzione dopo esserti alzato si scrive come prima riga del giorno nuovo, ma il suo volume appartiene alla notte. A separarli ci pensa il medico; a te servono solo le ore.
+- Tieni almeno tre notti e non cambiare le bevande della sera per il diario. Quello che conta è lo schema.
+
+Un diario per la nicturia è un normale diario minzionale con la notte annotata per bene. Se te l’hanno chiesto perché ti alzi di notte, la notte è la parte del diario che conta di più, ed è anche quella che si annota peggio: mezzo addormentato, al buio, senza alcuna voglia di tenere in mano un misurino. Questo testo spiega come far quadrare le notti con il minimo sforzo. Non dice quante minzioni siano troppe: quella domanda è per il medico che ha chiesto il diario.
+
+### Che cosa conta come minzione notturna
+
+L’International Continence Society definisce la nicturia, la minzione notturna, come svegliarsi di notte per urinare: ogni minzione è preceduta e seguita dal sonno.[1,2] Il diario traduce quella definizione in due ore, quella in cui sei andato a letto per dormire e quella in cui ti sei alzato per la giornata, e tutto ciò che sta in mezzo è la notte.
+
+Per questo ogni modulo chiede quelle due ore. Sul foglio dell’NHS scrivi BED e WOKE nella colonna delle ore;[8] il foglio della BAUS chiede due righe tracciate lungo la colonna del giorno;[9] il nostro [modello da stampare](https://fluidbalanceapp.com/bladder-diary-template/) ha una casella per ciascuna in cima a ogni pagina e una colonna Notte da spuntare. L’app conta le minzioni notturne dentro una finestra fissa, dalle 22:00 alle 07:00, e lo scrive sul referto. Se le tue notti seguono un altro orologio, metti le tue ore vere di coricarti e di alzarti nelle note, oppure usa il foglio di carta: al medico serve la tua notte, non una predefinita.
+
+### Perché il diario e non il solo racconto
+
+Le linee guida qui sono insolitamente dirette. L’European Association of Urology raccomanda un diario minzionale di almeno tre giorni per valutare i sintomi urinari maschili, «in particolare per la nicturia», perché è il diario a permettere al medico di distinguere fra le diverse cause delle minzioni notturne.[3] Una revisione sistematica sulla nicturia ha rilevato che strumenti oggettivi come il diario frequenza-volume sono poco usati, e che la valutazione ne risente.[4] La memoria regge meglio sulle notti che sui giorni,[10] ma un conteggio non è una registrazione con ore e volumi, e sono i volumi a portare quasi tutta l’informazione.
+
+### La prima minzione del mattino
+
+La minzione che fai dopo esserti alzato non è notturna: eri già in piedi.[1,2] Ma l’urina che emetti allora si è formata durante la notte, perciò, per la definizione dell’ICS, il suo volume si somma al volume urinario notturno.[1] Su carta, scrivila come prima riga dopo la tua ora di alzata, con il volume se l’hai misurato. Non devi farci nessun calcolo. Lo farà il medico, ed è proprio per questo che quella prima misura vale il misurino.
+
+### Che cosa scrivere per ogni minzione notturna
+
+- **L’ora.** Guarda l’orologio prima di ogni altra cosa. Se al mattino non te la ricordi, scrivi la tua stima migliore e segna «circa» nella nota.
+- **Il volume, se puoi.** Una bacinella messa sotto l’asse prima di coricarti lo raccoglie senza che tu debba tenere nulla; leggila al mattino se serve, ma l’ora scrivila subito.[6,7]
+- **Una spunta, se non sei riuscito a misurare.** Una minzione notturna spuntata conta comunque come minzione.
+- **Una nota quando qualcosa è fuori dall’ordinario.** «Ero comunque sveglio», «svegliato da uno stimolo forte», «persa urina prima di arrivare», dolore. Sono righe che il medico legge.
+
+### Che cosa calcola il medico dalle notti
+
+Dalle tue ore e dai tuoi volumi ricava quanta urina hai prodotto di notte, che quota sia sul totale delle 24 ore e quanto hai dormito prima della prima minzione.[1,2,5] Questi numeri sono il motivo per cui le due ore e il volume della prima del mattino contano tanto: senza di essi le minzioni notturne sono solo un conteggio, e il conteggio è proprio ciò che il diario doveva migliorare. Le soglie che il medico applica a quei numeri dipendono dall’età e dal resto della tua storia, e spettano a lui.
+
+### Quante notti deve coprire un diario per la nicturia?
+
+Almeno tre, secondo la raccomandazione dell’EAU e secondo la maggior parte dei moduli ambulatoriali.[3,8,9] Più notti danno al medico un campione migliore di uno schema che varia da una notte all’altra; una settimana è frequente quando la nicturia è la domanda principale. Qualunque sia il numero, ogni notte dovrebbe essere completa: ora di coricarsi, ogni minzione, ora di alzarsi. [Quanti giorni deve coprire un diario](https://fluidbalanceapp.com/blog/bladder-diary-how-many-days/) passa in rassegna le indicazioni nel dettaglio.
+
+### Non cambiare le tue serate per il diario
+
+Se di solito prendi il tè alle nove, prendilo alle nove. Un diario tenuto in serate insolitamente asciutte mostra al medico uno schema che non è il tuo, e la visita parte da un quadro sbagliato. Annota le bevande della sera con l’ora e la quantità: come ciò che bevi la sera si lega alle minzioni della notte è una delle cose che il diario esiste per mostrare.
+
+### Per rendere tutto più facile
+
+Metti la bacinella al suo posto e la penna sopra il foglio prima di andare a letto. Lascia accesa una luce piccola. Se il foglio non è accanto al water, il telefono sì: il widget della schermata di blocco e l’app per Apple Watch registrano una minzione in due tocchi senza sbloccare nulla, e l’ora viene annotata per te. Qualunque cosa usi, la regola è la stessa: prima l’ora, poi il volume, e mai saltare la riga.
+
+### Domande
+
+**La prima minzione dopo essermi alzato conta come notturna?**
+Non come minzione, ma il suo volume conta come urina della notte. Secondo la definizione dell’ICS la nicturia è svegliarsi di notte per urinare, quindi una minzione fatta una volta alzato per la giornata non lo è. L’urina che emetti allora, però, si è formata durante la notte e si somma al volume notturno. Scrivila come prima riga dopo la tua ora di alzata e lascia la separazione al medico.
+
+**E se ero comunque sveglio e sono andato solo perché ero in piedi?**
+Annota la minzione con la sua ora e aggiungi una nota: «ero comunque sveglio». La definizione di nicturia dell’ICS presuppone un risveglio per urinare, perciò il medico vorrà sapere quali minzioni ti hanno svegliato e quali sono avvenute perché eri già alzato. Basta una nota breve.
+
+**Devo misurare di notte?**
+Se puoi, sì, perché i volumi della notte sono quelli che il medico somma. Una bacinella appoggiata sotto l’asse prima di andare a letto rende tutto semplice: niente da tenere in mano, niente da cercare al buio. Se non puoi, spunta la minzione e tieni l’ora; una minzione notturna spuntata conta comunque.
+
+### Fonti
+
+1. van Kerrebroeck P, Abrams P, Chaikin D, et al. The standardisation of terminology in nocturia: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):179–183. https://doi.org/10.1002/nau.10053
+2. Hashim H, Blanker MH, Drake MJ, et al. International Continence Society (ICS) report on the terminology for nocturia and nocturnal lower urinary tract function. Neurourol Urodyn. 2019;38(2):499–508. https://doi.org/10.1002/nau.23917
+3. European Association of Urology. EAU Guidelines on the Management of Non-neurogenic Male LUTS. Arnhem: EAU; 2026. Chapter 4, Diagnostic evaluation. https://uroweb.org/guidelines/management-of-non-neurogenic-male-luts/chapter/diagnostic-evaluation
+4. Cornu JN, Abrams P, Chapple CR, et al. A contemporary assessment of nocturia: definition, epidemiology, pathophysiology, and management—a systematic review and meta-analysis. Eur Urol. 2012;62(5):877–890. https://doi.org/10.1016/j.eururo.2012.07.004
+5. Epstein M, Blaivas J, Wein AJ, Weiss JP. Nocturia treatment outcomes: analysis of contributory frequency volume chart parameters. Neurourol Urodyn. 2018;37(1):186–191. https://doi.org/10.1002/nau.23272
+6. European Association of Urology, Patient Information. Bladder diary for nocturia. Uroweb. https://patients.uroweb.org/condition/nocturia/treatment-options-nocturia/bladder-diary-for-nocturia
+7. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+8. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+9. British Association of Urological Surgeons. Information from BAUS about assessing fluid intake & output. Patient leaflet F24/016. BAUS; 2024. https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Input%20output%20chart.pdf
+10. Stav K, Dwyer PL, Rosamilia A. Women overestimate daytime urinary frequency: the importance of the bladder diary. J Urol. 2009;181(5):2176–2180. https://doi.org/10.1016/j.juro.2009.01.042
+
+Questo articolo spiega come tenere un diario. È un’informazione generale di uno sviluppatore di app, non un parere medico: cosa significhi il tuo diario lo stabilisce il medico. Diario compilato da te. Non è un documento medico.
+
+---
+
+## Cosa mostra un diario minzionale? Cosa legge il tuo urologo
+Source: https://fluidbalanceapp.com/it/blog/what-does-a-bladder-diary-show/
+Published: 2026-10-05 · Guida · Di Denis Zinin, sviluppatore di Diario minzionale: Fluid Balance. Non è un medico.
+
+In breve:
+Quello che un diario minzionale mostra a un clinico si riduce a cinque cose: quanto spesso vai, di giorno e di notte; quanto emetti ogni volta; quanta della tua urina si forma di notte; cosa bevi e quando; e quanto è completo il registro. Nessuna di queste viene con un numero a cui puntare; la lettura spetta al clinico che conosce la tua storia:
+
+- Un clinico legge cinque cose in un diario: quanto spesso vai di giorno e di notte, quanto emetti ogni volta, quanta urina produci di notte, cosa bevi e quando, e quanto è completo il registro.
+- Nessuna ha un numero a cui mirare. Gli stessi valori significano cose diverse in persone diverse, e solo il clinico che conosce la tua storia può leggerli.
+- Quello che controlli tu è il registro: ogni minzione con la sua ora, i volumi quando puoi, gli orari di coricarsi e alzarsi, e buchi onesti invece che riempiti.
+
+Un diario minzionale mostra a un clinico cinque cose: quanto spesso vai, di giorno e di notte; quanto emetti ogni volta; quanta della tua urina si forma di notte; cosa bevi e quando; e quanto è completo il registro. Niente in questa pagina dice quanto dovrebbero valere quei numeri, e niente interpreta i risultati di un diario. Quella lettura spetta al clinico che conosce la tua storia; a cosa serve un diario minzionale è a mettergli davanti quelle cinque cose. Questo articolo spiega cosa guarda, così che ogni colonna del foglio abbia senso mentre la compili.
+
+### A cosa serve un diario minzionale?
+
+L’International Continence Society definisce i termini su cui un diario è costruito: frequenza diurna, nicturia, volume emesso e la scheda frequenza-volume che li registra.[1] La ricerca su queste schede si è assestata su una manciata di variabili che si leggono sempre: il numero di minzioni di giorno e di notte, il volume di ciascuna, il volume massimo e il totale nelle 24 ore.[2] Le linee guida dicono poi ai clinici di chiedere il diario: l’European Association of Urology raccomanda un diario di almeno tre giorni nella valutazione dei sintomi urinari maschili, soprattutto per la nicturia,[3] NICE ne chiede uno quando le donne si presentano con incontinenza urinaria,[4] e la linea guida americana sulla vescica iperattiva lo include nella valutazione.[5]
+
+### 1. Quanto spesso vai, giorno e notte separati
+
+Il primo conteggio sono le minzioni nelle 24 ore. Il secondo, spesso più importante, è quante di quelle sono avvenute di notte: l’International Continence Society definisce la nicturia come svegliarsi di notte per urinare, con sonno prima e dopo ogni minzione.[1,6,7] Per questo ogni diario chiede quando sei andato a letto e quando ti sei alzato. Senza quei due orari, le minzioni notturne non si possono separare da quelle diurne, e metà di ciò per cui il diario esiste sparisce.
+
+Anche le minzioni che non hai potuto misurare contano qui. Una spunta con la sua ora è a questo scopo una voce completa; una riga mancante no.
+
+### 2. Quanto emetti ogni volta
+
+Ogni volume misurato dice qualcosa da solo, e insieme danno altri due dati: il volume maggiore emesso durante il diario e la distanza fra il minore e il maggiore.[2] Una serie di volumi piccoli e una di volumi grandi si leggono in modo diverso, ed entrambe si leggono accanto a tutto il resto che il clinico sa di te. È la parte del diario che un misurino o una bacinella rendono possibile; [come misurare l’urina a casa](https://fluidbalanceapp.com/blog/how-to-measure-urine-output-at-home/) copre il lato pratico.
+
+### 3. Quanta urina produci di notte
+
+I clinici sommano i volumi notturni a parte. Per la definizione ICS, il volume di urina notturna comprende la prima minzione dopo essersi alzati al mattino, perché quell’urina si è formata durante la notte, anche se la minzione avviene dopo il risveglio.[6,7] Dal volume notturno e da quello delle 24 ore calcolano la quota prodotta di notte, e dagli orari vedono quanto hai dormito prima della prima minzione.[8] Sono calcoli, non verdetti: i valori si confrontano con la tua età, il tuo sonno e la tua storia clinica, e applicare le soglie tocca a loro.
+
+### 4. Cosa bevi, e quando
+
+Il lato delle bevande si legge più per l’andamento che per il totale: come sono distribuite nella giornata, cosa erano e com’è fatta la sera. I moduli degli ambulatori chiedono il tipo di bevanda per lo stesso motivo.[1] Il clinico guarda se quello che è entrato e quello che è uscito coincidono nel tempo; è una domanda sul tuo registro, non un giudizio sulle tue abitudini.
+
+### 5. Note: stimoli, perdite, assorbenti
+
+Dove il modulo ha colonne per stimolo, perdite e cambi di assorbente, si leggono come eventi con un’ora. Anche questi termini li definisce l’ICS: lo stimolo come un desiderio improvviso e impellente di urinare, difficile da rimandare, e l’incontinenza come qualsiasi perdita involontaria.[1,10] Una nota che dice «persa urina tossendo» o «stimolo forte tornando a casa» è esattamente la riga per cui esiste la seconda lettura.
+
+### Il controllo che viene prima: è completo?
+
+Prima di tutto quanto sopra, un clinico guarda quanto diario c’è: quante giornate sono piene da un risveglio all’altro, quante minzioni hanno un volume, quante sono spunte. Un diario con due giornate complete si legge; un diario con cinque giornate di righe sparse è una conversazione sul rifarlo. I clinici si appoggiano al diario proprio perché la memoria qui è pessima: in uno studio, metà delle donne interpellate sovrastimava quanto spesso andava di giorno rispetto al proprio diario.[9] Il nostro [modello](https://fluidbalanceapp.com/bladder-diary-template/) ha una riga «giorni annotati» sull’ultima pagina, e l’app conta i giorni annotati per lo stesso motivo.
+
+### Perché qui non troverai valori normali
+
+Due ragioni. Primo, non esiste un unico diario validato, e gli ambulatori usano moduli diversi, giornate di lunghezza diversa e definizioni di notte diverse;[11,12] un numero di un modulo non si trasferisce pulito a un altro. Secondo, e più importante: ogni valore di un diario si legge accanto alla persona — età, liquidi, farmaci, sonno, altre condizioni. Una frequenza banale in una persona è il reperto chiave in un’altra. Pubblicare una tabella di valori «normali» sarebbe invitarti a darti un voto con uno strumento che non è mai stato fatto per questo. Il diario è un registro. Leggerlo è la visita.
+
+### Portarlo
+
+Porta tutte le pagine, di’ quali giornate sono complete e, se hai usato un’app, stampa il referto o tienilo pronto sul telefono. [Come tenere un diario minzionale](https://fluidbalanceapp.com/blog/how-to-keep-a-bladder-diary/) copre il resto: cosa annotare, gli errori comuni e cosa fare delle giornate andate storte.
+
+### Domande
+
+**Posso capire da solo cosa dice il mio diario?**
+Non in modo affidabile, e questo articolo non dà soglie di proposito. Un clinico legge il diario accanto alla tua storia, a una visita e talvolta ad accertamenti; lo stesso numero di minzioni o lo stesso volume notturno può essere banale in una persona e il reperto chiave in un’altra. Tieni il registro completo e lascia che lo leggano.
+
+**Il medico legge davvero ogni riga?**
+Di solito parte dal riepilogo: minzioni di giorno e di notte, volumi massimi e abituali, urina notturna, assunzione e quante giornate sono complete. Poi va alle righe che saltano all’occhio: una perdita, una nota sullo stimolo, una sera con molto da bere. Ogni riga è lì per quel secondo sguardo.
+
+**E se il mio diario sembra brutto?**
+Non esiste un diario brutto, se non uno incompleto. È il registro di qualche giorno, non un esame che si passa o si fallisce, e i clinici si fidano di lui più di quello che le persone ricordano alla visita. Non ripulirlo; portalo com’è.
+
+### Fonti
+
+1. Abrams P, Cardozo L, Fall M, et al. The standardisation of terminology of lower urinary tract function: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):167–178. https://doi.org/10.1002/nau.10052
+2. Yap TL, Cromwell DC, Emberton M. A systematic review of the reliability of frequency-volume charts in urological research and its implications for the optimum chart duration. BJU Int. 2007;99(1):9–16. https://doi.org/10.1111/j.1464-410X.2006.06499.x
+3. European Association of Urology. EAU Guidelines on the Management of Non-neurogenic Male LUTS. Arnhem: EAU; 2026. Chapter 4, Diagnostic evaluation. https://uroweb.org/guidelines/management-of-non-neurogenic-male-luts/chapter/diagnostic-evaluation
+4. National Institute for Health and Care Excellence. Urinary incontinence and pelvic organ prolapse in women: management. NICE guideline NG123. London: NICE; 2019. https://www.nice.org.uk/guidance/ng123
+5. Cameron AP, Chung DE, Dielubanza EJ, et al. The AUA/SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder. J Urol. 2024;212(1):11–20. https://doi.org/10.1097/JU.0000000000003985
+6. van Kerrebroeck P, Abrams P, Chaikin D, et al. The standardisation of terminology in nocturia: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):179–183. https://doi.org/10.1002/nau.10053
+7. Hashim H, Blanker MH, Drake MJ, et al. International Continence Society (ICS) report on the terminology for nocturia and nocturnal lower urinary tract function. Neurourol Urodyn. 2019;38(2):499–508. https://doi.org/10.1002/nau.23917
+8. Epstein M, Blaivas J, Wein AJ, Weiss JP. Nocturia treatment outcomes: analysis of contributory frequency volume chart parameters. Neurourol Urodyn. 2018;37(1):186–191. https://doi.org/10.1002/nau.23272
+9. Stav K, Dwyer PL, Rosamilia A. Women overestimate daytime urinary frequency: the importance of the bladder diary. J Urol. 2009;181(5):2176–2180. https://doi.org/10.1016/j.juro.2009.01.042
+10. Haylen BT, de Ridder D, Freeman RM, et al. An International Urogynecological Association (IUGA)/International Continence Society (ICS) joint report on the terminology for female pelvic floor dysfunction. Neurourol Urodyn. 2010;29(1):4–20. https://doi.org/10.1002/nau.20798
+11. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+12. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+
+Questo articolo spiega come tenere un diario. È un’informazione generale di uno sviluppatore di app, non un parere medico: cosa significhi il tuo diario lo stabilisce il medico. Diario compilato da te. Non è un documento medico.
+
+---
+
+## Esempio di diario minzionale: una giornata intera, riga per riga
+Source: https://fluidbalanceapp.com/it/blog/bladder-diary-example/
+Published: 2026-09-28 · Guida · Di Denis Zinin, sviluppatore di Diario minzionale: Fluid Balance. Non è un medico.
+
+In breve:
+Qui sotto c’è un esempio di diario minzionale per una giornata intera, riga per riga: una quindicina di voci con ogni bevanda e la sua quantità, ogni minzione con un volume o una spunta per non misurato, gli orari di coricarsi e alzarsi, e una nota dove è successo qualcosa. La giornata è inventata, quindi i suoi totali non sono obiettivi. L’impostazione segue il diario della Urology Care Foundation e le schede NHS, i cui moduli mostrano solo una o due righe di esempio. Cosa vuole mostrare questa giornata:
+
+- Una giornata piena sono una quindicina di righe: ogni bevanda con la sua quantità, ogni minzione con un volume o una spunta, gli orari di coricarsi e alzarsi, e una nota dove è successo qualcosa.
+- L’esempio qui sotto è una giornata inventata. I suoi totali non sono obiettivi e qui non c’è nessuna norma con cui confrontarli.
+- Un clinico ci legge il numero di minzioni di giorno e di notte, i volumi, l’andamento delle bevande, le note e se la giornata è completa.
+
+I moduli degli ambulatori mostrano una o due righe di esempio: il diario della Urology Care Foundation ha una sola riga con una lattina di bibita e una perdita ridendo,[1] la scheda NHS del Gloucestershire mostra un mattino con una tazza di tè e una perdita,[2] la scheda di fisioterapia del Sussex tre righe del mattino con i totali.[3] Utile, ma la giornata di nessuno è lunga tre righe. Ecco una giornata intera inventata nel formato del nostro [modello da stampare](https://fluidbalanceapp.com/bladder-diary-template/), seguita da cosa dice ciascuna sua parte a un clinico. I numeri sono quelli di questo esempio e nient’altro; su questa pagina non c’è nessuna norma con cui confrontarli.
+
+### Com’è fatta una giornata intera di diario?
+
+Un esempio di diario minzionale compilato. Giorno 1 di 7. A letto alle 22:45. Alzato alle 7:00.
+
+| Ora | Bevuto (ml) | Cosa | Emesso (ml o ✓) | Notte | Nota |
+|---|---|---|---|---|---|
+| 7:05 | | | 350 | | la prima del mattino |
+| 7:20 | 250 | tè | | | |
+| 8:30 | 200 | caffè | | | |
+| 9:40 | | | ✓ | | di fretta, piccola perdita |
+| 11:00 | 500 | acqua | | | |
+| 11:45 | | | 220 | | |
+| 13:10 | 330 | succo | | | |
+| 13:30 | | | 180 | | stimolo forte |
+| 15:00 | 250 | tè | | | |
+| 16:20 | | | 260 | | |
+| 18:00 | 250 | acqua | | | |
+| 19:30 | 200 | birra | | | |
+| 20:15 | | | 300 | | |
+| 22:30 | | | 150 | | prima di andare a letto |
+| 3:10 | | | 180 | ✓ | |
+
+Quindici righe, una pagina. La giornata va dall’alzarsi all’alzarsi, quindi la minzione delle 3:10 appartiene al giorno 1 anche se la data è cambiata.
+
+### Riga per riga
+
+**7:05, 350 ml, «la prima del mattino».** La prima minzione dopo essersi alzati. Non è una minzione notturna, perché la notte del diario è finita alle 7:00, ma secondo la definizione ICS l’urina emessa allora si è formata durante la notte e si somma al volume notturno,[5] ecco perché si misura invece di spuntarla. Sulla carta è semplicemente la prima riga della giornata.
+
+**7:20 e 8:30, tè e caffè.** Bevande con quantità e tipo. La quantità viene dall’aver misurato la tazza una volta; il tipo c’è perché i moduli degli ambulatori lo chiedono.[1,2]
+
+**9:40, una spunta, «di fretta, piccola perdita».** Niente tempo per misurare, quindi una spunta al posto del volume, e la minzione conta comunque nel totale delle minzioni della giornata.[2] La nota registra la perdita con una grandezza approssimativa. Su un modulo con colonne per le perdite sarebbe una «piccola» o un «+»; su un diario semplice è una nota con la sua ora.
+
+**11:00, 500 ml d’acqua.** Una bottiglia, quindi la quantità è stampata sopra.
+
+**13:30, 180 ml, «stimolo forte».** Una minzione misurata con lo stimolo annotato: un bisogno improvviso e impellente di andare.[4] Scritto sul momento, in due parole, che è tutto ciò che serve.
+
+**19:30, 200 ml di birra.** L’alcol sul foglio è una bevanda come le altre: quantità, tipo, ora. Il diario deve mostrare una serata normale, non una ripulita.
+
+**22:30, 150 ml, «prima di andare a letto».** L’ultima minzione prima dell’orario di coricarsi scritto in cima alla pagina. È una minzione diurna; la notte comincia alle 22:45.
+
+**3:10, 180 ml, spuntata Notte.** Fra il coricarsi e l’alzarsi, quindi prende la spunta. È la riga che rende possibile il conteggio notturno; un diario senza orari di coricarsi e alzarsi non può distinguere questa minzione da quella delle 22:30.
+
+### A quanto arriva questa giornata
+
+Solo perché l’esempio lo permette: 1 980 ml bevuti in sette bevande; 1 640 ml emessi in sette minzioni misurate, più una minzione spuntata senza volume; otto minzioni in tutto, una di notte. Su un modulo di ambulatorio potrebbero chiederti di scrivere questi totali nella riga in fondo; nell’app compaiono sulla schermata di oggi e nel referto senza che nessuno faccia somme. Non sono obiettivi e non sono tipici di nessuno in particolare. Il loro unico compito qui è mostrare com’è fatta una giornata completa quando la si conta.
+
+### Cosa ci vede un clinico
+
+Otto minzioni con l’ora, una di notte, una non misurata. Sette volumi misurati, da 150 a 350 ml. Bevande distribuite dalle 7:20 alle 19:30 con i tipi annotati. Due note, una perdita con il suo innesco e uno stimolo. Orari di coricarsi e alzarsi, così la notte si separa dal giorno. E una giornata completa da un risveglio all’altro, che è la prima cosa che controllano, perché la memoria da sola sbaglia perfino il numero delle minzioni.[6] Cosa significhino quei fatti è la visita; il compito del diario era portarli.
+
+### La tua giornata sarà diversa
+
+Più righe o meno, altre bevande, altri orari. Quello che resta uguale è il formato: ogni bevanda, ogni minzione, un volume o una spunta, i due orari che incorniciano la notte, e una nota dove è successo qualcosa. [Come tenere un diario minzionale](https://fluidbalanceapp.com/blog/how-to-keep-a-bladder-diary/) spiega le abitudini che ci portano, e [come misurare l’urina a casa](https://fluidbalanceapp.com/blog/how-to-measure-urine-output-at-home/) parla del misurino.
+
+### Domande
+
+**Dove scrivo la prima minzione del mattino?**
+Come prima riga della nuova giornata, dopo l’orario in cui ti sei alzato, con il suo volume se l’hai misurato. Non è una minzione notturna, perché eri già in piedi, ma secondo la definizione ICS quell’urina si è formata durante la notte e si somma al volume notturno, quindi vale la pena misurarla. A smistare ci pensa il clinico.
+
+**Devo fare io i totali?**
+No. I moduli degli ambulatori lasciano una riga per i totali, e alcuni la chiedono, ma il clinico può sommare; la scheda NHS lo dice. Se usi l’app, totali, numero di minzioni e conteggio notturno si fanno da soli. Quello che non si può delegare sono le righe stesse.
+
+**E se la mia giornata ha venti righe?**
+Passa alla pagina successiva e vai avanti. Una giornata con molte righe è una giornata completa, l’unica che il clinico vuole; lasciare fuori righe perché ci stia è l’errore. Il nostro modello ha 24 righe per pagina in A4, e l’app non ha limiti.
+
+### Fonti
+
+1. Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025. https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf
+2. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+3. University Hospitals Sussex NHS Foundation Trust. Bladder record chart: pelvic health physiotherapy patient information. Reference 2198; 2023. https://www.uhsussex.nhs.uk/wp-content/uploads/2023/03/Bladder-Record-chart.pdf
+4. Abrams P, Cardozo L, Fall M, et al. The standardisation of terminology of lower urinary tract function: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):167–178. https://doi.org/10.1002/nau.10052
+5. van Kerrebroeck P, Abrams P, Chaikin D, et al. The standardisation of terminology in nocturia: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):179–183. https://doi.org/10.1002/nau.10053
+6. Stav K, Dwyer PL, Rosamilia A. Women overestimate daytime urinary frequency: the importance of the bladder diary. J Urol. 2009;181(5):2176–2180. https://doi.org/10.1016/j.juro.2009.01.042
+
+Questo articolo spiega come tenere un diario. È un’informazione generale di uno sviluppatore di app, non un parere medico: cosa significhi il tuo diario lo stabilisce il medico. Diario compilato da te. Non è un documento medico.
+
+---
+
+## Come misurare l’urina a casa per un diario minzionale
+Source: https://fluidbalanceapp.com/it/blog/how-to-measure-urine-output-at-home/
+Published: 2026-09-21 · Guida · Di Denis Zinin, sviluppatore di Diario minzionale: Fluid Balance. Non è un medico.
+
+In breve:
+L’urina per un diario minzionale si misura a casa in uno di tre modi: in un misurino di plastica graduato in millilitri, in una bacinella appoggiata sotto l’asse del water, oppure, quando nessuno dei due è possibile, tenendo l’ora e spuntando la minzione come non misurata. Gli ambulatori accettano tutti e tre. Quello che i moduli NHS e BAUS e il diario della Urology Care Foundation chiedono per prima cosa è ogni minzione con la sua ora; il volume viene dopo. I dettagli che rendono utilizzabili i numeri:
+
+- Misura in un misurino di plastica graduato in millilitri, oppure raccogli in una bacinella appoggiata sotto l’asse. Scrivi subito il numero.
+- Quando non puoi misurare, tieni l’ora e spunta la minzione come non misurata. Conta comunque per la frequenza e per il conteggio notturno.
+- Usa una sola unità per tutto il diario, misura una volta la tua tazza abituale per il lato bevande, e sciacqua misurino o bacinella dopo ogni uso.
+
+Ci sono tre modi per annotare quanto emetti per un diario minzionale: misurarlo in un misurino, raccoglierlo in una bacinella appoggiata sotto l’asse del water, oppure, quando nessuno dei due è possibile, tenere l’ora e spuntare la minzione come non misurata. Gli ambulatori accettano tutti e tre. Quello che serve loro è ogni minzione con la sua ora; il volume viene dopo.
+
+### Cosa chiede il diario
+
+La «minzione» in un diario è il volume di ogni andata in bagno, in millilitri o once liquide, scritto accanto all’ora. I volumi emessi e le loro ore sono il nucleo della scheda frequenza-volume come la definisce l’International Continence Society, e di ogni formato di diario studiato da allora.[1,2] I moduli degli ambulatori lo impostano in modo diverso: la scheda entrate/uscite BAUS ha una colonna USCITE per ogni ora,[3] il diario della Urology Care Foundation chiede «quanta urina?» a ogni minzione,[4] e il nostro [modello da stampare](https://fluidbalanceapp.com/bladder-diary-template/) ha una colonna Emesso con la dicitura «ml o ✓». Tutti accettano una spunta quando non hai potuto misurare. Nessuno chiede se i tuoi numeri siano normali; il tuo medico legge l’andamento, tu fornisci il registro. Come si incastra tutto il diario è spiegato in [come tenere un diario minzionale](https://fluidbalanceapp.com/blog/how-to-keep-a-bladder-diary/).
+
+### Modo 1: un misurino
+
+Va bene qualsiasi misurino di plastica graduato in millilitri.[5] BAUS ne suggerisce uno da almeno 500 ml;[3] si trovano in farmacia o nel reparto cucina del supermercato. Tienilo solo per il diario e tienilo vicino al water.
+
+Siediti sul water e tieni il misurino nella tazza. La scheda di fisioterapia del Sussex è precisa su questo: siediti davvero, non restare accovacciato sopra l’asse, perché da seduti il pavimento pelvico si rilassa e si svuota più completamente.[6] Gli uomini possono restare in piedi e usare direttamente il misurino.
+
+Appoggia il misurino su una superficie piana, leggi il livello all’altezza degli occhi, poi scrivi il numero prima di fare qualsiasi altra cosa. Arrotonda alla tacca più vicina; la scala non è più fine di così, e nemmeno il diario. Svuota e sciacqua il misurino con acqua.
+
+### Modo 2: una bacinella
+
+Una bacinella di raccolta è una vaschetta di plastica con il bordo largo che si appoggia sotto l’asse del water, con una scala stampata all’interno in millilitri e once liquide. Gli ambulatori spesso ne consegnano una insieme al diario.[4] Se il tuo non l’ha fatto, farmacie e negozi online le vendono come bacinella di raccolta urine.
+
+Mettila sotto l’asse verso la parte anteriore della tazza, siediti come al solito, poi leggi il livello, scrivilo, svuota la bacinella nel water e sciacquala.[4] Niente da reggere: per questo è la soluzione più comoda di notte e quando hai fretta.
+
+### Modo 3: quando non puoi misurare
+
+Al lavoro, in un negozio, nel cuore della notte mezzo addormentato: tieni l’ora e spunta la minzione. La scheda NHS e quella BAUS dicono esattamente questo, una spunta nella colonna urina;[3,5] il nostro modello ha un ✓ nella colonna Emesso; nell’app è il pulsante Non misurato. La minzione conta comunque per la frequenza e per il conteggio notturno. Semplicemente non si somma al totale dei volumi.
+
+Anche una stima è ammessa. Se hai misurato per un giorno o due e sai che aspetto ha una minzione abituale nel tuo misurino, scrivi la stima e segnala «circa». Nel dubbio, spunta.
+
+Quello che rovina il diario è una minzione che non viene scritta affatto. Una riga spuntata con la sua ora dice qualcosa al tuo medico; una riga vuota non dice niente.
+
+### Millilitri o once liquide: quale unità?
+
+Usa una sola unità per tutto il diario, quella stampata sul modulo del tuo ambulatorio. Se devi convertire:
+
+- 1 oncia liquida americana è circa 30 ml (29,6 ml esatti).
+- 1 cup, cioè 8 once liquide, è circa 240 ml.
+- 100 ml sono circa 3,4 once liquide; una bottiglia da 500 ml circa 17.
+
+Il nostro modello esiste in entrambe: fogli A4 in millilitri, fogli US Letter in once liquide. Nell’app l’unità è un’impostazione, e il referto usa quella che hai scelto.
+
+### Il lato delle bevande
+
+Misurare quello che bevi è più semplice: la quantità di solito è stampata sul contenitore. Formati comuni, gli stessi che il nostro modello e l’app usano come quantità pronte: una tazza 200–250 ml, un bicchiere 250 ml, una lattina 330 ml, una bottiglietta 500 ml. La Urology Care Foundation elenca gli equivalenti americani: una tazza da 8 oz, una lattina da 12 oz, una bottiglia da 20 oz.[4]
+
+Per la tua tazza, il tuo bicchiere o la tua bottiglia d’acqua, misurali una volta con il misurino e poi usa lo stesso contenitore nei giorni del diario. Lo suggeriscono sia BAUS sia la scheda del Sussex.[3,6] Scrivi anche il tipo di bevanda: tè, caffè, acqua, birra; gli ambulatori lo chiedono.[3,7]
+
+### Di notte
+
+Prima di andare a letto metti la bacinella al suo posto o lascia il misurino vicino al water, e lascia accesa una piccola luce. Prima l’ora, poi il volume: se alle tre di notte misurare non succede, spunta e torna a dormire.
+
+Scrivi quando sei andato a letto e quando ti sei alzato. BAUS chiede due righe che attraversano la colonna del giorno, la scheda NHS chiede BED e WOKE nella colonna delle ore,[3,5] e il nostro modello ha una casella per ciascuno in cima a ogni pagina. È così che si contano le minzioni notturne.
+
+### Dopo un intervento o con il catetere
+
+In reparto lo stesso registro si chiama scheda entrate e uscite o bilancio idrico, e lo compilano gli infermieri. Se torni a casa con un catetere, l’infermiere ti mostrerà come leggere e svuotare la sacca; la riga del diario resta la stessa, ora e quantità. Segui le loro indicazioni su cosa annotare e ogni quanto.
+
+### Tienilo pulito e semplice
+
+Usa il misurino o la bacinella solo per questo e per nient’altro. Sciacquali dopo ogni uso,[4] lavali con il sapone una volta al giorno, lavati le mani. Tienili dove li usi, non in un armadietto. E scrivi il numero nel momento in cui ce l’hai: un volume ricordato due ore dopo è una supposizione.
+
+### Domande
+
+**Posso stimare invece di misurare?**
+Quando non puoi misurare, sì: tieni l’ora e spunta la minzione oppure scrivi una stima con la nota «circa». Se hai un misurino, misura; i volumi misurati sono ciò che l’ambulatorio ha chiesto. Una stima o una spunta serve per le minzioni in cui il misurino non era possibile, non per tutte.
+
+**Devo misurare di notte?**
+Se puoi. Una bacinella lasciata sotto l’asse prima di andare a letto semplifica tutto: niente da reggere, niente da cercare al buio. Se non puoi, spunta la minzione e tieni l’ora. Le minzioni notturne si contano dall’ora, non dal volume, quindi scrivi anche quando sei andato a letto e quando ti sei alzato.
+
+**E fuori casa?**
+Tieni l’ora e spunta la minzione. Un misurino piccolo sta in borsa, ma nessuno si aspetta che te ne porti dietro uno; un bagno pubblico è una spunta del tutto legittima. L’errore è lasciare fuori la minzione, non lasciare fuori il volume.
+
+### Fonti
+
+1. Abrams P, Cardozo L, Fall M, et al. The standardisation of terminology of lower urinary tract function: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):167–178. https://doi.org/10.1002/nau.10052
+2. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+3. British Association of Urological Surgeons. Information from BAUS about assessing fluid intake & output. Patient leaflet F24/016. BAUS; 2024. https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Input%20output%20chart.pdf
+4. Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025. https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf
+5. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+6. University Hospitals Sussex NHS Foundation Trust. Bladder record chart: pelvic health physiotherapy patient information. Reference 2198; 2023. https://www.uhsussex.nhs.uk/wp-content/uploads/2023/03/Bladder-Record-chart.pdf
+7. European Association of Urology, Patient Information. I want to know about keeping a bladder diary. Uroweb. https://patients.uroweb.org/condition/urinary-incontinence/bladder-diary
+
+Questo articolo spiega come tenere un diario. È un’informazione generale di uno sviluppatore di app, non un parere medico: cosa significhi il tuo diario lo stabilisce il medico. Diario compilato da te. Non è un documento medico.
+
+---
+
+## Diario minzionale: quanti giorni? 3, 7 o 24 ore
+Source: https://fluidbalanceapp.com/it/blog/bladder-diary-how-many-days/
+Published: 2026-09-12 · Guida · Di Denis Zinin, sviluppatore di Diario minzionale: Fluid Balance. Non è un medico.
+
+Una premessa: non sono un medico. Faccio l’app Diario minzionale: Fluid Balance, e questa guida è il mio tentativo di mettere in un posto solo quello che le linee guida cliniche e i moduli degli ambulatori dicono su quanti giorni debba coprire un diario minzionale. Le fonti sono in fondo; le indicazioni del tuo medico vengono prima.
+
+In breve:
+Quanti giorni debba coprire un diario minzionale lo decide il clinico che l’ha chiesto: tre giorni interi è la risposta più comune, alcuni ambulatori ne chiedono sette, e 24 ore è il minimo che una scheda possa contenere. Lo standard di qualità NICE QS77 chiede almeno tre giorni, l’International Continence Society descrive diari da tre a sette giorni, e il modulo della Urology Care Foundation copre tre giorni che non devono essere consecutivi. Qualunque sia il numero, completo conta più di lungo:
+
+- Il numero che ti ha dato l’ambulatorio è quello che vale; qui sotto si spiega da dove vengono tre giorni, sette giorni e 24 ore.
+- I giorni non devono essere consecutivi, a meno che il tuo modulo non lo chieda, ma dovrebbero comprendere giornate diverse: una lavorativa e una di riposo.
+- Una giornata va da un risveglio all’altro. Un diario breve con ogni giornata completa vale più di uno lungo con i buchi.
+
+Tre giorni interi è la risposta più comune: un diario minzionale di 3 giorni. Alcuni ambulatori chiedono un diario di 7 giorni, e 24 ore è il minimo che una scheda possa coprire. Il numero che ti hanno dato è quello che vale; qui sotto si spiega da dove vengono quei numeri, così l’indicazione ha un senso invece di sembrare arbitraria. Una regola sta sopra tutte: un diario breve con ogni giornata completa vale più di uno lungo con i buchi.
+
+### Quanti giorni deve coprire un diario minzionale?
+
+| Chi | Per quanto | Note |
+|---|---|---|
+| NICE, standard di qualità sull’incontinenza urinaria femminile[1,2] | Almeno 3 giorni | Deve coprire le variazioni dell’attività abituale, come giorni lavorativi e di riposo |
+| International Continence Society[3] | Almeno 24 ore per una scheda frequenza-volume | Due o tre giorni, non necessariamente consecutivi, danno dati più utili |
+| Urology Care Foundation (AUA)[4] | Almeno 3 giorni | Tre giornate tipiche qualsiasi; non devono essere consecutive; una sola giornata può non dare un quadro veritiero |
+| Scheda entrate/uscite BAUS[5] | 3 giornate normali consecutive | Comprendendo giorni di lavoro o di riposo se del caso |
+| Scheda frequenza-volume NHS Gloucestershire[6] | 3 giorni | Un diario minzionale di tre giorni |
+| Il nostro modello e l’app | Fino a 7 giorni | Una riga «giorni annotati» perché il clinico veda quanto è completo |
+
+Enti diversi, un tema solo: tre giorni è il minimo quasi ovunque, e le giornate devono somigliare alla tua vita vera.
+
+### Perché tre
+
+Tre non è un numero tondo scelto per comodità. Una revisione sistematica delle schede frequenza-volume ha concluso che dalle prove non si potevano trarre raccomandazioni ferme sulla durata, ma che il consenso su schede di tre giorni o più era la politica più difendibile.[7] In due grandi studi sulla vescica iperattiva, i diari di tre giorni si sono rivelati efficaci quanto quelli di sette, e gli autori hanno osservato che un diario più breve può ridurre la tendenza a colmare i buchi a memoria.[8] Uno studio che ha assegnato a caso i pazienti a diari di due, tre o sette giorni ha trovato che la versione di sette aumentava il carico e ha raccomandato meno giorni.[9] E uno studio su pazienti con problemi vescicali di origine neurologica ha trovato tre giorni comparabili a sette per numero di minzioni, volume per minzione, stimolo e volume giornaliero, con gli episodi di perdita come unica misura in cui tre giorni apparivano al limite.[10]
+
+La stessa letteratura è onesta su un limite: non esiste un unico diario pienamente validato, e i formati cambiano da ambulatorio ad ambulatorio.[11] Per questo l’indicazione del tuo ambulatorio — tre giorni sul loro modulo, sette sul nostro — vince su qualsiasi cosa scritta qui.
+
+### Perché non una giornata sola
+
+Una giornata è un’istantanea, e più facilmente che no è una giornata strana: un viaggio lungo, una serata tardi, un giorno in cui hai bevuto meno del solito. La Urology Care Foundation lo dice chiaro: un diario di un giorno può non fornire informazioni sufficienti per un quadro veritiero.[4] Nello studio neurologico citato sopra, i dati del primo giorno si discostavano in modo significativo dalla media dei sette giorni per ogni misura.[10] Due o tre giorni smussano la cosa.
+
+### Quando sette giorni hanno senso
+
+Alcuni clinici chiedono una settimana. Una settimana contiene un fine settimana, quindi il diario copre entrambi i tipi di giornata senza che nessuno debba pianificarlo. Contiene anche sette notti, il che conta quando la domanda riguarda l’alzarsi di notte. Il prezzo è la fatica: sette giornate complete richiedono disciplina,[9] e una settimana con due giornate bianche vale meno di tre piene. Se ti chiedono sette giorni, il consiglio pratico è rendere facile annotare ogni giornata, tenere con sé il foglio o il telefono, e segnare onestamente quali giornate sono complete.
+
+### Diari minzionali di 24 ore
+
+Ventiquattro ore è il minimo che l’International Continence Society descrive per una scheda frequenza-volume.[3] Alcuni ambulatori usano una sola giornata come controllo rapido prima o dopo una terapia. Se è quello che ti hanno dato, trattala come una giornata completa: comincia al risveglio, annota tutto fino al risveglio della mattina dopo, e non lasciare righe vuote perché «è solo un giorno».
+
+### Le giornate devono essere consecutive?
+
+Di solito no. La Urology Care Foundation chiede tre giornate tipiche qualsiasi,[4] e l’International Continence Society osserva che due o tre giorni non devono essere consecutivi.[3] NICE va oltre e chiede che le giornate coprano attività diverse, lavorative e di riposo,[1,2] cosa più facile da organizzare quando puoi distribuirle. Alcuni moduli, fra cui quello BAUS, chiedono giorni consecutivi;[5] se è il caso del tuo, segui il modulo.
+
+### Una giornata va da un risveglio all’altro
+
+Comincia ogni giornata di diario quando ti alzi e vai avanti fino a quando ti alzi la mattina dopo.[4] La notte appartiene alla giornata in cui è iniziata. Scrivi quando sei andato a letto e quando ti sei alzato; è così che le minzioni notturne si separano da quelle diurne.
+
+### Se salti una giornata
+
+Non ricostruirla a memoria la sera. Lasciala segnata come incompleta e aggiungi invece un’altra giornata piena. Il nostro modello ha una riga apposta sull’ultima pagina, giorni annotati su sette, e l’app conta per te le giornate annotate; in entrambi i casi il clinico vede a colpo d’occhio con cosa ha a che fare. [Come tenere un diario minzionale](https://fluidbalanceapp.com/blog/how-to-keep-a-bladder-diary/) spiega cosa entra in ciascuna di quelle giornate.
+
+### Domande
+
+**Mi hanno chiesto sette giorni. Posso fermarmi a tre?**
+Fai quello che ti hanno chiesto; il clinico ha scelto sette per un motivo, spesso per vedere una settimana intera con il fine settimana, o più notti. Se sette giornate complete non sono realistiche, tre complete battono sette con i buchi, quindi dillo alla visita e mostra le giornate che hai finito.
+
+**Devo includere un fine settimana?**
+Sì, se puoi. NICE chiede diari che coprano giorni lavorativi e di riposo, e la Urology Care Foundation chiede giornate tipiche. Una giornata alla scrivania e una a casa di solito appaiono diverse in un diario, e il tuo medico vuole vederle entrambe.
+
+**Basta un diario di 24 ore?**
+È il minimo che l’International Continence Society descrive per una scheda frequenza-volume, e alcuni ambulatori lo usano come istantanea rapida. Una sola giornata ha più probabilità di essere atipica, perciò quasi tutti ne chiedono di più. Se ti hanno dato una scheda di 24 ore, falla correre da un risveglio all’altro e compila ogni riga.
+
+### Fonti
+
+1. National Institute for Health and Care Excellence. Urinary incontinence in women. Quality standard QS77, quality statement 2: bladder diaries and lifestyle changes. London: NICE; 2015. https://www.nice.org.uk/guidance/qs77/chapter/quality-statement-2-bladder-diaries-and-lifestyle-changes
+2. National Institute for Health and Care Excellence. Urinary incontinence and pelvic organ prolapse in women: management. NICE guideline NG123. London: NICE; 2019. https://www.nice.org.uk/guidance/ng123
+3. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+4. Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025. https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf
+5. British Association of Urological Surgeons. Information from BAUS about assessing fluid intake & output. Patient leaflet F24/016. BAUS; 2024. https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Input%20output%20chart.pdf
+6. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+7. Yap TL, Cromwell DC, Emberton M. A systematic review of the reliability of frequency-volume charts in urological research and its implications for the optimum chart duration. BJU Int. 2007;99(1):9–16. https://doi.org/10.1111/j.1464-410X.2006.06499.x
+8. Dmochowski RR, Sanders SW, Appell RA, Nitti VW, Davila GW. Bladder-health diaries: an assessment of 3-day vs 7-day entries. BJU Int. 2005;96(7):1049–1054. https://doi.org/10.1111/j.1464-410X.2005.05785.x
+9. Ku JH, Jeong IG, Lim DJ, Byun SS, Paick JS, Oh SJ. Voiding diary for the evaluation of urinary incontinence and lower urinary tract symptoms: prospective assessment of patient compliance and burden. Neurourol Urodyn. 2004;23(4):331–335. https://doi.org/10.1002/nau.20027
+10. Konstantinidis C, Kratiras Z, Samarinas M, Skriapas K. Optimal bladder diary duration for patients with suprapontine neurogenic lower urinary tract dysfunction. Int Braz J Urol. 2016;42(4):766–772. https://doi.org/10.1590/S1677-5538.IBJU.2015.0292
+11. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+
+Questo articolo spiega come tenere un diario. È un’informazione generale di uno sviluppatore di app, non un parere medico: cosa significhi il tuo diario lo stabilisce il medico. Diario compilato da te. Non è un documento medico.
+
+---
+
+## Come tenere un diario minzionale: cosa annotare, passo per passo
+Source: https://fluidbalanceapp.com/it/blog/how-to-keep-a-bladder-diary/
+Published: 2026-09-12 · Guida · Di Denis Zinin, sviluppatore di Diario minzionale: Fluid Balance. Non è un medico.
+
+Una premessa: non sono un medico. Faccio l’app Diario minzionale: Fluid Balance, e questa guida è il mio tentativo di mettere in un posto solo quello che le linee guida cliniche e i moduli degli ambulatori chiedono quando ti dicono di tenere un diario minzionale. Le fonti sono in fondo; le indicazioni del tuo medico vengono prima.
+
+In breve:
+Un diario minzionale si tiene annotando, mentre accadono, ogni bevanda e ogni andata in bagno con l’ora, per i tre-sette giorni che chiede un clinico. È il registro che le linee guida NICE, l’International Continence Society e la Urology Care Foundation chiedono quando si valutano frequenza, stimolo impellente, perdite o risvegli notturni. Su carta o in un’app, sono le stesse abitudini a renderlo utile:
+
+- Annota ogni bevanda e ogni andata in bagno con l’ora, mentre accadono, per i tre-sette giorni che ti hanno chiesto.
+- Misura l’urina con un misurino o una bacinella quando puoi. Quando non puoi, spunta la minzione e tieni l’ora: conta lo stesso.
+- Scrivi quando sei andato a letto e quando ti sei alzato, segna le minzioni notturne e porta tutte le pagine. Un diario breve ma completo vale più di uno lungo con dei buchi.
+
+Un diario minzionale è un registro scritto di quello che bevi, di quello che elimini e di quando, tenuto per qualche giorno perché il tuo medico veda l’andamento invece di affidarsi alla memoria, che sui numeri tende a sbagliare.[1] Tenerlo si riduce a quattro abitudini: scrivere subito l’ora, annotare ogni bevanda con la sua quantità, misurare l’urina quando si può e spuntare la minzione quando non si può, e segnare cosa è successo di notte.
+
+Il tuo urologo, il medico di base, un infermiere o un fisioterapista del pavimento pelvico potrebbe chiamarlo diario minzionale, scheda minzionale o diario frequenza-volume; l’International Continence Society definisce ciascuno di questi termini.[2,3] In ospedale lo stesso registro è il bilancio idrico. Le colonne sono quasi le stesse; il nome dipende da chi ti consegna il foglio.
+
+### A cosa serve un diario minzionale, e perché te l’hanno chiesto
+
+Il diario risponde a domande a cui una visita non può rispondere. Quante volte vai in un giorno e una notte interi? Quanto esce ogni volta? Che rapporto ha con quello che hai bevuto, e quando? Quante volte ti alzi di notte?
+
+L’International Continence Society definisce la scheda frequenza-volume come il registro dell’ora e del volume di ogni minzione per almeno 24 ore, e il diario minzionale come lo stesso registro più l’assunzione di liquidi, le perdite e l’uso di assorbenti.[2,3] Gli ambulatori ne chiedono uno prima della prima visita e lo riprendono per vedere se una terapia sta funzionando.[4] Cosa significhino i numeri lo decide il tuo medico. A te tocca un registro completo e onesto.
+
+### Cosa annotare in un diario minzionale
+
+Un diario minzionale ha cinque colonne: l’ora, cosa hai bevuto e quanto, quanto hai emesso (o una spunta per non misurato), se era notte, e una nota. Cinque colonne coprono quasi ogni modulo di ambulatorio.
+
+- **Ora.** Ogni bevanda e ogni minzione, scritte quando accadono. L’ora conta quanto la quantità: lo stesso volume alle tre del pomeriggio e alle tre di notte dice cose diverse a un clinico.
+- **Cosa hai bevuto, e quanto.** Il tipo e la quantità: 250 ml di tè, una lattina da 330 ml, una bottiglietta da 500 ml. Misura una volta la tua tazza, il tuo bicchiere e la tua bottiglia con un misurino e poi riusa i numeri.
+- **Quanto hai emesso.** In millilitri o once liquide, con un misurino o una bacinella appoggiata sotto l’asse del water. Se hai urinato ma non hai potuto misurare, metti una spunta e tieni l’ora. È esattamente quello che dice il modulo NHS.[5]
+- **Notte.** Scrivi quando sei andato a letto e quando ti sei alzato, e segna ogni minzione in mezzo.[5,6] Con gli orari di coricarsi e alzarsi sul foglio, il tuo medico può separare il giorno dalla notte.
+- **Note.** Uno stimolo forte, una perdita e all’incirca quanto, un cambio di assorbente, dolore, qualunque cosa insolita. Alcuni moduli hanno colonne a parte per stimolo e perdite; se il tuo ce le ha, usale.
+
+### Prima di iniziare
+
+1. **Procurati qualcosa per misurare.** Va bene qualsiasi misurino da cucina graduato in millilitri; la Urology Care Foundation suggerisce un misurino da cucina o una tazza di cui conosci la capacità.[7] Gli ambulatori spesso danno una bacinella. Tienila vicino al water e sciacquala dopo ogni uso.
+2. **Misura una volta i tuoi contenitori di tutti i giorni.** La tua tazza, il tuo bicchiere, la tua bottiglia d’acqua. Da lì in poi scrivi il numero, non una stima.
+3. **Scegli i giorni.** Quasi tutti gli ambulatori ne chiedono tre; alcuni sette, e la ricerca sulla durata di un diario va nella stessa direzione.[9] Lo standard di qualità NICE per le donne con incontinenza urinaria chiede almeno tre giorni che comprendano giorni lavorativi e di riposo,[4] e la Urology Care Foundation chiede tre giorni tipici che non devono essere consecutivi.[7] Se ti hanno detto un numero, vale quello.
+4. **Tieni il foglio dove lo userai.** Vicino al water, in tasca o sul telefono. Un diario che non hai con te non si può compilare.
+5. **Vai avanti come sempre.** Il diario deve mostrare giornate normali.[8] Non bere di meno perché venga più ordinato.
+
+### Una giornata compilata, riga per riga
+
+Ecco tre righe dall’esempio svolto sulla prima pagina del nostro [modello da stampare](https://fluidbalanceapp.com/bladder-diary-template/):
+
+(Image: Tre righe di esempio dal modello da stampare: 7:20, bevuti 250 ml di tè, emessi 320 ml; 9:40, una spunta per non misurato, con la nota «di fretta, piccola perdita»; 3:10, emessi 180 ml, segnata come notte)
+
+- **7:20.** Una tazza di tè, 250 ml, e la prima minzione del mattino, 320 ml, misurata con il misurino.
+- **9:40.** Una minzione di fretta: niente tempo per misurare, quindi una spunta al posto di un numero e una nota su una piccola perdita. La minzione conta lo stesso.
+- **3:10.** 180 ml nel cuore della notte. Prende una spunta nella colonna Notte perché è avvenuta tra il coricarsi e l’alzarsi.
+
+Tre righe, e un clinico vede già una minzione misurata, una non misurata che conta comunque e una minzione notturna con il suo volume. Una giornata intera ha più righe, ma ognuna è altrettanto semplice. Una giornata intera, tutte e quindici le righe, la percorriamo in [Esempio di diario minzionale: una giornata intera, riga per riga](https://fluidbalanceapp.com/blog/bladder-diary-example/).
+
+Oppure tieni lo stesso diario nell’[app Diario minzionale: Fluid Balance](https://fluidbalanceapp.com/): le stesse colonne, due tocchi per voce, sempre in tasca, e gratis.
+
+### Errori che rovinano un diario
+
+- **Compilarlo a memoria la sera.** Gli orari slittano e le minzioni piccole spariscono; perfino il numero di minzioni viene ricordato male.[1] Scrivi mentre accade.
+- **Saltare una minzione perché non hai potuto misurare.** Una minzione spuntata con la sua ora mostra comunque quanto spesso vai e quante volte ti sei alzato di notte. Una minzione mancante non mostra niente. Una stima è meglio di un buco.
+- **Lasciare fuori gli orari di coricarsi e alzarsi.** Senza di quelli le minzioni notturne non si possono contare.
+- **Fermarsi a metà.** Due giornate complete valgono più di quattro con i buchi. La completezza è la prima cosa che un clinico guarda.
+- **Cambiare le proprie abitudini per il diario.** Saltare il tè della sera per tre giorni nasconde esattamente l’andamento che il diario dovrebbe mostrare.
+
+### Portarlo alla visita
+
+Porta tutte le pagine, anche i giorni con i buchi, e di’ quali giornate sono complete.[7,8] Il nostro modello ha una riga apposta sull’ultima pagina: giorni annotati, su sette. Fotografa ogni pagina come copia prima di consegnarla.
+
+Se hai tenuto il diario in un’app, esporta il referto e stampalo, mandalo per e-mail all’ambulatorio o mostralo sul telefono. Alcuni clinici preferiscono la carta; una pagina stampata non è mai sbagliata.
+
+Se hai iniziato o sospeso un farmaco durante i giorni del diario, scrivilo nelle note. Non cambiare niente per il bene del diario.
+
+### Carta o app
+
+Un foglio di carta funziona, e gli ambulatori ci sono abituati. Un’app mette l’ora da sola, fa i totali e produce un referto alla fine. Se preferisci la carta, il [modello gratuito](https://fluidbalanceapp.com/bladder-diary-template/) ha le stesse colonne dell’app, in A4 e US Letter, a pagine intere o in libretti da piegare. Se preferisci il telefono, [Diario minzionale: Fluid Balance](https://fluidbalanceapp.com/) chiede due tocchi per voce e non commenta mai i tuoi numeri.
+
+### A chi viene chiesto di tenerlo
+
+Nicturia, vescica iperattiva, incontinenza, controllo dopo un’infezione urinaria, prostata ingrossata prima e dopo l’intervento, fisioterapia del pavimento pelvico, ripresa dopo un catetere. Il registro è lo stesso in ogni caso. Quello che il clinico ci cerca cambia, e quella parte è sua.
+
+### Domande
+
+**Bisogna misurare ogni volta?**
+No. Misura quando sei a casa e hai a portata di mano un misurino o un raccoglitore per il water; altrimenti segna la minzione e conserva l’ora. Una voce senza volume conta comunque per la frequenza e per le minzioni notturne. Costa cara la riga che non hai scritto, non il volume che non sei riuscito a misurare.
+
+**I giorni devono essere consecutivi?**
+Non per forza. La Urology Care Foundation chiede tre giornate normali, che non devono essere consecutive, e il NICE almeno tre giorni tra feriali e di riposo. Segui le indicazioni che ti hanno dato. Se non ne hai ricevute di precise, scegli giorni che riesci a completare, non giorni vicini sul calendario. Più in dettaglio: quanti giorni bastano (https://fluidbalanceapp.com/it/blog/bladder-diary-how-many-days/).
+
+**E se ho dimenticato di annotare qualcosa?**
+Scrivi quello di cui sei sicuro e lascia in bianco il resto. Non ricostruire la giornata a memoria: la memoria sbaglia su frequenza e volumi, ed è proprio per questo che si tiene il diario. Se manca un’intera giornata, aggiungi un giorno alla fine invece di contare quella con i buchi, e di’ alla visita quale giornata è rimasta incompleta.
+
+### Fonti
+
+1. Stav K, Dwyer PL, Rosamilia A. Women overestimate daytime urinary frequency: the importance of the bladder diary. J Urol. 2009;181(5):2176–2180. https://doi.org/10.1016/j.juro.2009.01.042
+2. Abrams P, Cardozo L, Fall M, et al. The standardisation of terminology of lower urinary tract function: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):167–178. https://doi.org/10.1002/nau.10052
+3. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+4. National Institute for Health and Care Excellence. Urinary incontinence in women. Quality standard QS77, quality statement 2: bladder diaries and lifestyle changes. London: NICE; 2015. https://www.nice.org.uk/guidance/qs77/chapter/quality-statement-2-bladder-diaries-and-lifestyle-changes
+5. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+6. European Association of Urology, Patient Information. I want to know about keeping a bladder diary. Uroweb. https://patients.uroweb.org/condition/urinary-incontinence/bladder-diary
+7. Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025. https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf
+8. British Association of Urological Surgeons. Information from BAUS about assessing fluid intake & output. Patient leaflet F24/016. BAUS; 2024. https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Input%20output%20chart.pdf
+9. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+
+Questo articolo spiega come tenere un diario. È un’informazione generale di uno sviluppatore di app, non un parere medico: cosa significhi il tuo diario lo stabilisce il medico. Diario compilato da te. Non è un documento medico.
+
+---
+
+## Diario minzionale: Fluid Balance 1.0 è su App Store
+Source: https://fluidbalanceapp.com/it/blog/fluid-balance-1-0/
+Published: 2026-08-29 · Aggiornamento · Di Denis Zinin, sviluppatore di Diario minzionale: Fluid Balance.
+
+Diario minzionale: Fluid Balance 1.0 è arrivato su App Store il 29 agosto 2026. È un diario minzionale per iPhone e Apple Watch: quello che bevi, quello che elimini e quando, tenuto per i tre-sette giorni che chiede un medico, con un referto PDF alla fine. L’app è gratuita; Pro è un acquisto una tantum.
+
+Questo post è il resoconto di cosa contiene la prima versione. Le versioni successive avranno i loro post, così c’è sempre un posto dove vedere cosa è cambiato e quando.
+
+### Cosa c’è nella 1.0
+
+**Annotare.** Tocca + Assunzione o + Minzione, poi una quantità: 100, 200, 250, 330 o 500 ml, oppure «Personalizzato» per un numero preciso. La voce viene salvata con l’ora. «Non misurato» registra un’andata in bagno senza volume; conta per la frequenza e per gli episodi notturni e resta fuori dai totali. Ogni voce si può modificare dopo: ora, tipo, volume e una nota.
+
+
+**Oggi.** ASSUNTO, EMESSO e BILANCIO in cima allo schermo, le voci della giornata sotto, e una riga di giorni recenti per spostarsi.
+
+
+**Statistiche.** Una griglia delle ultime cinque settimane che mostra quali giorni hanno un diario. Le analisi avanzate, parte di Pro, aggiungono cinque grafici: assunzione e minzione per giorno, volumi per ora, minzioni notturne nel tempo, la distribuzione dei volumi emessi e gli intervalli fra le minzioni. Il primo grafico è gratis.
+
+
+**Referto.** Un PDF per qualsiasi periodo, impaginato come si legge di solito un diario minzionale: totali giornalieri, ogni volume emesso con la sua ora, episodi notturni, giorni annotati e le medie che un clinico guarda. Stampalo, mandalo per e-mail o mostralo sul telefono. L’esportazione CSV di tutto lo storico è gratis.
+
+
+**Widget e Apple Watch.** Un widget per la schermata Home e uno per la schermata di blocco, con i totali del giorno e i due pulsanti. L’app per Apple Watch ha le stesse quantità e «Non misurato».
+
+
+**iCloud.** Le voci si sincronizzano fra i tuoi dispositivi attraverso il tuo database iCloud privato. Non c’è nessun account e nessun server nostro.
+
+**Promemoria.** Un promemoria quotidiano facoltativo per compilare il diario, disattivato di base. Il suo testo non dice mai di cosa si occupa l’app.
+
+**Elimina tutti i dati.** Un passaggio nelle impostazioni. Pulisce il dispositivo e, se iCloud è attivo, la tua copia su iCloud.
+
+**Lingue.** Inglese, tedesco, francese, spagnolo, italiano, portoghese (Brasile), russo, giapponese, coreano e cinese semplificato. Anche il referto PDF è tradotto; il CSV resta in inglese.
+
+### Gratis e Pro
+
+Annotare, la schermata di oggi, le statistiche, i widget, l’Apple Watch, iCloud e l’esportazione CSV sono gratis, finché usi l’app. Pro è un acquisto una tantum, non un abbonamento: aggiunge il referto PDF, la pagina delle analisi avanzate e un’icona scura. Niente interrompe una voce per proporti un acquisto.
+
+### Privacy
+
+L’etichetta privacy su App Store è «Nessun dato raccolto». L’app non ha analisi, né rapporti sugli arresti anomali, né pubblicità, né codice di terze parti. Le voci vivono sul tuo dispositivo e, se lo attivi, nel tuo iCloud. L’[informativa sulla privacy](https://fluidbalanceapp.com/privacy/) ha i dettagli.
+
+### Cosa non fa
+
+Non fa diagnosi, non confronta le tue voci con alcuna norma, non le interpreta e non ti ricorda di bere. Annota quello che le dici e ti restituisce il registro. Se i diari minzionali sono una novità per te, [come tenere un diario minzionale](https://fluidbalanceapp.com/blog/how-to-keep-a-bladder-diary/) spiega cosa annotare e perché.
+
+### Requisiti
+
+iPhone con iOS 18 o successivo. Apple Watch con watchOS 11 o successivo. Su iPad gira come app per iPhone. Categoria su App Store: Medicina. Dimensione del download: circa 11 MB.
+
+### Cronologia delle versioni
+
+| Versione | Data | Cosa è cambiato |
+|---|---|---|
+| 1.2 | 26 ottobre 2026 | Intensità dello stimolo, promemoria solo nei giorni senza voci, scheda «ieri», formato 12 o 24 ore, iPhone Duo, widget grande, quattro nuove lingue |
+| 1.0 | 29 agosto 2026 | Prima versione |
+
+Domande o richieste: nell’[assistenza](https://fluidbalanceapp.com/support/) ci sono le risposte alle più comuni e l’indirizzo a cui scrivere.
+
+---

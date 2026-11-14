@@ -1,0 +1,38 @@
+# 排尿日记: Fluid Balance
+
+> 排尿日记: Fluid Balance 是 iPhone 和 Apple Watch 上的免费应用。它把你喝进去多少、排出来多少记下来，适合医生要求的 3-7 天日记：这些记录会整理成一份 PDF 报告。无需账号，数据留在你的手机上。 免费与 Pro。记录、统计、小组件、Apple Watch、iCloud 和 CSV 导出都免费。Pro 增加 PDF 报告和高级分析，一次性购买，没有订阅。记录的时候不会弹出购买提示。
+
+不用注册，不填姓名，不填出生日期。打开应用就能开始。 这是 App Store 上的隐私标签，不是一句承诺。根本没有服务器可以发送。 可选的提醒只在没有记录的日子出现，而且从不说这个应用是干什么的。默认关闭。
+
+没有评分，没有正常值。只有你记下来的东西。 作者：排尿日记: Fluid Balance 的开发者 Denis Zinin。 不是医生。 由你自己填写的日记. 不是医疗文件.
+
+App Store: https://apps.apple.com/app/id6803224992 (category Medical; version 1.2.1, first released 2026-08-29; requires iOS 18.0 or later, watchOS 11.0 or later; App Store privacy label "Data Not Collected"). Languages: English, Deutsch, Français, Español, Italiano, Português (Brasil), Русский, 日本語, 한국어, 简体中文, 繁體中文, Polski, Svenska, Čeština. iPad: 完整的 iPad 版本正在开发中，很快就与你见面。
+
+## App
+
+- [iPhone 和 Apple Watch 上的排尿日记应用](https://fluidbalanceapp.com/zh-hans/): iPhone 和 Apple Watch 上的免费排尿日记应用：适合医生要求的 3-7 天日记，每条两次点按，导出 PDF 报告，数据留在你的手机上。
+- [帮助](https://fluidbalanceapp.com/zh-hans/support/): 排尿日记应用的常见问题：记什么、记几天、Apple Watch、导出 CSV 和 PDF、删除数据、Pro 与恢复购买。
+- [排尿日记：Fluid Balance 1.2 已上架 App Store](https://fluidbalanceapp.com/zh-hans/blog/fluid-balance-1-2/): 1.2 给排尿记录加上了尿意强度——五个等级，日记里、PDF 报告里和 CSV 里都有。还有只在没有记录的日子才来的提醒、通往昨天的近路，以及四种新语言。 Markdown: https://fluidbalanceapp.com/zh-hans/blog/fluid-balance-1-2.md
+- [排尿日记：Fluid Balance 1.0 已上架 App Store](https://fluidbalanceapp.com/zh-hans/blog/fluid-balance-1-0/): 第一个版本，2026 年 8 月 29 日：一款给 iPhone 和 Apple Watch 的排尿日记。每条两次点按，给医生的 PDF 报告，没有数据离开手机。 Markdown: https://fluidbalanceapp.com/zh-hans/blog/fluid-balance-1-0.md
+
+## Guides
+
+- [免费的排尿日记应用哪个好：装之前该看什么](https://fluidbalanceapp.com/zh-hans/blog/best-free-bladder-diary-app/): 一个免费的排尿日记应用在就诊那天还顶不顶用，装之前就定了：每次排尿都有尿量、夜间单独标出、能记三到七天、数据能导出来。 Markdown: https://fluidbalanceapp.com/zh-hans/blog/best-free-bladder-diary-app.md
+- [排尿日记和尿频尿量表有什么区别？](https://fluidbalanceapp.com/zh-hans/blog/bladder-diary-or-frequency-volume-chart/): 几乎同一张表，五个名字。按 ICS 的定义每个词指什么，你门诊用的是哪一个，以及为什么栏目比抬头更要紧。 Markdown: https://fluidbalanceapp.com/zh-hans/blog/bladder-diary-or-frequency-volume-chart.md
+- [纸上的排尿日记和应用：研究怎么说](https://fluidbalanceapp.com/zh-hans/blog/paper-bladder-diary-or-app/): 纸质和电子日记在坚持记录、记忆和准确性上的差别，一项分析指出应用缺了什么，以及怎样选才不会中途换来换去。 Markdown: https://fluidbalanceapp.com/zh-hans/blog/paper-bladder-diary-or-app.md
+- [膀胱过度活动症和漏尿的排尿日记：该记什么](https://fluidbalanceapp.com/zh-hans/blog/bladder-diary-for-overactive-bladder-and-leaks/): 尿急、漏尿、尿垫，以及当时你在做什么：门诊表格怎么问这些，怎样每次都用同一把尺子，以及在没有这些栏的日记里写在哪。 Markdown: https://fluidbalanceapp.com/zh-hans/blog/bladder-diary-for-overactive-bladder-and-leaks.md
+- [夜尿的排尿日记：夜里起来怎么记](https://fluidbalanceapp.com/zh-hans/blog/bladder-diary-for-nocturia/): 给夜尿用的排尿日记：夜从哪里开始、到哪里结束，早上第一次怎么算，以及记下什么，医生才能读出夜间的规律。 Markdown: https://fluidbalanceapp.com/zh-hans/blog/bladder-diary-for-nocturia.md
+- [排尿日记能看出什么：泌尿科医生读的是这些](https://fluidbalanceapp.com/zh-hans/blog/what-does-a-bladder-diary-show/): 医生在排尿日记里读什么：次数、每次尿量、夜间产生的尿、喝了什么，以及记录是否完整。不给正常值，也不替你下诊断。 Markdown: https://fluidbalanceapp.com/zh-hans/blog/what-does-a-bladder-diary-show.md
+- [排尿日记示例：完整一天，逐行解读](https://fluidbalanceapp.com/zh-hans/blog/bladder-diary-example/): 一份排尿日记里完整一天的示例：十五行，含饮水、排尿、一个「未测量」的勾和一次夜间排尿，以及每一行告诉医生什么。 Markdown: https://fluidbalanceapp.com/zh-hans/blog/bladder-diary-example.md
+- [在家怎么量尿量：为排尿日记](https://fluidbalanceapp.com/zh-hans/blog/how-to-measure-urine-output-at-home/): 量杯、接尿盆或估计：记录排出量的三种办法，没量成时怎么写，以及怎么把时间记对。 Markdown: https://fluidbalanceapp.com/zh-hans/blog/how-to-measure-urine-output-at-home.md
+- [排尿日记记几天？3 天、7 天还是 24 小时](https://fluidbalanceapp.com/zh-hans/blog/bladder-diary-how-many-days/): NICE、ICS 和门诊说明要求多少天，日子是否必须连着，以及为什么短而完整的日记胜过长而有缺口的。 Markdown: https://fluidbalanceapp.com/zh-hans/blog/bladder-diary-how-many-days.md
+- [怎么记排尿日记：该记些什么，一步一步来](https://fluidbalanceapp.com/zh-hans/blog/how-to-keep-a-bladder-diary/): 排尿日记记录什么、怎么填、一个填好的例子，以及看诊时带什么。作者是应用开发者，不是医生。 Markdown: https://fluidbalanceapp.com/zh-hans/blog/how-to-keep-a-bladder-diary.md
+- [排尿日记模板：免费打印 PDF（A4 与 Letter）](https://fluidbalanceapp.com/zh-hans/bladder-diary-template/): 免费的排尿日记模板 PDF：A4 用 ml，US Letter 用 oz，还有对折的小册子。七天，一天一页，附填写说明。
+- [博客](https://fluidbalanceapp.com/zh-hans/blog/): 看泌尿科之前会想到的问题，这里有简短实用的回答，还有应用的新功能。没有正常值，也没有诊断：只讲怎么把记录做好，以及医生拿它做什么。 RSS: https://fluidbalanceapp.com/zh-hans/blog/rss.xml.
+
+## Optional
+
+- [隐私政策](https://fluidbalanceapp.com/zh-hans/privacy/): Fluid Balance 不收集你的数据：没有服务器，没有账号，应用里也没有分析工具。本页说明这个网站统计了什么、怎么统计。
+- [使用条款](https://fluidbalanceapp.com/zh-hans/terms/): 排尿日记应用 Fluid Balance 的使用条款：这个应用是什么、许可、购买、你的数据、免责。
+- Full text of this site in one file: https://fluidbalanceapp.com/zh-hans/llms-full.txt
+- Other languages: [English](https://fluidbalanceapp.com/llms.txt), [Deutsch](https://fluidbalanceapp.com/de/llms.txt), [Français](https://fluidbalanceapp.com/fr/llms.txt), [Español](https://fluidbalanceapp.com/es/llms.txt), [Italiano](https://fluidbalanceapp.com/it/llms.txt), [Português (Brasil)](https://fluidbalanceapp.com/pt-br/llms.txt), [Русский](https://fluidbalanceapp.com/ru/llms.txt), [日本語](https://fluidbalanceapp.com/ja/llms.txt), [한국어](https://fluidbalanceapp.com/ko/llms.txt), [繁體中文](https://fluidbalanceapp.com/zh-hant/llms.txt), [Polski](https://fluidbalanceapp.com/pl/llms.txt), [Svenska](https://fluidbalanceapp.com/sv/llms.txt), [Čeština](https://fluidbalanceapp.com/cs/llms.txt)

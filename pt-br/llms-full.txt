@@ -1,0 +1,1082 @@
+# Diário miccional: Fluid Balance
+
+> Diário miccional: Fluid Balance é um app gratuito para iPhone e Apple Watch. Ele anota quanto você bebe e quanto elimina, e serve para o diário de 3–7 dias que o médico pediu: dos registros sai um relatório PDF. Sem conta, seus dados ficam no seu telefone. Grátis e Pro. Registrar, as estatísticas, os widgets, o Apple Watch, o iCloud e a exportação CSV são grátis. O Pro acrescenta o relatório PDF e as análises avançadas, compra única, sem assinatura. Nenhum convite de compra enquanto você registra.
+
+Sem cadastro, sem nome, sem data de nascimento. Abra o app e comece. É o que diz a etiqueta de privacidade da App Store, não é uma promessa. Não existe servidor para onde mandar nada. O lembrete opcional só chega nos dias sem registros e nunca diz para que serve o app. Desligado por padrão.
+
+Sem notas, sem valores de referência. Só o que você registrou. Por Denis Zinin, desenvolvedor do Diário miccional: Fluid Balance. Não é médico. Diário preenchido por você. Não é um documento médico.
+
+App Store: https://apps.apple.com/app/id6803224992 (category Medical; version 1.2.1, first released 2026-08-29; requires iOS 18.0 or later, watchOS 11.0 or later; App Store privacy label "Data Not Collected"). Languages: English, Deutsch, Français, Español, Italiano, Português (Brasil), Русский, 日本語, 한국어, 简体中文, 繁體中文, Polski, Svenska, Čeština. iPad: Uma versão completa para iPad está a caminho — em breve com você.
+
+---
+
+## App de diário miccional para iPhone e Apple Watch
+Source: https://fluidbalanceapp.com/pt-br/
+
+Diário miccional gratuito para iPhone e Apple Watch: o diário de 3–7 dias que o médico pediu, dois toques por registro, relatório PDF, tudo fica no celular.
+
+Mais fácil que manter um diário de papel.: Errou? Corrija o registro no lugar. Não precisa copiar o dia inteiro de novo. Totais do dia, médias e micções noturnas vão somando sozinhos. Sem contas no verso da folha, sem Notas, sem planilha. O celular você já tem com você. Dois toques, e o registro fica salvo com a hora.
+Toca. Toca. Pronto.: Toque em + Ingestão ou + Micção — Dois botões na parte de baixo da tela. Não há mais nada para escolher. Toque numa quantidade — 100, 200, 250, 330 ou 500 ml. Ou «Personalizado», quando você tem um número exato. Esse é o registro — Salvo com a hora. Sem formulários, sem contagem regressiva, sem confirmações. Não sabe a quantidade? Toque em Não medido — a hora conta do mesmo jeito. Se o seu médico quiser saber qual era a intensidade da vontade, ligue a intensidade da vontade e toque de 0 a 4 na mesma folha. Mude a hora ou acrescente uma nota quando precisar. Funciona também pelo widget da tela de início e pelo Apple Watch.
+Um relatório que serve para o seu médico.: Totais, médias e micções noturnas, já calculados e dispostos como um urologista lê um diário miccional. Grátis e Pro. Registrar, as estatísticas, os widgets, o Apple Watch, o iCloud e a exportação CSV são grátis. O Pro acrescenta o relatório PDF e as análises avançadas, compra única, sem assinatura. Nenhum convite de compra enquanto você registra.
+Suas semanas num relance.: As últimas cinco semanas em uma grade: dias com diário, dias sem. Toque num dia para abri-lo. Sem notas, sem valores de referência. Só o que você registrou.
+Um diário, todas as telas.: Widget da tela de início — Ingestão, micção e balanço num relance, e dois botões para registrar. Apple Watch — Anote direto do relógio: as mesmas quantidades e «Não medido», sem tirar o telefone do bolso. Widget da tela bloqueada — Os totais do dia sob o relógio, sem desbloquear o celular. iPad — Uma versão completa para iPad está a caminho — em breve com você.
+Mantido para noctúria, bexiga hiperativa, incontinência, acompanhamento de cistite, próstata — antes e depois de uma cirurgia, e por qualquer pessoa a quem pediram para manter um diário miccional (https://fluidbalanceapp.com/pt-br/blog/how-to-keep-a-bladder-diary/).
+
+---
+
+## Ajuda do Diário miccional: Fluid Balance
+Source: https://fluidbalanceapp.com/pt-br/support/
+
+### Para começar
+
+**É gratuito?**
+Sim, o app é gratuito. Registrar, o resumo do dia, a grade de estatísticas, os widgets, o Apple Watch, o iCloud e a exportação CSV continuam grátis enquanto você usar. O Pro é uma compra única opcional que acrescenta o relatório PDF e os gráficos avançados. Não há assinatura, e nada interrompe um registro para pedir que você compre.
+
+**Preciso de conta?**
+Não. Sem cadastro, sem nome, sem data de nascimento. Abra o app e comece.
+
+**Não me dou bem com apps. Vou conseguir?**
+Dois botões e uma lista de quantidades. Não há nada para configurar.
+
+**O que eu anoto?**
+A hora, o que você bebeu e quanto, quanto você eliminou ou uma marca de «Não medido», se foi uma micção noturna, e uma nota se algo aconteceu. Há um guia mais longo com um exemplo: como manter um diário miccional (https://fluidbalanceapp.com/pt-br/blog/how-to-keep-a-bladder-diary/).
+
+**Por quantos dias devo manter?**
+Por quantos pediram a você. A maioria dos serviços quer de três a sete dias completos, e um diário curto e completo vale mais que um longo com falhas. De onde vêm esses números: quantos dias bastam (https://fluidbalanceapp.com/pt-br/blog/bladder-diary-how-many-days/).
+
+**Funciona no Apple Watch? Em qual iPhone?**
+Apple Watch: as mesmas quantidades e «Não medido», com INGERIDO, ELIMINADO e BALANÇO do dia. iPhone com iOS 18 ou mais recente, iPhone Duo incluído — na tela larga o diário tem um layout próprio. No iPad o app roda por enquanto como app de iPhone; o suporte completo chega numa atualização.
+
+**Em quais idiomas?**
+Inglês, alemão, francês, espanhol, italiano, português (Brasil), russo, japonês, coreano, chinês simplificado, chinês tradicional, polonês, sueco e tcheco — 14 ao todo. O relatório PDF também é traduzido; o CSV continua em inglês.
+
+### Registrar
+
+**Não sei o volume exato. O que eu ponho?**
+Uma estimativa. Um registro que falta é pior que um impreciso, e nada no app marca seus dados como pouco confiáveis. Se você não mediu nada, use «Não medido»: o registro conta para a frequência e para os eventos noturnos e fica de fora dos totais de volume.O copo medidor, o coletor no vaso e as estimativas: como medir a urina em casa (https://fluidbalanceapp.com/pt-br/blog/how-to-measure-urine-output-at-home/).
+
+**Posso mudar a hora ou acrescentar uma nota?**
+Pode. Abra o registro e mude a hora, o tipo ou o volume, ou acrescente uma nota.
+
+**Posso anotar a vontade ou as perdas?**
+A vontade, sim. Ligue a intensidade da vontade nos ajustes e cada micção poderá ser avaliada de 0 a 4; isso aparece no diário, num gráfico, no relatório PDF e no CSV. Vem desligada, então um registro continua sendo dois toques enquanto você não quiser mais. As perdas não têm campo próprio — escreva na nota do registro.O que pôr na nota e como as fichas dos serviços pontuam vontade e perdas: diário miccional para bexiga hiperativa e perdas (https://fluidbalanceapp.com/pt-br/blog/bladder-diary-for-overactive-bladder-and-leaks/).
+
+**O app me lembra de beber?**
+Não. Existe um lembrete opcional para preencher o diário — desligado por padrão, você escolhe a hora. Ele só chega nos dias sem registros e pausa depois de uma semana sem nenhum. O texto dele nunca diz do que o app trata, então não revela nada na tela bloqueada.
+
+**Dá para ver ainda o dia de ontem?**
+Dá. Enquanto hoje estiver vazio, um cartão na tela de hoje mostra ontem; um toque abre o dia.
+
+**Posso usar o formato de 24 horas?**
+Pode, 12 ou 24 horas, como preferir. O ajuste fica nos ajustes.
+
+**Vou ser convidado a comprar o Pro a cada registro?**
+Nunca. Você só vê o Pro ao abrir o relatório ou os gráficos avançados.
+
+### O relatório e seus dados
+
+**Como tiro meus números de lá?**
+Pela exportação CSV, nos ajustes, de todo o histórico e sem restrição. O relatório PDF (Pro) é disposto como um diário miccional costuma ser lido.
+
+**Posso imprimir ou enviar o relatório?**
+Pode. O PDF pode ser impresso, compartilhado, enviado por e-mail ou mostrado no celular.
+
+**Onde ficam meus dados? E se o celular quebrar?**
+No seu aparelho e, se você ligar o iCloud, no seu próprio banco privado do iCloud. Não há servidor nem conta. Exporte um CSV quando quiser como cópia sua. Veja a política de privacidade (https://fluidbalanceapp.com/pt-br/privacy/).
+
+**Como apago tudo?**
+Ajustes, «Apagar todos os dados». Um passo, uma confirmação. Limpa o aparelho e, se estiver ligada, sua cópia no iCloud.
+
+**O app pode me dizer se meus números são normais?**
+Não, e nunca vai dizer. Ele anota o que você conta e mostra os totais. Sem metas, sem valores de referência, sem avisos, sem conselhos. A interpretação é do seu médico.O que um profissional lê no diário: o que um diário miccional mostra (https://fluidbalanceapp.com/pt-br/blog/what-does-a-bladder-diary-show/).
+
+### Pro
+
+**O que exatamente vem no Pro?**
+O relatório PDF, a página de análises avançadas (o primeiro gráfico semanal é grátis) e o ícone escuro. Compra única, nada se renova.
+
+**Comprei o Pro e ele não aparece no meu outro aparelho.**
+Use «Restaurar compras» nos ajustes, com a mesma conta Apple.
+
+Contact: denacidapp@gmail.com
+
+---
+
+## Modelo de diário miccional: PDF grátis para imprimir (A4 e Letter)
+Source: https://fluidbalanceapp.com/pt-br/bladder-diary-template/
+
+Modelo de diário miccional gratuito em PDF: A4 em ml, US Letter em oz e cadernos para dobrar. Sete dias, uma página por dia, com instruções.
+
+Downloads: https://fluidbalanceapp.com/downloads/bladder-diary-a4.pdf (A4, ml), https://fluidbalanceapp.com/downloads/bladder-diary-letter.pdf (US Letter, oz), https://fluidbalanceapp.com/downloads/bladder-diary-a5.pdf (A5 booklet, ml), https://fluidbalanceapp.com/downloads/bladder-diary-letter-half.pdf (half-Letter booklet, oz). As folhas estão em inglês — as colunas são as mesmas.
+O que tem na folha: Sete dias, uma página por dia. Colunas: hora · o que você bebeu · o que você eliminou · noite · nota. No alto de cada página, o número do dia, a data e os horários de deitar e levantar; na última página, uma linha para dias registrados ▢ de 7 — a primeira coisa que um médico olha. A primeira página explica como preencher, com um exemplo. Nos serviços a mesma folha é chamada de diário miccional, ficha de micções ou gráfico de frequência e volume; um diário de 3 dias são simplesmente as três primeiras páginas. As colunas são as que eles esperam.
+Como preencher: 1. Anote a hora na mesma hora — Não no fim do dia. A hora de cada registro conta tanto quanto a quantidade. 2. Bebidas: use a quantidade da xícara ou da garrafa — Uma xícara tem cerca de 200–250 ml, um copo 250, uma lata 330, uma garrafinha 500. 3. Urina: meça se der, estime se não der — Um copo medidor ou um coletor apoiado no vaso resolve. Se você não mediu nada, marque «não medido» — o registro conta do mesmo jeito.Mais detalhes: como medir a urina em casa (https://fluidbalanceapp.com/pt-br/blog/how-to-measure-urine-output-at-home/). 4. Marque os registros da noite — Tudo o que acontece entre deitar e levantar de manhã.
+Três dias ou sete?: A maioria das diretrizes pede um diário de 3 dias com dias completos; alguns médicos pedem sete. Completo vale mais que longo — siga o que pediram a você. Por que três, e quando sete fazem sentido (https://fluidbalanceapp.com/pt-br/blog/bladder-diary-how-many-days/).
+Em que se baseia: O layout segue os diários que os serviços de urologia já usam, para o seu médico achar cada coisa onde espera: Gráfico de frequência e volume, Gloucestershire Hospitals NHS Foundation Trust (https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf) — o ✓ para uma micção sem medida, os horários de deitar e levantar, um exemplo preenchido. Bladder Diary, Urology Care Foundation (American Urological Association) (https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf) — linhas livres em vez de uma grade fixa por hora, tamanhos de recipiente como referência e dias que não precisam ser seguidos. International Continence Society, terminologia do diário miccional (https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary) — o que um diário miccional registra e os horários de deitar e levantar para contar as micções noturnas. Padrão de qualidade NICE QS77 (https://www.nice.org.uk/guidance/qs77/chapter/quality-statement-2-bladder-diaries-and-lifestyle-changes) — um diário de pelo menos três dias. As colunas correspondem às do app {appName}, então um diário de papel e o app se leem do mesmo jeito. Organizado pelo desenvolvedor do app, não por um profissional de saúde. Se o seu serviço deu uma ficha própria, use a dele.
+
+---
+
+## Melhor diário miccional grátis: o que olhar antes de instalar
+Source: https://fluidbalanceapp.com/pt-br/blog/best-free-bladder-diary-app/
+Published: 2026-11-13 · Guia · Por Denis Zinin, desenvolvedor do Diário miccional: Fluid Balance. Não é médico.
+
+Em resumo:
+O melhor diário miccional grátis é aquele que no dia da consulta ainda responde ao que pediram, e quase tudo isso se resolve antes de instalar:
+
+- A palavra grátis cobre quatro acordos diferentes: grátis de verdade, grátis com publicidade, um teste que acaba e registrar de graça com o relatório ou a exportação atrás de um pagamento. A página na App Store diz qual é antes de você baixar.
+- Um diário sem o volume de cada micção não é o que a consulta pediu. As diretrizes pedem a hora e o volume de cada micção por pelo menos três dias.
+- Abra a exportação no primeiro dia, não na véspera da consulta. Uma análise de apps de diário miccional de 2026 achou que a maioria não tinha itens clínicos e protegia mal os dados de saúde.
+
+Ninguém pode dizer qual app grátis de diário miccional é o melhor para você, e neste canto da App Store a maior parte das listas de melhores é publicada por apps que aparecem nelas. O que dá para resolver antes de instalar é outra coisa: se o app ainda vai ajudar no dia em que você entregar o diário ao médico. Isso depende do que ele registra, de quantos dias ele aguenta, do que acontece com os seus registros e de você conseguir tirar o diário de lá no fim. Nós fazemos um desses apps, então leia as duas últimas seções sabendo disso. As checagens anteriores valem para qualquer app, inclusive o nosso.
+
+### O que significa grátis num app de diário miccional?
+
+Quatro acordos diferentes usam a mesma palavra, e a página na App Store mostra qual deles é antes de qualquer download.
+
+Alguns apps são grátis de verdade: não há o que pagar nem o que desbloquear. Outros são grátis porque a publicidade paga por eles, inclusive às três da manhã, no banheiro, no meio de um registro. Outros dão um teste de uma ou duas semanas e depois param de registrar ou travam o que você já anotou, bem no meio dos dias seguidos que pediram. O mais comum é o quarto: registrar de graça e pagar para tirar o diário. Anotar não custa nada, e o relatório, a exportação ou os gráficos ficam atrás de uma compra.
+
+Duas linhas da página na App Store resolvem a dúvida: a lista de Compras no app, que diz o que é vendido e se renova, e a privacidade do app. Um diário costuma durar poucos dias, então uma assinatura e uma compra única não são o mesmo negócio.
+
+### O que o diário precisa registrar
+
+A ficha do serviço tem uma coluna para quanto você urinou, em mililitros, e é justamente a coluna que um app deixa de fora com mais facilidade.
+
+A Associação Europeia de Urologia separa dois documentos na diretriz sobre sintomas do trato urinário inferior no homem. Uma ficha de frequência e volume registra a hora e o volume de cada micção; um diário miccional acrescenta os líquidos ingeridos, os absorventes, as atividades e as pontuações de sintomas, e a diretriz pede pelo menos três dias disso.[1] A International Continence Society descreve o diário do mesmo jeito: volumes urinados com a hora, mais episódios de perda, absorventes e líquidos.[2] Uma revisão das evidências sobre conteúdo, formato e duração dos diários chega ao mesmo ponto: para que serve o diário determina o que ele precisa conter.[3]
+
+Um app que conta toques dá um número de micções. Essa é uma linha da ficha que pediram, e os volumes medidos são exatamente a parte que ninguém reconstrói depois. Então a primeira coisa a procurar nas capturas de tela é um campo numérico de volume, em mililitros ou onças, e um jeito de registrar uma micção que você não conseguiu medir. Sem o segundo, as pessoas pulam o registro inteiro, e um registro que falta é pior do que um aproximado.
+
+### Sete checagens antes de instalar
+
+- Um volume em cada micção, em mililitros ou onças, com um jeito de marcar a que não foi medida.
+- A hora colocada sozinha e editável quando você registra meia hora depois.
+- As noites separadas dos dias: uma marca de noite, ou os horários de deitar e levantar.
+- De três a sete dias num mesmo diário, porque é essa a faixa que os serviços pedem. A pesquisa que compara diários de três e de sete dias achou que o mais curto dá medidas comparáveis e é preenchido melhor.[4]
+- Um lugar para a vontade, as perdas e os absorventes: campos ou pelo menos uma nota.
+- Uma exportação que o profissional consiga ler: uma página para imprimir ou um PDF, não uma captura de gráfico.
+- A privacidade do app, e se é preciso uma conta antes mesmo de o app registrar alguma coisa.
+
+Essas sete levam cerca de dois minutos na página da App Store, e nenhuma delas é o critério pelo qual as listas de melhores são ordenadas.
+
+### O que o grátis custa depois
+
+A falha comum chega no último dia: três dias registrados e o relatório atrás de um pagamento que você não esperava, ou registros que não saem do app em nenhuma forma que o profissional consiga ler.
+
+Uma análise de apps eletrônicos de diário miccional de 2026 achou que a maioria não tinha itens clínicos importantes, que nenhum profissional participou do projeto deles e que protegiam mal os dados de saúde; os autores concluem que os apps ainda não alcançam os diários de papel validados.[5]
+
+A checagem não custa nada. No primeiro dia, enquanto não há nada a perder, abra a tela de exportação ou de relatório e veja o que acontece. Se pedir dinheiro, você ainda pode escolher outro app e não tem registros para mudar de lugar.
+
+### Um app grátis basta para a consulta?
+
+Sim, se guardar a hora e o volume de cada micção, mantiver as noites à parte, cobrir os dias que pediram e entregar o resultado numa forma legível. O diário é pedido porque é um registro do que aconteceu, e não do que você lembra,[6] e um app grátis com todas as micções anotadas ganha de um pago com buracos na segunda noite.
+
+Nenhum app deveria interpretar o resultado. Seus números significam algo ao lado da sua história, e essa leitura é do seu médico.
+
+### O que é grátis no Fluid Balance e o que o Pro acrescenta
+
+Grátis enquanto você usar o app: registrar líquidos e micções em dois toques, com atalhos prontos e a opção de anotar uma micção sem volume medido, a intensidade opcional da vontade de 0 a 4, o resumo do dia, a grade de estatísticas, os widgets da Tela de Início e da Tela Bloqueada, o app para Apple Watch, a sincronização pelo iCloud sem conta, a exportação CSV e a hora em 12 ou 24 horas. Na privacidade do app está escrito Dados não coletados: sem conta, sem servidor, sem analytics dentro do app.
+
+O Pro é uma compra única, não uma assinatura: acrescenta o relatório PDF para o médico, a página de análises avançadas (o primeiro gráfico semanal é grátis) e um ícone escuro. Nada interrompe um registro para pedir que você compre. Tudo isso aparece já na primeira abertura, e como o app é tela por tela está na [página dele](https://fluidbalanceapp.com/).
+
+### Se você preferir não instalar nada
+
+O [modelo para imprimir gratuito](https://fluidbalanceapp.com/bladder-diary-template/) tem as mesmas colunas: A4 em mililitros, US Letter em onças, cadernos dobrados ao meio, uma página por dia com as instruções na própria folha. O profissional lê exatamente como lê o relatório do app, e é para isso que os dois são mantidos iguais.
+
+De um jeito ou de outro, o melhor diário miccional grátis é aquele em que no terceiro dia está anotada cada micção e de onde sai um relatório que você pode imprimir.
+
+### Perguntas
+
+**Existe um diário miccional totalmente grátis?**
+Vários apps deixam registrar sem pagar nada. O que costuma ser pago é a parte de que você precisa no fim: o relatório para imprimir, a exportação ou os gráficos. Isso é justo desde que você saiba no primeiro dia, então procure a linha Compras no app na página da App Store e abra a tela de preços do próprio app antes de ter três dias de registros lá dentro.
+
+**Como sei o que um app grátis faz com meus registros?**
+Três lugares, todos lidos em um minuto: a privacidade do app na página da App Store, que diz Dados não coletados ou lista o que é vinculado a você; se o app exige uma conta antes de registrar qualquer coisa; e a política de privacidade. Uma análise de apps de diário miccional de 2026 achou que a maioria protegia mal os dados de saúde.
+
+**O urologista aceita um diário feito em app?**
+Em geral sim, se mostrar o mesmo que a ficha do serviço: a hora e o volume de cada micção, o que você bebeu, as noites separadas dos dias e os dias que pediram. Leve impresso ou em PDF, porque alguns profissionais preferem papel na mesa. Se o serviço deu a ficha dele, com as escalas dele, preencha essa ficha.
+
+### Fontes
+
+1. European Association of Urology. EAU Guidelines on the Management of Non-neurogenic Male LUTS. Arnhem: EAU; 2026. Chapter 4, Diagnostic evaluation. https://uroweb.org/guidelines/management-of-non-neurogenic-male-luts/chapter/diagnostic-evaluation
+2. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+3. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+4. Dmochowski RR, Sanders SW, Appell RA, Nitti VW, Davila GW. Bladder-health diaries: an assessment of 3-day vs 7-day entries. BJU Int. 2005;96(7):1049–1054. https://doi.org/10.1111/j.1464-410X.2005.05785.x
+5. Matthews C, Stothers L, Burke C, Petersen K, Macnab A. A framework analysis of electronic bladder diary apps: suitability for clinical decision-making and comparison to validated paper diaries. Neurourol Urodyn. 2026. https://doi.org/10.1002/nau.70410
+6. National Institute for Health and Care Excellence. Urinary incontinence in women. Quality standard QS77, quality statement 2: bladder diaries and lifestyle changes. London: NICE; 2015. https://www.nice.org.uk/guidance/qs77/chapter/quality-statement-2-bladder-diaries-and-lifestyle-changes
+
+Este artigo explica como manter um diário. É informação geral de um desenvolvedor de apps, não é conselho médico: o que o seu diário significa quem diz é o seu médico. Diário preenchido por você. Não é um documento médico.
+
+---
+
+## Diário miccional ou ficha de frequência e volume: a diferença
+Source: https://fluidbalanceapp.com/pt-br/blog/bladder-diary-or-frequency-volume-chart/
+Published: 2026-11-02 · Guia · Por Denis Zinin, desenvolvedor do Diário miccional: Fluid Balance. Não é médico.
+
+Em resumo:
+Um diário miccional, um diário de micções e uma ficha de frequência e volume são, para quem preenche, a mesma folha. Pelas definições da International Continence Society, uma ficha de frequência e volume registra o horário e o volume de cada ida, um diário miccional acrescenta bebidas, perdas e absorventes, e um registro de horários miccionais anota só os horários; voiding diary, urinary diary, bladder chart e ficha de entradas e saídas são a mesma coisa com outros nomes. A folha que lhe deram é a que se usa:
+
+- Uma ficha de frequência e volume registra o horário e o volume de cada ida. Um diário miccional é o mesmo mais bebidas, perdas e absorventes. Um registro de horários anota só os horários.
+- Voiding diary, urinary diary, bladder chart e ficha de entradas e saídas são a mesma coisa com outros nomes. A folha que lhe deram é a que se usa.
+- Seja qual for o título, o que importa são as colunas: horário, bebida, volume eliminado, noite e uma nota.
+
+Disseram para você manter um diário miccional. O folheto fala em ficha de frequência e volume. O site que você achou diz voiding diary, e a enfermeira na enfermaria chamou de ficha de entradas e saídas. Para o que lhe interessa, é a mesma folha. As diferenças que de fato existem são pequenas e bem definidas, e estão explicadas abaixo, para você parar de se preocupar com o título e cuidar das colunas.
+
+### A versão curta
+
+| Termo | O que registra | Quem costuma dizer |
+|---|---|---|
+| Registro de horários miccionais | Só o horário de cada ida, de dia e de noite | Pesquisa, alguns serviços |
+| Ficha de frequência e volume (frequency–volume chart) | Horário e volume de cada ida | Urologia britânica, fichas do NHS, BAUS |
+| Diário miccional | Horários e volumes mais bebidas, perdas, absorventes, vontade | Diretrizes nacionais e internacionais, NICE |
+| Voiding diary, urinary diary, micturition diary | O mesmo que o diário miccional | Serviços e literatura dos Estados Unidos |
+| Bladder record chart, bladder chart | O mesmo que o diário miccional | Serviços de fisioterapia |
+| Ficha de entradas e saídas, balanço hídrico | Bebidas e urina em 24 horas; no hospital também soro e outras perdas | Enfermaria e enfermagem; a BAUS usa o nome para a sua ficha de frequência e volume |
+
+### Qual é a diferença entre um diário miccional e uma ficha de frequência e volume?
+
+A International Continence Society, que fixa a terminologia usada pelos urologistas, descreve três níveis de registro.[1,3] Um registro de horários miccionais anota só os horários das idas, de dia e de noite, por pelo menos 24 horas. Uma ficha de frequência e volume acrescenta o volume de cada ida. Um diário miccional acrescenta a ingestão de líquidos, o uso de absorventes, os episódios de incontinência e o grau deles, e pode registrar ainda a vontade e as atividades que acompanharam uma perda.[1,2,3] Cada nível responde a mais perguntas que o anterior, e o diário miccional é o que a maioria das diretrizes quer dizer quando pede «um diário»: o NICE, por exemplo, pede às mulheres que procuram ajuda por incontinência urinária que preencham um diário miccional por pelo menos três dias.[10]
+
+### Por que existem tantos nomes
+
+Em parte geografia, em parte história. Uma revisão da literatura precisou procurar nove termos diferentes para encontrar o mesmo tipo de registro: micturition chart, micturition diary, frequency volume chart, bladder chart, bladder diary, urinary chart, urinary diary, voiding chart e voiding diary.[4] As fichas americanas tendem a dizer voiding ou bladder diary; a da Urology Care Foundation chama-se simplesmente «Bladder Diary».[7] As britânicas muitas vezes guardam o nome clínico mais antigo mesmo quando são diários completos: a do NHS Gloucestershire tem o título «Frequency Volume Chart, Three Day Bladder Diary» e colunas para bebidas, urina, sensação vesical e absorventes,[5] e o folheto da BAUS apresenta a sua ficha de entradas e saídas como «também conhecida como frequency-volume chart ou bladder diary».[6] A fisioterapia tem a sua variante, o bladder record chart, com o mesmo conteúdo.[8]
+
+### Fichas de entradas e saídas e balanços hídricos
+
+Esses dois nomes vêm da enfermaria. Uma ficha de balanço hídrico é um registro de enfermagem de tudo que entra num paciente e tudo que sai, inclusive soro, drenos e vômito, e serve para manejar líquidos no hospital.[9] Quando uma enfermeira manda você para casa depois de uma cirurgia ou com uma sonda e pede para «fazer um controle de entradas e saídas», em geral quer dizer a versão simples: o que você bebeu, o que você eliminou, com horários. Isso é uma ficha de frequência e volume com coluna de bebidas — e é por isso que a BAUS pode usar esse nome no seu folheto de urologia.[6] As colunas do nosso [modelo para imprimir](https://fluidbalanceapp.com/bladder-diary-template/) dão conta disso.
+
+### A mesma coisa em outras línguas
+
+Se você mantiver o diário em outra língua, muda o termo, não a folha: bladder diary ou voiding diary em inglês, Blasentagebuch ou Miktionsprotokoll em alemão, calendrier mictionnel em francês, diario miccional em espanhol, 排尿日誌 em japonês. O aplicativo funciona nas mesmas línguas deste site e imprime o relatório na língua que você escolher, então uma urologista alemã recebe os cabeçalhos de coluna em alemão.
+
+### O que isso significa para você
+
+Use a folha que lhe deram. Se o seu serviço disse «ficha de frequência e volume» e entregou uma folha com coluna de bebidas, preencha as bebidas. Se disse «diário miccional» e a folha tem colunas para vontade e perdas, use-as. Se não deu nada e só disse «mantenha um diário», serve qualquer formulário com horário, bebida, volume eliminado, noite e uma nota; é isso que o [modelo](https://fluidbalanceapp.com/bladder-diary-template/) e o aplicativo usam, de modo que um diário em papel e um diário no telefone se leem do mesmo jeito. O título no alto nunca foi o problema. As linhas em branco é que são.
+
+### Perguntas
+
+**Voiding diary é a mesma coisa que diário miccional?**
+Na prática, sim. «Voiding diary» é o termo americano usual e «bladder diary» o britânico; a literatura usa os dois, além de urinary diary, micturition diary e bladder chart. Se uma folha tem colunas para bebidas e para urina com horários, é um diário miccional, esteja escrito o que estiver no alto.
+
+**No meu serviço falaram em ficha de frequência e volume. Anoto as bebidas mesmo assim?**
+A rigor, uma ficha de frequência e volume registra só os horários e volumes de urina. Mas a maioria das fichas de serviço com esse nome pede também as bebidas, como a do NHS Gloucestershire e a da BAUS. Siga a folha: se há coluna de bebidas, preencha; se não há, anotar as bebidas numa linha à parte nunca atrapalhou.
+
+**O que é um registro de horários miccionais?**
+O mais simples dos três: só o horário de cada ida, de dia e de noite, por pelo menos 24 horas. Sem volumes e sem bebidas. Responde à pergunta «com que frequência» e a mais nada, o que às vezes é tudo de que o médico precisa.
+
+### Fontes
+
+1. Abrams P, Cardozo L, Fall M, et al. The standardisation of terminology of lower urinary tract function: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):167–178. https://doi.org/10.1002/nau.10052
+2. Haylen BT, de Ridder D, Freeman RM, et al. An International Urogynecological Association (IUGA)/International Continence Society (ICS) joint report on the terminology for female pelvic floor dysfunction. Neurourol Urodyn. 2010;29(1):4–20. https://doi.org/10.1002/nau.20798
+3. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+4. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+5. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+6. British Association of Urological Surgeons. Information from BAUS about assessing fluid intake & output. Patient leaflet F24/016. BAUS; 2024. https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Input%20output%20chart.pdf
+7. Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025. https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf
+8. University Hospitals Sussex NHS Foundation Trust. Bladder record chart: pelvic health physiotherapy patient information. Reference 2198; 2023. https://www.uhsussex.nhs.uk/wp-content/uploads/2023/03/Bladder-Record-chart.pdf
+9. Scales K, Pilsworth J. The importance of fluid balance in clinical practice. Nurs Stand. 2008;22(47):50–57. https://doi.org/10.7748/ns2008.07.22.47.50.c6634
+10. National Institute for Health and Care Excellence. Urinary incontinence and pelvic organ prolapse in women: management. NICE guideline NG123. London: NICE; 2019. https://www.nice.org.uk/guidance/ng123
+
+Este artigo explica como manter um diário. É informação geral de um desenvolvedor de apps, não é conselho médico: o que o seu diário significa quem diz é o seu médico. Diário preenchido por você. Não é um documento médico.
+
+---
+
+## Diário miccional: Fluid Balance 1.2 está na App Store
+Source: https://fluidbalanceapp.com/pt-br/blog/fluid-balance-1-2/
+Published: 2026-10-26 · Novidade · Por Denis Zinin, desenvolvedor do Diário miccional: Fluid Balance.
+
+A versão 1.2 está na App Store, e ela é quase toda sobre uma coisa: agora dá para anotar qual era a intensidade da vontade antes de uma micção. O resto são pequenas melhorias de conveniência.
+
+### Qual era a intensidade da vontade?
+
+Num diário miccional para bexiga hiperativa e perdas, a vontade é pontuada antes de cada micção — e até agora o app não conseguia fazer isso. Para usar, ligue nos ajustes: **Intensidade da vontade**. A partir daí, cada registro de micção ganha uma etiqueta **Avaliar a vontade** com cinco níveis:
+
+- **0** Sem vontade
+- **1** Vontade normal
+- **2** Vontade forte
+- **3** Quase não deu
+- **4** Não deu tempo
+
+
+O nível 4 quer dizer que saiu urina no caminho do banheiro; por isso ele fica preso à micção a que pertence em vez de virar um episódio à parte que as suas contagens teriam de conciliar depois.
+
+**Não avaliado não é zero.** Um registro que você não avaliou não guarda nada — a mesma regra de «Não medido» para o volume. Um dia sem avaliação mostra um traço no relatório, não uma fileira de zeros, e as médias saem dos registros que de fato têm avaliação. Um zero, neste app, sempre quer dizer que você escolheu «Sem vontade».
+
+**Onde a avaliação aparece.** Ao lado do registro no diário. No relatório PDF em duas linhas — níveis 3–4 por dia e nível 4 por dia — mais uma coluna na tabela por dias. No CSV como uma coluna nova no fim, acrescentada e não inserida, para que uma planilha ou um script feitos com a exportação antiga continuem funcionando. Se no período não houver nada avaliado, o relatório pula essa seção em vez de imprimir uma vazia.
+
+Enquanto você não ligar, um registro continua sendo dois toques.
+
+### Um lembrete que para de insistir
+
+Cuidamos da sua atenção: um lembrete não deve virar ruído de fundo. Antes ele chegava todo dia no horário escolhido, enquanto o app estivesse instalado. Agora chega só nos dias sem registros, e depois de uma semana sem nenhum ele mesmo entra em pausa. Um diário se mantém de três a sete dias; um lembrete que ainda chega no segundo mês é só uma notificação para desligar.
+
+
+### Acesso fácil a ontem
+
+Enquanto hoje ainda está vazio, a tela de Hoje traz um cartão com os registros de ontem, e um toque abre aquele dia. O jeito mais comum de perder um dia de diário é lembrar dele na manhã seguinte.
+
+
+### Também na 1.2
+
+- **Formato de 12 ou 24 horas**, o que você preferir, nos ajustes.
+- **Suporte completo ao iPhone Duo.**
+- **Um widget grande para a Tela de Início**, ao lado do pequeno e do da Tela Bloqueada.
+- **Quatro idiomas novos:** polonês, sueco, tcheco e chinês tradicional, levando o app a quatorze. O relatório PDF é traduzido junto com a interface; o CSV continua em inglês.
+- **Mais rápido quando muitos registros se acumularam**, além de várias correções pequenas.
+
+### O que não mudou
+
+O rótulo de privacidade na App Store continua «Dados não coletados»: sem conta, sem servidor, sem análise dentro do app, sem código de terceiros. Os registros vivem no seu aparelho e, se você ligar, no seu próprio banco privado do iCloud — a [política de privacidade](https://fluidbalanceapp.com/privacy/) tem os detalhes. O app continua sem diagnosticar, sem comparar os seus registros com qualquer norma e sem lembrar você de beber; a intensidade da vontade é um número que você digitou, e o que ele significa se conversa com o seu médico. Registrar, Hoje, as estatísticas, os widgets, o Apple Watch, o iCloud e a exportação CSV continuam grátis, e o Pro continua sendo uma compra única, não assinatura.
+
+### Requisitos
+
+iPhone com iOS 18 ou mais recente, iPhone Duo incluído. Apple Watch com watchOS 11 ou mais recente. No iPad funciona como app de iPhone. Categoria na App Store: Medicina.
+
+Dúvidas ou pedidos: a [ajuda](https://fluidbalanceapp.com/support/) tem as respostas para as mais comuns e o endereço para escrever.
+
+---
+
+## Diário miccional no papel ou em aplicativo: o que dizem os estudos
+Source: https://fluidbalanceapp.com/pt-br/blog/paper-bladder-diary-or-app/
+Published: 2026-10-26 · Guia · Por Denis Zinin, desenvolvedor do Diário miccional: Fluid Balance. Não é médico.
+
+Em resumo:
+Diário miccional no papel ou em aplicativo é uma pergunta que os estudos respondem com um empate: os diários eletrônicos e os de papel saem com confiabilidade parecida, e as diferenças estão em quando as pessoas preenchem e em quanto é somado. O que decide é se cada ida é anotada na hora, em todos os dias pedidos:
+
+- Os dois funcionam. Os estudos encontram diários eletrônicos e de papel com confiabilidade parecida; as diferenças estão em quando se preenche e em quanto é somado.
+- O papel é preenchido depois mais vezes do que as pessoas admitem. Os diários eletrônicos marcam a hora sozinhos, mas uma análise de aplicativos achou que faltava à maioria o básico clínico: vontade, perdas ou privacidade.
+- Escolha um formato para o diário inteiro, confira se ele registra tudo o que o seu serviço pediu e leve o resultado numa forma que o médico consiga ler.
+
+Papel ou aplicativo não é a primeira pergunta certa. A primeira é se o diário é preenchido na hora, com cada ida, em todos os dias pedidos. Os dois formatos, a folha de papel e um diário miccional digital num aplicativo, dão conta disso — e os dois podem falhar. Este texto percorre o que a pesquisa de fato encontrou ao compará-los, o que faltou nos aplicativos segundo uma análise recente, e como escolher sem acabar com meio diário no papel e meio no telefone. Nós fazemos um aplicativo: leia a última seção sabendo disso.
+
+### O que o papel faz bem
+
+Os serviços conhecem. A folha chega com as colunas que o serviço quer, na escala dele para vontade ou perdas, e o médico pode escrever em cima. Não há nada para instalar nem aprender, funciona num banheiro de hospital sem telefone, e quem preenche pode ter oitenta anos e nunca ter tido um smartphone. Para um diário de três dias entregue junto com a carta da consulta, o papel é uma ferramenta perfeitamente boa.
+
+### Onde o papel falha
+
+Ele é preenchido depois. A evidência mais clara vem de um estudo que escondeu um sensor na pasta de um diário de papel para registrar quando ela era de fato aberta: os pacientes diziam ter preenchido como orientado na grande maioria das vezes, mas a pasta mostrava que isso só acontecera numa pequena fração das ocasiões previstas, com muitos registros escritos em bloco depois.[1] A pesquisa sobre diários miccionais vê a mesma tendência pelo outro lado: em ensaios que compararam diários de três e de sete dias, os autores observam que o diário mais curto reduz a tentação de tapar buracos de memória.[2] E a memória, para isso, é ruim.
+
+As outras falhas são práticas. A folha não está no banheiro às três da madrugada. Os totais e a contagem de noites têm de ser feitos à mão, ou não são feitos. E um diário em cima da mesa da cozinha some com facilidade e fica em casa com facilidade no dia da consulta.
+
+### Diários eletrônicos são mais exatos que o papel?
+
+Os diários eletrônicos entraram cedo na literatura. Um diário eletrônico diário para bexiga hiperativa, testado em 2003, coletava os dados de sintomas com marcas de hora e foi avaliado como fácil de usar, com os autores apontando os dados em tempo real como sua principal vantagem sobre o papel.[3] Um ensaio randomizado que comparou um diário miccional eletrônico com o papel em mulheres com sintomas urinários achou os dois confiáveis na repetição, com um pouco menos de micções e perdas registradas por via eletrônica, e concluiu que a versão eletrônica era aceitável e confiável.[4] Em outras palavras: não é mágica, mas é uma alternativa sólida, com a marca de hora como ganho concreto.
+
+### O que faltava nos aplicativos
+
+Que o formato funcione não quer dizer que todo aplicativo funcione. Uma análise de 2026 de aplicativos de diário miccional, confrontados com o conteúdo dos diários de papel validados, achou que à maioria faltavam itens clínicos importantes, que não houve participação profissional e que eram fracos na segurança das informações de saúde, e concluiu que era preciso mais desenvolvimento antes que os aplicativos igualassem os diários de papel validados.[5] A literatura também é honesta ao reconhecer que não existe diário plenamente validado em formato nenhum, papel incluído.[7]
+
+A leitura prática: julgue um aplicativo por ele registrar o que a ficha do seu serviço registra, não pelas avaliações. A lista é curta:
+
+- **Hora em todo registro**, posta sozinha e editável quando você anota atrasado.
+- **Idas sem volume**, para que uma marca num banheiro público continue sendo um registro completo.
+- **Horários de deitar e levantar, ou uma marca de noite**, para as noites poderem ser contadas.[8]
+- **Um lugar para vontade, perdas e absorventes**, como campos ou ao menos como notas.
+- **Uma exportação** que o médico consiga ler: um relatório para imprimir ou uma tabela para enviar.
+- **O que acontece com os dados**: conta, servidor, publicidade. O rótulo de privacidade da App Store diz isso numa linha.
+- **Se o registro é interrompido alguma hora**, por cadastro ou por aviso de pagamento.
+
+### Como escolher, com honestidade
+
+Se o seu serviço lhe deu uma ficha com as escalas dele, use a ficha. Se só disseram «mantenha um diário» e deixaram você por conta, escolha o formato que você de fato vai ter por perto nos momentos que importam — para a maioria das pessoas, o telefone. Escolha o que escolher, escolha uma vez: um diário dividido entre folha e tela são dois meios diários, e nenhum fecha. O peso de manter um diário é real,[6] e o formato que diminui esse peso para você é o certo.
+
+A nossa posição, dita sem rodeios: Diário miccional: Fluid Balance registra uma ida em dois toques com o horário junto, conta noites, faz os totais e imprime um relatório, e o rótulo de privacidade dele é «Dados não coletados». A vontade tem um campo próprio, uma avaliação opcional de 0 a 4; perdas e absorventes vão numa nota. Se você prefere papel, o [modelo gratuito](https://fluidbalanceapp.com/bladder-diary-template/) tem as mesmas colunas, então os dois se leem do mesmo jeito e o médico não vê diferença de estrutura. De qualquer modo, o que torna o diário útil é a mesma coisa que os estudos não param de encontrar: preencha na hora em que acontece.
+
+### Perguntas
+
+**Meu médico vai aceitar um relatório de aplicativo?**
+Em geral sim, se ele mostrar as mesmas coisas da ficha de papel: horários, volumes, bebidas, noites e as notas sobre vontade ou perdas. Imprima ou mande por e-mail com antecedência se der; alguns médicos preferem papel na mesa. Na dúvida, pergunte na hora em que pedirem o diário.
+
+**Um aplicativo é mais exato que o papel?**
+Para os horários, sim: um registro feito no telefone carrega a hora em que foi feito, enquanto um horário no papel é o que você escreveu. Para os volumes, não: o copo é o mesmo. Numa comparação randomizada, diários eletrônicos e de papel se mostraram confiáveis, com um pouco menos de idas e perdas registradas por via eletrônica. A exatidão vem de preencher na hora, seja qual for o formato.
+
+**Posso usar só o aplicativo de notas do telefone?**
+Pode, e é melhor que nada. O que você perde é a estrutura: sem colunas, sem totais, sem contagem de noites, e um relatório que você terá de escrever antes da consulta. Se for por aí, escreva cada linha como horário, o quê, quanto, e guarde os horários de deitar e levantar.
+
+### Fontes
+
+1. Stone AA, Shiffman S, Schwartz JE, Broderick JE, Hufford MR. Patient non-compliance with paper diaries. BMJ. 2002;324(7347):1193–1194. https://doi.org/10.1136/bmj.324.7347.1193
+2. Dmochowski RR, Sanders SW, Appell RA, Nitti VW, Davila GW. Bladder-health diaries: an assessment of 3-day vs 7-day entries. BJU Int. 2005;96(7):1049–1054. https://doi.org/10.1111/j.1464-410X.2005.05785.x
+3. Quinn P, Goka J, Richardson H. Assessment of an electronic daily diary in patients with overactive bladder. BJU Int. 2003;91(7):647–652. https://doi.org/10.1046/j.1464-410X.2003.04168.x
+4. Sussman RD, Richter LA, Tefera E, et al. Utilizing technology in assessment of lower urinary tract symptoms: a randomized trial of electronic versus paper voiding diaries. Female Pelvic Med Reconstr Surg. 2016;22(4):224–228. https://doi.org/10.1097/SPV.0000000000000266
+5. Matthews C, Stothers L, Burke C, Petersen K, Macnab A. A framework analysis of electronic bladder diary apps: suitability for clinical decision-making and comparison to validated paper diaries. Neurourol Urodyn. 2026. https://doi.org/10.1002/nau.70410
+6. Ku JH, Jeong IG, Lim DJ, Byun SS, Paick JS, Oh SJ. Voiding diary for the evaluation of urinary incontinence and lower urinary tract symptoms: prospective assessment of patient compliance and burden. Neurourol Urodyn. 2004;23(4):331–335. https://doi.org/10.1002/nau.20027
+7. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+8. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+
+Este artigo explica como manter um diário. É informação geral de um desenvolvedor de apps, não é conselho médico: o que o seu diário significa quem diz é o seu médico. Diário preenchido por você. Não é um documento médico.
+
+---
+
+## Diário miccional para bexiga hiperativa e perdas: o que anotar
+Source: https://fluidbalanceapp.com/pt-br/blog/bladder-diary-for-overactive-bladder-and-leaks/
+Published: 2026-10-19 · Atualizado em: 2026-10-26 · Guia · Por Denis Zinin, desenvolvedor do Diário miccional: Fluid Balance. Não é médico.
+
+Em resumo:
+Um diário miccional para bexiga hiperativa e perdas anota quatro coisas além das bebidas, das idas e dos horários: se a ida veio com vontade forte, se houve perda e mais ou menos quanta, se você trocou de absorvente e o que estava fazendo quando aconteceu. As definições da ICS e da IUGA, as orientações do NICE e da AUA e as fichas da Urology Care Foundation, do NHS e da BAUS pedem tudo isso de uma forma ou de outra. Como anotar para que dê para ler:
+
+- Para bexiga hiperativa e incontinência, o diário anota quatro coisas a mais: a vontade, as perdas e mais ou menos quanta urina, as trocas de absorvente e o que você estava fazendo.
+- Use a escala da ficha do seu serviço e não troque de escala no meio do caminho. Num diário simples, as quatro entram na coluna Nota, com o horário.
+- Os episódios de perda são a medida mais sensível a dias faltando: anote todos os dias pedidos, inclusive os bons.
+
+Um diário miccional simples anota bebidas, idas e horários. Um diário para incontinência ou bexiga hiperativa precisa de quatro coisas a mais na mesma folha, porque o que o médico está olhando é justamente a vontade e as perdas: se a ida veio com vontade forte, se houve perda e mais ou menos quanta, se você trocou de absorvente e o que estava fazendo quando aconteceu. Este texto explica como as fichas de serviço pedem essas quatro coisas, como pontuar do mesmo jeito todas as vezes e onde colocá-las quando o seu diário não tem coluna para elas.
+
+### Por que justamente essas quatro
+
+Os termos têm definições precisas. Vontade é um desejo súbito e imperioso de urinar, difícil de adiar; incontinência urinária é qualquer perda involuntária, e incontinência de urgência é a perda que vem com vontade; e bexiga hiperativa é vontade, em geral com frequência e idas noturnas, com ou sem perda.[1,3] A diretriz americana sobre bexiga hiperativa inclui um diário miccional na avaliação,[2] e o NICE pede às mulheres que procuram ajuda por incontinência um diário de pelo menos três dias e classifica a incontinência a partir da história: perda ao esforço, como ao tossir; perda com vontade; ou as duas.[4] As quatro colunas a mais são o modo como o diário sustenta essa classificação. «Perdi quando espirrei» e «perdi a caminho do banheiro com vontade forte» são achados diferentes, e o diário é onde essa diferença fica anotada com um horário.
+
+### Como as fichas de serviço registram vontade e perdas
+
+As fichas diferem nas palavras, não no essencial.
+
+- **Urology Care Foundation (AUA).** Em cada ida: você sentiu vontade forte, sim ou não; houve perda, e de quanto; o que você estava fazendo na hora, «espirrar, fazer exercício etc.»[5]
+- **NHS Gloucestershire.** Uma pontuação de sensação vesical de 0 a 4: 0 sem sensação, fui por conveniência; 1 vontade normal; 2 vontade que passou; 3 vontade, cheguei ao banheiro sem perder; 4 vontade e perda. Além disso, LEAK escrito na coluna da urina e uma marca ou um peso para cada absorvente.[6]
+- **University Hospitals Sussex, fisioterapia.** Um sim para uma vontade forte e súbita, e uma gravidade da perda: D úmido, W molhado, V muito molhado.[7]
+- **BAUS.** Uma coluna WET com +, ++ ou +++ para perda pequena, moderada ou grande.[8]
+
+A descrição do diário miccional pela International Continence Society lista os mesmos itens: episódios de incontinência, o grau da incontinência, o uso de absorventes e a vontade.[9]
+
+### Pontuar do mesmo jeito todas as vezes
+
+Escolha uma escala, a da sua ficha, e use-a no diário inteiro. Um «3» no primeiro dia e um «bem ruim» no terceiro não se comparam, e a comparação é o ponto. Se a sua ficha não tem escala, três níveis bastam para as perdas — pequena, moderada ou grande — e um sim ou não basta para a vontade. Escreva na hora: uma perda lembrada à noite costuma virar «um pouco», seja ela qual for.
+
+Anote a atividade em poucas palavras: tossindo, rindo, levantando peso, ficando de pé, a caminho do banheiro, na cama. É essa a coluna que os médicos leem para distinguir um tipo de perda do outro.[4,5]
+
+### Onde entra num diário simples
+
+Se o seu diário só tem horário, bebida, volume e uma nota, as quatro coisas entram na nota, com o horário da ida a que pertencem. O nosso [modelo para imprimir](https://fluidbalanceapp.com/bladder-diary-template/) tem para isso uma coluna Nota com o título «vontade, perda, absorvente, qualquer coisa fora do comum», e o exemplo preenchido mostra uma ida com «com pressa, pequena perda». No aplicativo, a vontade tem um campo próprio — uma avaliação opcional de 0 a 4, desligada até você ligar — e perdas, absorventes e gatilhos vão na nota; o relatório imprime os dois ao lado dos horários. Se o seu serviço quer as colunas pontuadas dele, preencha como a ficha pede: uma avaliação de 0 a 4 não é a mesma escala da pontuação de sensação de uma ficha, e a comparação é justamente para isso que a pontuação serve.
+
+### Perdas à noite e absorventes à noite
+
+Uma perda na cama é uma linha da noite: horário, «perda», quanto, e se você estava dormindo ou a caminho do banheiro. Um absorvente trocado de madrugada é uma linha de absorvente. As duas ficam entre os seus horários de deitar e levantar, para o médico poder separar a noite do dia; [anotar as idas da noite](https://fluidbalanceapp.com/blog/bladder-diary-for-nocturia/) explica como esses horários funcionam.
+
+### Anote também os dias bons
+
+Os episódios de perda são a medida do diário mais afetada por dias faltando. Num estudo que comparou durações, três dias equivaleram a sete para o número de idas, o volume por ida, a vontade e o volume diário, mas para os episódios de incontinência três dias ficaram no limite.[10] Quanto menos dias você anota, mais um único dia seco ou um único dia ruim distorce o quadro. Anote todos os dias pedidos, inclusive aqueles em que não há nada a relatar, e diga quais dias estão completos.
+
+### O que o médico faz com isso
+
+Ele organiza os episódios por tipo, por horário e pelo que os desencadeou, ao lado das suas bebidas e dos seus volumes, e lê o conjunto junto com a sua história e o exame. O que ele conclui, e o que sugere, é dele; nesta página não há limites nem conselhos sobre o que beber ou quando. [Como manter um diário miccional](https://fluidbalanceapp.com/blog/how-to-keep-a-bladder-diary/) cobre o resto do registro.
+
+### Perguntas
+
+**Anoto uma perda se eu ainda assim cheguei ao banheiro?**
+Anote a vontade, não a perda. Vontade é a necessidade súbita e difícil de adiar de ir; perda é urina que sai antes de você chegar. A ficha do NHS pontua as duas separadamente: uma vontade que você segurou é 3, uma vontade com perda é 4. As duas linhas servem, e são linhas diferentes.
+
+**Como anoto os absorventes?**
+Marque cada troca, com o horário, na coluna de absorventes ou na nota. Alguns serviços pedem que se pesem os absorventes usados, e a ficha do NHS dá a conversão, 1 grama para 1 ml; só faça isso se pediram. O registro habitual é a contagem das trocas.
+
+**Como anoto vontade e perdas no aplicativo?**
+A vontade tem um campo próprio: ligue a avaliação da vontade nos ajustes e uma ida poderá receber uma nota de 0 a 4. Perdas e absorventes vão na nota do registro: «perda, pequena, tossindo», «absorvente». O relatório imprime os dois ao lado dos horários, então o médico vê na ordem. Se a ficha do seu serviço tem colunas e escalas próprias, preencha como a ficha pede: uma avaliação de 0 a 4 e a pontuação de sensação de uma ficha não são a mesma escala.
+
+### Fontes
+
+1. Abrams P, Cardozo L, Fall M, et al. The standardisation of terminology of lower urinary tract function: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):167–178. https://doi.org/10.1002/nau.10052
+2. Cameron AP, Chung DE, Dielubanza EJ, et al. The AUA/SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder. J Urol. 2024;212(1):11–20. https://doi.org/10.1097/JU.0000000000003985
+3. Haylen BT, de Ridder D, Freeman RM, et al. An International Urogynecological Association (IUGA)/International Continence Society (ICS) joint report on the terminology for female pelvic floor dysfunction. Neurourol Urodyn. 2010;29(1):4–20. https://doi.org/10.1002/nau.20798
+4. National Institute for Health and Care Excellence. Urinary incontinence and pelvic organ prolapse in women: management. NICE guideline NG123. London: NICE; 2019. https://www.nice.org.uk/guidance/ng123
+5. Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025. https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf
+6. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+7. University Hospitals Sussex NHS Foundation Trust. Bladder record chart: pelvic health physiotherapy patient information. Reference 2198; 2023. https://www.uhsussex.nhs.uk/wp-content/uploads/2023/03/Bladder-Record-chart.pdf
+8. British Association of Urological Surgeons. Information from BAUS about assessing fluid intake & output. Patient leaflet F24/016. BAUS; 2024. https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Input%20output%20chart.pdf
+9. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+10. Konstantinidis C, Kratiras Z, Samarinas M, Skriapas K. Optimal bladder diary duration for patients with suprapontine neurogenic lower urinary tract dysfunction. Int Braz J Urol. 2016;42(4):766–772. https://doi.org/10.1590/S1677-5538.IBJU.2015.0292
+
+Este artigo explica como manter um diário. É informação geral de um desenvolvedor de apps, não é conselho médico: o que o seu diário significa quem diz é o seu médico. Diário preenchido por você. Não é um documento médico.
+
+---
+
+## Diário miccional para noctúria: como anotar as idas da noite
+Source: https://fluidbalanceapp.com/pt-br/blog/bladder-diary-for-nocturia/
+Published: 2026-10-12 · Guia · Por Denis Zinin, desenvolvedor do Diário miccional: Fluid Balance. Não é médico.
+
+Em resumo:
+Um diário para noctúria é um diário miccional comum com a noite bem anotada: a hora em que você se deitou, a hora em que se levantou e cada ida entre as duas com o horário e, quando der, o volume. A International Continence Society define noctúria como acordar à noite para urinar, e tanto a EAU quanto a ICS contam as idas e a urina da noite a partir justamente desses horários. Três coisas para acertar:
+
+- Anote a que horas você se deitou e a que horas se levantou. Toda ida entre as duas é uma ida da noite: marque, guarde o horário, meça se der.
+- A primeira ida depois de levantar se escreve como primeira linha do dia novo, mas o volume pertence à noite. Quem separa isso é o médico; você só precisa dos horários.
+- Mantenha pelo menos três noites e não mude as bebidas da noite por causa do diário. O que interessa é o padrão.
+
+Um diário para noctúria é um diário miccional comum com a noite bem anotada. Se pediram um porque você levanta à noite, a noite é a parte do diário que mais importa — e também a que as pessoas anotam pior: meio dormindo, no escuro, sem a menor vontade de segurar um copo. Este texto é sobre acertar as noites com o menor esforço possível. Ele não diz quantas idas são demais; essa pergunta é do médico que pediu o diário.
+
+### O que conta como ida da noite
+
+A International Continence Society define noctúria, o urinar noturno, como acordar à noite para urinar: cada ida é precedida e seguida de sono.[1,2] O diário transforma essa definição em dois horários — aquele em que você se deitou para dormir e aquele em que se levantou para o dia — e tudo que fica entre os dois é a noite.
+
+É por isso que todo formulário pede esses dois horários. Na ficha do NHS você escreve BED e WOKE na coluna das horas;[8] a ficha da BAUS pede dois traços atravessando a coluna do dia;[9] o nosso [modelo para imprimir](https://fluidbalanceapp.com/bladder-diary-template/) tem um campo para cada um no alto de cada página e uma coluna Noite para marcar. O aplicativo conta as idas da noite dentro de uma janela fixa, das 22:00 às 07:00, e informa isso no relatório. Se as suas noites seguem outro relógio, escreva os seus horários reais de deitar e levantar nas observações, ou use a folha de papel; o médico precisa da sua noite, não de uma noite padrão.
+
+### Por que o diário, e não só contar ao médico
+
+As diretrizes aqui são pouco habitualmente diretas. A European Association of Urology recomenda um diário miccional de pelo menos três dias para avaliar os sintomas urinários masculinos, «em especial na noctúria», porque é o diário que permite ao médico separar as diferentes causas das idas noturnas.[3] Uma revisão sistemática sobre noctúria concluiu que ferramentas objetivas como a ficha de frequência e volume são pouco usadas, e que a avaliação sofre com isso.[4] A memória vai melhor com as noites do que com os dias,[10] mas uma contagem não é um registro com horários e volumes, e é nos volumes que está quase toda a informação.
+
+### A primeira ida da manhã
+
+A ida que você faz depois de levantar não é uma ida da noite: você já estava de pé.[1,2] Mas a urina que sai nessa hora foi produzida durante a noite, então, pela definição da ICS, o volume dela entra no volume urinário noturno.[1] No papel, escreva como primeira linha depois do seu horário de levantar, com o volume se você mediu. Você não precisa fazer conta nenhuma com isso. O médico faz — e é exatamente por isso que essa primeira medida vale o copo.
+
+### O que escrever em cada ida da noite
+
+- **O horário.** Olhe o relógio antes de qualquer outra coisa. Se de manhã você não lembrar, escreva a melhor estimativa e marque «aprox.» na nota.
+- **O volume, se der.** Um coletor deixado sob o assento antes de dormir recolhe sem que você segure nada; leia de manhã, se for preciso, mas escreva o horário na hora.[6,7]
+- **Uma marca, se não deu para medir.** Uma ida da noite marcada continua contando como ida.
+- **Uma nota quando algo sair do comum.** «Já estava acordado», «acordei com vontade forte», «perdi antes de chegar», dor. São essas linhas que o médico lê.
+
+### O que o médico calcula a partir das noites
+
+Dos seus horários e volumes ele tira quanta urina você produziu à noite, que fração do total de 24 horas isso representa e quanto você dormiu até a primeira ida.[1,2,5] Esses números são a razão de os dois horários e o volume da primeira da manhã importarem tanto: sem eles, as idas da noite são só uma contagem, e contagem é justamente o que o diário veio melhorar. Os limites que o médico aplica a esses números dependem da idade e do resto da sua história, e são dele.
+
+### Quantas noites um diário para noctúria deve cobrir?
+
+Pelo menos três, pela recomendação da EAU e pela maioria das fichas de serviço.[3,8,9] Mais noites dão ao médico uma amostra melhor de um padrão que varia de uma noite para outra; uma semana é comum quando a noctúria é a questão principal. Seja qual for o número, cada noite deve estar completa: hora de deitar, cada ida, hora de levantar. [Quantos dias um diário deve cobrir](https://fluidbalanceapp.com/blog/bladder-diary-how-many-days/) percorre as recomendações em detalhe.
+
+### Não mude as suas noites por causa do diário
+
+Se você costuma tomar chá às nove, tome chá às nove. Um diário mantido em noites excepcionalmente secas mostra ao médico um padrão que você não vive, e a consulta começa a partir da imagem errada. Anote as bebidas da noite com horário e quantidade; como o que você bebe à noite se relaciona com as idas da madrugada é uma das coisas que o diário existe para mostrar.
+
+### Para ficar mais fácil
+
+Deixe o coletor no lugar e a caneta em cima da folha antes de dormir. Deixe uma luz pequena acesa. Se a folha não está ao lado do vaso, o telefone está: o widget da tela de bloqueio e o aplicativo do Apple Watch registram uma ida em dois toques sem desbloquear nada, e o horário fica guardado por você. Use o que usar, a regra é a mesma: primeiro o horário, depois o volume, e nunca pular a linha.
+
+### Perguntas
+
+**A primeira ida depois que eu levanto conta como ida da noite?**
+Como ida, não; mas o volume conta como urina da noite. Pela definição da ICS, noctúria é acordar à noite para urinar, então uma ida feita já de pé para o dia não é uma delas. A urina que você elimina nessa hora, porém, foi produzida durante a noite e entra no volume noturno. Escreva como primeira linha depois do seu horário de levantar e deixe a separação com o médico.
+
+**E se eu já estava acordado e fui só porque estava de pé?**
+Anote a ida com o horário e acrescente uma nota: «já estava acordado». A definição de noctúria da ICS pressupõe acordar para urinar, então o médico vai querer saber quais idas acordaram você e quais aconteceram porque você já estava de pé. Uma nota curta basta.
+
+**Preciso medir de noite?**
+Se der, sim, porque são os volumes da noite que o médico soma. Um coletor apoiado sob o assento antes de dormir facilita: nada para segurar, nada para procurar no escuro. Se não der, marque a ida e guarde o horário; uma ida da noite marcada continua contando como ida.
+
+### Fontes
+
+1. van Kerrebroeck P, Abrams P, Chaikin D, et al. The standardisation of terminology in nocturia: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):179–183. https://doi.org/10.1002/nau.10053
+2. Hashim H, Blanker MH, Drake MJ, et al. International Continence Society (ICS) report on the terminology for nocturia and nocturnal lower urinary tract function. Neurourol Urodyn. 2019;38(2):499–508. https://doi.org/10.1002/nau.23917
+3. European Association of Urology. EAU Guidelines on the Management of Non-neurogenic Male LUTS. Arnhem: EAU; 2026. Chapter 4, Diagnostic evaluation. https://uroweb.org/guidelines/management-of-non-neurogenic-male-luts/chapter/diagnostic-evaluation
+4. Cornu JN, Abrams P, Chapple CR, et al. A contemporary assessment of nocturia: definition, epidemiology, pathophysiology, and management—a systematic review and meta-analysis. Eur Urol. 2012;62(5):877–890. https://doi.org/10.1016/j.eururo.2012.07.004
+5. Epstein M, Blaivas J, Wein AJ, Weiss JP. Nocturia treatment outcomes: analysis of contributory frequency volume chart parameters. Neurourol Urodyn. 2018;37(1):186–191. https://doi.org/10.1002/nau.23272
+6. European Association of Urology, Patient Information. Bladder diary for nocturia. Uroweb. https://patients.uroweb.org/condition/nocturia/treatment-options-nocturia/bladder-diary-for-nocturia
+7. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+8. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+9. British Association of Urological Surgeons. Information from BAUS about assessing fluid intake & output. Patient leaflet F24/016. BAUS; 2024. https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Input%20output%20chart.pdf
+10. Stav K, Dwyer PL, Rosamilia A. Women overestimate daytime urinary frequency: the importance of the bladder diary. J Urol. 2009;181(5):2176–2180. https://doi.org/10.1016/j.juro.2009.01.042
+
+Este artigo explica como manter um diário. É informação geral de um desenvolvedor de apps, não é conselho médico: o que o seu diário significa quem diz é o seu médico. Diário preenchido por você. Não é um documento médico.
+
+---
+
+## O que um diário miccional mostra? O que seu urologista lê
+Source: https://fluidbalanceapp.com/pt-br/blog/what-does-a-bladder-diary-show/
+Published: 2026-10-05 · Guia · Por Denis Zinin, desenvolvedor do Diário miccional: Fluid Balance. Não é médico.
+
+Em resumo:
+O que um diário miccional mostra a um profissional se resume a cinco coisas: com que frequência você vai, de dia e de noite; quanto você urina de cada vez; quanto da sua urina é produzida à noite; o que você bebe e quando; e quão completo está o registro. Nenhuma delas vem com um número a atingir; a leitura pertence a quem conhece a sua história:
+
+- Um profissional lê cinco coisas no diário: com que frequência você vai de dia e de noite, quanto urina de cada vez, quanta urina você produz à noite, o que e quando bebe, e quão completo está o registro.
+- Nenhuma delas tem um número que você deva atingir. Os mesmos valores significam coisas diferentes em pessoas diferentes, e só quem conhece a sua história consegue lê-los.
+- O que está nas suas mãos é o registro: cada ida com o horário, volumes quando der, hora de deitar e de levantar, e lacunas honestas em vez de preenchidas.
+
+Um diário miccional mostra cinco coisas a um profissional: com que frequência você vai, de dia e de noite; quanto você urina de cada vez; quanto da sua urina é produzida à noite; o que você bebe e quando; e quão completo está o registro. Nada nesta página diz quais deveriam ser esses números, e ela não interpreta resultados de diário miccional. Essa leitura pertence a quem conhece a sua história; para que serve um diário miccional é justamente para colocar essas cinco coisas diante dessa pessoa. Este texto explica o que ela olha, para que cada coluna da ficha faça sentido enquanto você preenche.
+
+### Para que serve um diário miccional?
+
+A International Continence Society define os termos sobre os quais o diário é construído: frequência diurna, noctúria, volume urinado e a ficha de frequência e volume que registra tudo isso.[1] A pesquisa sobre essas fichas chegou a um punhado de variáveis que são lidas repetidamente: o número de micções de dia e de noite, o volume de cada uma, o maior volume e o total em 24 horas.[2] As diretrizes então mandam pedir o diário: a European Association of Urology recomenda um diário miccional de pelo menos três dias na avaliação dos sintomas urinários masculinos, em especial na noctúria,[3] o NICE pede um quando a mulher procura ajuda por incontinência,[4] e a diretriz americana sobre bexiga hiperativa o inclui na avaliação.[5]
+
+### 1. Com que frequência você vai, dia e noite separados
+
+A primeira contagem são as idas em 24 horas. A segunda, muitas vezes mais importante, é quantas delas aconteceram à noite: a International Continence Society define noctúria como acordar à noite para urinar, com sono antes e depois de cada ida.[1,6,7] É por isso que todo diário pergunta a que horas você foi deitar e a que horas levantou. Sem esses dois horários, as idas da noite não se separam das do dia, e metade da razão de ser do diário desaparece.
+
+As idas que você não conseguiu medir contam aqui do mesmo jeito. Uma marca com horário é um registro completo para esse fim; uma linha que falta, não.
+
+### 2. Quanto você urina de cada vez
+
+Cada volume medido já diz algo por si, e juntos eles dão mais dois números: o maior volume que você urinou durante o diário e a diferença entre o menor e o maior.[2] Uma sequência de volumes pequenos e uma de volumes grandes são lidas de maneiras diferentes, e ambas são lidas junto com tudo o mais que o profissional sabe a seu respeito. É esta a parte do diário que um jarro ou um coletor torna possível; [como medir em casa](https://fluidbalanceapp.com/blog/how-to-measure-urine-output-at-home/) trata do lado prático.
+
+### 3. Quanta urina você produz à noite
+
+Os volumes da noite são somados à parte. Pela definição da ICS, o volume de urina noturna inclui a primeira micção depois de levantar de manhã, porque aquela urina foi produzida durante a noite, ainda que a ida em si aconteça já acordado.[6,7] A partir do volume da noite e do volume de 24 horas calcula-se a fração produzida à noite, e pelos horários dá para ver quanto tempo você dormiu até a primeira ida.[8] São cálculos, não veredictos: os números são comparados com a sua idade, o seu sono e a sua história clínica, e os limites que se aplicam a eles são de quem lê.
+
+### 4. O que você bebe, e quando
+
+O lado da ingestão é lido pelo padrão, não pelo total: como as bebidas se distribuem ao longo do dia, quais foram e como fica a noite. As fichas dos serviços pedem o tipo de bebida pela mesma razão.[1] O profissional está vendo se o que entrou e o que saiu se correspondem no tempo; essa é uma pergunta sobre o seu registro, não um julgamento sobre os seus hábitos.
+
+### 5. Observações: vontade, perdas, absorventes
+
+Onde a ficha tem colunas para vontade, perdas e troca de absorventes, elas são lidas como eventos com um horário anexado. A ICS também define esses termos: vontade como um desejo súbito e difícil de adiar de urinar, e incontinência como qualquer perda involuntária.[1,10] Uma nota dizendo «perdi quando tossi» ou «vontade forte no caminho de casa» é exatamente o tipo de linha que justifica a segunda leitura.
+
+### A conferência que vem antes: está completo?
+
+Antes de tudo isso, o profissional olha quanto do diário está ali: quantos dias estão preenchidos de um despertar ao outro, quantas idas têm volume, quantas são apenas marcas. Um diário com dois dias completos se lê; um diário com cinco dias de linhas esparsas vira uma conversa sobre refazer. Os profissionais confiam no diário justamente porque a memória é ruim nisso: num estudo, metade das mulheres perguntadas superestimou quantas vezes ia durante o dia quando se comparou com o próprio diário.[9] O nosso [modelo](https://fluidbalanceapp.com/bladder-diary-template/) tem uma linha de «dias registrados» na última página, e o aplicativo conta os dias registrados pela mesma razão.
+
+### Por que você não vai encontrar valores normais aqui
+
+Duas razões. A primeira: não existe um diário validado único, e os serviços usam fichas diferentes, dias de duração diferente e definições diferentes de noite;[11,12] um número de uma ficha não se transfere limpo para outra. A segunda, e mais importante: cada valor de um diário é lido contra a pessoa — idade, líquidos, medicamentos, sono, outras condições. Uma frequência sem importância numa pessoa é o achado decisivo em outra. Publicar uma tabela de valores «normais» seria um convite a dar nota a si mesmo com uma ferramenta que nunca foi feita para isso. O diário é um registro. Lê-lo é a consulta.
+
+### Levando o diário
+
+Leve todas as páginas, diga quais dias estão completos e, se usou um aplicativo, imprima o relatório ou deixe-o aberto no telefone. [Como manter um diário miccional](https://fluidbalanceapp.com/blog/how-to-keep-a-bladder-diary/) cobre o resto: o que registrar, os erros comuns e o que fazer com os dias que não deram certo.
+
+### Perguntas
+
+**Posso descobrir sozinho o que o meu diário quer dizer?**
+Não de forma confiável, e este texto não dá limites de propósito. O profissional lê o diário ao lado da sua história, de um exame e às vezes de outros testes; o mesmo número de idas ou o mesmo volume noturno pode não ter importância numa pessoa e ser o achado decisivo em outra. Mantenha o registro completo e deixe que o leiam.
+
+**O médico lê mesmo cada linha?**
+Em geral começa pelo resumo: idas de dia e de noite, o maior volume e os volumes habituais, a urina da noite, os líquidos e quantos dias estão completos. Depois vai às linhas que saltam aos olhos: uma perda, uma nota sobre vontade, uma noite com muita bebida. Cada linha está ali para esse segundo olhar.
+
+**E se o meu diário parecer ruim?**
+Não existe diário ruim, só incompleto. É o registro de alguns dias, não uma prova que se passa ou se reprova, e os profissionais confiam mais nele do que naquilo que as pessoas lembram na consulta. Não arrume nada; leve como está.
+
+### Fontes
+
+1. Abrams P, Cardozo L, Fall M, et al. The standardisation of terminology of lower urinary tract function: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):167–178. https://doi.org/10.1002/nau.10052
+2. Yap TL, Cromwell DC, Emberton M. A systematic review of the reliability of frequency-volume charts in urological research and its implications for the optimum chart duration. BJU Int. 2007;99(1):9–16. https://doi.org/10.1111/j.1464-410X.2006.06499.x
+3. European Association of Urology. EAU Guidelines on the Management of Non-neurogenic Male LUTS. Arnhem: EAU; 2026. Chapter 4, Diagnostic evaluation. https://uroweb.org/guidelines/management-of-non-neurogenic-male-luts/chapter/diagnostic-evaluation
+4. National Institute for Health and Care Excellence. Urinary incontinence and pelvic organ prolapse in women: management. NICE guideline NG123. London: NICE; 2019. https://www.nice.org.uk/guidance/ng123
+5. Cameron AP, Chung DE, Dielubanza EJ, et al. The AUA/SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder. J Urol. 2024;212(1):11–20. https://doi.org/10.1097/JU.0000000000003985
+6. van Kerrebroeck P, Abrams P, Chaikin D, et al. The standardisation of terminology in nocturia: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):179–183. https://doi.org/10.1002/nau.10053
+7. Hashim H, Blanker MH, Drake MJ, et al. International Continence Society (ICS) report on the terminology for nocturia and nocturnal lower urinary tract function. Neurourol Urodyn. 2019;38(2):499–508. https://doi.org/10.1002/nau.23917
+8. Epstein M, Blaivas J, Wein AJ, Weiss JP. Nocturia treatment outcomes: analysis of contributory frequency volume chart parameters. Neurourol Urodyn. 2018;37(1):186–191. https://doi.org/10.1002/nau.23272
+9. Stav K, Dwyer PL, Rosamilia A. Women overestimate daytime urinary frequency: the importance of the bladder diary. J Urol. 2009;181(5):2176–2180. https://doi.org/10.1016/j.juro.2009.01.042
+10. Haylen BT, de Ridder D, Freeman RM, et al. An International Urogynecological Association (IUGA)/International Continence Society (ICS) joint report on the terminology for female pelvic floor dysfunction. Neurourol Urodyn. 2010;29(1):4–20. https://doi.org/10.1002/nau.20798
+11. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+12. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+
+Este artigo explica como manter um diário. É informação geral de um desenvolvedor de apps, não é conselho médico: o que o seu diário significa quem diz é o seu médico. Diário preenchido por você. Não é um documento médico.
+
+---
+
+## Exemplo de diário miccional: um dia inteiro, linha por linha
+Source: https://fluidbalanceapp.com/pt-br/blog/bladder-diary-example/
+Published: 2026-09-28 · Guia · Por Denis Zinin, desenvolvedor do Diário miccional: Fluid Balance. Não é médico.
+
+Em resumo:
+Abaixo há um exemplo de diário miccional de um dia inteiro, linha por linha: cerca de quinze registros com cada bebida e sua quantidade, cada ida com um volume ou uma marca de não medido, os horários de deitar e levantar, e uma nota onde algo aconteceu. O dia é inventado, então os totais não são metas. A disposição segue o diário da Urology Care Foundation e as fichas do NHS, cujos formulários mostram só uma ou duas linhas de exemplo. O que este dia quer mostrar:
+
+- Um dia completo são cerca de quinze linhas: cada bebida com a quantidade, cada ida com um volume ou uma marca, os horários de deitar e levantar, e uma nota onde algo aconteceu.
+- O exemplo abaixo é um dia inventado. Os totais não são metas, e aqui não há nenhuma referência para compará-los.
+- Um profissional lê nele o número de idas de dia e de noite, os volumes, o padrão das bebidas, as notas e se o dia está completo.
+
+As fichas dos serviços mostram uma ou duas linhas de exemplo: o diário da Urology Care Foundation tem uma única linha com uma lata de refrigerante e uma perda ao rir,[1] a ficha do NHS Gloucestershire mostra uma manhã com uma xícara de chá e uma perda,[2] a ficha de fisioterapia do Sussex três linhas da manhã com totais.[3] Útil, mas o dia de ninguém tem três linhas. Aqui está um dia inteiro inventado no formato do nosso [modelo para imprimir](https://fluidbalanceapp.com/bladder-diary-template/), seguido do que cada parte dele diz a um profissional. Os números são os deste exemplo e nada mais; nesta página não há nenhuma referência para compará-los.
+
+### Como é um dia inteiro de diário?
+
+Um exemplo de diário miccional preenchido. Dia 1 de 7. Deitei às 22:45. Levantei às 7:00.
+
+| Hora | Bebido (ml) | O quê | Eliminado (ml ou ✓) | Noite | Nota |
+|---|---|---|---|---|---|
+| 7:05 | | | 350 | | a primeira da manhã |
+| 7:20 | 250 | chá | | | |
+| 8:30 | 200 | café | | | |
+| 9:40 | | | ✓ | | com pressa, pequena perda |
+| 11:00 | 500 | água | | | |
+| 11:45 | | | 220 | | |
+| 13:10 | 330 | suco | | | |
+| 13:30 | | | 180 | | vontade forte |
+| 15:00 | 250 | chá | | | |
+| 16:20 | | | 260 | | |
+| 18:00 | 250 | água | | | |
+| 19:30 | 200 | cerveja | | | |
+| 20:15 | | | 300 | | |
+| 22:30 | | | 150 | | antes de deitar |
+| 3:10 | | | 180 | ✓ | |
+
+Quinze linhas, uma página. O dia vai de levantar a levantar, então a ida das 3:10 pertence ao dia 1 mesmo tendo mudado a data.
+
+### Linha por linha
+
+**7:05, 350 ml, «a primeira da manhã».** A primeira ida depois de levantar. Não é uma ida noturna, porque a noite do diário terminou às 7:00, mas pela definição da ICS a urina eliminada ali foi produzida durante a noite e soma ao volume noturno,[5] por isso ela é medida em vez de marcada. No papel é simplesmente a primeira linha do dia.
+
+**7:20 e 8:30, chá e café.** Bebidas com quantidade e tipo. A quantidade vem de ter medido a xícara uma vez; o tipo está ali porque as fichas dos serviços pedem.[1,2]
+
+**9:40, uma marca, «com pressa, pequena perda».** Sem tempo de medir, então uma marca no lugar do volume, e a ida continua contando no total de idas do dia.[2] A nota registra a perda com um tamanho aproximado. Numa ficha com colunas de perdas isso seria «pequena» ou um «+»; num diário simples é uma nota com o horário.
+
+**11:00, 500 ml de água.** Uma garrafa, então a quantidade vem impressa.
+
+**13:30, 180 ml, «vontade forte».** Uma ida medida com a vontade anotada: uma necessidade súbita e difícil de adiar.[4] Escrita na hora, em duas palavras, que é tudo o que precisa.
+
+**19:30, 200 ml de cerveja.** Álcool é uma bebida como outra qualquer na ficha: quantidade, tipo, horário. O diário é para mostrar uma noite normal, não uma arrumada.
+
+**22:30, 150 ml, «antes de deitar».** A última ida antes do horário de deitar escrito no alto da página. É uma ida do dia; a noite começa às 22:45.
+
+**3:10, 180 ml, marcada como Noite.** Entre deitar e levantar, então leva a marca. É a linha que torna possível a contagem noturna; um diário sem horários de deitar e levantar não consegue distinguir esta ida da das 22:30.
+
+### No que este dia dá
+
+Só porque o exemplo permite: 1.980 ml bebidos em sete bebidas; 1.640 ml eliminados em sete idas medidas, mais uma ida marcada sem volume; oito idas ao todo, uma delas à noite. Numa ficha de serviço talvez peçam que você escreva esses totais na linha de baixo; no app eles aparecem na tela de hoje e no relatório sem ninguém somar. Não são metas e não são típicos de ninguém em particular. A única função deles aqui é mostrar como é um dia completo depois de contado.
+
+### O que um profissional vê nele
+
+Oito idas com horário, uma à noite, uma sem medida. Sete volumes medidos, de 150 a 350 ml. Bebidas espalhadas das 7:20 às 19:30 com os tipos anotados. Duas notas, uma perda com o gatilho e uma vontade forte. Horários de deitar e levantar, para a noite poder ser separada do dia. E um dia completo de um despertar ao outro, que é a primeira coisa que conferem, porque a memória sozinha erra até o número de idas.[6] O que esses fatos significam é a consulta; o trabalho do diário era trazê-los.
+
+### O seu dia vai ser diferente
+
+Mais linhas ou menos, outras bebidas, outros horários. O que não muda é o formato: cada bebida, cada ida, um volume ou uma marca, os dois horários que emolduram a noite, e uma nota onde algo aconteceu. [Como manter um diário miccional](https://fluidbalanceapp.com/blog/how-to-keep-a-bladder-diary/) cobre os hábitos que levam até ali, e [como medir a urina em casa](https://fluidbalanceapp.com/blog/how-to-measure-urine-output-at-home/) cobre o copo medidor.
+
+### Perguntas
+
+**Onde anoto a primeira ida da manhã?**
+Como primeira linha do novo dia, depois do seu horário de levantar, com o volume se você mediu. Não é uma ida noturna, porque você já estava de pé, mas pela definição da ICS essa urina foi produzida durante a noite e soma ao volume noturno, então vale a pena medir. Classificar é com o profissional.
+
+**Preciso somar os totais?**
+Não. As fichas dos serviços deixam uma linha de total, e algumas pedem, mas o profissional pode somar; a ficha do NHS diz isso. Se você usa o app, os totais, a contagem de idas e a contagem noturna saem prontos. O que não dá para delegar são as linhas em si.
+
+**E se o meu dia tiver vinte linhas?**
+Vá para a página seguinte e continue. Um dia com muitas linhas é um dia completo, que é o único que o profissional quer; deixar linhas de fora para caber é que é o erro. Nosso modelo tem 24 linhas por página em A4, e o app não tem limite.
+
+### Fontes
+
+1. Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025. https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf
+2. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+3. University Hospitals Sussex NHS Foundation Trust. Bladder record chart: pelvic health physiotherapy patient information. Reference 2198; 2023. https://www.uhsussex.nhs.uk/wp-content/uploads/2023/03/Bladder-Record-chart.pdf
+4. Abrams P, Cardozo L, Fall M, et al. The standardisation of terminology of lower urinary tract function: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):167–178. https://doi.org/10.1002/nau.10052
+5. van Kerrebroeck P, Abrams P, Chaikin D, et al. The standardisation of terminology in nocturia: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):179–183. https://doi.org/10.1002/nau.10053
+6. Stav K, Dwyer PL, Rosamilia A. Women overestimate daytime urinary frequency: the importance of the bladder diary. J Urol. 2009;181(5):2176–2180. https://doi.org/10.1016/j.juro.2009.01.042
+
+Este artigo explica como manter um diário. É informação geral de um desenvolvedor de apps, não é conselho médico: o que o seu diário significa quem diz é o seu médico. Diário preenchido por você. Não é um documento médico.
+
+---
+
+## Como medir a urina em casa para um diário miccional
+Source: https://fluidbalanceapp.com/pt-br/blog/how-to-measure-urine-output-at-home/
+Published: 2026-09-21 · Guia · Por Denis Zinin, desenvolvedor do Diário miccional: Fluid Balance. Não é médico.
+
+Em resumo:
+A urina para um diário miccional se mede em casa de um destes três jeitos: num copo medidor de plástico marcado em mililitros, num coletor apoiado sob o assento do vaso, ou, quando nenhum dos dois dá, guardando o horário e marcando a ida como não medida. Os serviços aceitam os três. O que as fichas do NHS e da BAUS e o diário da Urology Care Foundation pedem primeiro é cada ida com o horário; o volume vem depois. Os detalhes que tornam os números utilizáveis:
+
+- Meça num copo medidor de plástico marcado em mililitros, ou recolha num coletor apoiado sob o assento do vaso. Anote o número na hora.
+- Quando não der para medir, guarde o horário e marque a ida como não medida. Ela continua contando para a frequência e para a contagem noturna.
+- Use uma só unidade no diário inteiro, meça uma vez a sua xícara de sempre para o lado das bebidas, e enxágue o copo ou o coletor depois de cada uso.
+
+Há três jeitos de anotar quanto você elimina para um diário miccional: medir num copo medidor, recolher num coletor apoiado sob o assento do vaso, ou, quando nenhum dos dois dá, guardar o horário e marcar a ida como não medida. Os serviços aceitam os três. O que eles precisam é de cada ida com o horário; o volume vem depois.
+
+### O que o diário está pedindo
+
+«Micção» num diário é o volume de cada ida ao banheiro, em mililitros ou onças líquidas, escrito ao lado do horário. Os volumes eliminados e seus horários são o núcleo da ficha de frequência e volume como a International Continence Society a define, e de todo formato de diário estudado desde então.[1,2] As fichas dos serviços organizam isso de modo diferente: a ficha de balanço da BAUS tem uma coluna SAÍDA diante de cada hora,[3] o diário da Urology Care Foundation pergunta «quanta urina?» a cada ida,[4] e o nosso [modelo para imprimir](https://fluidbalanceapp.com/bladder-diary-template/) tem uma coluna Eliminado marcada «ml ou ✓». Todos aceitam uma marca quando você não pôde medir. Nenhum pergunta se os seus números são normais; o seu médico lê o padrão, você fornece o registro. Como o diário inteiro se encaixa está em [como manter um diário miccional](https://fluidbalanceapp.com/blog/how-to-keep-a-bladder-diary/).
+
+### Jeito 1: um copo medidor
+
+Serve qualquer copo de plástico marcado em mililitros.[5] A BAUS sugere um que comporte pelo menos 500 ml;[3] há em farmácias e no corredor de cozinha do supermercado. Reserve-o só para o diário e deixe-o perto do vaso.
+
+Sente no vaso e segure o copo dentro da bacia. A ficha de fisioterapia do Sussex é específica nisso: sente de verdade, não fique agachado por cima do assento, porque sentado o assoalho pélvico relaxa e você esvazia mais por completo.[6] Homens podem ficar de pé e usar o copo direto.
+
+Ponha o copo numa superfície plana, leia o nível na altura dos olhos e anote o número antes de fazer qualquer outra coisa. Arredonde para o traço mais próximo; a escala não é mais fina do que isso, e o diário também não. Despeje e enxágue o copo com água.
+
+### Jeito 2: um coletor
+
+Um coletor é uma bacia de plástico com borda larga que se apoia sob o assento do vaso, com uma escala impressa por dentro em mililitros e onças líquidas. Os serviços costumam entregar um junto com o diário.[4] Se o seu não entregou, farmácias e lojas on-line vendem como coletor de urina.
+
+Coloque-o sob o assento, mais para a frente da bacia, sente como de costume, leia o nível, anote, esvazie o coletor no vaso e enxágue.[4] Não há nada para segurar, e por isso é a opção mais fácil de noite e quando você está com pressa.
+
+### Jeito 3: quando não dá para medir
+
+No trabalho, numa loja, no meio da noite meio dormindo: guarde o horário e marque a ida. A ficha do NHS e a da BAUS dizem exatamente isso, uma marca na coluna da urina;[3,5] o nosso modelo tem um ✓ na coluna Eliminado; no app é o botão Não medido. A ida continua contando para a frequência e para a contagem noturna. Ela apenas não entra no total de volume.
+
+Uma estimativa também é permitida. Se você mediu por um ou dois dias e sabe como é uma ida comum no seu copo, escreva a estimativa e marque «aprox.». Na dúvida, marque.
+
+O que estraga o diário é uma ida que não foi anotada de jeito nenhum. Uma linha marcada com horário diz algo ao seu médico; uma linha vazia não diz nada.
+
+### Mililitros ou onças líquidas: qual unidade?
+
+Use uma só unidade no diário inteiro, a que estiver impressa na ficha do seu serviço. Se precisar converter:
+
+- 1 onça líquida americana tem cerca de 30 ml (29,6 ml exatos).
+- 1 cup, ou 8 onças líquidas, tem cerca de 240 ml.
+- 100 ml são cerca de 3,4 onças líquidas; uma garrafa de 500 ml, cerca de 17.
+
+O nosso modelo vem nas duas: folhas A4 em mililitros, folhas US Letter em onças líquidas. No app a unidade é um ajuste, e o relatório usa a que você escolheu.
+
+### O lado das bebidas
+
+Medir o que você bebe é mais fácil: a quantidade costuma vir impressa na embalagem. Tamanhos comuns, os mesmos que o nosso modelo e o app usam como quantidades prontas: uma xícara 200–250 ml, um copo 250 ml, uma lata 330 ml, uma garrafinha 500 ml. A Urology Care Foundation lista os equivalentes americanos: uma xícara de 8 oz, uma lata de 12 oz, uma garrafa de 20 oz.[4]
+
+Para a sua própria xícara, copo ou garrafa de água, meça uma vez com o copo medidor e depois use o mesmo recipiente nos dias do diário. A BAUS e a ficha do Sussex sugerem isso.[3,6] Anote também o tipo de bebida: chá, café, água, cerveja; os serviços pedem.[3,7]
+
+### De noite
+
+Antes de dormir, ponha o coletor no lugar ou deixe o copo medidor perto do vaso, e deixe uma luz fraca acesa. Primeiro o horário, depois o volume: se medir não vai acontecer às três da madrugada, marque e volte a dormir.
+
+Anote quando você se deitou e quando levantou. A BAUS pede duas linhas cruzando a coluna do dia, a ficha do NHS pede BED e WOKE na coluna dos horários,[3,5] e o nosso modelo tem um campo para cada um no alto de cada página. É assim que as idas noturnas são contadas.
+
+### Depois de uma cirurgia ou com sonda
+
+Na enfermaria o mesmo registro se chama ficha de entradas e saídas ou ficha de balanço hídrico, e quem preenche é a enfermagem. Se você for para casa com uma sonda, a enfermeira mostrará como ler e esvaziar a bolsa; a linha do diário é a mesma, horário e quantidade. Siga as orientações dela sobre o que registrar e com que frequência.
+
+### Mantenha limpo e simples
+
+Use o copo ou o coletor só para isso e nada mais. Enxágue depois de cada uso,[4] lave com sabão uma vez por dia, lave as mãos. Guarde onde você usa, não dentro do armário. E escreva o número no instante em que tiver: um volume lembrado duas horas depois é um chute.
+
+### Perguntas
+
+**Posso estimar em vez de medir?**
+Quando não der para medir, sim: guarde o horário e marque a ida ou escreva uma estimativa com a nota «aprox.». Se você tem um copo medidor, meça; volumes medidos são o que o serviço pediu. Uma estimativa ou uma marca é para as idas em que o copo não era possível, não para todas.
+
+**Preciso medir de noite?**
+Se der. Um coletor deixado sob o assento antes de dormir facilita tudo: nada para segurar, nada para procurar no escuro. Se não der, marque a ida e guarde o horário. As idas noturnas são contadas pelo horário, não pelo volume, então anote também quando você se deitou e quando levantou.
+
+**E fora de casa?**
+Guarde o horário e marque a ida. Um copo medidor pequeno cabe na bolsa, mas ninguém espera que você carregue um; um banheiro público é uma marca perfeitamente legítima. O erro é deixar a ida de fora, não deixar o volume de fora.
+
+### Fontes
+
+1. Abrams P, Cardozo L, Fall M, et al. The standardisation of terminology of lower urinary tract function: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):167–178. https://doi.org/10.1002/nau.10052
+2. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+3. British Association of Urological Surgeons. Information from BAUS about assessing fluid intake & output. Patient leaflet F24/016. BAUS; 2024. https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Input%20output%20chart.pdf
+4. Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025. https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf
+5. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+6. University Hospitals Sussex NHS Foundation Trust. Bladder record chart: pelvic health physiotherapy patient information. Reference 2198; 2023. https://www.uhsussex.nhs.uk/wp-content/uploads/2023/03/Bladder-Record-chart.pdf
+7. European Association of Urology, Patient Information. I want to know about keeping a bladder diary. Uroweb. https://patients.uroweb.org/condition/urinary-incontinence/bladder-diary
+
+Este artigo explica como manter um diário. É informação geral de um desenvolvedor de apps, não é conselho médico: o que o seu diário significa quem diz é o seu médico. Diário preenchido por você. Não é um documento médico.
+
+---
+
+## Diário miccional: quantos dias? 3, 7 ou 24 horas
+Source: https://fluidbalanceapp.com/pt-br/blog/bladder-diary-how-many-days/
+Published: 2026-09-12 · Guia · Por Denis Zinin, desenvolvedor do Diário miccional: Fluid Balance. Não é médico.
+
+Um aviso antes de começar: não sou médico. Eu faço o app Diário miccional: Fluid Balance, e este guia é a minha tentativa de reunir num só lugar o que as diretrizes clínicas e as fichas dos serviços dizem sobre quantos dias um diário miccional deve cobrir. As fontes estão no fim; as orientações do seu médico vêm primeiro.
+
+Em resumo:
+Quantos dias um diário miccional deve cobrir é decidido por quem pediu: três dias completos é a resposta mais comum, alguns serviços pedem sete, e 24 horas é o mínimo que uma ficha consegue abarcar. O padrão de qualidade QS77 do NICE pede no mínimo três dias, a International Continence Society descreve diários de três a sete dias, e a ficha da Urology Care Foundation cobre três dias que não precisam ser seguidos. Seja qual for o número, completo importa mais que longo:
+
+- O número que o seu serviço deu é o que vale; o texto abaixo explica de onde vêm os três dias, os sete e as 24 horas.
+- Os dias não precisam ser seguidos, a menos que a sua ficha peça, mas devem incluir dias de tipos diferentes: um de trabalho e um de folga.
+- Um dia vai de um despertar ao outro. Um diário curto com todos os dias completos vale mais que um longo com falhas.
+
+Três dias completos é a resposta mais comum: um diário miccional de 3 dias. Alguns serviços pedem um diário de 7 dias, e 24 horas é o mínimo que uma ficha consegue cobrir. O número que pediram a você é o que vale; o texto abaixo explica de onde vêm esses números, para que a orientação faça sentido em vez de parecer arbitrária. Uma regra está acima de todas: um diário curto com todos os dias completos vale mais que um longo com falhas.
+
+### Quantos dias um diário miccional deve cobrir?
+
+| Quem | Por quanto tempo | Observações |
+|---|---|---|
+| NICE, padrão de qualidade sobre incontinência urinária em mulheres[1,2] | Pelo menos 3 dias | Deve cobrir variações da atividade habitual, como dias de trabalho e de lazer |
+| International Continence Society[3] | Pelo menos 24 horas para uma ficha de frequência e volume | Dois ou três dias, não necessariamente seguidos, dão dados mais úteis |
+| Urology Care Foundation (AUA)[4] | Pelo menos 3 dias | Três dias típicos quaisquer; não precisam ser seguidos; um único dia pode não dar um quadro verdadeiro |
+| Ficha de balanço da BAUS[5] | 3 dias normais seguidos | Incluindo dias de trabalho ou de descanso conforme o caso |
+| Ficha de frequência e volume do NHS Gloucestershire[6] | 3 dias | Um diário miccional de três dias |
+| Nosso modelo e o app | Até 7 dias | Uma linha de «dias registrados» para o profissional ver o quanto está completo |
+
+Entidades diferentes, um mesmo tema: três dias é o piso em quase todo lugar, e os dias devem se parecer com a sua vida real.
+
+### Por que três
+
+Três não é um número redondo escolhido por conveniência. Uma revisão sistemática das fichas de frequência e volume concluiu que as evidências não permitiam recomendações firmes sobre a duração, mas que o consenso em torno de fichas de três dias ou mais era a política mais defensável.[7] Em dois grandes ensaios sobre bexiga hiperativa, diários de três dias foram tão eficazes quanto os de sete, e os autores notaram que um diário mais curto pode reduzir a tendência de preencher falhas de memória.[8] Um estudo que sorteou pacientes entre diários de dois, três ou sete dias concluiu que a versão de sete aumentava a carga e recomendou menos dias.[9] E um estudo de diários em pacientes com problemas vesicais de origem neurológica encontrou três dias comparáveis a sete para número de idas, volume por ida, vontade urgente e volume diário, sendo os episódios de perda a única medida em que três dias ficaram no limite.[10]
+
+A mesma literatura é honesta sobre uma ressalva: não existe um único diário plenamente validado, e os formatos mudam de serviço para serviço.[11] É por isso que a orientação do seu próprio serviço — três dias na ficha deles, sete na nossa — vale mais que qualquer coisa escrita aqui.
+
+### Por que não um único dia
+
+Um dia é um retrato, e é mais provável que seja um dia atípico: uma viagem longa, uma noite tarde, um dia em que você bebeu menos que o normal. A Urology Care Foundation diz sem rodeios: um diário de um dia pode não dar informação suficiente para um quadro verdadeiro.[4] No estudo neurológico citado acima, os registros do primeiro dia diferiram de forma significativa da média de sete dias em todas as medidas.[10] Dois ou três dias suavizam isso.
+
+### Quando sete dias fazem sentido
+
+Alguns profissionais pedem uma semana. Uma semana contém um fim de semana, então o diário cobre os dois tipos de dia sem que ninguém precise planejar. Também contém sete noites, o que importa quando a pergunta é sobre levantar de noite. O preço é o esforço: sete dias completos exigem disciplina,[9] e uma semana com dois dias em branco vale menos que três dias cheios. Se pedirem sete, o conselho prático é facilitar o registro de cada dia, manter a folha ou o celular por perto e marcar com honestidade quais dias estão completos.
+
+### Diários miccionais de 24 horas
+
+Vinte e quatro horas é o mínimo que a International Continence Society descreve para uma ficha de frequência e volume.[3] Alguns serviços usam um único dia como conferência rápida antes ou depois de um tratamento. Se foi isso que lhe deram, trate como um dia completo: comece ao acordar, registre tudo até acordar na manhã seguinte, e não deixe linhas em branco porque é «só um dia».
+
+### Os dias precisam ser seguidos?
+
+Normalmente não. A Urology Care Foundation pede três dias típicos quaisquer,[4] e a International Continence Society observa que dois ou três dias não precisam ser consecutivos.[3] O NICE vai além e pede que os dias cubram atividades diferentes, tanto de trabalho quanto de lazer,[1,2] o que é mais fácil de arranjar quando se pode espalhá-los. Algumas fichas, a da BAUS entre elas, pedem dias seguidos;[5] se a sua pede, siga a ficha.
+
+### Um dia vai de um despertar ao outro
+
+Comece cada dia do diário ao se levantar e siga até se levantar na manhã seguinte.[4] A noite pertence ao dia em que começou. Anote quando foi se deitar e quando levantou; é assim que as idas noturnas se separam das do dia.
+
+### Se você perder um dia
+
+Não reconstrua de memória à noite. Deixe-o marcado como incompleto e acrescente outro dia completo no lugar. Nosso modelo tem uma linha para isso na última página, dias registrados de sete, e o app conta os dias registrados para você; de um jeito ou de outro, o profissional vê de relance com o que está lidando. [Como manter um diário miccional](https://fluidbalanceapp.com/blog/how-to-keep-a-bladder-diary/) conta o que entra em cada um desses dias.
+
+### Perguntas
+
+**Pediram sete dias. Posso parar nos três?**
+Faça o que pediram; o profissional escolheu sete por algum motivo, muitas vezes para ver uma semana inteira com o fim de semana, ou mais noites. Se sete dias completos não forem realistas, três completos ganham de sete com buracos, então diga isso na consulta e mostre os dias que você terminou.
+
+**Devo incluir um fim de semana?**
+Sim, se der. O NICE pede diários que cubram dias de trabalho e de lazer, e a Urology Care Foundation pede dias típicos. Um dia de escritório e um dia em casa costumam parecer diferentes num diário, e o seu médico quer ver os dois.
+
+**Um diário de 24 horas basta?**
+É o mínimo que a International Continence Society descreve para uma ficha de frequência e volume, e alguns serviços usam isso como uma foto rápida. Um único dia tem mais chance de ser atípico, por isso a maioria pede mais. Se o que lhe deram foi uma ficha de 24 horas, leve-a de um despertar ao outro e preencha todas as linhas.
+
+### Fontes
+
+1. National Institute for Health and Care Excellence. Urinary incontinence in women. Quality standard QS77, quality statement 2: bladder diaries and lifestyle changes. London: NICE; 2015. https://www.nice.org.uk/guidance/qs77/chapter/quality-statement-2-bladder-diaries-and-lifestyle-changes
+2. National Institute for Health and Care Excellence. Urinary incontinence and pelvic organ prolapse in women: management. NICE guideline NG123. London: NICE; 2019. https://www.nice.org.uk/guidance/ng123
+3. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+4. Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025. https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf
+5. British Association of Urological Surgeons. Information from BAUS about assessing fluid intake & output. Patient leaflet F24/016. BAUS; 2024. https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Input%20output%20chart.pdf
+6. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+7. Yap TL, Cromwell DC, Emberton M. A systematic review of the reliability of frequency-volume charts in urological research and its implications for the optimum chart duration. BJU Int. 2007;99(1):9–16. https://doi.org/10.1111/j.1464-410X.2006.06499.x
+8. Dmochowski RR, Sanders SW, Appell RA, Nitti VW, Davila GW. Bladder-health diaries: an assessment of 3-day vs 7-day entries. BJU Int. 2005;96(7):1049–1054. https://doi.org/10.1111/j.1464-410X.2005.05785.x
+9. Ku JH, Jeong IG, Lim DJ, Byun SS, Paick JS, Oh SJ. Voiding diary for the evaluation of urinary incontinence and lower urinary tract symptoms: prospective assessment of patient compliance and burden. Neurourol Urodyn. 2004;23(4):331–335. https://doi.org/10.1002/nau.20027
+10. Konstantinidis C, Kratiras Z, Samarinas M, Skriapas K. Optimal bladder diary duration for patients with suprapontine neurogenic lower urinary tract dysfunction. Int Braz J Urol. 2016;42(4):766–772. https://doi.org/10.1590/S1677-5538.IBJU.2015.0292
+11. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+
+Este artigo explica como manter um diário. É informação geral de um desenvolvedor de apps, não é conselho médico: o que o seu diário significa quem diz é o seu médico. Diário preenchido por você. Não é um documento médico.
+
+---
+
+## Como manter um diário miccional: o que anotar, passo a passo
+Source: https://fluidbalanceapp.com/pt-br/blog/how-to-keep-a-bladder-diary/
+Published: 2026-09-12 · Guia · Por Denis Zinin, desenvolvedor do Diário miccional: Fluid Balance. Não é médico.
+
+Um aviso antes de começar: não sou médico. Eu faço o app Diário miccional: Fluid Balance, e este guia é a minha tentativa de reunir num só lugar o que as diretrizes clínicas e as fichas dos serviços pedem quando mandam você manter um diário miccional. As fontes estão no fim; as orientações do seu médico vêm primeiro.
+
+Em resumo:
+Um diário miccional se mantém anotando, na hora em que acontecem, cada bebida e cada ida ao banheiro com o horário, pelos três a sete dias que um profissional pede. É o registro que as diretrizes do NICE, a International Continence Society e a Urology Care Foundation pedem quando se avaliam frequência, vontade urgente, perdas ou idas noturnas. No papel ou num app, são os mesmos hábitos que o tornam útil:
+
+- Anote cada bebida e cada ida ao banheiro com o horário, na hora em que acontecem, pelos três a sete dias que pediram a você.
+- Meça a urina com um copo medidor ou um coletor quando der. Quando não der, marque a ida e guarde o horário: ela conta do mesmo jeito.
+- Anote a que horas você se deitou e levantou, marque as idas noturnas e leve todas as páginas. Um diário curto e completo vale mais que um longo com falhas.
+
+Um diário miccional é um registro escrito do que você bebe, do que você elimina e de quando, mantido por alguns dias para que o seu médico veja o padrão em vez de confiar na memória, que costuma errar os números.[1] Mantê-lo se resume a quatro hábitos: escrever o horário na hora, anotar cada bebida com a quantidade, medir a urina quando der e marcar a ida quando não der, e assinalar o que aconteceu de noite.
+
+Seu urologista, seu clínico, um enfermeiro ou um fisioterapeuta pélvico pode chamá-lo de diário de micções, ficha de frequência e volume ou calendário miccional; a International Continence Society define cada um desses termos.[2,3] No hospital o mesmo registro é a ficha de balanço hídrico. As colunas são praticamente as mesmas; o nome depende de quem entrega a folha.
+
+### Para que serve um diário miccional, e por que pediram
+
+O diário responde perguntas que uma consulta não consegue responder. Com que frequência você vai ao longo de um dia e uma noite inteiros? Quanto sai de cada vez? Qual a relação disso com o que você bebeu, e quando? Quantas vezes você se levanta à noite?
+
+A International Continence Society define a ficha de frequência e volume como o registro do horário e do volume de cada micção por pelo menos 24 horas, e o diário miccional como esse mesmo registro mais a ingestão de líquidos, as perdas e o uso de absorventes.[2,3] Os serviços pedem um antes da primeira consulta e voltam a usá-lo para ver se um tratamento está funcionando.[4] O que os números significam é com o seu médico. O seu trabalho é um registro completo e honesto.
+
+### O que anotar num diário miccional
+
+Um diário miccional tem cinco colunas: o horário, o que você bebeu e quanto, quanto você eliminou (ou uma marca de não medido), se foi de noite, e uma nota. Cinco colunas cobrem quase toda ficha de serviço.
+
+- **Horário.** Cada bebida e cada ida, escritos quando acontecem. O horário importa tanto quanto a quantidade: o mesmo volume às três da tarde e às três da madrugada dizem coisas diferentes para um profissional.
+- **O que você bebeu, e quanto.** O tipo e a quantidade: 250 ml de chá, uma lata de 330 ml, uma garrafinha de 500 ml. Meça uma vez a sua xícara de sempre, o seu copo e a sua garrafa com um copo medidor e reutilize os números.
+- **Quanto você eliminou.** Em mililitros ou onças líquidas, com um copo medidor ou um coletor que se apoia sob o assento do vaso. Se você urinou mas não conseguiu medir, ponha uma marca e guarde o horário. É exatamente o que diz a ficha do NHS.[5]
+- **Noite.** Anote quando foi se deitar e quando levantou, e marque cada ida no meio disso.[5,6] Com os horários de deitar e levantar na folha, seu médico consegue separar o dia da noite.
+- **Notas.** Uma vontade forte, uma perda e mais ou menos quanto, uma troca de absorvente, dor, qualquer coisa fora do comum. Algumas fichas têm colunas próprias para vontade e perdas; se a sua tiver, use.
+
+### Antes de começar
+
+1. **Arranje algo para medir.** Serve qualquer copo medidor de cozinha com marcação em mililitros; a Urology Care Foundation sugere um copo medidor de cozinha ou uma xícara cuja capacidade você conhece.[7] Os serviços costumam dar um coletor. Deixe-o perto do vaso e enxágue depois de cada uso.
+2. **Meça uma vez os recipientes do dia a dia.** Sua xícara, seu copo, sua garrafa de água. Dali em diante você escreve o número, não um chute.
+3. **Escolha os dias.** A maioria dos serviços pede três; alguns pedem sete, e a pesquisa sobre a duração de um diário aponta na mesma direção.[9] O padrão de qualidade do NICE para mulheres com incontinência urinária pede pelo menos três dias que incluam dias de trabalho e de folga,[4] e a Urology Care Foundation pede três dias típicos que não precisam ser seguidos.[7] Se lhe disseram um número, é esse.
+4. **Deixe a folha onde você vai usá-la.** Perto do vaso, no bolso ou no celular. Um diário que você não tem por perto não é preenchido.
+5. **Siga a vida normalmente.** O diário existe para mostrar dias normais.[8] Não beba menos para que ele fique mais arrumadinho.
+
+### Um dia preenchido, linha por linha
+
+Estas são três linhas do exemplo resolvido na primeira página do nosso [modelo para imprimir](https://fluidbalanceapp.com/bladder-diary-template/):
+
+(Image: Três linhas de exemplo do modelo para imprimir: 7:20, bebidos 250 ml de chá, eliminados 320 ml; 9:40, uma marca de não medido, com a nota «com pressa, pequena perda»; 3:10, eliminados 180 ml, marcados como noite)
+
+- **7:20.** Uma xícara de chá, 250 ml, e a primeira ida da manhã, 320 ml, medida no copo medidor.
+- **9:40.** Uma ida com pressa: sem tempo de medir, então uma marca no lugar de um número e uma nota sobre uma pequena perda. A ida conta do mesmo jeito.
+- **3:10.** 180 ml no meio da noite. Recebe marca na coluna Noite porque aconteceu entre deitar e levantar.
+
+Três linhas, e um profissional já vê uma micção medida, uma sem medida que conta assim mesmo e uma ida noturna com o volume dela. Um dia inteiro tem mais linhas, mas cada uma é igualmente simples. Percorremos um dia inteiro, as quinze linhas, em [Exemplo de diário miccional: um dia inteiro, linha por linha](https://fluidbalanceapp.com/blog/bladder-diary-example/).
+
+Ou mantenha o mesmo diário no [app Diário miccional: Fluid Balance](https://fluidbalanceapp.com/): as mesmas colunas, dois toques por registro, sempre no bolso, e grátis.
+
+### Erros que estragam um diário
+
+- **Preencher de memória à noite.** Os horários escorregam e as idas pequenas somem; até o número de idas é lembrado errado.[1] Escreva na hora.
+- **Pular uma ida porque não deu para medir.** Uma ida marcada com horário ainda mostra com que frequência você vai e quantas vezes levantou de noite. Uma ida que falta não mostra nada. Uma estimativa é melhor que um buraco.
+- **Deixar de fora os horários de deitar e levantar.** Sem eles não dá para contar as idas noturnas.
+- **Parar no meio.** Dois dias completos valem mais que quatro com falhas. Estar completo é a primeira coisa que um profissional confere.
+- **Mudar seus hábitos por causa do diário.** Pular o chá da noite por três dias esconde justamente o padrão que o diário deveria mostrar.
+
+### Levar à consulta
+
+Leve todas as páginas, inclusive os dias com falhas, e diga quais dias estão completos.[7,8] Nosso modelo tem uma linha para isso na última página: dias registrados, de sete. Fotografe cada página como cópia antes de entregar.
+
+Se você manteve o diário num app, exporte o relatório e imprima, mande por e-mail para o serviço ou mostre no celular. Alguns profissionais preferem papel; uma página impressa nunca é errado.
+
+Se você começou ou parou um remédio durante os dias do diário, escreva nas notas. Não mude nada por causa do diário.
+
+### Papel ou app
+
+Uma folha de papel funciona, e os serviços estão acostumados. Um app coloca o horário sozinho, faz os totais e gera um relatório no fim. Se você prefere papel, o [modelo gratuito](https://fluidbalanceapp.com/bladder-diary-template/) tem as mesmas colunas do app, em A4 e US Letter, em páginas inteiras ou cadernos para dobrar. Se você prefere o celular, o [Diário miccional: Fluid Balance](https://fluidbalanceapp.com/) leva dois toques por registro e nunca comenta seus números.
+
+### Quem costuma ter de manter um
+
+Noctúria, bexiga hiperativa, incontinência, acompanhamento depois de uma infecção urinária, próstata aumentada antes e depois da cirurgia, fisioterapia do assoalho pélvico, recuperação depois de uma sonda. O registro é o mesmo em todos os casos. O que o profissional procura nele muda, e essa parte é dele.
+
+### Perguntas
+
+**Preciso medir todas as vezes?**
+Não. Meça quando estiver em casa e tiver à mão um copo medidor ou um coletor para o vaso; nas outras vezes, marque a ida e guarde o horário. Um registro sem volume continua contando para a frequência e para as idas da noite. Cara mesmo é a linha que você não escreveu, não o volume que não deu para medir.
+
+**Os dias precisam ser seguidos?**
+Não necessariamente. A Urology Care Foundation pede três dias comuns, que não precisam ser seguidos, e o NICE pede pelo menos três dias incluindo dias de trabalho e de descanso. Faça como lhe orientaram. Se não disseram nada específico, escolha dias que você consiga terminar, e não dias vizinhos no calendário. Mais detalhes: quantos dias bastam (https://fluidbalanceapp.com/pt-br/blog/bladder-diary-how-many-days/).
+
+**E se eu esquecer de anotar?**
+Anote o que você tem certeza e deixe o resto em branco. Não reconstrua o dia de memória: a memória erra na frequência e nos volumes, e é justamente por isso que o diário existe. Se um dia inteiro ficou sem registro, acrescente um dia no fim em vez de contar o que ficou com falhas, e diga na consulta qual dia ficou incompleto.
+
+### Fontes
+
+1. Stav K, Dwyer PL, Rosamilia A. Women overestimate daytime urinary frequency: the importance of the bladder diary. J Urol. 2009;181(5):2176–2180. https://doi.org/10.1016/j.juro.2009.01.042
+2. Abrams P, Cardozo L, Fall M, et al. The standardisation of terminology of lower urinary tract function: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):167–178. https://doi.org/10.1002/nau.10052
+3. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+4. National Institute for Health and Care Excellence. Urinary incontinence in women. Quality standard QS77, quality statement 2: bladder diaries and lifestyle changes. London: NICE; 2015. https://www.nice.org.uk/guidance/qs77/chapter/quality-statement-2-bladder-diaries-and-lifestyle-changes
+5. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+6. European Association of Urology, Patient Information. I want to know about keeping a bladder diary. Uroweb. https://patients.uroweb.org/condition/urinary-incontinence/bladder-diary
+7. Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025. https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf
+8. British Association of Urological Surgeons. Information from BAUS about assessing fluid intake & output. Patient leaflet F24/016. BAUS; 2024. https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Input%20output%20chart.pdf
+9. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+
+Este artigo explica como manter um diário. É informação geral de um desenvolvedor de apps, não é conselho médico: o que o seu diário significa quem diz é o seu médico. Diário preenchido por você. Não é um documento médico.
+
+---
+
+## Diário miccional: Fluid Balance 1.0 está na App Store
+Source: https://fluidbalanceapp.com/pt-br/blog/fluid-balance-1-0/
+Published: 2026-08-29 · Novidade · Por Denis Zinin, desenvolvedor do Diário miccional: Fluid Balance.
+
+Diário miccional: Fluid Balance 1.0 chegou à App Store em 29 de agosto de 2026. É um diário miccional para iPhone e Apple Watch: o que você bebe, o que você elimina e quando, mantido pelos três a sete dias que um médico pede, com um relatório PDF no fim. O app é gratuito; o Pro é uma compra única.
+
+Este post é o registro do que a primeira versão contém. As versões seguintes terão seus próprios posts, para que sempre haja um lugar onde ver o que mudou e quando.
+
+### O que há na 1.0
+
+**Registrar.** Toque em + Ingestão ou + Micção e depois numa quantidade: 100, 200, 250, 330 ou 500 ml, ou «Personalizado» para um número exato. O registro fica salvo com a hora. «Não medido» anota uma ida ao banheiro sem volume; conta para a frequência e para os eventos noturnos e fica de fora dos totais. Qualquer registro pode ser editado depois: hora, tipo, volume e uma nota.
+
+
+**Hoje.** INGERIDO, ELIMINADO e BALANÇO no alto da tela, os registros do dia abaixo, e uma fileira de dias recentes para você se mover entre eles.
+
+
+**Estatísticas.** Uma grade das últimas cinco semanas mostrando quais dias têm diário. As análises avançadas, parte do Pro, acrescentam cinco gráficos: ingestão e micção por dia, volumes por hora, idas noturnas ao longo do tempo, a distribuição dos volumes eliminados e os intervalos entre as idas. O primeiro gráfico é grátis.
+
+
+**Relatório.** Um PDF para qualquer período, disposto como um diário miccional costuma ser lido: totais diários, cada volume eliminado com a hora, eventos noturnos, dias registrados e as médias que um profissional olha. Imprima, mande por e-mail ou mostre no celular. A exportação CSV de todo o histórico é grátis.
+
+
+**Widgets e Apple Watch.** Um widget da tela de início e um da tela bloqueada, com os totais do dia e os dois botões. O app do Apple Watch tem as mesmas quantidades e «Não medido».
+
+
+**iCloud.** Os registros sincronizam entre os seus próprios aparelhos pelo seu banco de dados privado do iCloud. Não há conta nem servidor nosso.
+
+**Lembrete.** Um lembrete diário opcional para preencher o diário, desligado por padrão. O texto dele nunca diz para que serve o app.
+
+**Apagar todos os dados.** Um passo nos ajustes. Limpa o aparelho e, se o iCloud estiver ligado, a sua cópia no iCloud.
+
+**Idiomas.** Inglês, alemão, francês, espanhol, italiano, português (Brasil), russo, japonês, coreano e chinês simplificado. O relatório PDF também é traduzido; o CSV continua em inglês.
+
+### Grátis e Pro
+
+Registrar, a tela de hoje, as estatísticas, os widgets, o Apple Watch, o iCloud e a exportação CSV são grátis enquanto você usar o app. O Pro é uma compra única, não uma assinatura: acrescenta o relatório PDF, a página de análises avançadas e um ícone escuro. Nada interrompe um registro para pedir que você compre.
+
+### Privacidade
+
+A etiqueta de privacidade na App Store é «Dados não coletados». O app não tem analytics, nem relatórios de falhas, nem publicidade, nem código de terceiros. Os registros ficam no seu aparelho e, se você ligar, no seu próprio iCloud. A [política de privacidade](https://fluidbalanceapp.com/privacy/) tem os detalhes.
+
+### O que ele não faz
+
+Não diagnostica, não compara seus registros com nenhuma referência, não os interpreta e não lembra você de beber. Ele anota o que você conta e devolve o registro. Se diários miccionais são novidade para você, [como manter um diário miccional](https://fluidbalanceapp.com/blog/how-to-keep-a-bladder-diary/) explica o que anotar e por quê.
+
+### Requisitos
+
+iPhone com iOS 18 ou mais recente. Apple Watch com watchOS 11 ou mais recente. No iPad roda como app de iPhone. Categoria na App Store: Medicina. Tamanho do download: cerca de 11 MB.
+
+### Histórico de versões
+
+| Versão | Data | O que mudou |
+|---|---|---|
+| 1.2 | 26 de outubro de 2026 | Intensidade da vontade, lembretes só nos dias sem registros, cartão de ontem, formato de 12 ou 24 horas, iPhone Duo, widget grande, quatro idiomas novos |
+| 1.0 | 29 de agosto de 2026 | Primeira versão |
+
+Dúvidas ou pedidos: a [ajuda](https://fluidbalanceapp.com/support/) tem as respostas às mais comuns e o endereço para escrever.
+
+---

@@ -1,0 +1,1082 @@
+# Blasentagebuch: Fluid Balance
+
+> Blasentagebuch: Fluid Balance ist eine kostenlose App für iPhone und Apple Watch. Sie hält fest, was Sie trinken und was Sie ausscheiden, und passt zum 3–7-Tage-Tagebuch, um das Ihre Praxis gebeten hat: aus den Einträgen entsteht ein PDF-Bericht. Kein Konto, Ihre Daten bleiben auf Ihrem Telefon. Kostenlos und Pro. Erfassen, Statistik, Widgets, Apple Watch, iCloud und CSV-Export sind kostenlos. Pro bringt den PDF-Bericht und die Erweiterte Auswertung, einmaliger Kauf, kein Abo. Keine Kaufaufforderung, während Sie erfassen.
+
+Keine Anmeldung, kein Name, kein Geburtsdatum. App öffnen und anfangen. So steht es im Datenschutzhinweis im App Store — das ist kein Versprechen, sondern eine Angabe. Es gibt keinen Server, an den etwas gehen könnte. Die optionale Erinnerung kommt nur an Tagen ohne Einträge und sagt nie, wofür die App ist. Standardmäßig aus.
+
+Keine Bewertung, keine Normwerte. Nur was Sie erfasst haben. Von Denis Zinin, Entwickler von Blasentagebuch: Fluid Balance. Kein Arzt. Selbst geführtes Tagebuch. Kein medizinisches Dokument.
+
+App Store: https://apps.apple.com/app/id6803224992 (category Medical; version 1.2.1, first released 2026-08-29; requires iOS 18.0 or later, watchOS 11.0 or later; App Store privacy label "Data Not Collected"). Languages: English, Deutsch, Français, Español, Italiano, Português (Brasil), Русский, 日本語, 한국어, 简体中文, 繁體中文, Polski, Svenska, Čeština. iPad: Eine vollwertige iPad-Version ist in Arbeit — bald bei Ihnen.
+
+---
+
+## Blasentagebuch-App für iPhone & Apple Watch
+Source: https://fluidbalanceapp.com/de/
+
+Kostenloses Blasentagebuch für iPhone und Apple Watch: das 3–7-Tage-Tagebuch für Ihre Praxis, zwei Tipps pro Eintrag, ein PDF-Bericht, Daten bleiben im Telefon.
+
+Einfacher, als ein Papiertagebuch zu führen.: Etwas falsch eingetragen? Ändern Sie den Eintrag an seiner Stelle. Niemand schreibt den ganzen Tag noch einmal ab. Tagessummen, Mittelwerte und die Zahl der nächtlichen Miktionen laufen mit. Keine Summen auf der Rückseite, keine Notizen-App, keine Tabelle. Ihr Telefon haben Sie schon dabei. Zwei Tipps, und der Eintrag ist mit Uhrzeit gespeichert.
+Tipp. Tipp. Fertig.: Auf + Zufuhr oder + Ausscheidung tippen — Zwei Schaltflächen unten am Bildschirm. Sonst gibt es nichts zu wählen. Auf eine Mengenvorgabe tippen — 100, 200, 250, 330 oder 500 ml. Oder „Eigener Wert“, wenn Sie eine genaue Menge haben. Das war der Eintrag — Mit Uhrzeit gespeichert. Keine Formulare, keine Countdowns, keine Bestätigungen. Menge unsicher? Tippen Sie auf Nicht gemessen — die Uhrzeit zählt trotzdem. Wenn Ihre Praxis wissen will, wie stark der Harndrang war, schalten Sie die Stärke des Harndrangs ein und tippen auf dem gleichen Blatt 0 bis 4. Uhrzeit ändern oder eine Notiz hinzufügen, wann Sie wollen. Funktioniert auch über das Widget auf dem Home-Bildschirm und auf der Apple Watch.
+Ein Bericht, der Ihrer Praxis passt.: Summen, Mittelwerte und nächtliche Miktionen, schon ausgerechnet und so aufgebaut, wie ein Miktionstagebuch in der Urologie gelesen wird. Kostenlos und Pro. Erfassen, Statistik, Widgets, Apple Watch, iCloud und CSV-Export sind kostenlos. Pro bringt den PDF-Bericht und die Erweiterte Auswertung, einmaliger Kauf, kein Abo. Keine Kaufaufforderung, während Sie erfassen.
+Ihre Wochen auf einen Blick.: Die letzten fünf Wochen als Raster: Tage mit Tagebuch, Tage ohne. Tippen Sie einen Tag an, um ihn zu öffnen. Keine Bewertung, keine Normwerte. Nur was Sie erfasst haben.
+Ein Tagebuch, jeder Bildschirm.: Widget auf dem Home-Bildschirm — Zufuhr, Ausscheidung und Bilanz auf einen Blick, dazu zwei Schaltflächen zum Erfassen. Apple Watch — Tragen Sie direkt von der Uhr ein: dieselben Mengenvorgaben und „Nicht gemessen“, das Telefon bleibt in der Tasche. Widget auf dem Sperrbildschirm — Die Summen des Tages unter der Uhr, ohne das Telefon zu entsperren. iPad — Eine vollwertige iPad-Version ist in Arbeit — bald bei Ihnen.
+Geführt bei Nykturie, Reizblase, Inkontinenz, Nachsorge bei Blasenentzündung, Prostata — vor und nach einer Operation, und von allen, die ein Blasentagebuch führen (https://fluidbalanceapp.com/de/blog/how-to-keep-a-bladder-diary/) sollen.
+
+---
+
+## Hilfe zu Blasentagebuch: Fluid Balance
+Source: https://fluidbalanceapp.com/de/support/
+
+### Erste Schritte
+
+**Ist sie kostenlos?**
+Ja, die App ist kostenlos. Erfassen, die Tagesübersicht, das Statistikraster, Widgets, Apple Watch, iCloud und der CSV-Export bleiben kostenlos, so lange Sie die App nutzen. Pro ist ein optionaler einmaliger Kauf und bringt den PDF-Bericht und die erweiterten Diagramme. Es gibt kein Abo, und nichts unterbricht einen Eintrag mit einer Kaufaufforderung.
+
+**Brauche ich ein Konto?**
+Nein. Keine Anmeldung, kein Name, kein Geburtsdatum. App öffnen und anfangen.
+
+**Ich kann nicht gut mit Apps umgehen. Schaffe ich das?**
+Zwei Schaltflächen und eine Liste von Mengen. Es gibt nichts einzurichten.
+
+**Was trage ich ein?**
+Die Uhrzeit, was Sie getrunken haben und wie viel, was Sie ausgeschieden haben oder ein Häkchen bei „Nicht gemessen“, ob es eine nächtliche Miktion war, und eine Notiz, wenn etwas passiert ist. Es gibt eine ausführliche Anleitung mit Beispiel: wie man ein Blasentagebuch führt (https://fluidbalanceapp.com/de/blog/how-to-keep-a-bladder-diary/).
+
+**Wie viele Tage soll ich es führen?**
+So viele, wie man Sie gebeten hat. Die meisten Praxen wollen drei bis sieben vollständige Tage, und ein vollständiges kurzes Tagebuch ist mehr wert als ein langes mit Lücken. Woher diese Zahlen kommen: wie viele Tage genug sind (https://fluidbalanceapp.com/de/blog/bladder-diary-how-many-days/).
+
+**Funktioniert sie auf der Apple Watch? Welches iPhone?**
+Apple Watch: die gleichen Mengenvorgaben und „Nicht gemessen“, dazu ZU, AUS und BILANZ des Tages. iPhone mit iOS 18 oder neuer, iPhone Duo inklusive — auf dem breiten Bildschirm hat das Tagebuch ein eigenes Layout. Auf dem iPad läuft die App vorläufig als iPhone-App; volle iPad-Unterstützung kommt in einem späteren Update.
+
+**Welche Sprachen?**
+Englisch, Deutsch, Französisch, Spanisch, Italienisch, Portugiesisch (Brasilien), Russisch, Japanisch, Koreanisch, Chinesisch (vereinfacht), Chinesisch (traditionell), Polnisch, Schwedisch und Tschechisch — 14 insgesamt. Der PDF-Bericht ist ebenfalls übersetzt; die CSV-Datei bleibt auf Englisch.
+
+### Erfassen
+
+**Ich kenne die genaue Menge nicht. Was trage ich ein?**
+Eine Schätzung. Ein fehlender Eintrag ist schlimmer als ein ungenauer, und nichts in der App markiert Ihre Daten als unzuverlässig. Wenn Sie gar nicht gemessen haben, nehmen Sie „Nicht gemessen“ — der Eintrag zählt für die Häufigkeit und für nächtliche Ereignisse und bleibt aus den Mengensummen heraus.Messbecher, Toilettenaufsatz und Schätzen: wie man die Urinmenge zu Hause misst (https://fluidbalanceapp.com/de/blog/how-to-measure-urine-output-at-home/).
+
+**Kann ich die Uhrzeit ändern oder eine Notiz hinzufügen?**
+Ja. Öffnen Sie den Eintrag und ändern Sie Uhrzeit, Art oder Menge, oder fügen Sie eine Notiz hinzu.
+
+**Kann ich Harndrang oder Urinverlust eintragen?**
+Den Harndrang ja. Schalten Sie in den Einstellungen die Stärke des Harndrangs ein, dann lässt sich jede Ausscheidung von 0 bis 4 bewerten; die Bewertung steht im Tagebuch, in einem Diagramm, im PDF-Bericht und im CSV-Export. Sie ist standardmäßig aus, ein Eintrag bleibt also bei zwei Tipps, solange Sie nicht mehr wollen. Für Urinverlust gibt es kein eigenes Feld — schreiben Sie ihn in die Notiz zum Eintrag.Was in die Notiz gehört und wie Klinikbögen Harndrang und Urinverlust bewerten: Blasentagebuch bei Reizblase und Urinverlust (https://fluidbalanceapp.com/de/blog/bladder-diary-for-overactive-bladder-and-leaks/).
+
+**Erinnert mich die App ans Trinken?**
+Nein. Es gibt eine optionale Erinnerung ans Führen des Tagebuchs — standardmäßig aus, die Uhrzeit wählen Sie. Sie kommt nur an Tagen ohne Einträge und pausiert, wenn es eine Woche lang keine gibt. Ihr Text sagt nie, wofür die App ist, auf einem gesperrten Bildschirm verrät sie also nichts.
+
+**Kann ich noch sehen, was gestern war?**
+Ja. Solange heute noch kein Eintrag da ist, zeigt eine Karte auf dem Heute-Bildschirm den gestrigen Tag; ein Tipp öffnet ihn.
+
+**Kann ich das 24-Stunden-Format haben?**
+Ja, 12- oder 24-Stunden-Format, wie Sie möchten. Die Einstellung steht in den Einstellungen.
+
+**Werde ich bei jedem Eintrag zum Kauf aufgefordert?**
+Nie. Pro sehen Sie nur, wenn Sie den Bericht oder die erweiterten Diagramme öffnen.
+
+### Der Bericht und Ihre Daten
+
+**Wie bekomme ich meine Zahlen heraus?**
+Per CSV-Export aus den Einstellungen, über die gesamte Historie, ohne Einschränkung. Der PDF-Bericht (Pro) ist so aufgebaut, wie ein Blasentagebuch üblicherweise gelesen wird.
+
+**Kann ich den Bericht ausdrucken oder per E-Mail senden?**
+Ja. Das PDF lässt sich ausdrucken, teilen, per E-Mail senden oder auf dem Telefon zeigen.
+
+**Wo sind meine Daten? Und wenn mein Telefon kaputtgeht?**
+Auf Ihrem Gerät und, wenn Sie iCloud einschalten, in Ihrer eigenen privaten iCloud-Datenbank. Es gibt keinen Server und kein Konto. Exportieren Sie jederzeit eine CSV-Datei als eigene Sicherung. Siehe die Datenschutzerklärung (https://fluidbalanceapp.com/de/privacy/).
+
+**Wie lösche ich alles?**
+Einstellungen, „Alle Daten löschen“. Ein Schritt, eine Bestätigung. Das räumt das Gerät und, wenn eingeschaltet, Ihre iCloud-Kopie.
+
+**Kann die App mir sagen, ob meine Zahlen normal sind?**
+Nein, und sie wird es nie tun. Sie hält fest, was Sie ihr sagen, und zeigt Ihnen die Summen. Keine Ziele, keine Normwerte, keine Warnungen, keine Ratschläge. Die Deutung gehört Ihrer Praxis.Was eine Fachperson im Tagebuch liest: was ein Blasentagebuch zeigt (https://fluidbalanceapp.com/de/blog/what-does-a-bladder-diary-show/).
+
+### Pro
+
+**Was genau steckt in Pro?**
+Der PDF-Bericht, die Seite „Erweiterte Auswertung“ (das erste Wochendiagramm ist kostenlos) und das dunkle App-Symbol. Einmaliger Kauf, nichts verlängert sich.
+
+**Ich habe Pro gekauft, auf meinem anderen Gerät erscheint es nicht.**
+Nutzen Sie „Einkäufe wiederherstellen“ in den Einstellungen, angemeldet mit demselben Apple-Account.
+
+Contact: denacidapp@gmail.com
+
+---
+
+## Blasentagebuch-Vorlage: kostenloses PDF zum Ausdrucken (A4 & Letter)
+Source: https://fluidbalanceapp.com/de/bladder-diary-template/
+
+Kostenlose Blasentagebuch-Vorlage als PDF: A4 in ml, US Letter in oz und Hefte zum Falten. Sieben Tage, ein Tag pro Seite, mit Ausfüllanleitung.
+
+Downloads: https://fluidbalanceapp.com/downloads/bladder-diary-a4.pdf (A4, ml), https://fluidbalanceapp.com/downloads/bladder-diary-letter.pdf (US Letter, oz), https://fluidbalanceapp.com/downloads/bladder-diary-a5.pdf (A5 booklet, ml), https://fluidbalanceapp.com/downloads/bladder-diary-letter-half.pdf (half-Letter booklet, oz). Die Blätter selbst sind auf Englisch — die Spalten sind dieselben.
+Was auf dem Blatt steht: Sieben Tage, ein Tag pro Seite. Spalten: Uhrzeit · was Sie getrunken haben · was Sie ausgeschieden haben · Nacht · Notiz. Oben auf jeder Seite die Nummer des Tages, das Datum und die Zeiten, zu denen Sie zu Bett gegangen und aufgestanden sind; auf der letzten Seite eine Zeile für erfasste Tage ▢ von 7 — das Erste, worauf eine Praxis schaut. Die erste Seite erklärt mit einem Beispiel, wie man ausfüllt. In Kliniken heißt dasselbe Blatt Miktionstagebuch, Miktionsprotokoll oder Trink- und Miktionsprotokoll; ein 3-Tage-Blasentagebuch sind einfach die ersten drei Seiten. Die Spalten sind die, die man dort erwartet.
+So füllen Sie es aus: 1. Schreiben Sie die Uhrzeit sofort hin — Nicht am Ende des Tages. Die Uhrzeit jedes Eintrags zählt genauso wie die Menge. 2. Getränke: nehmen Sie die Menge auf Tasse oder Flasche — Eine Tasse sind etwa 200–250 ml, ein Glas 250, eine Dose 330, eine kleine Flasche 500. 3. Urin: messen, wenn es geht, sonst schätzen — Ein Messbecher oder ein Toilettenaufsatz genügt. Wenn Sie gar nicht gemessen haben, setzen Sie das Häkchen bei „nicht gemessen“ — der Eintrag zählt trotzdem.Mehr dazu: wie man die Urinmenge zu Hause misst (https://fluidbalanceapp.com/de/blog/how-to-measure-urine-output-at-home/). 4. Markieren Sie nächtliche Einträge — Alles zwischen dem Zubettgehen und dem Aufstehen am Morgen.
+Drei Tage oder sieben?: Die meisten Leitlinien verlangen ein 3-Tage-Tagebuch mit vollständigen Tagen; manche Praxen bitten um sieben. Vollständig zählt mehr als lang — halten Sie sich an das, um was man Sie gebeten hat. Warum drei, und wann sieben sinnvoll sind (https://fluidbalanceapp.com/de/blog/bladder-diary-how-many-days/).
+Worauf es beruht: Das Layout folgt den Tagebüchern, die urologische Einrichtungen schon benutzen, damit Ihre Praxis alles dort findet, wo sie es erwartet: Miktionsprotokoll, Gloucestershire Hospitals NHS Foundation Trust (https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf) — das ✓ für eine Miktion ohne Messung, Zubett- und Aufstehzeiten, ein ausgefülltes Beispiel. Bladder Diary, Urology Care Foundation (American Urological Association) (https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf) — freie Zeilen statt eines festen Stundenrasters, Gefäßgrößen als Anhaltspunkt, Tage, die nicht aufeinanderfolgen müssen. International Continence Society, Terminologie des Blasentagebuchs (https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary) — was ein Blasentagebuch erfasst, und Zubett- und Aufstehzeiten, um nächtliche Miktionen zu zählen. NICE-Qualitätsstandard QS77 (https://www.nice.org.uk/guidance/qs77/chapter/quality-statement-2-bladder-diaries-and-lifestyle-changes) — ein Tagebuch über mindestens drei Tage. Die Spalten entsprechen der App {appName}, ein Papiertagebuch und die App lesen sich also gleich. Zusammengestellt vom Entwickler der App, nicht von einer Fachperson. Wenn Ihre Praxis Ihnen einen eigenen Bogen gegeben hat, nehmen Sie den.
+
+---
+
+## Bestes kostenloses Blasentagebuch: was vor dem Installieren zählt
+Source: https://fluidbalanceapp.com/de/blog/best-free-bladder-diary-app/
+Published: 2026-11-13 · Anleitung · Von Denis Zinin, Entwickler von Blasentagebuch: Fluid Balance. Kein Arzt.
+
+Kurz gefasst:
+Das beste kostenlose Blasentagebuch ist das, welches am Tag des Termins noch die Frage Ihrer Klinik beantwortet, und das meiste davon klärt sich vor dem Installieren:
+
+- Kostenlos heißt vier verschiedene Dinge: ganz kostenlos, kostenlos mit Werbung, eine Testphase, die endet, und kostenloses Erfassen mit Bericht oder Export hinter einem Kauf. Welches davon gilt, steht vor dem Laden auf der App-Store-Seite.
+- Ein Tagebuch ohne Menge pro Gang ist nicht das, worum die Klinik gebeten hat. Die Leitlinien verlangen Zeitpunkt und Menge jeder Miktion über mindestens drei Tage.
+- Öffnen Sie den Export am ersten Tag, nicht in der Nacht vor dem Termin. Eine Analyse von Blasentagebuch-Apps aus dem Jahr 2026 fand bei den meisten klinische Angaben fehlend und den Schutz der Gesundheitsdaten schwach.
+
+Niemand kann Ihnen sagen, welches kostenlose Blasentagebuch für Sie das beste ist, und in dieser Ecke des App Store stammen die meisten Bestenlisten von Apps, die selbst darin vorkommen. Vor dem Installieren klären lässt sich etwas anderes: ob eine App an dem Tag noch hilft, an dem Sie das Tagebuch in der Praxis abgeben. Das hängt davon ab, was sie erfasst, wie viele Tage sie trägt, was mit Ihren Einträgen geschieht und ob Sie das Tagebuch am Ende wieder herausbekommen. Wir machen eine dieser Apps, lesen Sie die letzten beiden Abschnitte also mit diesem Wissen. Die Prüfungen davor gelten für jede App, auch für unsere.
+
+### Was heißt kostenlos bei einer Blasentagebuch-App?
+
+Vier verschiedene Geschäfte laufen unter demselben Wort, und die App-Store-Seite verrät vor dem Laden, welches davon vorliegt.
+
+Manche Apps sind ganz kostenlos, es gibt nichts zu zahlen und nichts freizuschalten. Manche sind kostenlos, weil Werbung sie bezahlt, auch um drei Uhr nachts, auf der Toilette, mitten im Eintrag. Manche geben eine Testphase von ein bis zwei Wochen, danach stoppt das Erfassen oder sperrt das bereits Eingetragene, mitten in den aufeinanderfolgenden Tagen, um die die Klinik gebeten hat. Am häufigsten ist das vierte: kostenlos erfassen, bezahlen fürs Herausholen. Das Eintragen kostet nichts, und Bericht, Export oder Diagramme liegen hinter einem Kauf.
+
+Zwei Zeilen auf der App-Store-Seite klären, welches Geschäft es ist: die Liste der In-App-Käufe, die nennt, was verkauft wird und ob es sich verlängert, und die Datenschutzangaben. Ein Tagebuch führt man meist einige Tage, deshalb sind ein Abo und ein einmaliger Kauf nicht dasselbe.
+
+### Was das Tagebuch erfassen muss
+
+Der Bogen der Klinik hat eine Spalte für die Menge in Millilitern, und genau diese Spalte lässt eine App am ehesten weg.
+
+Die Europäische Gesellschaft für Urologie trennt in ihrer Leitlinie zu Symptomen des unteren Harntrakts beim Mann zwei Dokumente. Ein Miktionsprotokoll erfasst Zeitpunkt und Menge jeder Miktion; ein Blasentagebuch ergänzt Trinkmenge, Vorlagen, Aktivitäten und Symptombewertungen, und die Leitlinie bittet um mindestens drei Tage davon.[1] Die International Continence Society beschreibt das Blasentagebuch genauso: Miktionsmengen mit Uhrzeit, dazu Episoden von Harnverlust, Vorlagen und Trinkmenge.[2] Eine Übersicht zur Evidenz über Inhalt, Form und Dauer von Tagebüchern kommt zum selben Schluss: wofür das Tagebuch gedacht ist, bestimmt, was darin stehen muss.[3]
+
+Eine App, die Tipps zählt, liefert eine Zahl von Gängen. Das ist eine Zeile des Bogens, um den die Klinik gebeten hat, und die gemessenen Mengen sind der Teil, den später niemand rekonstruieren kann. Das Erste, worauf Sie in den Screenshots achten sollten, ist also ein Zahlenfeld für die Menge, in Millilitern oder Unzen, und eine Möglichkeit, einen Gang ohne gemessene Menge einzutragen. Ohne das Zweite lassen die Leute den Eintrag ganz weg, und ein fehlender Eintrag ist schlimmer als ein ungenauer.
+
+### Sieben Prüfungen vor dem Installieren
+
+- Eine Menge bei jedem Gang, in Millilitern oder Unzen, und eine Möglichkeit, einen nicht gemessenen Gang zu kennzeichnen.
+- Die Uhrzeit wird automatisch gesetzt und lässt sich ändern, wenn Sie eine halbe Stunde später eintragen.
+- Nächte von Tagen getrennt: eine Nachtmarkierung oder Zeiten für Zubettgehen und Aufstehen.
+- Drei bis sieben Tage in einem Tagebuch, denn das ist die Spanne, um die Kliniken bitten. Die Forschung zu Tagebüchern über drei und über sieben Tage fand, dass das kürzere vergleichbare Messwerte liefert und zuverlässiger ausgefüllt wird.[4]
+- Ein Platz für Harndrang, Harnverlust und Vorlagen, als Felder oder wenigstens als Notiz.
+- Ein Export, den die Praxis lesen kann: eine druckbare Seite oder ein PDF, kein Screenshot eines Diagramms.
+- Die Datenschutzangaben, und ob überhaupt ein Konto nötig ist, bevor die App etwas aufzeichnet.
+
+Diese sieben kosten etwa zwei Minuten auf der App-Store-Seite, und nach keiner davon sortieren die Bestenlisten.
+
+### Was kostenlos später kostet
+
+Der übliche Fehlschlag kommt am letzten Tag: drei Tage erfasst, und dann liegt der Bericht hinter einem Kauf, mit dem Sie nicht gerechnet haben, oder die Einträge verlassen die App in keiner Form, die in der Praxis lesbar wäre.
+
+Eine Analyse elektronischer Blasentagebuch-Apps aus dem Jahr 2026 fand, dass den meisten wichtige klinische Angaben fehlten, dass keine Fachleute an ihrer Entwicklung beteiligt waren und dass der Schutz der Gesundheitsdaten schwach war; die Autoren schlossen, dass Apps den validierten Papiertagebüchern noch nicht gleichkommen.[5]
+
+Die Prüfung kostet nichts. Öffnen Sie am ersten Tag, solange nichts zu verlieren ist, den Export- oder Berichts-Bildschirm und sehen Sie, was passiert. Wird Geld verlangt, haben Sie noch die Wahl einer anderen App und keine Einträge, die mitgenommen werden müssten.
+
+### Reicht eine kostenlose App für den Termin?
+
+Ja, wenn sie Zeitpunkt und Menge jedes Gangs enthält, die Nächte getrennt hält, die verlangten Tage abdeckt und das Ergebnis in lesbarer Form herausgibt. Kliniken bitten um das Tagebuch, weil es festhält, was geschehen ist, und nicht, woran Sie sich erinnern,[6] und eine kostenlose App mit jedem Gang darin schlägt eine bezahlte mit Lücken in der zweiten Nacht.
+
+Deuten soll das Ergebnis keine App. Ihre Zahlen bedeuten etwas neben Ihrer Vorgeschichte, und dieses Lesen gehört in die Praxis.
+
+### Was bei Fluid Balance kostenlos ist und was Pro ergänzt
+
+Kostenlos, so lange Sie die App nutzen: Trinkmenge und Ausscheidung in zwei Tipps erfassen, mit Voreinstellungen und der Möglichkeit, einen Gang ohne gemessene Menge einzutragen, die optionale Bewertung des Harndrangs von 0 bis 4, die Tagesübersicht, das Statistikraster, Widgets für Home- und Sperrbildschirm, die Apple-Watch-App, iCloud-Synchronisierung ohne Konto, der CSV-Export und die 12- oder 24-Stunden-Anzeige. In den Datenschutzangaben steht Keine Daten erfasst: kein Konto, kein Server, keine Analytik in der App.
+
+Pro ist ein einmaliger Kauf und kein Abo: dazu kommen der PDF-Bericht für die Praxis, die Seite mit der erweiterten Auswertung (das erste Wochendiagramm ist kostenlos) und ein dunkles App-Symbol. Nichts unterbricht einen Eintrag mit einer Kaufaufforderung. All das sehen Sie beim ersten Start, und wie die App Bildschirm für Bildschirm aussieht, steht auf [ihrer eigenen Seite](https://fluidbalanceapp.com/).
+
+### Wenn Sie lieber nichts installieren
+
+Die [kostenlose Druckvorlage](https://fluidbalanceapp.com/bladder-diary-template/) hat dieselben Spalten: A4 in Millilitern, US Letter in Unzen, Faltheftchen, eine Seite pro Tag und die Anleitung auf dem Blatt. In der Praxis liest man sie genauso wie den Bericht aus der App, und genau dafür bleiben beide gleich aufgebaut.
+
+So oder so ist das beste kostenlose Blasentagebuch das, in dem am dritten Tag jeder Gang steht und aus dem ein Bericht kommt, den Sie ausdrucken können.
+
+### Fragen
+
+**Gibt es ein völlig kostenloses Blasentagebuch?**
+Erfassen lassen mehrere Apps kostenlos. Bezahlt wird meist der Teil, den Sie am Ende brauchen: der druckbare Bericht, der Export oder die Diagramme. Das ist in Ordnung, solange Sie es am ersten Tag wissen. Achten Sie auf der App-Store-Seite auf die Zeile In-App-Käufe und öffnen Sie den Preis-Bildschirm der App, bevor drei Tage Einträge darin stehen.
+
+**Wie erkenne ich, was eine kostenlose App mit meinen Einträgen macht?**
+Drei Stellen, alle in einer Minute gelesen: die Datenschutzangaben auf der App-Store-Seite, die entweder Keine Daten erfasst zeigen oder auflisten, was mit Ihnen verknüpft wird; ob die App ein Konto verlangt, bevor sie überhaupt etwas aufzeichnet; und die Datenschutzerklärung. Eine Analyse von Blasentagebuch-Apps aus dem Jahr 2026 fand den Schutz der Gesundheitsdaten bei den meisten schwach.
+
+**Akzeptiert die Praxis ein Tagebuch aus einer App?**
+In der Regel ja, wenn darin steht, was auch im Bogen der Klinik steht: Zeitpunkt und Menge jedes Gangs, was Sie getrunken haben, Nächte getrennt von Tagen und die Tage, um die gebeten wurde. Bringen Sie es ausgedruckt oder als PDF mit, manche Behandelnden mögen Papier auf dem Tisch. Hat die Klinik einen eigenen Bogen mit eigenen Skalen gegeben, füllen Sie diesen aus.
+
+### Quellen
+
+1. European Association of Urology. EAU Guidelines on the Management of Non-neurogenic Male LUTS. Arnhem: EAU; 2026. Chapter 4, Diagnostic evaluation. https://uroweb.org/guidelines/management-of-non-neurogenic-male-luts/chapter/diagnostic-evaluation
+2. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+3. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+4. Dmochowski RR, Sanders SW, Appell RA, Nitti VW, Davila GW. Bladder-health diaries: an assessment of 3-day vs 7-day entries. BJU Int. 2005;96(7):1049–1054. https://doi.org/10.1111/j.1464-410X.2005.05785.x
+5. Matthews C, Stothers L, Burke C, Petersen K, Macnab A. A framework analysis of electronic bladder diary apps: suitability for clinical decision-making and comparison to validated paper diaries. Neurourol Urodyn. 2026. https://doi.org/10.1002/nau.70410
+6. National Institute for Health and Care Excellence. Urinary incontinence in women. Quality standard QS77, quality statement 2: bladder diaries and lifestyle changes. London: NICE; 2015. https://www.nice.org.uk/guidance/qs77/chapter/quality-statement-2-bladder-diaries-and-lifestyle-changes
+
+Dieser Artikel erklärt, wie man ein Tagebuch führt. Er ist allgemeine Information von einem App-Entwickler, kein medizinischer Rat: Was Ihr Tagebuch bedeutet, entscheidet Ihre Praxis. Selbst geführtes Tagebuch. Kein medizinisches Dokument.
+
+---
+
+## Blasentagebuch vs. Miktionsprotokoll vs. Frequency–Volume Chart
+Source: https://fluidbalanceapp.com/de/blog/bladder-diary-or-frequency-volume-chart/
+Published: 2026-11-02 · Anleitung · Von Denis Zinin, Entwickler von Blasentagebuch: Fluid Balance. Kein Arzt.
+
+Kurz gefasst:
+Blasentagebuch, Miktionsprotokoll und Frequency–Volume Chart sind für die Person, die sie ausfüllt, dasselbe Blatt. Nach den Definitionen der International Continence Society hält ein Frequency–Volume Chart Uhrzeit und Menge jedes Gangs fest, ein Blasentagebuch zusätzlich Getränke, Urinverlust und Einlagen, und ein Miktionszeitprotokoll nur die Uhrzeiten; voiding diary, urinary diary, bladder chart und Ein- und Ausfuhrprotokoll sind dasselbe unter anderen Namen. Nehmen Sie den Bogen, den Sie bekommen haben:
+
+- Ein Frequency–Volume Chart hält Uhrzeit und Menge jedes Gangs fest. Ein Blasentagebuch ist dasselbe plus Getränke, Urinverlust und Einlagen. Ein Miktionszeitprotokoll hält nur die Uhrzeiten fest.
+- Voiding diary, urinary diary, bladder chart und Ein- und Ausfuhrprotokoll sind dasselbe unter anderen Namen. Nehmen Sie den Bogen, den Sie bekommen haben.
+- Wie die Überschrift auch lautet: Auf die Spalten kommt es an — Uhrzeit, Getränk, ausgeschiedene Menge, Nacht und eine Notiz.
+
+Man hat Ihnen gesagt, Sie sollen ein Blasentagebuch führen. Im Merkblatt steht Frequency–Volume Chart. Die Website, die Sie gefunden haben, sagt voiding diary, und die Pflegekraft auf Station nannte es Ein- und Ausfuhrprotokoll. Für Ihre Zwecke ist das dasselbe Blatt. Die Unterschiede, die es tatsächlich gibt, sind klein und definiert; sie stehen unten, damit Sie sich nicht länger über die Überschrift Gedanken machen, sondern über die Spalten.
+
+### Die Kurzfassung
+
+| Begriff | Was es festhält | Wer es so nennt |
+|---|---|---|
+| Miktionszeitprotokoll | Nur die Uhrzeit jedes Gangs, bei Tag und bei Nacht | Forschung, einzelne Praxen |
+| Frequency–Volume Chart (FVC), Miktionsprotokoll | Uhrzeit und Menge jedes Gangs | Urologie in Großbritannien, NHS-Bögen, BAUS |
+| Blasentagebuch | Uhrzeiten und Mengen plus Getränke, Urinverlust, Einlagen, Harndrang | Leitlinien im In- und Ausland, NICE |
+| Voiding diary, urinary diary, micturition diary | Dasselbe wie das Blasentagebuch | US-Kliniken und Fachliteratur |
+| Bladder record chart, bladder chart | Dasselbe wie das Blasentagebuch | Physiotherapie |
+| Ein- und Ausfuhrprotokoll, Flüssigkeitsbilanz | Getränke und Urin über 24 Stunden; im Krankenhaus auch Infusionen und andere Verluste | Station und Pflege; die BAUS nennt so ihr FVC |
+
+### Was ist der Unterschied zwischen Blasentagebuch und Frequency–Volume Chart?
+
+Die International Continence Society, die die Begriffe der Urologie festlegt, beschreibt drei Stufen der Aufzeichnung.[1,3] Ein Miktionszeitprotokoll notiert nur die Uhrzeiten der Gänge, bei Tag und bei Nacht, über mindestens 24 Stunden. Ein Frequency–Volume Chart ergänzt die Menge jedes Gangs. Ein Blasentagebuch ergänzt die Trinkmenge, den Einlagenverbrauch, die Inkontinenz-Episoden und das Ausmaß der Inkontinenz und kann zusätzlich Harndrang und die Tätigkeiten rund um einen Urinverlust festhalten.[1,2,3] Jede Stufe beantwortet mehr Fragen als die davor, und das Blasentagebuch ist das, was die meisten Leitlinien meinen, wenn sie „ein Tagebuch“ verlangen: NICE etwa bittet Frauen, die mit Harninkontinenz kommen, ein Blasentagebuch über mindestens drei Tage zu führen.[10]
+
+### Warum es so viele Namen gibt
+
+Zum Teil Geografie, zum Teil Geschichte. Eine Übersichtsarbeit musste nach neun verschiedenen Begriffen suchen, um dieselbe Art von Aufzeichnung zu finden: micturition chart, micturition diary, frequency volume chart, bladder chart, bladder diary, urinary chart, urinary diary, voiding chart und voiding diary.[4] Amerikanische Bögen sagen eher voiding oder bladder diary; der Patientenbogen der Urology Care Foundation heißt schlicht „Bladder Diary“.[7] Britische Bögen behalten oft den älteren klinischen Namen, auch wenn sie vollständige Tagebücher sind: Der Bogen des NHS Gloucestershire trägt die Überschrift „Frequency Volume Chart, Three Day Bladder Diary“ und hat Spalten für Getränke, Urin, Blasenempfinden und Einlagen,[5] und das Merkblatt der BAUS erklärt sein input/output chart als „auch bekannt als frequency-volume chart oder bladder diary“.[6] Die Physiotherapie hat ihre eigene Variante, das bladder record chart, mit demselben Inhalt.[8]
+
+### Ein- und Ausfuhrprotokolle und Flüssigkeitsbilanzen
+
+Diese beiden Namen kommen von der Station. Eine Flüssigkeitsbilanz ist eine pflegerische Aufzeichnung von allem, was in einen Patienten hineingeht, und allem, was herauskommt — Infusionen, Drainagen und Erbrochenes eingeschlossen — und dient der Flüssigkeitssteuerung im Krankenhaus.[9] Wenn eine Pflegekraft Sie nach einer Operation oder mit einem Katheter nach Hause schickt und sagt, Sie sollen „Ein- und Ausfuhr aufschreiben“, meint sie meist die einfache Fassung: was Sie getrunken und was Sie ausgeschieden haben, mit Uhrzeiten. Das ist ein Frequency–Volume Chart mit Getränkespalte — und genau deshalb kann die BAUS diesen Namen für ihr urologisches Merkblatt verwenden.[6] Die Spalten unserer [Vorlage zum Ausdrucken](https://fluidbalanceapp.com/bladder-diary-template/) decken das ab.
+
+### Dasselbe in anderen Sprachen
+
+Führen Sie das Tagebuch in einer anderen Sprache, ändert sich der Begriff, das Blatt aber nicht: bladder diary oder voiding diary auf Englisch, calendrier mictionnel auf Französisch, diario miccional auf Spanisch, diario minzionale auf Italienisch, 排尿日誌 auf Japanisch. Im Deutschen gibt es zwei gebräuchliche Namen, Blasentagebuch und Miktionsprotokoll, und sie meinen dasselbe. Die App läuft in denselben Sprachen wie diese Website und druckt den Bericht in der Sprache, die Sie wählen — eine deutsche Urologin bekommt also deutsche Spaltenüberschriften.
+
+### Was das für Sie bedeutet
+
+Nehmen Sie den Bogen, den Sie bekommen haben. Hat Ihre Praxis „Frequency–Volume Chart“ gesagt und Ihnen ein Blatt mit Getränkespalte gegeben, tragen Sie die Getränke ein. Hat sie „Blasentagebuch“ gesagt und das Blatt hat Spalten für Harndrang und Urinverlust, benutzen Sie sie. Hat sie Ihnen nichts gegeben und nur gesagt „führen Sie ein Tagebuch“, genügt jedes Formular mit Uhrzeit, Getränk, ausgeschiedener Menge, Nacht und einer Notiz; genau das verwenden [Vorlage](https://fluidbalanceapp.com/bladder-diary-template/) und App, sodass ein Papiertagebuch und ein App-Tagebuch sich gleich lesen. Die Überschrift war nie das Problem. Die leeren Zeilen sind es.
+
+### Fragen
+
+**Ist ein voiding diary dasselbe wie ein Blasentagebuch?**
+In der Praxis ja. „Voiding diary“ ist der übliche amerikanische Ausdruck, „bladder diary“ der übliche britische; die Fachliteratur verwendet beide, dazu urinary diary, micturition diary und bladder chart. Hat ein Bogen Spalten für Getränke und für Urin mit Uhrzeiten, ist es ein Blasentagebuch, ganz gleich, was oben steht.
+
+**Meine Praxis sagte Frequency–Volume Chart. Halte ich trotzdem Getränke fest?**
+Streng genommen hält ein Frequency–Volume Chart nur Uhrzeiten und Mengen des ausgeschiedenen Urins fest. Die meisten Klinikbögen dieses Namens fragen trotzdem nach Getränken, so der Bogen des NHS Gloucestershire und der Bogen der BAUS. Richten Sie sich nach dem Bogen: Gibt es eine Getränkespalte, füllen Sie sie aus; gibt es keine, schadet es nie, die Getränke auf einer eigenen Zeile zu notieren.
+
+**Was ist ein Miktionszeitprotokoll?**
+Das einfachste der drei: nur die Uhrzeit jedes Gangs, bei Tag und bei Nacht, über mindestens 24 Stunden. Keine Mengen, keine Getränke. Es beantwortet die Frage „wie oft“ und sonst nichts — was einer Fachperson manchmal genügt.
+
+### Quellen
+
+1. Abrams P, Cardozo L, Fall M, et al. The standardisation of terminology of lower urinary tract function: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):167–178. https://doi.org/10.1002/nau.10052
+2. Haylen BT, de Ridder D, Freeman RM, et al. An International Urogynecological Association (IUGA)/International Continence Society (ICS) joint report on the terminology for female pelvic floor dysfunction. Neurourol Urodyn. 2010;29(1):4–20. https://doi.org/10.1002/nau.20798
+3. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+4. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+5. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+6. British Association of Urological Surgeons. Information from BAUS about assessing fluid intake & output. Patient leaflet F24/016. BAUS; 2024. https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Input%20output%20chart.pdf
+7. Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025. https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf
+8. University Hospitals Sussex NHS Foundation Trust. Bladder record chart: pelvic health physiotherapy patient information. Reference 2198; 2023. https://www.uhsussex.nhs.uk/wp-content/uploads/2023/03/Bladder-Record-chart.pdf
+9. Scales K, Pilsworth J. The importance of fluid balance in clinical practice. Nurs Stand. 2008;22(47):50–57. https://doi.org/10.7748/ns2008.07.22.47.50.c6634
+10. National Institute for Health and Care Excellence. Urinary incontinence and pelvic organ prolapse in women: management. NICE guideline NG123. London: NICE; 2019. https://www.nice.org.uk/guidance/ng123
+
+Dieser Artikel erklärt, wie man ein Tagebuch führt. Er ist allgemeine Information von einem App-Entwickler, kein medizinischer Rat: Was Ihr Tagebuch bedeutet, entscheidet Ihre Praxis. Selbst geführtes Tagebuch. Kein medizinisches Dokument.
+
+---
+
+## Blasentagebuch: Fluid Balance 1.2 ist im App Store
+Source: https://fluidbalanceapp.com/de/blog/fluid-balance-1-2/
+Published: 2026-10-26 · App-Update · Von Denis Zinin, Entwickler von Blasentagebuch: Fluid Balance.
+
+Version 1.2 ist im App Store, und es geht fast nur um eine Sache: Sie können jetzt festhalten, wie stark der Harndrang vor einem Gang war. Der Rest sind kleine Verbesserungen für den Alltag.
+
+### Wie stark war der Harndrang?
+
+In einem Blasentagebuch bei überaktiver Blase und Urinverlust wird der Harndrang vor jedem Gang bewertet — und bis jetzt konnte die App das nicht. Um das zu nutzen, schalten Sie es in den Einstellungen ein: **Stärke des Harndrangs**. Danach bekommt jeder Eintrag für die Ausscheidung einen Chip **Harndrang bewerten** mit fünf Stufen:
+
+- **0** Kein Harndrang
+- **1** Normaler Harndrang
+- **2** Starker Harndrang
+- **3** Gerade noch geschafft
+- **4** Nicht geschafft
+
+
+Stufe 4 heißt, dass auf dem Weg zur Toilette Urin entwichen ist; sie bleibt deshalb an ihrem Gang hängen, statt ein eigenes Ereignis zu werden, das Ihre Zählungen anschließend zusammenbringen müssten.
+
+**Nicht bewertet ist nicht null.** Ein Eintrag, den Sie nicht bewertet haben, speichert überhaupt nichts — dieselbe Regel wie „Nicht gemessen“ bei der Menge. Ein unbewerteter Tag zeigt im Bericht einen Strich, keine Reihe Nullen, und die Mittelwerte entstehen aus den Einträgen, die tatsächlich eine Bewertung tragen. Eine Null bedeutet in dieser App immer, dass Sie „Kein Harndrang“ gewählt haben.
+
+**Wo die Bewertung auftaucht.** Neben dem Eintrag im Tagebuch. Im PDF-Bericht als zwei Zeilen — Stufen 3–4 pro Tag und Stufe 4 pro Tag — dazu eine Spalte in der Tabelle nach Tagen. Im CSV als neue Spalte am Ende, angehängt statt eingefügt, damit eine Tabelle oder ein Skript auf Basis des alten Exports weiter funktioniert. Ist im Zeitraum nichts bewertet, lässt der Bericht den Abschnitt weg, statt einen leeren zu drucken.
+
+Solange Sie es nicht einschalten, bleibt ein Eintrag zwei Tipps.
+
+### Eine Erinnerung, die nicht mehr nervt
+
+Wir achten auf Ihre Aufmerksamkeit: Eine Erinnerung soll nicht zum Hintergrundrauschen werden. Früher kam sie jeden Tag zur gewählten Uhrzeit, solange die App installiert war. Jetzt kommt sie nur an Tagen ohne Einträge, und nach einer Woche ohne pausiert sie von selbst. Ein Tagebuch führt man drei bis sieben Tage; eine Erinnerung, die im zweiten Monat noch eintrifft, ist nur eine Mitteilung zum Ausschalten.
+
+
+### Einfacher Zugang zu gestern
+
+Solange heute noch leer ist, trägt der Heute-Bildschirm eine Karte mit den Einträgen von gestern, und ein Tipp öffnet diesen Tag. Am häufigsten geht ein Tagebuchtag so verloren: Man denkt am nächsten Morgen daran.
+
+
+### Außerdem in 1.2
+
+- **12- oder 24-Stunden-Format**, wie Sie möchten, in den Einstellungen.
+- **Volle Unterstützung für iPhone Duo.**
+- **Ein großes Widget für den Home-Bildschirm**, neben dem kleinen und dem auf dem Sperrbildschirm.
+- **Vier neue Sprachen:** Polnisch, Schwedisch, Tschechisch und traditionelles Chinesisch, damit sind es vierzehn. Der PDF-Bericht wird mit der Oberfläche übersetzt; CSV bleibt englisch.
+- **Schneller, wenn viele Einträge zusammengekommen sind**, dazu etliche kleine Korrekturen.
+
+### Was gleich geblieben ist
+
+Das Datenschutz-Label im App Store lautet weiterhin „Keine Daten erfasst“: kein Konto, kein Server, keine Analyse in der App, kein Fremdcode. Die Einträge leben auf Ihrem Gerät und, wenn Sie es einschalten, in Ihrer eigenen privaten iCloud-Datenbank — Einzelheiten stehen in der [Datenschutzerklärung](https://fluidbalanceapp.com/privacy/). Die App stellt weiterhin keine Diagnosen, vergleicht Ihre Einträge mit keiner Norm und erinnert Sie nicht ans Trinken; die Stärke des Harndrangs ist eine Zahl, die Sie eingegeben haben, und was sie bedeutet, ist ein Gespräch mit Ihrer Fachperson. Erfassen, Heute, Statistik, Widgets, Apple Watch, iCloud und CSV-Export bleiben kostenlos, und Pro ist weiterhin ein einmaliger Kauf statt eines Abos.
+
+### Voraussetzungen
+
+iPhone mit iOS 18 oder neuer, iPhone Duo eingeschlossen. Apple Watch mit watchOS 11 oder neuer. Auf einem iPad läuft die App als iPhone-App. App-Store-Kategorie: Medizin.
+
+Fragen oder Wünsche: In der [Hilfe](https://fluidbalanceapp.com/support/) stehen die Antworten auf die häufigen und die Adresse zum Schreiben.
+
+---
+
+## Blasentagebuch auf Papier oder als App: was die Studien sagen
+Source: https://fluidbalanceapp.com/de/blog/paper-bladder-diary-or-app/
+Published: 2026-10-26 · Anleitung · Von Denis Zinin, Entwickler von Blasentagebuch: Fluid Balance. Kein Arzt.
+
+Kurz gefasst:
+Blasentagebuch auf Papier oder als App — die Studien beantworten diese Frage mit einem Unentschieden: elektronische und Papiertagebücher sind ähnlich zuverlässig, und die Unterschiede liegen darin, wann die Leute ausfüllen und wie viel zusammengezählt wird. Entscheidend ist, ob jeder Gang sofort festgehalten wird, an jedem angeforderten Tag:
+
+- Beides funktioniert. Studien finden elektronische und Papiertagebücher ähnlich zuverlässig; die Unterschiede liegen darin, wann ausgefüllt wird und wie viel zusammengezählt wird.
+- Papier wird häufiger nachträglich ausgefüllt, als Leute zugeben. Elektronische Tagebücher setzen Zeitstempel, aber einer Untersuchung von Blasen-Apps fehlten bei den meisten klinische Grundlagen wie Harndrang, Urinverlust oder Datenschutz.
+- Wählen Sie ein Format für das ganze Tagebuch, prüfen Sie, ob es alles erfasst, was Ihre Praxis verlangt hat, und bringen Sie das Ergebnis in einer Form mit, die die Praxis lesen kann.
+
+Papier oder App ist die falsche erste Frage. Die erste Frage lautet, ob das Tagebuch sofort ausgefüllt wird, mit jedem Gang, an jedem angeforderten Tag. Beide Formate, das Papierblatt und ein digitales Blasentagebuch in einer App, können das — und bei beiden kann es misslingen. Dieser Text geht durch, was die Forschung beim Vergleich tatsächlich gefunden hat, was einer neueren Untersuchung von Blasen-Apps fehlte, und wie Sie wählen, ohne am Ende ein halbes Tagebuch auf Papier und ein halbes auf dem Telefon zu haben. Wir machen eine App — lesen Sie den letzten Abschnitt mit diesem Wissen.
+
+### Was Papier gut kann
+
+Die Praxen kennen es. Der Bogen kommt mit den Spalten, die die Praxis will, in ihrer eigenen Skala für Harndrang oder Urinverlust, und die Fachperson kann darauf schreiben. Es gibt nichts zu installieren und nichts zu lernen, es funktioniert in einer Krankenhaustoilette ohne Telefon, und wer ausfüllt, darf achtzig sein und nie ein Smartphone besessen haben. Für ein Dreitagetagebuch, das mit dem Terminbrief kommt, ist Papier ein völlig taugliches Werkzeug.
+
+### Wo Papier versagt
+
+Es wird nachträglich ausgefüllt. Der klarste Beleg stammt aus einer Studie, die einen Sensor im Ordner eines Papiertagebuchs versteckte, um festzuhalten, wann er tatsächlich geöffnet wurde: Die Patienten gaben an, fast immer wie angewiesen ausgefüllt zu haben, der Ordner aber zeigte, dass das nur bei einem kleinen Teil der vorgesehenen Gelegenheiten geschehen war — viele Einträge wurden später in Blöcken geschrieben.[1] Die Blasentagebuch-Forschung sieht dieselbe Neigung von der anderen Seite: In Studien, die Drei- und Siebentagetagebücher verglichen, merken die Autoren an, dass das kürzere Tagebuch die Versuchung verringern dürfte, Lücken aus dem Gedächtnis zu füllen.[2] Und das Gedächtnis taugt dafür schlecht.
+
+Die anderen Schwächen sind praktischer Art. Der Bogen liegt um drei Uhr nachts nicht im Bad. Summen und Nachtzählungen müssen von Hand gebildet werden — oder gar nicht. Und ein Tagebuch auf dem Küchentisch lässt sich leicht verlieren und am Tag des Termins leicht zu Hause vergessen.
+
+### Sind elektronische Blasentagebücher genauer als Papier?
+
+Elektronische Tagebücher tauchten früh in der Fachliteratur auf. Ein elektronisches Tagestagebuch für die überaktive Blase, 2003 geprüft, erfasste Symptomdaten mit Zeitstempeln und wurde als einfach bedienbar bewertet; die Autoren nannten die Echtzeitdaten als wichtigsten Vorteil gegenüber Papier.[3] Eine randomisierte Studie, die ein elektronisches Miktionstagebuch bei Frauen mit Harnsymptomen mit Papier verglich, fand beide bei Wiederholung zuverlässig, mit etwas weniger elektronisch erfassten Gängen und Urinverlusten, und kam zu dem Schluss, dass die elektronische Fassung akzeptabel und zuverlässig sei.[4] Mit anderen Worten: kein Zauber, aber eine solide Alternative, mit dem Zeitstempel als konkretem Gewinn.
+
+### Was einer Untersuchung von Apps fehlte
+
+Dass das Format funktioniert, heißt nicht, dass jede App es tut. Eine Analyse von Blasentagebuch-Apps aus dem Jahr 2026, gemessen am Inhalt validierter Papiertagebücher, fand, dass den meisten Apps wichtige klinische Inhalte fehlten, dass keine Fachleute beteiligt waren und dass es um die Sicherheit der Gesundheitsdaten schlecht stand; sie schloss, dass weitere Entwicklung nötig sei, bevor Apps validierten Papiertagebüchern gleichkämen.[5] Die Literatur ist auch ehrlich darin, dass es in keinem Format ein vollständig validiertes Tagebuch gibt, Papier eingeschlossen.[7]
+
+Praktisch gelesen: Beurteilen Sie eine App danach, ob sie festhält, was der Bogen Ihrer Praxis festhält, nicht nach ihren Bewertungen. Die Liste ist kurz:
+
+- **Eine Uhrzeit bei jedem Eintrag**, automatisch gesetzt und änderbar, wenn Sie später eintragen.
+- **Gänge ohne Menge**, damit ein Haken in einer öffentlichen Toilette ein vollwertiger Eintrag bleibt.
+- **Zubett- und Aufstehzeit oder eine Nachtmarkierung**, damit Nächte gezählt werden können.[8]
+- **Platz für Harndrang, Urinverlust und Einlagen**, als Felder oder wenigstens als Notiz.
+- **Ein Export**, den die Praxis lesen kann: ein druckbarer Bericht oder eine Tabelle zum Verschicken.
+- **Was mit den Daten geschieht**: Konto, Server, Werbung. Das Datenschutz-Label im App Store sagt es in einer Zeile.
+- **Ob das Eintragen je unterbrochen wird**, durch Registrierungen oder Zahlungsaufforderungen.
+
+### Wie man ehrlich wählt
+
+Hat Ihre Praxis Ihnen einen Bogen mit eigenen Skalen gegeben, nehmen Sie den Bogen. Hat man Ihnen nur gesagt „führen Sie ein Tagebuch“ und Sie damit allein gelassen, wählen Sie das Format, das Sie in den entscheidenden Momenten wirklich dabeihaben — für die meisten Menschen ist das das Telefon. Was Sie auch wählen: Wählen Sie einmal. Ein Tagebuch, das sich auf Blatt und Bildschirm verteilt, sind zwei halbe Tagebücher, und keines geht auf. Der Aufwand, ein Tagebuch zu führen, ist real,[6] und das Format, das ihn für Sie senkt, ist das richtige.
+
+Unsere eigene Position, offen gesagt: Blasentagebuch: Fluid Balance trägt einen Gang mit zwei Tipps samt Uhrzeit ein, zählt Nächte, bildet die Summen und druckt einen Bericht, und sein Datenschutz-Label lautet „Keine Daten erfasst“. Der Harndrang hat ein eigenes Feld, eine optionale Bewertung von 0 bis 4; Urinverlust und Einlagen kommen in eine Notiz. Wenn Sie Papier bevorzugen, hat die [kostenlose Vorlage](https://fluidbalanceapp.com/bladder-diary-template/) dieselben Spalten, sodass beide sich gleich lesen und eine Fachperson keinen Unterschied in der Struktur sieht. So oder so macht dasselbe das Tagebuch brauchbar, das die Studien immer wieder finden: Füllen Sie es aus, wenn es passiert.
+
+### Fragen
+
+**Akzeptiert meine Praxis einen Bericht aus einer App?**
+Meistens ja, wenn er dasselbe zeigt wie der Papierbogen: Uhrzeiten, Mengen, Getränke, Nächte und Notizen zu Harndrang oder Urinverlust. Drucken Sie ihn aus oder schicken Sie ihn vorab per E-Mail, wenn das geht; manche Fachleute haben lieber Papier auf dem Tisch. Im Zweifel fragen Sie, wenn das Tagebuch angefordert wird.
+
+**Ist eine App genauer als Papier?**
+Bei den Uhrzeiten ja: Ein Eintrag auf dem Telefon trägt die Uhrzeit, zu der er gemacht wurde, während eine Uhrzeit auf Papier das ist, was Sie hingeschrieben haben. Bei den Mengen nein: Der Becher ist derselbe. In einem randomisierten Vergleich waren elektronische und Papiertagebücher beide zuverlässig, mit etwas weniger elektronisch eingetragenen Gängen und Urinverlusten. Genauigkeit kommt davon, sofort auszufüllen — in welchem Format auch immer.
+
+**Kann ich nicht einfach die Notizen-App nehmen?**
+Können Sie, und das ist besser als nichts. Was fehlt, ist die Struktur: keine Spalten, keine Summen, keine Nachtzählung, und einen Bericht müssen Sie vor dem Termin selbst schreiben. Wenn Sie es so machen, schreiben Sie jede Zeile als Uhrzeit, was, wie viel — und halten Sie Zubett- und Aufstehzeit fest.
+
+### Quellen
+
+1. Stone AA, Shiffman S, Schwartz JE, Broderick JE, Hufford MR. Patient non-compliance with paper diaries. BMJ. 2002;324(7347):1193–1194. https://doi.org/10.1136/bmj.324.7347.1193
+2. Dmochowski RR, Sanders SW, Appell RA, Nitti VW, Davila GW. Bladder-health diaries: an assessment of 3-day vs 7-day entries. BJU Int. 2005;96(7):1049–1054. https://doi.org/10.1111/j.1464-410X.2005.05785.x
+3. Quinn P, Goka J, Richardson H. Assessment of an electronic daily diary in patients with overactive bladder. BJU Int. 2003;91(7):647–652. https://doi.org/10.1046/j.1464-410X.2003.04168.x
+4. Sussman RD, Richter LA, Tefera E, et al. Utilizing technology in assessment of lower urinary tract symptoms: a randomized trial of electronic versus paper voiding diaries. Female Pelvic Med Reconstr Surg. 2016;22(4):224–228. https://doi.org/10.1097/SPV.0000000000000266
+5. Matthews C, Stothers L, Burke C, Petersen K, Macnab A. A framework analysis of electronic bladder diary apps: suitability for clinical decision-making and comparison to validated paper diaries. Neurourol Urodyn. 2026. https://doi.org/10.1002/nau.70410
+6. Ku JH, Jeong IG, Lim DJ, Byun SS, Paick JS, Oh SJ. Voiding diary for the evaluation of urinary incontinence and lower urinary tract symptoms: prospective assessment of patient compliance and burden. Neurourol Urodyn. 2004;23(4):331–335. https://doi.org/10.1002/nau.20027
+7. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+8. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+
+Dieser Artikel erklärt, wie man ein Tagebuch führt. Er ist allgemeine Information von einem App-Entwickler, kein medizinischer Rat: Was Ihr Tagebuch bedeutet, entscheidet Ihre Praxis. Selbst geführtes Tagebuch. Kein medizinisches Dokument.
+
+---
+
+## Blasentagebuch bei überaktiver Blase und Urinverlust: was notieren
+Source: https://fluidbalanceapp.com/de/blog/bladder-diary-for-overactive-bladder-and-leaks/
+Published: 2026-10-19 · Aktualisiert: 2026-10-26 · Anleitung · Von Denis Zinin, Entwickler von Blasentagebuch: Fluid Balance. Kein Arzt.
+
+Kurz gefasst:
+Ein Blasentagebuch bei überaktiver Blase (OAB) und Urinverlust hält zusätzlich zu Getränken, Gängen und Uhrzeiten vier Dinge fest: ob zu einem Gang Harndrang gehörte, ob Sie Urin verloren haben und ungefähr wie viel, ob Sie eine Einlage gewechselt haben, und was Sie dabei gerade taten. Die Definitionen von ICS und IUGA, die Empfehlungen von NICE und AUA und die Klinikbögen von Urology Care Foundation, NHS und BAUS fragen in der einen oder anderen Form genau danach. So notieren Sie es lesbar:
+
+- Bei überaktiver Blase und Inkontinenz hält das Tagebuch vier Dinge mehr fest: Harndrang, Urinverlust und ungefähr wie viel, Einlagenwechsel, und was Sie gerade taten.
+- Nehmen Sie die Skala Ihres Klinikbogens und wechseln Sie sie nicht mittendrin. In einem einfachen Tagebuch kommen alle vier mit der Uhrzeit in die Spalte Notiz.
+- Urinverlust-Episoden reagieren am empfindlichsten auf fehlende Tage; führen Sie jeden angeforderten Tag, auch die guten.
+
+Ein einfaches Blasentagebuch hält Getränke, Gänge und Uhrzeiten fest. Ein Blasentagebuch bei Inkontinenz oder überaktiver Blase (OAB) braucht auf demselben Blatt vier Dinge mehr, denn Harndrang und Urinverlust sind das, worauf die Fachperson schaut: ob zu einem Gang Harndrang gehörte, ob Sie Urin verloren haben und ungefähr wie viel, ob Sie eine Einlage gewechselt haben, und was Sie dabei gerade taten. Dieser Text erklärt, wie Klinikbögen nach diesen vieren fragen, wie Sie jedes Mal gleich bewerten, und wohin damit, wenn Ihr Tagebuch keine Spalte dafür hat.
+
+### Warum gerade diese vier
+
+Die Begriffe sind genau definiert. Harndrang ist ein plötzlicher, zwingender Wunsch zu urinieren, der schwer aufzuschieben ist; Harninkontinenz ist jeder unwillkürliche Urinverlust, und Dranginkontinenz ist ein Verlust, der mit Harndrang einhergeht; und überaktive Blase bedeutet Harndrang, meist mit Häufigkeit und nächtlichen Gängen, mit oder ohne Urinverlust.[1,3] Die amerikanische Leitlinie zur überaktiven Blase nimmt ein Blasentagebuch in die Abklärung auf,[2] und NICE verlangt von Frauen, die mit Inkontinenz kommen, ein Tagebuch über mindestens drei Tage und ordnet die Inkontinenz anhand der Vorgeschichte ein: Verlust bei Belastung wie Husten, Verlust mit Harndrang, oder beides.[4] Die vier zusätzlichen Spalten sind die Art, wie das Tagebuch diese Einordnung stützt. „Urin verloren beim Niesen“ und „Urin verloren auf dem Weg zur Toilette, mit starkem Drang“ sind verschiedene Befunde, und das Tagebuch ist der Ort, an dem dieser Unterschied mit einer Uhrzeit festgehalten wird.
+
+### Wie fragen Klinikbögen nach Harndrang und Urinverlust?
+
+Die Bögen unterscheiden sich in der Formulierung, nicht in der Sache.
+
+- **Urology Care Foundation (AUA).** Für jeden Gang: Hatten Sie starken Harndrang, ja oder nein; haben Sie Urin verloren, und wie viel; was taten Sie gerade, „Niesen, Sport usw.“[5]
+- **NHS Gloucestershire.** Ein Blasenempfindungs-Score von 0 bis 4: 0 keine Empfindung, aus sozialen Gründen gegangen; 1 normales Bedürfnis; 2 Harndrang, der vorüberging; 3 Harndrang, Toilette ohne Verlust erreicht; 4 Harndrang und Urin verloren. Dazu LEAK in der Urinspalte und für jede Einlage ein Haken oder ein Gewicht.[6]
+- **University Hospitals Sussex, Physiotherapie.** Ein Ja für starken, plötzlichen Drang, und eine Schwere des Verlusts: D feucht, W nass, V sehr nass.[7]
+- **BAUS.** Eine Spalte WET mit +, ++ oder +++ für einen kleinen, mittleren oder großen Verlust.[8]
+
+Die Beschreibung eines Blasentagebuchs durch die International Continence Society nennt dieselben Punkte: Inkontinenz-Episoden, das Ausmaß der Inkontinenz, den Einlagenverbrauch und den Harndrang.[9]
+
+### Jedes Mal gleich bewerten
+
+Nehmen Sie eine Skala — die auf Ihrem Bogen — und führen Sie damit das ganze Tagebuch. Eine „3“ am ersten Tag und ein „ziemlich schlimm“ am dritten lassen sich nicht vergleichen, und der Vergleich ist der Sinn der Sache. Hat Ihr Bogen keine Skala, genügen für den Verlust drei Stufen — klein, mittel oder groß — und für den Harndrang ein Ja oder Nein. Schreiben Sie es sofort auf; ein Verlust, an den man sich abends erinnert, wird gern zu „ein bisschen“, was immer er war.
+
+Halten Sie die Tätigkeit in wenigen Worten fest: Husten, Lachen, Heben, Aufstehen, auf dem Weg zur Toilette, im Bett. Das ist die Spalte, an der Fachpersonen die eine Art Verlust von der anderen unterscheiden.[4,5]
+
+### Wo das in einem einfachen Tagebuch steht
+
+Hat Ihr Tagebuch nur Uhrzeit, Getränk, Menge und eine Notiz, kommen die vier Punkte in die Notiz, mit der Uhrzeit des Gangs, zu dem sie gehören. Unsere [Vorlage zum Ausdrucken](https://fluidbalanceapp.com/bladder-diary-template/) hat dafür eine Spalte Notiz mit der Beschriftung „Harndrang, Urinverlust, Einlage, Ungewöhnliches“, und ihr ausgefülltes Beispiel zeigt einen Gang mit „in Eile, etwas Urinverlust“. In der App hat der Harndrang ein eigenes Feld — eine optionale Bewertung von 0 bis 4, ausgeschaltet, bis Sie sie einschalten — und Urinverlust, Einlagen und Auslöser kommen in die Notiz; der Bericht druckt beides neben den Uhrzeiten. Will Ihre Praxis ihre eigenen bewerteten Spalten, füllen Sie diese so aus, wie der Bogen es verlangt: eine Bewertung von 0 bis 4 ist nicht dieselbe Skala wie der Empfindungs-Score eines Bogens, und der Vergleich ist der Zweck des Bewertens.
+
+### Nächtlicher Urinverlust und Einlagen in der Nacht
+
+Ein Verlust im Bett ist eine Nachtzeile: Uhrzeit, „Urinverlust“, wie viel, und ob Sie geschlafen haben oder auf dem Weg zur Toilette waren. Eine nachts gewechselte Einlage ist eine Einlagenzeile. Beides gehört zwischen Ihre Zubett- und Aufstehzeit, damit die Fachperson Nacht und Tag trennen kann; [nächtliche Gänge festhalten](https://fluidbalanceapp.com/blog/bladder-diary-for-nocturia/) erklärt, wie diese Zeiten funktionieren.
+
+### Halten Sie auch die guten Tage fest
+
+Urinverlust-Episoden sind der Tagebuchwert, den fehlende Tage am stärksten verzerren. In einer Untersuchung, die Tagebuchlängen verglich, stimmten drei Tage mit sieben überein bei der Zahl der Gänge, der Menge pro Gang, dem Harndrang und der Tagesmenge — bei den Inkontinenz-Episoden aber wirkten drei Tage grenzwertig.[10] Je weniger Tage Sie führen, desto stärker verzerrt ein einzelner trockener oder ein einzelner schlechter Tag das Bild. Führen Sie jeden angeforderten Tag, auch die ohne Besonderheiten, und sagen Sie, welche Tage vollständig sind.
+
+### Was die Praxis damit macht
+
+Sie sortiert die Ereignisse nach Art, nach Uhrzeit und nach Auslöser, neben Ihren Getränken und Ihren Mengen, und liest das Ganze vor dem Hintergrund Ihrer Vorgeschichte und der Untersuchung. Was sie daraus schließt und was sie vorschlägt, ist ihre Sache; auf dieser Seite stehen keine Schwellenwerte und kein Rat dazu, was oder wann Sie trinken sollen. [Blasentagebuch führen](https://fluidbalanceapp.com/blog/how-to-keep-a-bladder-diary/) deckt den Rest der Aufzeichnung ab.
+
+### Fragen
+
+**Notiere ich einen Urinverlust, wenn ich es doch noch zur Toilette geschafft habe?**
+Notieren Sie den Harndrang, nicht den Urinverlust. Harndrang ist das plötzliche, schwer aufschiebbare Bedürfnis zu gehen; ein Urinverlust ist Urin, der entweicht, bevor Sie da waren. Der NHS-Bogen wertet beides getrennt: bewältigter Harndrang ist eine 3, Harndrang mit Verlust eine 4. Beide Zeilen sind nützlich, und es sind verschiedene Zeilen.
+
+**Wie notiere ich Einlagen?**
+Haken Sie jeden Wechsel mit der Uhrzeit in der Einlagenspalte oder in der Notiz ab. Manche Praxen bitten darum, benutzte Einlagen zu wiegen; der NHS-Bogen nennt die Umrechnung, 1 Gramm entspricht 1 ml. Tun Sie das nur, wenn Sie darum gebeten wurden. Üblich ist das Zählen der Wechsel.
+
+**Wie halte ich Harndrang und Urinverlust in der App fest?**
+Für den Harndrang gibt es ein eigenes Feld: Schalten Sie die Bewertung des Harndrangs in den Einstellungen ein, dann lässt sich ein Gang von 0 bis 4 bewerten. Urinverlust und Einlagen kommen in die Notiz des Eintrags: „Urinverlust, klein, beim Husten“, „Einlage“. Der Bericht druckt beides neben den Uhrzeiten, sodass die Praxis es der Reihe nach sieht. Hat Ihr Klinikbogen eigene Spalten und Skalen, füllen Sie diese so aus, wie der Bogen es verlangt — eine Bewertung von 0 bis 4 und der Empfindungs-Score eines Bogens sind nicht dieselbe Skala.
+
+### Quellen
+
+1. Abrams P, Cardozo L, Fall M, et al. The standardisation of terminology of lower urinary tract function: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):167–178. https://doi.org/10.1002/nau.10052
+2. Cameron AP, Chung DE, Dielubanza EJ, et al. The AUA/SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder. J Urol. 2024;212(1):11–20. https://doi.org/10.1097/JU.0000000000003985
+3. Haylen BT, de Ridder D, Freeman RM, et al. An International Urogynecological Association (IUGA)/International Continence Society (ICS) joint report on the terminology for female pelvic floor dysfunction. Neurourol Urodyn. 2010;29(1):4–20. https://doi.org/10.1002/nau.20798
+4. National Institute for Health and Care Excellence. Urinary incontinence and pelvic organ prolapse in women: management. NICE guideline NG123. London: NICE; 2019. https://www.nice.org.uk/guidance/ng123
+5. Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025. https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf
+6. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+7. University Hospitals Sussex NHS Foundation Trust. Bladder record chart: pelvic health physiotherapy patient information. Reference 2198; 2023. https://www.uhsussex.nhs.uk/wp-content/uploads/2023/03/Bladder-Record-chart.pdf
+8. British Association of Urological Surgeons. Information from BAUS about assessing fluid intake & output. Patient leaflet F24/016. BAUS; 2024. https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Input%20output%20chart.pdf
+9. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+10. Konstantinidis C, Kratiras Z, Samarinas M, Skriapas K. Optimal bladder diary duration for patients with suprapontine neurogenic lower urinary tract dysfunction. Int Braz J Urol. 2016;42(4):766–772. https://doi.org/10.1590/S1677-5538.IBJU.2015.0292
+
+Dieser Artikel erklärt, wie man ein Tagebuch führt. Er ist allgemeine Information von einem App-Entwickler, kein medizinischer Rat: Was Ihr Tagebuch bedeutet, entscheidet Ihre Praxis. Selbst geführtes Tagebuch. Kein medizinisches Dokument.
+
+---
+
+## Blasentagebuch bei Nykturie: nächtliche Gänge festhalten
+Source: https://fluidbalanceapp.com/de/blog/bladder-diary-for-nocturia/
+Published: 2026-10-12 · Anleitung · Von Denis Zinin, Entwickler von Blasentagebuch: Fluid Balance. Kein Arzt.
+
+Kurz gefasst:
+Ein Tagebuch bei Nykturie ist ein gewöhnliches Blasentagebuch mit sauber erfasster Nacht: die Uhrzeit, zu der Sie zu Bett gegangen sind, die Uhrzeit, zu der Sie aufgestanden sind, und jeder Gang dazwischen mit seiner Uhrzeit und, wo möglich, seiner Menge. Die International Continence Society definiert Nykturie als nächtliches Aufwachen, um Urin zu lassen, und EAU wie ICS zählen nächtliche Gänge und nächtliche Urinmenge genau aus diesen Zeiten. Drei Dinge, die stimmen müssen:
+
+- Notieren Sie, wann Sie zu Bett gegangen und wann Sie aufgestanden sind. Jeder Gang dazwischen ist ein Nachtgang: abhaken, Uhrzeit behalten, messen, wo es geht.
+- Der erste Gang nach dem Aufstehen wird als erste Zeile des neuen Tages geschrieben, seine Menge gehört aber zur Nacht. Das Sortieren übernimmt die Praxis; Sie brauchen nur die Uhrzeiten.
+- Führen Sie mindestens drei Nächte und ändern Sie für das Tagebuch nichts an Ihren Abendgetränken. Es geht um das Muster.
+
+Ein Tagebuch bei Nykturie ist ein gewöhnliches Blasentagebuch mit sauber erfasster Nacht. Wenn Sie eines führen sollen, weil Sie nachts aufstehen, ist die Nacht der wichtigste Teil des Tagebuchs — und zugleich der Teil, den Menschen am schlechtesten festhalten: halb im Schlaf, im Dunkeln, ohne jede Lust, einen Becher zu halten. In diesem Text geht es darum, die Nächte mit dem geringsten Aufwand richtig hinzubekommen. Er sagt nicht, wie viele Gänge zu viele sind; diese Frage gehört der Fachperson, die das Tagebuch angefordert hat.
+
+### Was als Nachtgang zählt
+
+Die International Continence Society definiert Nykturie, das nächtliche Wasserlassen, als Aufwachen in der Nacht, um Urin zu lassen: vor und nach jedem Gang liegt Schlaf.[1,2] Das Tagebuch übersetzt diese Definition in zwei Uhrzeiten — wann Sie zu Bett gegangen sind, um zu schlafen, und wann Sie für den Tag aufgestanden sind — und alles dazwischen ist die Nacht.
+
+Deshalb fragt jedes Formular nach diesen beiden Zeiten. Auf dem NHS-Bogen schreiben Sie BED und WOKE in die Uhrzeitspalte;[8] der BAUS-Bogen verlangt zwei Linien quer durch die Tagesspalte;[9] unsere [Vorlage zum Ausdrucken](https://fluidbalanceapp.com/bladder-diary-template/) hat oben auf jeder Seite ein Feld für beides und eine Spalte Nacht zum Abhaken. Die App zählt nächtliche Gänge innerhalb eines festen Fensters, 22:00 bis 07:00, und schreibt das in den Bericht. Wenn Ihre Nächte nach einer anderen Uhr laufen, tragen Sie Ihre tatsächlichen Zeiten in die Notizen ein oder nehmen Sie den Papierbogen; die Praxis braucht Ihre Nacht, nicht eine voreingestellte.
+
+### Warum das Tagebuch und nicht einfach die Auskunft
+
+Die Leitlinien sind hier ungewöhnlich deutlich. Die European Association of Urology empfiehlt ein Blasentagebuch über mindestens drei Tage für die Abklärung männlicher Harnsymptome, „besonders bei Nykturie“, weil das Tagebuch es der Fachperson erlaubt, die verschiedenen Ursachen nächtlicher Gänge auseinanderzuhalten.[3] Eine systematische Übersichtsarbeit zur Nykturie stellte fest, dass objektive Werkzeuge wie das Miktionsprotokoll zu selten genutzt werden und die Abklärung darunter leidet.[4] Das Gedächtnis ist für Nächte besser als für Tage,[10] aber eine Zahl ist nicht dasselbe wie eine Aufzeichnung mit Uhrzeiten und Mengen, und die meisten Hinweise stecken in den Mengen.
+
+### Der erste Gang am Morgen
+
+Der Gang nach dem Aufstehen ist kein Nachtgang: Sie waren bereits auf.[1,2] Der Urin, den Sie dann lassen, ist aber in der Nacht entstanden, und nach der ICS-Definition wird seine Menge der nächtlichen Urinmenge zugerechnet.[1] Auf Papier schreiben Sie ihn als erste Zeile nach Ihrer Aufstehzeit, mit der Menge, falls Sie gemessen haben. Rechnen müssen Sie damit nichts. Das tut die Praxis — und genau deshalb lohnt sich bei dieser ersten Messung der Becher.
+
+### Was Sie zu jedem Nachtgang notieren
+
+- **Die Uhrzeit.** Schauen Sie vor allem anderen auf die Uhr. Wenn Sie sie morgens nicht mehr wissen, schreiben Sie Ihre beste Schätzung und vermerken Sie „ca.“ in der Notiz.
+- **Die Menge, wenn es geht.** Ein Toilettenaufsatz, vor dem Schlafengehen unter die Brille gelegt, fängt sie auf, ohne dass Sie etwas halten müssen; ablesen können Sie notfalls am Morgen, die Uhrzeit aber schreiben Sie sofort.[6,7]
+- **Einen Haken, wenn Sie nicht messen konnten.** Ein abgehakter Nachtgang zählt weiterhin als Gang.
+- **Eine Notiz, wenn etwas ungewöhnlich war.** „War ohnehin wach“, „mit starkem Harndrang aufgewacht“, „Urin verloren, bevor ich da war“, Schmerzen. Diese Zeilen werden gelesen.
+
+### Was die Praxis aus den Nächten berechnet
+
+Aus Ihren Zeiten und Mengen ergibt sich, wie viel Urin nachts entstanden ist, welcher Anteil der 24-Stunden-Menge das ist und wie lange Sie bis zum ersten Gang geschlafen haben.[1,2,5] Diese Werte sind der Grund, warum die beiden Uhrzeiten und die erste Morgenmenge so wichtig sind: ohne sie sind die Nachtgänge nur eine Zahl, und eine Zahl ist genau das, was das Tagebuch verbessern sollte. Welche Schwellen die Fachperson darauf anwendet, hängt vom Alter und vom Rest Ihrer Vorgeschichte ab und bleibt ihre Sache.
+
+### Wie viele Nächte soll ein Tagebuch bei Nykturie umfassen?
+
+Mindestens drei, nach der EAU-Empfehlung und nach den meisten Klinikbögen.[3,8,9] Mehr Nächte geben der Fachperson eine bessere Stichprobe eines Musters, das von Nacht zu Nacht schwankt; eine Woche ist üblich, wenn die Nykturie die Hauptfrage ist. Wie viele es auch sind: Jede Nacht sollte vollständig sein — Zubettzeit, jeder Gang, Aufstehzeit. [Wie viele Tage ein Tagebuch umfassen sollte](https://fluidbalanceapp.com/blog/bladder-diary-how-many-days/) geht die Empfehlungen im Einzelnen durch.
+
+### Ändern Sie Ihre Abende nicht für das Tagebuch
+
+Wenn Sie sonst um neun Tee trinken, trinken Sie um neun Tee. Ein Tagebuch, das an ungewöhnlich trockenen Abenden geführt wurde, zeigt der Praxis ein Muster, in dem Sie gar nicht leben, und der Termin beginnt mit dem falschen Bild. Halten Sie die Abendgetränke mit Uhrzeit und Menge fest; wie das abendliche Trinken mit den nächtlichen Gängen zusammenhängt, ist eines der Dinge, für die es das Tagebuch gibt.
+
+### Damit es leichter fällt
+
+Legen Sie den Aufsatz bereit und den Stift auf den Bogen, bevor Sie schlafen gehen. Lassen Sie ein kleines Licht an. Wenn der Bogen nicht neben der Toilette liegt, liegt das Telefon dort: Das Widget auf dem Sperrbildschirm und die Apple-Watch-App tragen einen Gang mit zwei Tipps ein, ohne dass Sie etwas entsperren, und die Uhrzeit wird für Sie festgehalten. Was Sie auch nutzen, die Regel ist dieselbe: zuerst die Uhrzeit, dann die Menge, und nie eine Zeile auslassen.
+
+### Fragen
+
+**Zählt der erste Gang nach dem Aufstehen als Nachtgang?**
+Nicht als Gang, seine Menge aber zählt als nächtlicher Urin. Nach der ICS-Definition ist Nykturie das Aufwachen in der Nacht, um Urin zu lassen; ein Gang, den Sie nach dem Aufstehen machen, ist also keiner. Der Urin, den Sie dann lassen, ist jedoch in der Nacht entstanden und wird der nächtlichen Menge zugerechnet. Schreiben Sie ihn als erste Zeile nach Ihrer Aufstehzeit und überlassen Sie das Sortieren der Praxis.
+
+**Und wenn ich ohnehin wach war und nur deshalb gegangen bin?**
+Notieren Sie den Gang mit seiner Uhrzeit und setzen Sie eine Bemerkung dazu: „war ohnehin wach“. Die ICS-Definition der Nykturie setzt das Aufwachen zum Wasserlassen voraus, deshalb will die Praxis wissen, welche Gänge Sie geweckt haben und welche passierten, weil Sie schon wach waren. Eine kurze Notiz genügt.
+
+**Muss ich nachts messen?**
+Wenn es geht, ja, denn die nächtlichen Mengen sind das, was die Praxis zusammenzählt. Ein Toilettenaufsatz, vor dem Schlafengehen unter die Brille gelegt, macht es leicht: nichts halten, nichts im Dunkeln suchen. Wenn es nicht geht, haken Sie den Gang ab und behalten Sie die Uhrzeit; ein abgehakter Nachtgang zählt weiterhin als Gang.
+
+### Quellen
+
+1. van Kerrebroeck P, Abrams P, Chaikin D, et al. The standardisation of terminology in nocturia: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):179–183. https://doi.org/10.1002/nau.10053
+2. Hashim H, Blanker MH, Drake MJ, et al. International Continence Society (ICS) report on the terminology for nocturia and nocturnal lower urinary tract function. Neurourol Urodyn. 2019;38(2):499–508. https://doi.org/10.1002/nau.23917
+3. European Association of Urology. EAU Guidelines on the Management of Non-neurogenic Male LUTS. Arnhem: EAU; 2026. Chapter 4, Diagnostic evaluation. https://uroweb.org/guidelines/management-of-non-neurogenic-male-luts/chapter/diagnostic-evaluation
+4. Cornu JN, Abrams P, Chapple CR, et al. A contemporary assessment of nocturia: definition, epidemiology, pathophysiology, and management—a systematic review and meta-analysis. Eur Urol. 2012;62(5):877–890. https://doi.org/10.1016/j.eururo.2012.07.004
+5. Epstein M, Blaivas J, Wein AJ, Weiss JP. Nocturia treatment outcomes: analysis of contributory frequency volume chart parameters. Neurourol Urodyn. 2018;37(1):186–191. https://doi.org/10.1002/nau.23272
+6. European Association of Urology, Patient Information. Bladder diary for nocturia. Uroweb. https://patients.uroweb.org/condition/nocturia/treatment-options-nocturia/bladder-diary-for-nocturia
+7. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+8. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+9. British Association of Urological Surgeons. Information from BAUS about assessing fluid intake & output. Patient leaflet F24/016. BAUS; 2024. https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Input%20output%20chart.pdf
+10. Stav K, Dwyer PL, Rosamilia A. Women overestimate daytime urinary frequency: the importance of the bladder diary. J Urol. 2009;181(5):2176–2180. https://doi.org/10.1016/j.juro.2009.01.042
+
+Dieser Artikel erklärt, wie man ein Tagebuch führt. Er ist allgemeine Information von einem App-Entwickler, kein medizinischer Rat: Was Ihr Tagebuch bedeutet, entscheidet Ihre Praxis. Selbst geführtes Tagebuch. Kein medizinisches Dokument.
+
+---
+
+## Was zeigt ein Blasentagebuch? Was Ihre Urologin darin liest
+Source: https://fluidbalanceapp.com/de/blog/what-does-a-bladder-diary-show/
+Published: 2026-10-05 · Anleitung · Von Denis Zinin, Entwickler von Blasentagebuch: Fluid Balance. Kein Arzt.
+
+Kurz gefasst:
+Was ein Blasentagebuch einer Fachperson zeigt, läuft auf fünf Dinge hinaus: wie oft Sie gehen, bei Tag und bei Nacht; wie viel Sie jedes Mal ausscheiden; wie viel Ihres Urins nachts gebildet wird; was Sie trinken und wann; und wie vollständig die Aufzeichnung ist. Zu keinem davon gehört eine Zahl, die man anstreben sollte; das Lesen gehört der Fachperson, die Ihre Vorgeschichte kennt:
+
+- Eine Fachperson liest fünf Dinge im Tagebuch: wie oft Sie bei Tag und bei Nacht gehen, wie viel Sie jedes Mal ausscheiden, wie viel Urin nachts entsteht, was und wann Sie trinken, und wie vollständig die Aufzeichnung ist.
+- Für keines davon gibt es eine Zahl, die Sie anstreben sollten. Dieselben Werte bedeuten bei verschiedenen Menschen Verschiedenes, und lesen kann sie nur die Fachperson, die Ihre Vorgeschichte kennt.
+- In Ihrer Hand liegt die Aufzeichnung: jeder Gang mit seiner Uhrzeit, Mengen wo möglich, Zubett- und Aufstehzeit, und ehrliche Lücken statt ausgefüllter.
+
+Ein Blasentagebuch zeigt einer Fachperson fünf Dinge: wie oft Sie gehen, bei Tag und bei Nacht; wie viel Sie jedes Mal ausscheiden; wie viel Ihres Urins nachts gebildet wird; was Sie trinken und wann; und wie vollständig die Aufzeichnung ist. Nichts auf dieser Seite sagt, wie hoch diese Zahlen sein sollten, und nichts deutet Tagebuch-Ergebnisse. Dieses Lesen gehört der Fachperson, die Ihre Vorgeschichte kennt; wozu ein Blasentagebuch da ist, ist, ihr diese fünf Dinge vorzulegen. Dieser Text erklärt, worauf sie schaut, damit jede Spalte auf dem Blatt beim Ausfüllen einleuchtet.
+
+### Wozu wird ein Blasentagebuch benutzt?
+
+Die International Continence Society definiert die Begriffe, auf denen ein Tagebuch aufbaut: Miktionshäufigkeit am Tag, Nykturie, Miktionsvolumen und das Miktionsprotokoll, das sie festhält.[1] Die Forschung zu diesen Protokollen hat sich auf eine Handvoll Größen eingependelt, die immer wieder gelesen werden: die Zahl der Miktionen bei Tag und bei Nacht, das Volumen jeder Miktion, das größte Volumen und die Summe über 24 Stunden.[2] Die Leitlinien sagen den Fachleuten dann, das Tagebuch zu verlangen: die European Association of Urology empfiehlt bei der Abklärung männlicher Harnsymptome ein Blasentagebuch über mindestens drei Tage, besonders bei Nykturie,[3] NICE verlangt eines, wenn Frauen sich mit Harninkontinenz vorstellen,[4] und die amerikanische Leitlinie zur überaktiven Blase nimmt es in die Abklärung auf.[5]
+
+### 1. Wie oft Sie gehen, Tag und Nacht getrennt
+
+Die erste Zahl sind die Gänge pro 24 Stunden. Die zweite, oft wichtigere, ist, wie viele davon nachts waren: die International Continence Society definiert Nykturie als nächtliches Aufwachen zum Wasserlassen, wobei vor und nach jedem Gang geschlafen wird.[1,6,7] Genau deshalb fragt jedes Tagebuch, wann Sie zu Bett gegangen und wann Sie aufgestanden sind. Ohne diese beiden Zeiten lassen sich die nächtlichen Gänge nicht von den Tagesgängen trennen, und die Hälfte dessen, wofür das Tagebuch da ist, verschwindet.
+
+Gänge, die Sie nicht messen konnten, zählen hier ebenfalls. Ein Häkchen mit Uhrzeit ist dafür ein vollwertiger Eintrag; eine fehlende Zeile nicht.
+
+### 2. Wie viel Sie jedes Mal ausscheiden
+
+Jede gemessene Menge sagt der Fachperson für sich etwas, und zusammen ergeben sie zwei weitere Werte: die größte Menge, die Sie während des Tagebuchs ausgeschieden haben, und die Spanne zwischen der kleinsten und der größten.[2] Eine Reihe kleiner Mengen und eine Reihe großer werden verschieden gelesen, und beide werden gegen alles gelesen, was die Fachperson sonst über Sie weiß. Das ist der Teil des Tagebuchs, den ein Messbecher oder ein Toilettenaufsatz erst möglich macht; [Urinmenge zu Hause messen](https://fluidbalanceapp.com/blog/how-to-measure-urine-output-at-home/) behandelt die praktische Seite.
+
+### 3. Wie viel Urin Sie nachts bilden
+
+Fachleute addieren die nächtlichen Mengen gesondert. Nach der ICS-Definition gehört zur nächtlichen Urinmenge auch die erste Miktion nach dem Aufstehen am Morgen, weil dieser Urin in der Nacht gebildet wurde, auch wenn der Gang selbst nach dem Aufwachen stattfindet.[6,7] Aus der Nachtmenge und der 24-Stunden-Menge berechnen sie den nachts gebildeten Anteil, und aus den Zeiten sehen sie, wie lange Sie vor dem ersten Gang geschlafen haben.[8] Das sind Berechnungen, keine Urteile: die Werte werden mit Ihrem Alter, Ihrem Schlaf und Ihrer Krankengeschichte verglichen, und die Schwellen anzuwenden ist ihre Sache.
+
+### 4. Was Sie trinken, und wann
+
+Die Trinkseite wird eher auf das Muster als auf die Summe gelesen: wie die Getränke über den Tag verteilt sind, was es war und wie der Abend aussieht. Klinikbögen fragen aus demselben Grund nach der Art des Getränks.[1] Die Fachperson schaut, ob das, was hineinging, und das, was herauskam, zeitlich zueinanderpassen; das ist eine Frage an Ihre Aufzeichnung, kein Urteil über Ihre Gewohnheiten.
+
+### 5. Notizen: Harndrang, Urinverlust, Vorlagen
+
+Wo der Tagebuchbogen Spalten für Harndrang, Urinverlust und Vorlagenwechsel hat, werden diese als Ereignisse mit Uhrzeit gelesen. Die ICS definiert auch diese Begriffe: Harndrang als plötzliches, zwingendes Bedürfnis zu urinieren, das schwer aufzuschieben ist, und Inkontinenz als jeden unwillkürlichen Urinverlust.[1,10] Eine Notiz wie „beim Husten Urin verloren“ oder „starker Harndrang auf dem Heimweg“ ist genau die Zeile, für die der zweite Durchgang da ist.
+
+### Die Prüfung, die zuerst kommt: ist es vollständig?
+
+Vor allem Obigen schaut eine Fachperson, wie viel vom Tagebuch da ist: wie viele Tage von Aufwachen zu Aufwachen gefüllt sind, wie viele Gänge Mengen haben, wie viele Häkchen sind. Ein Tagebuch mit zwei vollständigen Tagen wird gelesen; ein Tagebuch mit fünf Tagen verstreuter Zeilen ist ein Gespräch darüber, es noch einmal zu machen. Fachleute verlassen sich gerade deshalb auf das Tagebuch, weil die Erinnerung darin schlecht ist: in einer Studie überschätzte die Hälfte der befragten Frauen, wie oft sie tagsüber gingen, verglichen mit ihrem eigenen Tagebuch.[9] Unsere [Vorlage](https://fluidbalanceapp.com/bladder-diary-template/) hat auf der letzten Seite eine Zeile „erfasste Tage“, und die App zählt die erfassten Tage aus demselben Grund.
+
+### Warum Sie hier keine Normwerte finden
+
+Zwei Gründe. Erstens gibt es kein einziges validiertes Tagebuch, und Kliniken verwenden verschiedene Bögen, verschiedene Tageslängen und verschiedene Definitionen der Nacht;[11,12] eine Zahl von einem Bogen lässt sich nicht sauber auf einen anderen übertragen. Zweitens, und wichtiger: jeder Wert in einem Tagebuch wird gegen den Menschen gelesen — Alter, Flüssigkeit, Medikamente, Schlaf, andere Erkrankungen. Eine Häufigkeit, die bei einem Menschen unauffällig ist, ist beim nächsten der entscheidende Befund. Eine Tabelle mit „normalen“ Werten zu veröffentlichen hieße, Sie einzuladen, sich mit einem Werkzeug zu benoten, das dafür nie gemacht wurde. Das Tagebuch ist eine Aufzeichnung. Das Lesen ist der Termin.
+
+### Es mitbringen
+
+Bringen Sie jede Seite mit, sagen Sie, welche Tage vollständig sind, und halten Sie, wenn Sie eine App benutzt haben, den Bericht ausgedruckt oder auf dem Telefon bereit. [Blasentagebuch führen](https://fluidbalanceapp.com/blog/how-to-keep-a-bladder-diary/) behandelt den Rest: was hineingehört, die häufigen Fehler und was mit den Tagen zu tun ist, die schiefgegangen sind.
+
+### Fragen
+
+**Kann ich selbst herausfinden, was mein Tagebuch bedeutet?**
+Nicht verlässlich, und dieser Text nennt absichtlich keine Schwellenwerte. Eine Fachperson liest das Tagebuch neben Ihrer Vorgeschichte, einer Untersuchung und manchmal Tests; dieselbe Zahl von Gängen oder dieselbe Nachtmenge kann bei einem Menschen unauffällig und bei einem anderen der entscheidende Befund sein. Halten Sie die Aufzeichnung vollständig und lassen Sie sie lesen.
+
+**Liest die Praxis wirklich jede Zeile?**
+Meist beginnt sie mit der Übersicht: Gänge bei Tag und bei Nacht, größte und übliche Mengen, nächtliche Menge, Trinkmenge und wie viele Tage vollständig sind. Dann geht es zu den Zeilen, die herausstechen: ein Urinverlust, eine Notiz zum Harndrang, ein Abend mit viel Getrunkenem. Jede Zeile ist für diesen zweiten Blick da.
+
+**Was, wenn mein Tagebuch schlecht aussieht?**
+Es gibt kein schlechtes Tagebuch außer einem unvollständigen. Es ist die Aufzeichnung einiger Tage, keine Prüfung, die man bestehen oder nicht bestehen kann, und Fachleute vertrauen ihr mehr als dem, woran sich Menschen beim Termin erinnern. Räumen Sie es nicht auf; bringen Sie es so, wie es ist.
+
+### Quellen
+
+1. Abrams P, Cardozo L, Fall M, et al. The standardisation of terminology of lower urinary tract function: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):167–178. https://doi.org/10.1002/nau.10052
+2. Yap TL, Cromwell DC, Emberton M. A systematic review of the reliability of frequency-volume charts in urological research and its implications for the optimum chart duration. BJU Int. 2007;99(1):9–16. https://doi.org/10.1111/j.1464-410X.2006.06499.x
+3. European Association of Urology. EAU Guidelines on the Management of Non-neurogenic Male LUTS. Arnhem: EAU; 2026. Chapter 4, Diagnostic evaluation. https://uroweb.org/guidelines/management-of-non-neurogenic-male-luts/chapter/diagnostic-evaluation
+4. National Institute for Health and Care Excellence. Urinary incontinence and pelvic organ prolapse in women: management. NICE guideline NG123. London: NICE; 2019. https://www.nice.org.uk/guidance/ng123
+5. Cameron AP, Chung DE, Dielubanza EJ, et al. The AUA/SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder. J Urol. 2024;212(1):11–20. https://doi.org/10.1097/JU.0000000000003985
+6. van Kerrebroeck P, Abrams P, Chaikin D, et al. The standardisation of terminology in nocturia: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):179–183. https://doi.org/10.1002/nau.10053
+7. Hashim H, Blanker MH, Drake MJ, et al. International Continence Society (ICS) report on the terminology for nocturia and nocturnal lower urinary tract function. Neurourol Urodyn. 2019;38(2):499–508. https://doi.org/10.1002/nau.23917
+8. Epstein M, Blaivas J, Wein AJ, Weiss JP. Nocturia treatment outcomes: analysis of contributory frequency volume chart parameters. Neurourol Urodyn. 2018;37(1):186–191. https://doi.org/10.1002/nau.23272
+9. Stav K, Dwyer PL, Rosamilia A. Women overestimate daytime urinary frequency: the importance of the bladder diary. J Urol. 2009;181(5):2176–2180. https://doi.org/10.1016/j.juro.2009.01.042
+10. Haylen BT, de Ridder D, Freeman RM, et al. An International Urogynecological Association (IUGA)/International Continence Society (ICS) joint report on the terminology for female pelvic floor dysfunction. Neurourol Urodyn. 2010;29(1):4–20. https://doi.org/10.1002/nau.20798
+11. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+12. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+
+Dieser Artikel erklärt, wie man ein Tagebuch führt. Er ist allgemeine Information von einem App-Entwickler, kein medizinischer Rat: Was Ihr Tagebuch bedeutet, entscheidet Ihre Praxis. Selbst geführtes Tagebuch. Kein medizinisches Dokument.
+
+---
+
+## Blasentagebuch-Beispiel: ein ganzer Tag, Zeile für Zeile
+Source: https://fluidbalanceapp.com/de/blog/bladder-diary-example/
+Published: 2026-09-28 · Anleitung · Von Denis Zinin, Entwickler von Blasentagebuch: Fluid Balance. Kein Arzt.
+
+Kurz gefasst:
+Ein Blasentagebuch-Beispiel für einen ganzen Tag steht unten, Zeile für Zeile: etwa fünfzehn Einträge mit jedem Getränk und seiner Menge, jedem Gang mit einer Menge oder einem Häkchen für nicht gemessen, den Zeiten für Zubettgehen und Aufstehen, und einer Notiz dort, wo etwas passiert ist. Der Tag ist erfunden, seine Summen sind also keine Zielwerte. Die Aufteilung folgt dem Tagebuch der Urology Care Foundation und den NHS-Bögen, deren eigene Formulare nur ein oder zwei Beispielzeilen zeigen. Was der Tag zeigen soll:
+
+- Ein voller Tagebuchtag sind etwa fünfzehn Zeilen: jedes Getränk mit seiner Menge, jeder Gang mit einer Menge oder einem Häkchen, die Zeiten für Zubettgehen und Aufstehen, und eine Notiz, wo etwas passiert ist.
+- Das Beispiel unten ist ein erfundener Tag. Seine Summen sind keine Zielwerte, und es gibt hier keine Norm, mit der man sie vergleichen könnte.
+- Eine Fachperson liest daraus die Zahl der Gänge bei Tag und bei Nacht, die Mengen, das Trinkmuster, die Notizen, und ob der Tag vollständig ist.
+
+Klinikbögen zeigen ein oder zwei Beispielzeilen: das Tagebuch der Urology Care Foundation hat eine einzige Zeile mit einer Dose Limonade und einem Urinverlust beim Lachen,[1] der NHS-Bogen aus Gloucestershire zeigt einen Morgen mit einer Tasse Tee und einem Urinverlust,[2] der Sussex-Physiotherapiebogen drei Morgenzeilen mit Summen.[3] Hilfreich, aber niemandes Tag ist drei Zeilen lang. Hier ist ein ganzer erfundener Tag im Format unserer [Vorlage zum Ausdrucken](https://fluidbalanceapp.com/bladder-diary-template/), und danach, was jeder Teil davon einer Fachperson sagt. Die Zahlen sind die Zahlen dieses Beispiels und nichts weiter; es gibt auf dieser Seite keine Norm, mit der man sie vergleichen könnte.
+
+### Wie sieht ein voller Tagebuchtag aus?
+
+Ein ausgefülltes Blasentagebuch-Beispiel. Tag 1 von 7. Zu Bett 22:45. Aufgestanden 7:00.
+
+| Uhrzeit | Getrunken (ml) | Was | Ausgeschieden (ml oder ✓) | Nacht | Notiz |
+|---|---|---|---|---|---|
+| 7:05 | | | 350 | | erster am Morgen |
+| 7:20 | 250 | Tee | | | |
+| 8:30 | 200 | Kaffee | | | |
+| 9:40 | | | ✓ | | in Eile, etwas Urinverlust |
+| 11:00 | 500 | Wasser | | | |
+| 11:45 | | | 220 | | |
+| 13:10 | 330 | Saft | | | |
+| 13:30 | | | 180 | | starker Harndrang |
+| 15:00 | 250 | Tee | | | |
+| 16:20 | | | 260 | | |
+| 18:00 | 250 | Wasser | | | |
+| 19:30 | 200 | Bier | | | |
+| 20:15 | | | 300 | | |
+| 22:30 | | | 150 | | vor dem Schlafengehen |
+| 3:10 | | | 180 | ✓ | |
+
+Fünfzehn Zeilen, eine Seite. Der Tag läuft vom Aufstehen bis zum Aufstehen, der Gang um 3:10 gehört also zu Tag 1, auch wenn das Datum gewechselt hat.
+
+### Zeile für Zeile
+
+**7:05, 350 ml, „erster am Morgen“.** Der erste Gang nach dem Aufstehen. Kein nächtlicher Gang, weil die Nacht des Tagebuchs um 7:00 endete, aber nach der ICS-Definition ist der dann gelassene Urin über Nacht entstanden und wird zum nächtlichen Volumen gezählt,[5] deshalb wird er gemessen und nicht abgehakt. Auf dem Papier ist es schlicht die erste Zeile des Tages.
+
+**7:20 und 8:30, Tee und Kaffee.** Getränke mit Menge und Art. Die Menge stammt davon, dass die Tasse einmal ausgemessen wurde; die Art steht da, weil Klinikbögen danach fragen.[1,2]
+
+**9:40, ein Häkchen, „in Eile, etwas Urinverlust“.** Keine Zeit zum Messen, also ein Häkchen statt einer Menge, und der Gang zählt trotzdem zur Zahl der Gänge an diesem Tag.[2] Die Notiz hält den Urinverlust mit einer groben Größe fest. Auf einem Bogen mit Spalten für Urinverlust wäre das ein „klein“ oder ein „+“; in einem schlichten Tagebuch ist es eine Notiz mit Uhrzeit.
+
+**11:00, 500 ml Wasser.** Eine Flasche, die Menge steht also darauf.
+
+**13:30, 180 ml, „starker Harndrang“.** Ein gemessener Gang mit vermerktem Harndrang: ein plötzlicher, zwingender Drang zu gehen.[4] Zum Zeitpunkt notiert, in zwei Worten, mehr braucht es nicht.
+
+**19:30, 200 ml Bier.** Alkohol ist auf dem Blatt ein Getränk wie jedes andere: Menge, Art, Uhrzeit. Das Tagebuch soll einen normalen Abend zeigen, keinen aufgeräumten.
+
+**22:30, 150 ml, „vor dem Schlafengehen“.** Der letzte Gang vor der Zubettgehzeit, die oben auf der Seite steht. Es ist ein Tagesgang; die Nacht beginnt um 22:45.
+
+**3:10, 180 ml, Nacht abgehakt.** Zwischen Zubettgehen und Aufstehen, also bekommt er das Häkchen. Diese Zeile macht die Nachtzählung überhaupt erst möglich; ein Tagebuch ohne Zubett- und Aufstehzeit kann diesen Gang nicht von dem um 22:30 unterscheiden.
+
+### Was dieser Tag ergibt
+
+Nur weil das Beispiel es erlaubt: 1 980 ml getrunken über sieben Getränke; 1 640 ml ausgeschieden über sieben gemessene Gänge, dazu ein Gang mit Häkchen ohne Menge; acht Gänge insgesamt, einer davon nachts. Auf einem Klinikbogen werden Sie vielleicht gebeten, diese Summen in die unterste Zeile zu schreiben; in der App erscheinen sie auf dem Heute-Bildschirm und im Bericht, ohne dass jemand rechnet. Es sind keine Zielwerte, und sie sind für niemanden besonders typisch. Ihre einzige Aufgabe hier ist zu zeigen, wie ein vollständiger Tag aussieht, wenn man ihn auszählt.
+
+### Was eine Fachperson darin sieht
+
+Acht Gänge mit Uhrzeiten, einer nachts, einer ungemessen. Sieben gemessene Mengen, von 150 bis 350 ml. Getränke verteilt von 7:20 bis 19:30, mit aufgeschriebenen Arten. Zwei Notizen, ein Urinverlust mit Auslöser und ein Harndrang. Zubett- und Aufstehzeit, damit sich die Nacht vom Tag trennen lässt. Und ein Tag, der vom Aufwachen bis zum Aufwachen vollständig ist — das Erste, worauf geschaut wird, weil die Erinnerung allein sogar die Zahl der Gänge falsch wiedergibt.[6] Was diese Tatsachen bedeuten, ist der Termin; die Aufgabe des Tagebuchs war, sie mitzubringen.
+
+### Ihr Tag wird anders aussehen
+
+Mehr Zeilen oder weniger, andere Getränke, andere Zeiten. Was gleich bleibt, ist das Format: jedes Getränk, jeder Gang, eine Menge oder ein Häkchen, die zwei Zeiten, die die Nacht einrahmen, und eine Notiz, wo etwas passiert ist. [Blasentagebuch führen](https://fluidbalanceapp.com/blog/how-to-keep-a-bladder-diary/) beschreibt die Gewohnheiten, die dorthin führen, und [Urinmenge zu Hause messen](https://fluidbalanceapp.com/blog/how-to-measure-urine-output-at-home/) den Messbecher.
+
+### Fragen
+
+**Wo trage ich den ersten Gang am Morgen ein?**
+Als erste Zeile des neuen Tages, nach Ihrer Aufstehzeit, mit der Menge, wenn Sie gemessen haben. Es ist kein nächtlicher Gang, weil Sie schon auf waren, aber die Menge zählt nach der ICS-Definition zum nächtlichen Urin, es lohnt sich also, sie zu messen. Das Sortieren übernimmt die Praxis.
+
+**Muss ich die Summen selbst bilden?**
+Nein. Klinikbögen lassen eine Summenzeile frei, und manche bitten darum, aber die Praxis kann es auch selbst zusammenrechnen; der NHS-Bogen sagt genau das. Wenn Sie die App nutzen, werden Summen, Zahl der Gänge und Nachtzählung für Sie gemacht. Was niemand für Sie übernehmen kann, sind die Zeilen selbst.
+
+**Was, wenn mein Tag zwanzig Zeilen hat?**
+Nehmen Sie die nächste Seite und machen Sie weiter. Ein Tag mit vielen Zeilen ist ein vollständiger Tag, und nur einen solchen will die Praxis; Zeilen wegzulassen, damit es passt, ist der Fehler. Unsere Vorlage hat auf A4 24 Zeilen pro Seite, und die App hat kein Limit.
+
+### Quellen
+
+1. Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025. https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf
+2. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+3. University Hospitals Sussex NHS Foundation Trust. Bladder record chart: pelvic health physiotherapy patient information. Reference 2198; 2023. https://www.uhsussex.nhs.uk/wp-content/uploads/2023/03/Bladder-Record-chart.pdf
+4. Abrams P, Cardozo L, Fall M, et al. The standardisation of terminology of lower urinary tract function: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):167–178. https://doi.org/10.1002/nau.10052
+5. van Kerrebroeck P, Abrams P, Chaikin D, et al. The standardisation of terminology in nocturia: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):179–183. https://doi.org/10.1002/nau.10053
+6. Stav K, Dwyer PL, Rosamilia A. Women overestimate daytime urinary frequency: the importance of the bladder diary. J Urol. 2009;181(5):2176–2180. https://doi.org/10.1016/j.juro.2009.01.042
+
+Dieser Artikel erklärt, wie man ein Tagebuch führt. Er ist allgemeine Information von einem App-Entwickler, kein medizinischer Rat: Was Ihr Tagebuch bedeutet, entscheidet Ihre Praxis. Selbst geführtes Tagebuch. Kein medizinisches Dokument.
+
+---
+
+## Urinmenge zu Hause messen für das Blasentagebuch
+Source: https://fluidbalanceapp.com/de/blog/how-to-measure-urine-output-at-home/
+Published: 2026-09-21 · Anleitung · Von Denis Zinin, Entwickler von Blasentagebuch: Fluid Balance. Kein Arzt.
+
+Kurz gefasst:
+Die Urinmenge für ein Blasentagebuch misst man zu Hause auf eine von drei Arten: in einem Plastikmessbecher mit Millilitern, in einem Toilettenaufsatz unter der Brille, oder, wenn beides nicht geht, indem man die Uhrzeit behält und den Gang als nicht gemessen abhakt. Kliniken akzeptieren alle drei. Was die Bögen von NHS und BAUS und das Tagebuch der Urology Care Foundation zuerst brauchen, ist jeder Gang mit seiner Uhrzeit; die Menge kommt danach. Die Einzelheiten, die die Zahlen brauchbar machen:
+
+- Messen Sie in einem Plastikmessbecher mit Millilitern, oder fangen Sie es in einem Toilettenaufsatz unter der Brille auf. Schreiben Sie die Zahl sofort auf.
+- Wenn Sie nicht messen können, behalten Sie die Uhrzeit und haken Sie den Gang als nicht gemessen ab. Er zählt weiterhin für die Häufigkeit und für die Nachtzählung.
+- Nehmen Sie eine Einheit für das ganze Tagebuch, messen Sie Ihre übliche Tasse einmal für die Getränkeseite aus, und spülen Sie Becher oder Aufsatz nach jedem Gebrauch.
+
+Es gibt drei Wege, für ein Blasentagebuch festzuhalten, wie viel Sie ausscheiden: in einem Becher messen, in einem Toilettenaufsatz unter der Brille auffangen, oder, wenn beides nicht geht, die Uhrzeit behalten und den Gang als nicht gemessen abhaken. Kliniken akzeptieren alle drei. Was sie brauchen, ist jeder Gang mit seiner Uhrzeit; die Menge kommt danach.
+
+### Worum das Tagebuch bittet
+
+„Ausscheidung“ im Tagebuch ist die Menge jedes Toilettengangs, in Millilitern oder Flüssigunzen, neben die Uhrzeit geschrieben. Miktionsvolumina und ihre Uhrzeiten sind der Kern des Miktionsprotokolls, wie es die International Continence Society definiert, und jedes Tagebuchformats, das seither untersucht wurde.[1,2] Klinikbögen legen es verschieden an: der Ein- und Ausfuhrbogen von BAUS hat zu jeder Stunde eine Spalte AUS,[3] das Tagebuch der Urology Care Foundation fragt bei jedem Gang „wie viel Urin?“,[4] und unsere [Vorlage zum Ausdrucken](https://fluidbalanceapp.com/bladder-diary-template/) hat eine Spalte „Ausgeschieden“ mit der Beschriftung „ml oder ✓“. Jeder davon akzeptiert ein Häkchen, wenn Sie nicht messen konnten. Keiner fragt, ob Ihre Zahlen normal sind; Ihre Praxis liest das Muster, Sie liefern die Aufzeichnung. Wie das ganze Tagebuch zusammenpasst, steht in [Blasentagebuch führen](https://fluidbalanceapp.com/blog/how-to-keep-a-bladder-diary/).
+
+### Weg 1: ein Messbecher
+
+Jeder Plastikbecher mit Millilitern genügt.[5] BAUS schlägt einen vor, der mindestens 500 ml fasst;[3] Apotheke oder Haushaltsregal im Supermarkt haben sie. Nehmen Sie ihn nur für das Tagebuch und stellen Sie ihn neben die Toilette.
+
+Setzen Sie sich auf die Toilette und halten Sie den Becher in die Schüssel. Der Bogen der Sussex-Physiotherapie wird hier deutlich: richtig hinsetzen, nicht über der Brille schweben oder hocken, denn im Sitzen entspannt sich der Beckenboden, und Sie entleeren vollständiger.[6] Männer können stehen und den Becher direkt benutzen.
+
+Stellen Sie den Becher auf eine ebene Fläche, lesen Sie den Stand auf Augenhöhe ab und schreiben Sie die Zahl auf, bevor Sie irgendetwas anderes tun. Runden Sie auf den nächsten Strich; feiner ist die Skala nicht, und das Tagebuch auch nicht. Dann ausgießen und den Becher mit Wasser ausspülen.
+
+### Weg 2: ein Toilettenaufsatz
+
+Ein Toilettenaufsatz ist eine flache Plastikschale mit breitem Rand, die unter die Brille gelegt wird und innen eine Skala in Millilitern und Flüssigunzen trägt. Kliniken geben oft einen mit dem Tagebuch mit.[4] Wenn Ihre das nicht getan hat: Apotheken und Onlineshops verkaufen sie als Urinauffangschale oder Toilettenaufsatz zur Urinsammlung.
+
+Legen Sie ihn vorn in die Schüssel unter die Brille, setzen Sie sich wie gewohnt, lesen Sie dann den Stand ab, schreiben Sie ihn auf, entleeren Sie die Schale in die Toilette und spülen Sie sie aus.[4] Nichts zu halten — deshalb ist das nachts und in Eile die einfachste Lösung.
+
+### Weg 3: wenn Sie nicht messen können
+
+Bei der Arbeit, im Laden, mitten in der Nacht im Halbschlaf: behalten Sie die Uhrzeit und haken Sie den Gang ab. Der NHS-Bogen und der BAUS-Bogen sagen genau das, ein Häkchen in der Urinspalte;[3,5] unsere Vorlage hat ein ✓ in der Spalte „Ausgeschieden“; in der App ist es die Schaltfläche „Nicht gemessen“. Der Gang zählt weiterhin für die Häufigkeit und für die Nachtzählung. Er erhöht nur nicht die Mengensumme.
+
+Eine Schätzung ist ebenfalls erlaubt. Wenn Sie ein, zwei Tage gemessen haben und wissen, wie ein üblicher Gang in Ihrem Becher aussieht, schreiben Sie Ihre Schätzung und setzen Sie „ca.“ davor. Im Zweifel: Häkchen.
+
+Was das Tagebuch verdirbt, ist ein Gang, der gar nicht aufgeschrieben wurde. Eine abgehakte Zeile mit Uhrzeit sagt Ihrer Praxis etwas; eine leere Zeile sagt gar nichts.
+
+### Milliliter oder Flüssigunzen: welche Einheit?
+
+Nehmen Sie eine Einheit für das ganze Tagebuch — die, die auf dem Bogen Ihrer Praxis steht. Falls Sie umrechnen müssen:
+
+- 1 US-Flüssigunze sind etwa 30 ml (genau 29,6 ml).
+- 1 Cup, also 8 Flüssigunzen, sind etwa 240 ml.
+- 100 ml sind etwa 3,4 Flüssigunzen; eine 500-ml-Flasche etwa 17.
+
+Unsere Vorlage gibt es in beidem: A4-Blätter in Millilitern, US-Letter-Blätter in Flüssigunzen. In der App ist die Einheit eine Einstellung, und der Bericht nimmt die, die Sie gewählt haben.
+
+### Die Getränkeseite
+
+Zu messen, was Sie trinken, ist leichter: die Menge steht meist auf der Verpackung. Übliche Größen, dieselben, die unsere Vorlage und die App als Vorgaben nutzen: eine Tasse 200–250 ml, ein Glas 250 ml, eine Dose 330 ml, eine kleine Flasche 500 ml. Die Urology Care Foundation nennt die US-Entsprechungen: ein 8-oz-Becher, eine 12-oz-Dose, eine 20-oz-Flasche.[4]
+
+Ihre eigene Tasse, Ihr Glas oder Ihre Wasserflasche messen Sie einmal mit dem Becher aus und benutzen dann in den Tagebuchtagen dasselbe Gefäß. BAUS und der Sussex-Bogen schlagen beide genau das vor.[3,6] Schreiben Sie auch die Art des Getränks auf — Tee, Kaffee, Wasser, Bier; Kliniken fragen danach.[3,7]
+
+### Nachts
+
+Legen Sie vor dem Schlafengehen den Aufsatz ein oder stellen Sie den Becher neben die Toilette und lassen Sie ein kleines Licht an. Erst die Uhrzeit, dann die Menge: wenn das Messen um drei Uhr nachts nicht stattfindet, haken Sie ab und schlafen weiter.
+
+Schreiben Sie auf, wann Sie zu Bett gegangen und wann Sie aufgestanden sind. BAUS bittet um zwei Linien quer durch die Tagesspalte, der NHS-Bogen um BED und WOKE in der Zeitspalte,[3,5] und unsere Vorlage hat oben auf jeder Seite ein Feld für beides. So werden nächtliche Gänge gezählt.
+
+### Nach einer Operation oder mit Katheter
+
+Auf Station heißt dieselbe Aufzeichnung Ein- und Ausfuhrprotokoll oder Flüssigkeitsbilanz, und das Pflegepersonal führt sie. Gehen Sie mit einem Katheter nach Hause, zeigt Ihnen die Pflegekraft, wie Sie den Beutel ablesen und leeren; die Zeile im Tagebuch bleibt dieselbe, Uhrzeit und Menge. Halten Sie sich an deren Anweisungen, was und wie oft Sie erfassen sollen.
+
+### Sauber und einfach halten
+
+Nutzen Sie Becher oder Aufsatz nur dafür und für nichts anderes. Spülen Sie nach jedem Gebrauch aus,[4] waschen Sie einmal am Tag mit Spülmittel, waschen Sie sich die Hände. Bewahren Sie das Gefäß dort auf, wo Sie es benutzen, nicht im Schrank. Und schreiben Sie die Zahl in dem Moment auf, in dem Sie sie haben: eine Menge, an die man sich zwei Stunden später erinnert, ist geraten.
+
+### Fragen
+
+**Darf ich schätzen statt messen?**
+Wenn Sie nicht messen können, ja: behalten Sie die Uhrzeit und haken Sie den Gang ab oder schreiben Sie eine Schätzung mit dem Zusatz „ca.“. Wenn Sie einen Messbecher haben, messen Sie; gemessene Mengen sind das, worum die Praxis gebeten hat. Eine Schätzung oder ein Häkchen ist für die Gänge gedacht, bei denen ein Becher nicht möglich war, nicht für jeden Gang.
+
+**Muss ich nachts messen?**
+Wenn es geht. Ein Toilettenaufsatz, den Sie vor dem Schlafengehen unter die Brille legen, macht es leicht: nichts zu halten, nichts im Dunkeln zu suchen. Wenn es nicht geht, haken Sie den Gang ab und behalten die Uhrzeit. Nächtliche Gänge werden über ihre Uhrzeit gezählt, nicht über ihre Menge, schreiben Sie also auch auf, wann Sie zu Bett gegangen und wann Sie aufgestanden sind.
+
+**Was mache ich unterwegs?**
+Behalten Sie die Uhrzeit und haken Sie den Gang ab. Ein kleiner Messbecher passt in eine Tasche, aber niemand erwartet, dass Sie einen mit sich herumtragen; eine öffentliche Toilette ist ein legitimes Häkchen. Der Fehler ist, den Gang wegzulassen, nicht die Menge.
+
+### Quellen
+
+1. Abrams P, Cardozo L, Fall M, et al. The standardisation of terminology of lower urinary tract function: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):167–178. https://doi.org/10.1002/nau.10052
+2. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+3. British Association of Urological Surgeons. Information from BAUS about assessing fluid intake & output. Patient leaflet F24/016. BAUS; 2024. https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Input%20output%20chart.pdf
+4. Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025. https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf
+5. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+6. University Hospitals Sussex NHS Foundation Trust. Bladder record chart: pelvic health physiotherapy patient information. Reference 2198; 2023. https://www.uhsussex.nhs.uk/wp-content/uploads/2023/03/Bladder-Record-chart.pdf
+7. European Association of Urology, Patient Information. I want to know about keeping a bladder diary. Uroweb. https://patients.uroweb.org/condition/urinary-incontinence/bladder-diary
+
+Dieser Artikel erklärt, wie man ein Tagebuch führt. Er ist allgemeine Information von einem App-Entwickler, kein medizinischer Rat: Was Ihr Tagebuch bedeutet, entscheidet Ihre Praxis. Selbst geführtes Tagebuch. Kein medizinisches Dokument.
+
+---
+
+## Blasentagebuch: wie viele Tage? 3, 7 oder 24 Stunden
+Source: https://fluidbalanceapp.com/de/blog/bladder-diary-how-many-days/
+Published: 2026-09-12 · Anleitung · Von Denis Zinin, Entwickler von Blasentagebuch: Fluid Balance. Kein Arzt.
+
+Eine Anmerkung vorweg: Ich bin kein Arzt. Ich mache die App Blasentagebuch: Fluid Balance, und dieser Text ist mein Versuch, an einer Stelle zusammenzutragen, was klinische Leitlinien und Klinikbögen dazu sagen, wie viele Tage ein Blasentagebuch umfassen sollte. Die Quellen stehen am Ende; was Ihre Praxis sagt, gilt zuerst.
+
+Kurz gefasst:
+Wie viele Tage ein Blasentagebuch umfassen soll, entscheidet die Praxis, die darum gebeten hat: drei vollständige Tage sind die übliche Antwort, manche Praxen bitten um sieben, und 24 Stunden sind das Mindeste, was ein Bogen abbilden kann. Der NICE-Qualitätsstandard QS77 verlangt mindestens drei Tage, die International Continence Society beschreibt Tagebücher über drei bis sieben Tage, und der Bogen der Urology Care Foundation läuft über drei Tage, die nicht aufeinanderfolgen müssen. Wie die Zahl auch lautet: vollständig zählt mehr als lang:
+
+- Die Zahl, die Ihre Praxis genannt hat, ist die gültige; der Text unten erklärt, woher drei, sieben und 24 Stunden kommen.
+- Die Tage müssen nicht aufeinanderfolgen, sofern Ihr Bogen es nicht verlangt, sollten aber verschiedene Arten von Tagen abdecken: einen Arbeitstag und einen freien Tag.
+- Ein Tag läuft vom Aufwachen bis zum Aufwachen. Ein kurzes Tagebuch, in dem jeder Tag vollständig ist, ist mehr wert als ein langes mit Lücken.
+
+Drei vollständige Tage sind die übliche Antwort: ein 3-Tage-Blasentagebuch. Manche Praxen bitten um ein 7-Tage-Blasentagebuch, und 24 Stunden sind das Mindeste, was ein Bogen abdecken kann. Welche Zahl man Ihnen genannt hat, ist die gültige; der Text unten erklärt, woher diese Zahlen kommen, damit die Anweisung einleuchtet statt willkürlich zu wirken. Eine Regel steht über allen: ein kurzes Tagebuch, in dem jeder Tag vollständig ist, ist mehr wert als ein langes mit Lücken.
+
+### Wie viele Tage sollte ein Blasentagebuch umfassen?
+
+| Wer | Wie lange | Anmerkungen |
+|---|---|---|
+| NICE, Qualitätsstandard für Harninkontinenz bei Frauen[1,2] | Mindestens 3 Tage | Soll Schwankungen im üblichen Alltag abdecken, etwa Arbeits- und freie Tage |
+| International Continence Society[3] | Mindestens 24 Stunden für ein Miktionsprotokoll | Zwei oder drei Tage, nicht notwendigerweise aufeinanderfolgend, liefern brauchbarere Daten |
+| Urology Care Foundation (AUA)[4] | Mindestens 3 Tage | Drei beliebige typische Tage; sie müssen nicht aufeinanderfolgen; ein Tag ergibt womöglich kein echtes Bild |
+| BAUS Ein- und Ausfuhrbogen[5] | 3 aufeinanderfolgende normale Tage | Gegebenenfalls Arbeits- oder Ruhetage einbezogen |
+| NHS Gloucestershire Miktionsprotokoll[6] | 3 Tage | Ein dreitägiges Blasentagebuch |
+| Unsere Vorlage und die App | Bis zu 7 Tage | Eine Zeile „erfasste Tage“, damit die Praxis sieht, wie vollständig es ist |
+
+Verschiedene Institutionen, ein gemeinsamer Nenner: drei Tage sind fast überall die Untergrenze, und die Tage sollen aussehen wie Ihr wirkliches Leben.
+
+### Warum drei
+
+Drei ist keine bequeme runde Zahl. Eine systematische Übersichtsarbeit zu Miktionsprotokollen kam zu dem Schluss, dass sich aus der Evidenz keine festen Empfehlungen zur Dauer ableiten lassen, dass aber der Konsens auf Protokolle von drei Tagen und mehr die am besten begründbare Linie sei.[7] In zwei großen Studien zur überaktiven Blase waren dreitägige Tagebücher genauso wirksam wie siebentägige, und die Autoren merkten an, dass ein kürzeres Tagebuch die Neigung verringern kann, Lücken aus dem Gedächtnis zu füllen.[8] Eine Studie, die Patienten auf Tagebücher von zwei, drei oder sieben Tagen verteilte, fand die siebentägige Fassung belastender und empfahl weniger Tage.[9] Und eine Tagebuchstudie bei Patienten mit neurologisch bedingten Blasenproblemen fand drei Tage vergleichbar mit sieben, was Zahl der Gänge, Menge pro Gang, Harndrang und Tagesmenge angeht; einzig bei den Episoden mit Urinverlust wirkten drei Tage grenzwertig.[10]
+
+Eine Einschränkung, zu der dieselbe Literatur offen steht: ein einzelnes, vollständig validiertes Tagebuch gibt es nicht, und die Formate unterscheiden sich von Klinik zu Klinik.[11] Genau deshalb schlägt die Anweisung Ihrer eigenen Praxis — drei Tage auf deren Bogen, sieben auf unserem — alles, was hier steht.
+
+### Warum nicht einfach ein Tag
+
+Ein Tag ist eine Momentaufnahme, und eher als nicht ist es ein untypischer: eine lange Autofahrt, ein spätes Abendessen, ein Tag mit weniger Trinken als sonst. Die Urology Care Foundation sagt es ohne Umschweife: ein eintägiges Tagebuch liefert womöglich nicht genug Informationen für ein echtes Bild.[4] In der oben genannten neurologischen Studie wichen die Aufzeichnungen des ersten Tages bei jedem Maß deutlich vom Siebentagesmittel ab.[10] Zwei oder drei Tage glätten das.
+
+### Wann sieben Tage sinnvoll sind
+
+Manche Fachleute bitten um eine Woche. Eine Woche enthält ein Wochenende, das Tagebuch deckt also beide Arten von Tagen ab, ohne dass jemand es planen muss. Sie enthält außerdem sieben Nächte, was zählt, wenn es um nächtliches Aufstehen geht. Der Preis ist der Aufwand: sieben vollständige Tage verlangen Disziplin,[9] und eine Woche mit zwei leeren Tagen ist weniger wert als drei volle. Wenn man Sie um sieben bittet, lautet der praktische Rat: machen Sie sich das Eintragen leicht, haben Sie Blatt oder Telefon dabei und markieren Sie ehrlich, welche Tage vollständig sind.
+
+### 24-Stunden-Blasentagebücher
+
+Vierundzwanzig Stunden sind das Minimum, das die International Continence Society für ein Miktionsprotokoll beschreibt.[3] Manche Praxen nutzen einen einzelnen Tag als schnelle Kontrolle vor oder nach einer Behandlung. Wenn Sie das bekommen haben, behandeln Sie es als einen vollständigen Tag: beginnen Sie, wenn Sie aufwachen, erfassen Sie alles bis zum Aufwachen am nächsten Morgen, und lassen Sie keine Zeile leer, nur weil es „bloß ein Tag“ ist.
+
+### Müssen die Tage aufeinanderfolgen?
+
+Meistens nicht. Die Urology Care Foundation bittet um drei beliebige typische Tage,[4] und die International Continence Society merkt an, dass zwei oder drei Tage nicht aufeinanderfolgen müssen.[3] NICE geht weiter und verlangt, dass die Tage verschiedene Arten von Alltag abdecken, Arbeits- wie freie Tage,[1,2] was leichter zu arrangieren ist, wenn man sie verteilen darf. Manche Bögen, darunter der von BAUS, verlangen aufeinanderfolgende Tage;[5] wenn Ihrer das tut, folgen Sie dem Bogen.
+
+### Ein Tag läuft vom Aufwachen bis zum Aufwachen
+
+Beginnen Sie jeden Tagebuchtag, wenn Sie aufstehen, und machen Sie weiter, bis Sie am nächsten Morgen aufstehen.[4] Die Nacht gehört zu dem Tag, an dem sie begann. Schreiben Sie auf, wann Sie zu Bett gegangen und wann Sie aufgestanden sind; so werden die nächtlichen Gänge von den Tagesgängen getrennt.
+
+### Wenn ein Tag ausfällt
+
+Rekonstruieren Sie ihn nicht abends aus dem Gedächtnis. Markieren Sie ihn als unvollständig und hängen Sie stattdessen einen weiteren vollen Tag an. Unsere Vorlage hat auf der letzten Seite eine Zeile dafür — erfasste Tage von sieben — und die App zählt die erfassten Tage für Sie; so oder so sieht die Praxis auf einen Blick, womit sie arbeitet. [Blasentagebuch führen](https://fluidbalanceapp.com/blog/how-to-keep-a-bladder-diary/) beschreibt, was in jeden dieser Tage hineingehört.
+
+### Fragen
+
+**Man hat mich um sieben Tage gebeten. Darf ich nach drei aufhören?**
+Machen Sie es so, wie man Sie gebeten hat; die Praxis hat sieben aus einem Grund gewählt, oft um eine ganze Woche samt Wochenende oder mehr Nächte zu sehen. Wenn sieben vollständige Tage nicht realistisch sind, schlagen drei vollständige sieben mit Löchern, also sagen Sie es beim Termin und zeigen Sie die Tage, die Sie fertig bekommen haben.
+
+**Soll ein Wochenende dabei sein?**
+Ja, wenn es geht. NICE verlangt Tagebücher, die Arbeits- und freie Tage abdecken, und die Urology Care Foundation bittet um typische Tage. Ein Tag am Schreibtisch und ein Tag zu Hause sehen im Tagebuch meist verschieden aus, und Ihre Praxis möchte beides sehen.
+
+**Reicht ein 24-Stunden-Tagebuch?**
+Es ist das Minimum, das die International Continence Society für ein Miktionsprotokoll beschreibt, und manche Praxen nutzen es als schnelle Momentaufnahme. Ein einzelner Tag ist eher ein ungewöhnlicher, deshalb bitten die meisten um mehr. Wenn Sie einen 24-Stunden-Bogen bekommen haben, führen Sie ihn vom Aufwachen bis zum Aufwachen und füllen Sie jede Zeile aus.
+
+### Quellen
+
+1. National Institute for Health and Care Excellence. Urinary incontinence in women. Quality standard QS77, quality statement 2: bladder diaries and lifestyle changes. London: NICE; 2015. https://www.nice.org.uk/guidance/qs77/chapter/quality-statement-2-bladder-diaries-and-lifestyle-changes
+2. National Institute for Health and Care Excellence. Urinary incontinence and pelvic organ prolapse in women: management. NICE guideline NG123. London: NICE; 2019. https://www.nice.org.uk/guidance/ng123
+3. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+4. Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025. https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf
+5. British Association of Urological Surgeons. Information from BAUS about assessing fluid intake & output. Patient leaflet F24/016. BAUS; 2024. https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Input%20output%20chart.pdf
+6. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+7. Yap TL, Cromwell DC, Emberton M. A systematic review of the reliability of frequency-volume charts in urological research and its implications for the optimum chart duration. BJU Int. 2007;99(1):9–16. https://doi.org/10.1111/j.1464-410X.2006.06499.x
+8. Dmochowski RR, Sanders SW, Appell RA, Nitti VW, Davila GW. Bladder-health diaries: an assessment of 3-day vs 7-day entries. BJU Int. 2005;96(7):1049–1054. https://doi.org/10.1111/j.1464-410X.2005.05785.x
+9. Ku JH, Jeong IG, Lim DJ, Byun SS, Paick JS, Oh SJ. Voiding diary for the evaluation of urinary incontinence and lower urinary tract symptoms: prospective assessment of patient compliance and burden. Neurourol Urodyn. 2004;23(4):331–335. https://doi.org/10.1002/nau.20027
+10. Konstantinidis C, Kratiras Z, Samarinas M, Skriapas K. Optimal bladder diary duration for patients with suprapontine neurogenic lower urinary tract dysfunction. Int Braz J Urol. 2016;42(4):766–772. https://doi.org/10.1590/S1677-5538.IBJU.2015.0292
+11. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+
+Dieser Artikel erklärt, wie man ein Tagebuch führt. Er ist allgemeine Information von einem App-Entwickler, kein medizinischer Rat: Was Ihr Tagebuch bedeutet, entscheidet Ihre Praxis. Selbst geführtes Tagebuch. Kein medizinisches Dokument.
+
+---
+
+## Blasentagebuch führen: was eintragen, Schritt für Schritt
+Source: https://fluidbalanceapp.com/de/blog/how-to-keep-a-bladder-diary/
+Published: 2026-09-12 · Anleitung · Von Denis Zinin, Entwickler von Blasentagebuch: Fluid Balance. Kein Arzt.
+
+Eine Anmerkung vorweg: Ich bin kein Arzt. Ich mache die App Blasentagebuch: Fluid Balance, und dieser Text ist mein Versuch, an einer Stelle zusammenzutragen, was klinische Leitlinien und Klinikbögen verlangen, wenn man Sie bittet, ein Blasentagebuch zu führen. Die Quellen stehen am Ende; was Ihre Praxis sagt, gilt zuerst.
+
+Kurz gefasst:
+Ein Blasentagebuch führt man, indem man jedes Getränk und jeden Toilettengang mit der Uhrzeit aufschreibt, während es passiert, für die drei bis sieben Tage, um die eine Praxis bittet. Es ist genau die Aufzeichnung, die die NICE-Leitlinien, die International Continence Society und die Urology Care Foundation verlangen, wenn Häufigkeit, Harndrang, Urinverlust oder nächtliche Gänge beurteilt werden. Auf Papier oder in einer App machen dieselben Gewohnheiten es brauchbar:
+
+- Schreiben Sie jedes Getränk und jeden Toilettengang mit der Uhrzeit auf, während es passiert, über die drei bis sieben Tage, um die man Sie gebeten hat.
+- Messen Sie den Urin mit einem Messbecher oder einem Toilettenaufsatz, wenn es geht. Wenn nicht, setzen Sie ein Häkchen und behalten die Uhrzeit: der Gang zählt trotzdem.
+- Schreiben Sie auf, wann Sie zu Bett gegangen und aufgestanden sind, markieren Sie die nächtlichen Gänge und bringen Sie jede Seite mit. Ein vollständiges kurzes Tagebuch ist mehr wert als ein langes mit Lücken.
+
+Ein Blasentagebuch ist eine schriftliche Aufzeichnung dessen, was Sie trinken, was Sie ausscheiden und wann — über ein paar Tage geführt, damit Ihre Praxis das Muster sieht und sich nicht auf die Erinnerung verlassen muss, die die Zahlen meistens falsch wiedergibt.[1] Es zu führen läuft auf vier Gewohnheiten hinaus: die Uhrzeit sofort aufschreiben, jedes Getränk mit seiner Menge notieren, den Urin messen, wenn es geht, und den Gang abhaken, wenn es nicht geht, und festhalten, was nachts passiert ist.
+
+Ihre Urologin, Ihr Hausarzt, eine Pflegekraft oder eine Beckenboden-Therapie nennt es vielleicht Miktionstagebuch, Miktionsprotokoll oder Trink- und Miktionsprotokoll; die International Continence Society definiert jeden dieser Begriffe.[2,3] Im Krankenhaus heißt dieselbe Aufzeichnung Ein- und Ausfuhrprotokoll. Die Spalten sind nahezu dieselben; der Name hängt davon ab, wer Ihnen das Blatt in die Hand drückt.
+
+### Wozu ein Blasentagebuch dient und warum man Sie darum gebeten hat
+
+Das Tagebuch beantwortet Fragen, die ein Termin nicht beantworten kann. Wie oft gehen Sie über einen ganzen Tag und eine ganze Nacht? Wie viel kommt jedes Mal? Wie verhält sich das zu dem, was Sie getrunken haben, und wann? Wie oft stehen Sie nachts auf?
+
+Die International Continence Society definiert ein Miktionsprotokoll als Aufzeichnung von Uhrzeit und Menge jeder Miktion über mindestens 24 Stunden, und ein Blasentagebuch als dieselbe Aufzeichnung plus Trinkmenge, Urinverlust und Vorlagenverbrauch.[2,3] Praxen bitten vor dem ersten Termin darum und nehmen es später noch einmal zur Hand, um zu sehen, ob eine Behandlung wirkt.[4] Was die Zahlen bedeuten, entscheidet Ihre Praxis. Ihre Aufgabe ist eine Aufzeichnung, die vollständig und ehrlich ist.
+
+### Was in ein Blasentagebuch gehört
+
+Ein Blasentagebuch hat fünf Spalten: die Uhrzeit, was Sie getrunken haben und wie viel, wie viel Sie ausgeschieden haben (oder ein Häkchen für nicht gemessen), ob es nachts war, und eine Notiz. Fünf Spalten decken fast jeden Klinikbogen ab.
+
+- **Uhrzeit.** Jedes Getränk und jeder Gang, aufgeschrieben, wenn er passiert. Die Uhrzeit zählt genauso wie die Menge: dieselbe Menge um drei Uhr nachmittags und um drei Uhr nachts sagt einer Fachperson Verschiedenes.
+- **Was Sie getrunken haben, und wie viel.** Die Art und die Menge: 250 ml Tee, eine Dose mit 330 ml, eine Flasche mit 500 ml. Messen Sie Ihre übliche Tasse, Ihr Glas und Ihre Flasche einmal mit einem Messbecher aus und verwenden Sie die Zahlen weiter.
+- **Wie viel Sie ausgeschieden haben.** In Millilitern oder Flüssigunzen, aus einem Messbecher oder einem Toilettenaufsatz, der unter der Brille sitzt. Wenn Sie Urin gelassen, ihn aber nicht messen konnten, setzen Sie ein Häkchen und behalten die Uhrzeit. Genau das schreibt der NHS-Bogen.[5]
+- **Nacht.** Schreiben Sie auf, wann Sie zu Bett gegangen und wann Sie aufgestanden sind, und markieren Sie jeden Gang dazwischen.[5,6] Mit Zubett- und Aufstehzeit auf dem Blatt kann Ihre Praxis Tag und Nacht trennen.
+- **Notizen.** Ein starker Harndrang, ein Urinverlust und ungefähr wie viel, ein Vorlagenwechsel, Schmerzen, alles Ungewöhnliche. Manche Bögen haben eigene Spalten für Harndrang und Urinverlust; wenn Ihrer die hat, nutzen Sie sie.
+
+### Bevor Sie anfangen
+
+1. **Besorgen Sie sich etwas zum Messen.** Jeder Küchenmessbecher mit Millilitern reicht; die Urology Care Foundation schlägt einen Messbecher aus der Küche oder eine Tasse vor, von der Sie die Menge kennen.[7] Kliniken geben oft einen Toilettenaufsatz mit. Stellen Sie ihn neben die Toilette und spülen Sie ihn nach jedem Gebrauch aus.
+2. **Messen Sie Ihre Alltagsgefäße einmal aus.** Ihre Tasse, Ihr Glas, Ihre Wasserflasche. Von da an schreiben Sie die Zahl, nicht eine Schätzung.
+3. **Legen Sie die Tage fest.** Die meisten Praxen bitten um drei; manche um sieben, und die Forschung zur Dauer eines Tagebuchs weist in dieselbe Richtung.[9] Der NICE-Qualitätsstandard für Frauen mit Harninkontinenz verlangt mindestens drei Tage, die Arbeits- und freie Tage abdecken,[4] und die Urology Care Foundation bittet um drei typische Tage, die nicht aufeinanderfolgen müssen.[7] Wenn man Ihnen eine Zahl genannt hat, gilt die.
+4. **Bewahren Sie das Blatt dort auf, wo Sie es brauchen.** Neben der Toilette, in der Tasche oder auf dem Telefon. Ein Tagebuch, das Sie nicht dabeihaben, können Sie nicht ausfüllen.
+5. **Machen Sie weiter wie sonst.** Das Tagebuch soll normale Tage zeigen.[8] Trinken Sie nicht weniger, damit es ordentlicher aussieht.
+
+### Ein ausgefüllter Tag, Zeile für Zeile
+
+Hier sind drei Zeilen aus dem Beispiel auf der ersten Seite unserer [Vorlage zum Ausdrucken](https://fluidbalanceapp.com/bladder-diary-template/):
+
+(Image: Drei Beispielzeilen aus der Vorlage zum Ausdrucken: 7:20, 250 ml Tee getrunken, 320 ml ausgeschieden; 9:40, ein Häkchen für nicht gemessen, mit der Notiz „in Eile, etwas Urinverlust“; 3:10, 180 ml ausgeschieden, als Nacht markiert)
+
+- **7:20.** Eine Tasse Tee, 250 ml, und der erste Gang am Morgen, 320 ml, mit dem Messbecher gemessen.
+- **9:40.** Ein Gang in Eile: keine Zeit zum Messen, also ein Häkchen statt einer Zahl und eine Notiz über etwas Urinverlust. Der Gang zählt trotzdem.
+- **3:10.** 180 ml mitten in der Nacht. Er bekommt ein Häkchen in der Spalte Nacht, weil er zwischen Zubettgehen und Aufstehen lag.
+
+Drei Zeilen, und eine Fachperson sieht schon eine gemessene Miktion, eine ungemessene, die trotzdem zählt, und einen nächtlichen Gang mit seiner Menge. Ein ganzer Tag hat mehr Zeilen, aber jede ist genauso einfach. Einen ganzen Tag, alle fünfzehn Zeilen, gehen wir in [Blasentagebuch-Beispiel: ein ganzer Tag, Zeile für Zeile](https://fluidbalanceapp.com/blog/bladder-diary-example/) durch.
+
+Oder führen Sie dasselbe Tagebuch in [der App Blasentagebuch: Fluid Balance](https://fluidbalanceapp.com/): dieselben Spalten, zwei Tipps pro Eintrag, immer in der Tasche, und kostenlos.
+
+### Fehler, die ein Tagebuch verderben
+
+- **Abends aus dem Gedächtnis ausfüllen.** Die Zeiten verrutschen und die kleinen Gänge verschwinden; sogar die Zahl der Gänge wird falsch erinnert.[1] Schreiben Sie mit, während es passiert.
+- **Einen Gang auslassen, weil Sie nicht messen konnten.** Ein abgehakter Gang mit Uhrzeit zeigt immer noch, wie oft Sie gehen und wie oft Sie nachts aufgestanden sind. Ein fehlender Gang zeigt gar nichts. Eine Schätzung ist besser als eine Lücke.
+- **Zubett- und Aufstehzeit weglassen.** Ohne sie lassen sich nächtliche Gänge nicht zählen.
+- **Auf halbem Weg aufhören.** Zwei vollständige Tage sind mehr wert als vier mit Löchern. Vollständigkeit ist das Erste, worauf eine Fachperson schaut.
+- **Die Gewohnheiten für das Tagebuch ändern.** Wenn Sie drei Tage lang den Abendtee weglassen, verstecken Sie genau das Muster, das das Tagebuch zeigen soll.
+
+### Zum Termin mitbringen
+
+Bringen Sie jede Seite mit, auch die Tage mit Lücken, und sagen Sie, welche Tage vollständig sind.[7,8] Unsere Vorlage hat dafür auf der letzten Seite eine Zeile: erfasste Tage von sieben. Fotografieren Sie jede Seite als Sicherung, bevor Sie sie aus der Hand geben.
+
+Wenn Sie das Tagebuch in einer App geführt haben, exportieren Sie den Bericht und drucken ihn aus, schicken ihn per E-Mail an die Praxis oder zeigen ihn auf dem Telefon. Manche Fachleute bevorzugen Papier; eine ausgedruckte Seite ist nie verkehrt.
+
+Wenn Sie während der Tagebuchtage ein Medikament angefangen oder abgesetzt haben, schreiben Sie es in die Notizen. Ändern Sie nichts dem Tagebuch zuliebe.
+
+### Papier oder App
+
+Ein Blatt Papier funktioniert, und Praxen sind daran gewöhnt. Eine App setzt die Uhrzeit selbst, rechnet die Summen und erzeugt am Ende einen Bericht. Wenn Sie Papier bevorzugen, hat die [kostenlose Vorlage](https://fluidbalanceapp.com/bladder-diary-template/) dieselben Spalten wie die App, in A4 und US Letter, als ganze Seiten oder als Heft zum Falten. Wenn Sie das Telefon bevorzugen, braucht [Blasentagebuch: Fluid Balance](https://fluidbalanceapp.com/) zwei Tipps pro Eintrag und kommentiert Ihre Zahlen nie.
+
+### Wen man darum bittet
+
+Nykturie, Reizblase, Inkontinenz, Nachsorge nach einem Harnwegsinfekt, eine vergrößerte Prostata vor und nach der Operation, Beckenboden-Physiotherapie, Erholung nach einem Katheter. Die Aufzeichnung ist in jedem Fall dieselbe. Worauf die Fachperson darin schaut, ist verschieden, und dieser Teil gehört ihr.
+
+### Fragen
+
+**Muss ich jedes Mal messen?**
+Nein. Messen Sie, wenn Sie zu Hause sind und einen Messbecher oder einen Toilettenaufsatz zur Hand haben; sonst haken Sie den Gang ab und behalten die Uhrzeit. Ein Eintrag ohne Menge zählt weiterhin für die Häufigkeit und für die nächtlichen Gänge. Teuer wird die Zeile, die Sie nie geschrieben haben, nicht die Menge, die Sie nicht messen konnten.
+
+**Müssen die Tage aufeinanderfolgen?**
+Nicht unbedingt. Die Urology Care Foundation bittet um drei typische Tage, die nicht aufeinanderfolgen müssen, NICE um mindestens drei Tage, darunter Arbeits- und freie Tage. Halten Sie sich an das, was man Ihnen gesagt hat. Gab es keine genaue Vorgabe, wählen Sie Tage, die Sie zu Ende führen können, nicht Tage, die im Kalender nebeneinander liegen. Mehr dazu: wie viele Tage genug sind (https://fluidbalanceapp.com/de/blog/bladder-diary-how-many-days/).
+
+**Was, wenn ich etwas zu notieren vergessen habe?**
+Schreiben Sie auf, was Sie sicher wissen, und lassen Sie den Rest frei. Rekonstruieren Sie den Tag nicht aus dem Gedächtnis: Das Gedächtnis irrt sich bei Häufigkeit und Mengen — deshalb führt man das Tagebuch überhaupt. Fehlt ein ganzer Tag, hängen Sie lieber einen Tag an, statt den lückenhaften zu zählen, und sagen Sie beim Termin, welcher Tag unvollständig war.
+
+### Quellen
+
+1. Stav K, Dwyer PL, Rosamilia A. Women overestimate daytime urinary frequency: the importance of the bladder diary. J Urol. 2009;181(5):2176–2180. https://doi.org/10.1016/j.juro.2009.01.042
+2. Abrams P, Cardozo L, Fall M, et al. The standardisation of terminology of lower urinary tract function: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):167–178. https://doi.org/10.1002/nau.10052
+3. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+4. National Institute for Health and Care Excellence. Urinary incontinence in women. Quality standard QS77, quality statement 2: bladder diaries and lifestyle changes. London: NICE; 2015. https://www.nice.org.uk/guidance/qs77/chapter/quality-statement-2-bladder-diaries-and-lifestyle-changes
+5. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+6. European Association of Urology, Patient Information. I want to know about keeping a bladder diary. Uroweb. https://patients.uroweb.org/condition/urinary-incontinence/bladder-diary
+7. Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025. https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf
+8. British Association of Urological Surgeons. Information from BAUS about assessing fluid intake & output. Patient leaflet F24/016. BAUS; 2024. https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Input%20output%20chart.pdf
+9. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+
+Dieser Artikel erklärt, wie man ein Tagebuch führt. Er ist allgemeine Information von einem App-Entwickler, kein medizinischer Rat: Was Ihr Tagebuch bedeutet, entscheidet Ihre Praxis. Selbst geführtes Tagebuch. Kein medizinisches Dokument.
+
+---
+
+## Blasentagebuch: Fluid Balance 1.0 ist im App Store
+Source: https://fluidbalanceapp.com/de/blog/fluid-balance-1-0/
+Published: 2026-08-29 · App-Update · Von Denis Zinin, Entwickler von Blasentagebuch: Fluid Balance.
+
+Blasentagebuch: Fluid Balance 1.0 ist am 29. August 2026 im App Store erschienen. Es ist ein Blasentagebuch für iPhone und Apple Watch: was Sie trinken, was Sie ausscheiden und wann, geführt über die drei bis sieben Tage, um die eine Praxis bittet, mit einem PDF-Bericht am Ende. Die App ist kostenlos; Pro ist ein einmaliger Kauf.
+
+Dieser Beitrag hält fest, was die erste Fassung enthält. Spätere Fassungen bekommen eigene Beiträge, damit es immer eine Stelle gibt, an der steht, was sich wann geändert hat.
+
+### Was in 1.0 steckt
+
+**Erfassen.** Auf + Zufuhr oder + Ausscheidung tippen, dann auf eine Mengenvorgabe: 100, 200, 250, 330 oder 500 ml, oder „Eigener Wert“ für eine genaue Zahl. Der Eintrag wird mit der Uhrzeit gespeichert. „Nicht gemessen“ hält einen Toilettengang ohne Menge fest; er zählt für Häufigkeit und nächtliche Ereignisse und bleibt aus den Summen heraus. Jeder Eintrag lässt sich später ändern: Uhrzeit, Art, Menge und eine Notiz.
+
+
+**Heute.** ZU, AUS und BILANZ oben am Bildschirm, darunter die Einträge des Tages, und eine Reihe der letzten Tage zum Wechseln.
+
+
+**Statistik.** Ein Raster der letzten fünf Wochen, das zeigt, an welchen Tagen ein Tagebuch geführt wurde. Die Erweiterte Auswertung, Teil von Pro, bringt fünf Diagramme: Zufuhr und Ausscheidung pro Tag, Mengen nach Stunde, nächtliche Gänge im Verlauf, die Verteilung der Miktionsvolumina und die Abstände zwischen den Gängen. Das erste Diagramm ist kostenlos.
+
+
+**Bericht.** Ein PDF für jeden Zeitraum, aufgebaut so, wie ein Blasentagebuch üblicherweise gelesen wird: Tagessummen, jedes Miktionsvolumen mit seiner Uhrzeit, nächtliche Ereignisse, erfasste Tage und die Mittelwerte, auf die eine Fachperson schaut. Ausdrucken, per E-Mail senden oder auf dem Telefon zeigen. Der CSV-Export der gesamten Historie ist kostenlos.
+
+
+**Widgets und Apple Watch.** Ein Widget für den Home-Bildschirm und eines für den Sperrbildschirm, mit den Summen des Tages und den zwei Schaltflächen. Die Apple-Watch-App hat dieselben Mengenvorgaben und „Nicht gemessen“.
+
+
+**iCloud.** Einträge gleichen sich zwischen Ihren eigenen Geräten über Ihre private iCloud-Datenbank ab. Es gibt kein Konto und keinen Server von uns.
+
+**Erinnerung.** Eine optionale tägliche Erinnerung ans Ausfüllen, standardmäßig aus. Ihr Text sagt nie, wofür die App ist.
+
+**Alle Daten löschen.** Ein Schritt in den Einstellungen. Er räumt das Gerät und, wenn iCloud an ist, Ihre iCloud-Kopie.
+
+**Sprachen.** Englisch, Deutsch, Französisch, Spanisch, Italienisch, Portugiesisch (Brasilien), Russisch, Japanisch, Koreanisch und Chinesisch (vereinfacht). Der PDF-Bericht ist ebenfalls übersetzt; die CSV-Datei bleibt auf Englisch.
+
+### Kostenlos und Pro
+
+Erfassen, der Heute-Bildschirm, die Statistik, Widgets, Apple Watch, iCloud und der CSV-Export sind kostenlos, so lange Sie die App nutzen. Pro ist ein einmaliger Kauf, kein Abo: es bringt den PDF-Bericht, die Seite „Erweiterte Auswertung“ und ein dunkles App-Symbol. Nichts unterbricht einen Eintrag mit einer Kaufaufforderung.
+
+### Privatsphäre
+
+Der Datenschutzhinweis im App Store lautet „Keine Daten erfasst“. Die App hat keine Analytik, keine Absturzberichte, keine Werbung und keinen Code von Dritten. Einträge liegen auf Ihrem Gerät und, wenn Sie es einschalten, in Ihrer eigenen iCloud. Einzelheiten stehen in der [Datenschutzerklärung](https://fluidbalanceapp.com/privacy/).
+
+### Was sie nicht tut
+
+Sie stellt keine Diagnose, vergleicht Ihre Einträge mit keiner Norm, deutet sie nicht und erinnert Sie nicht ans Trinken. Sie hält fest, was Sie ihr sagen, und gibt Ihnen die Aufzeichnung zurück. Wenn Blasentagebücher für Sie neu sind, erklärt [Blasentagebuch führen](https://fluidbalanceapp.com/blog/how-to-keep-a-bladder-diary/), was hineingehört und warum.
+
+### Voraussetzungen
+
+iPhone mit iOS 18 oder neuer. Apple Watch mit watchOS 11 oder neuer. Auf dem iPad läuft die App als iPhone-App. Kategorie im App Store: Medizin. Downloadgröße: etwa 11 MB.
+
+### Versionsverlauf
+
+| Version | Datum | Was sich geändert hat |
+|---|---|---|
+| 1.2 | 26. Oktober 2026 | Stärke des Harndrangs, Erinnerungen nur an Tagen ohne Einträge, Karte „Gestern“, 12- oder 24-Stunden-Format, iPhone Duo, großes Widget, vier neue Sprachen |
+| 1.0 | 29. August 2026 | Erste Veröffentlichung |
+
+Fragen oder Wünsche: In der [Hilfe](https://fluidbalanceapp.com/support/) stehen die Antworten auf die häufigen Fragen und die Adresse zum Schreiben.
+
+---

@@ -1,0 +1,38 @@
+# 배뇨일지: Fluid Balance
+
+> 배뇨일지: Fluid Balance는 iPhone과 Apple Watch를 위한 무료 앱입니다. 마신 양과 나온 양을 적고, 의사가 요청하는 3~7일 일지에 맞습니다. 기록은 PDF 보고서로 정리됩니다. 계정은 필요 없고, 데이터는 휴대폰에 남습니다. 무료와 Pro. 기록, 통계, 위젯, Apple Watch, iCloud, CSV 내보내기는 무료입니다. Pro는 PDF 보고서와 고급 분석을 더하는 한 번 결제이며 구독이 아닙니다. 기록하는 동안 구매를 권하지 않습니다.
+
+가입도, 이름도, 생년월일도 없습니다. 앱을 열고 시작하세요. App Store의 개인정보 표시가 그렇습니다. 약속이 아니라 사실입니다. 보낼 서버 자체가 없습니다. 선택 사항인 알림은 기록이 없는 날에만 오고, 앱이 무엇에 관한 것인지는 결코 말하지 않습니다. 기본값은 꺼짐입니다.
+
+점수도 기준값도 없습니다. 기록한 것만 있습니다. 배뇨일지: Fluid Balance 개발자 Denis Zinin. 의사가 아닙니다. 본인이 적는 일지. 의료 문서가 아님.
+
+App Store: https://apps.apple.com/app/id6803224992 (category Medical; version 1.2.1, first released 2026-08-29; requires iOS 18.0 or later, watchOS 11.0 or later; App Store privacy label "Data Not Collected"). Languages: English, Deutsch, Français, Español, Italiano, Português (Brasil), Русский, 日本語, 한국어, 简体中文, 繁體中文, Polski, Svenska, Čeština. iPad: iPad용 정식 버전을 만들고 있습니다. 곧 찾아갑니다.
+
+## App
+
+- [iPhone과 Apple Watch용 배뇨일지 앱](https://fluidbalanceapp.com/ko/): iPhone과 Apple Watch를 위한 무료 배뇨일지 앱. 의사가 요청하는 3~7일 일지에 맞고, 기록 하나에 두 번 탭, PDF 보고서로 정리됩니다. 데이터는 휴대폰에 남습니다.
+- [도움말](https://fluidbalanceapp.com/ko/support/): 배뇨일지 앱에 대한 답변: 무엇을 적는지, 며칠인지, Apple Watch, CSV와 PDF 내보내기, 데이터 삭제, Pro와 구매 복원.
+- [배뇨일지: Fluid Balance 1.2가 App Store에 올라왔습니다](https://fluidbalanceapp.com/ko/blog/fluid-balance-1-2/): 1.2는 배뇨 기록에 요의 강도를 더했습니다 — 다섯 단계로, 일지에도 PDF 보고서에도 CSV에도. 여기에 기록 없는 날에만 오는 알림, 어제로 가는 쉬운 길, 그리고 네 가지 새 언어. Markdown: https://fluidbalanceapp.com/ko/blog/fluid-balance-1-2.md
+- [배뇨일지: Fluid Balance 1.0이 App Store에 올라왔습니다](https://fluidbalanceapp.com/ko/blog/fluid-balance-1-0/): 첫 번째 버전, 2026년 8월 29일. iPhone과 Apple Watch를 위한 배뇨일지입니다. 기록 하나에 두 번 탭, 의사에게 낼 PDF 보고서, 아무것도 휴대폰을 떠나지 않습니다. Markdown: https://fluidbalanceapp.com/ko/blog/fluid-balance-1-0.md
+
+## Guides
+
+- [무료 배뇨일지 앱, 어떤 것이 좋은가: 설치 전에 확인할 것](https://fluidbalanceapp.com/ko/blog/best-free-bladder-diary-app/): 무료 배뇨일지 앱이 진료 당일에 쓸모가 있을지는 설치 전에 갈립니다. 매번의 배뇨량, 밤과 낮의 구분, 사흘에서 이레, 그리고 내보내기. Markdown: https://fluidbalanceapp.com/ko/blog/best-free-bladder-diary-app.md
+- [배뇨일지와 빈도·배뇨량 기록지는 무엇이 다른가](https://fluidbalanceapp.com/ko/blog/bladder-diary-or-frequency-volume-chart/): 거의 같은 종이에 이름이 다섯. ICS 정의로 각 용어가 무엇을 뜻하는지, 당신이 다니는 곳은 어느 것을 쓰는지, 그리고 제목보다 칸이 더 중요한 이유. Markdown: https://fluidbalanceapp.com/ko/blog/bladder-diary-or-frequency-volume-chart.md
+- [종이 배뇨일지와 앱: 연구는 무엇이라 하나](https://fluidbalanceapp.com/ko/blog/paper-bladder-diary-or-app/): 종이와 전자 일지의 이행도, 기억, 정확성. 최근 앱 분석에서 무엇이 빠져 있다고 했는지, 그리고 중간에 갈아타지 않고 고르는 법. Markdown: https://fluidbalanceapp.com/ko/blog/paper-bladder-diary-or-app.md
+- [과민성 방광과 요실금 배뇨일지: 무엇을 적을까](https://fluidbalanceapp.com/ko/blog/bladder-diary-for-overactive-bladder-and-leaks/): 요의, 새는 일, 패드, 그리고 그때 무엇을 하고 있었는지. 진료 양식이 이것들을 어떻게 묻는지, 매번 같은 기준으로 매기는 법, 그리고 칸이 없는 일지에서는 어디에 적을지. Markdown: https://fluidbalanceapp.com/ko/blog/bladder-diary-for-overactive-bladder-and-leaks.md
+- [야간뇨 배뇨일지: 밤에 간 횟수를 적는 법](https://fluidbalanceapp.com/ko/blog/bladder-diary-for-nocturia/): 야간뇨를 위한 배뇨일지. 밤이 어디서 시작하고 끝나는지, 아침 첫 배뇨는 어떻게 세는지, 그리고 의료진이 밤의 양상을 읽을 수 있도록 무엇을 적을지. Markdown: https://fluidbalanceapp.com/ko/blog/bladder-diary-for-nocturia.md
+- [배뇨일지는 무엇을 보여 주나: 비뇨의학과에서 읽는 것](https://fluidbalanceapp.com/ko/blog/what-does-a-bladder-diary-show/): 의료진이 배뇨일지에서 읽는 것 — 횟수, 한 번의 배뇨량, 밤에 만들어진 소변, 마신 것, 그리고 기록이 얼마나 빠짐없는지. 기준치도, 자가 진단도 없이. Markdown: https://fluidbalanceapp.com/ko/blog/what-does-a-bladder-diary-show.md
+- [배뇨일지 예시: 하루 전체를 한 줄씩](https://fluidbalanceapp.com/ko/blog/bladder-diary-example/): 배뇨일지의 하루치 예시. 마신 것, 배뇨, 미측정 표시, 야간 한 번을 포함한 열다섯 줄과, 각 줄이 의료진에게 말하는 것. Markdown: https://fluidbalanceapp.com/ko/blog/bladder-diary-example.md
+- [집에서 소변량 재는 법: 배뇨일지를 위해](https://fluidbalanceapp.com/ko/blog/how-to-measure-urine-output-at-home/): 계량컵, 변기에 놓는 채뇨 용기, 어림잡기. 나온 양을 적는 세 가지 방법과, 재지 못했을 때 어떻게 쓰는지, 시각을 맞게 유지하는 법. Markdown: https://fluidbalanceapp.com/ko/blog/how-to-measure-urine-output-at-home.md
+- [배뇨일지 며칠? 3일, 7일, 24시간](https://fluidbalanceapp.com/ko/blog/bladder-diary-how-many-days/): NICE와 ICS, 병원 안내문이 요구하는 일수, 날이 이어져야 하는지, 그리고 빠짐없는 짧은 일지가 길고 구멍 난 일지를 이기는 이유. Markdown: https://fluidbalanceapp.com/ko/blog/bladder-diary-how-many-days.md
+- [배뇨일지 쓰는 법: 무엇을 적는지, 차례대로](https://fluidbalanceapp.com/ko/blog/how-to-keep-a-bladder-diary/): 배뇨일지가 기록하는 것, 쓰는 방법, 작성 예시, 그리고 진료 때 무엇을 가져갈지. 의사가 아니라 앱 개발자가 썼습니다. Markdown: https://fluidbalanceapp.com/ko/blog/how-to-keep-a-bladder-diary.md
+- [배뇨일지 양식: 무료 인쇄용 PDF (A4·레터)](https://fluidbalanceapp.com/ko/bladder-diary-template/): 무료 배뇨일지 양식 PDF. A4는 ml, US Letter는 oz, 반으로 접는 소책자도 있습니다. 7일, 하루 한 장, 작성법 포함.
+- [블로그](https://fluidbalanceapp.com/ko/blog/): 비뇨의학과 진료 전에 떠오르는 질문에 대한 짧고 실용적인 답과, 앱의 새 기능. 기준값도 진단도 없습니다. 기록을 어떻게 남기고, 의사가 그것으로 무엇을 하는지입니다. RSS: https://fluidbalanceapp.com/ko/blog/rss.xml.
+
+## Optional
+
+- [개인정보 처리방침](https://fluidbalanceapp.com/ko/privacy/): Fluid Balance는 사용자의 데이터를 수집하지 않습니다. 서버도 계정도 없고 앱 안에 분석 도구도 없습니다. 이 사이트가 무엇을 세는지 설명합니다.
+- [이용약관](https://fluidbalanceapp.com/ko/terms/): 배뇨일지 앱 Fluid Balance 이용약관: 앱의 성격, 라이선스, 구매, 사용자의 데이터, 보증.
+- Full text of this site in one file: https://fluidbalanceapp.com/ko/llms-full.txt
+- Other languages: [English](https://fluidbalanceapp.com/llms.txt), [Deutsch](https://fluidbalanceapp.com/de/llms.txt), [Français](https://fluidbalanceapp.com/fr/llms.txt), [Español](https://fluidbalanceapp.com/es/llms.txt), [Italiano](https://fluidbalanceapp.com/it/llms.txt), [Português (Brasil)](https://fluidbalanceapp.com/pt-br/llms.txt), [Русский](https://fluidbalanceapp.com/ru/llms.txt), [日本語](https://fluidbalanceapp.com/ja/llms.txt), [简体中文](https://fluidbalanceapp.com/zh-hans/llms.txt), [繁體中文](https://fluidbalanceapp.com/zh-hant/llms.txt), [Polski](https://fluidbalanceapp.com/pl/llms.txt), [Svenska](https://fluidbalanceapp.com/sv/llms.txt), [Čeština](https://fluidbalanceapp.com/cs/llms.txt)

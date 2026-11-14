@@ -1,0 +1,38 @@
+# 排尿日誌: Fluid Balance
+
+> 排尿日誌: Fluid Balanceは、iPhoneとApple Watchのための無料アプリです。飲んだ量と出た量を記録し、医師に頼まれる3〜7日間の日誌に向いています。記録はPDFレポートにまとまります。アカウントは不要で、データは端末に残ります。 無料とPro。記録、統計、ウィジェット、Apple Watch、iCloud、CSV書き出しは無料です。ProはPDFレポートと詳細分析を追加する買い切りで、サブスクリプションはありません。記録の途中で購入を促すことはありません。
+
+登録も、名前も、生年月日もありません。アプリを開いて始めるだけです。 App Storeのプライバシー表示がそうなっています。約束ではなく事実です。送る先のサーバーがありません。 任意のリマインダーは記録のない日にだけ届き、アプリが何のためのものかは決して書きません。初期設定はオフです。
+
+点数も基準値もありません。記録したものだけです。 排尿日誌: Fluid Balanceの開発者、Denis Zinin。 医師ではありません。 ご自身で記録する日誌. 医療文書ではありません.
+
+App Store: https://apps.apple.com/app/id6803224992 (category Medical; version 1.2.1, first released 2026-08-29; requires iOS 18.0 or later, watchOS 11.0 or later; App Store privacy label "Data Not Collected"). Languages: English, Deutsch, Français, Español, Italiano, Português (Brasil), Русский, 日本語, 한국어, 简体中文, 繁體中文, Polski, Svenska, Čeština. iPad: iPad向けの本格版を開発中です。近日中にお届けします。
+
+## App
+
+- [iPhone・Apple Watch用の排尿日誌アプリ](https://fluidbalanceapp.com/ja/): iPhoneとApple Watch用の無料の排尿日誌アプリ。医師に頼まれる3〜7日間の日誌に向いていて、1件2タップで記録し、PDFレポートにまとめます。データは端末に残ります。
+- [サポート](https://fluidbalanceapp.com/ja/support/): 排尿日誌アプリについての回答。何を記録するか、何日分か、Apple Watch、CSV と PDF の書き出し、データの削除、Pro と購入の復元。
+- [排尿日誌: Fluid Balance 1.2 を App Store で公開しました](https://fluidbalanceapp.com/ja/blog/fluid-balance-1-2/): 1.2 では排尿の記録に尿意の強さが付きます——5段階で、日誌にもPDFレポートにもCSVにも。さらに記録のない日だけ届くリマインダー、昨日への簡単なアクセス、そして4つの新しい言語。 Markdown: https://fluidbalanceapp.com/ja/blog/fluid-balance-1-2.md
+- [排尿日誌: Fluid Balance 1.0 を App Store で公開しました](https://fluidbalanceapp.com/ja/blog/fluid-balance-1-0/): 最初のバージョン、2026年8月29日。iPhone と Apple Watch のための排尿日誌です。記録は1件2タップ、医師に渡す PDF レポート、情報は端末から出ません。 Markdown: https://fluidbalanceapp.com/ja/blog/fluid-balance-1-0.md
+
+## Guides
+
+- [無料の排尿日誌アプリはどれがよいか: 入れる前に確かめること](https://fluidbalanceapp.com/ja/blog/best-free-bladder-diary-app/): 無料の排尿日誌アプリが受診の日に役立つかどうかは、入れる前に決まります。1回ごとの尿量、夜の区別、3日から7日、そして書き出せること。 Markdown: https://fluidbalanceapp.com/ja/blog/best-free-bladder-diary-app.md
+- [排尿日誌と頻度・尿量記録は何が違うのか](https://fluidbalanceapp.com/ja/blog/bladder-diary-or-frequency-volume-chart/): ほぼ同じ用紙に5つの名前。ICS の定義でそれぞれが何を指すか、受診先がどれを使っているか、そして見出しより欄のほうが大切な理由。 Markdown: https://fluidbalanceapp.com/ja/blog/bladder-diary-or-frequency-volume-chart.md
+- [紙の排尿日誌とアプリ: 研究は何と言っているか](https://fluidbalanceapp.com/ja/blog/paper-bladder-diary-or-app/): 紙と電子の日誌で、続けやすさ・記憶・正確さはどう違うか。アプリを調べた研究に何が足りないと書かれていたか。そして途中で乗り換えずに選ぶには。 Markdown: https://fluidbalanceapp.com/ja/blog/paper-bladder-diary-or-app.md
+- [過活動膀胱と尿もれの排尿日誌: 何を書くか](https://fluidbalanceapp.com/ja/blog/bladder-diary-for-overactive-bladder-and-leaks/): 尿意、尿もれ、パッド、そのときしていたこと。医療機関の用紙がどう尋ねるか、毎回同じ基準で付けるには、そして欄のない日誌ではどこに書くか。 Markdown: https://fluidbalanceapp.com/ja/blog/bladder-diary-for-overactive-bladder-and-leaks.md
+- [夜間頻尿の排尿日誌: 夜の排尿を記録する](https://fluidbalanceapp.com/ja/blog/bladder-diary-for-nocturia/): 夜間頻尿のための排尿日誌。夜がどこで始まりどこで終わるか、朝いちばんの排尿はどう数えるか、そして医師が夜のパターンを読めるように何を書くか。 Markdown: https://fluidbalanceapp.com/ja/blog/bladder-diary-for-nocturia.md
+- [排尿日誌は何を示すのか: 泌尿器科医がそこで読むもの](https://fluidbalanceapp.com/ja/blog/what-does-a-bladder-diary-show/): 医師が排尿日誌から読み取るもの——回数、1回の尿量、夜間の尿量、飲んだもの、そして記録の抜けのなさ。基準値も自己診断もなし。 Markdown: https://fluidbalanceapp.com/ja/blog/what-does-a-bladder-diary-show.md
+- [排尿日誌の例: 丸一日を行ごとに](https://fluidbalanceapp.com/ja/blog/bladder-diary-example/): 排尿日誌の丸一日ぶんの例。飲み物、排尿、未計測のチェック、夜間の1回を含む15行と、それぞれの行が医師に伝えること。 Markdown: https://fluidbalanceapp.com/ja/blog/bladder-diary-example.md
+- [自宅での尿量の計り方: 排尿日誌のために](https://fluidbalanceapp.com/ja/blog/how-to-measure-urine-output-at-home/): 計量カップ、便器に置く採尿容器、目分量。出た量を記録する3つの方法と、計れなかったときの書き方、時刻を正しく保つこつ。 Markdown: https://fluidbalanceapp.com/ja/blog/how-to-measure-urine-output-at-home.md
+- [排尿日誌は何日分? 3日、7日、24時間](https://fluidbalanceapp.com/ja/blog/bladder-diary-how-many-days/): NICE、ICS、医療機関の用紙が求める日数、連続している必要があるのか、そして抜けのない短い日誌が長くて穴だらけの日誌に勝る理由。 Markdown: https://fluidbalanceapp.com/ja/blog/bladder-diary-how-many-days.md
+- [排尿日誌のつけ方: 何を記録するか、順を追って](https://fluidbalanceapp.com/ja/blog/how-to-keep-a-bladder-diary/): 排尿日誌が記録するもの、書き方、記入例、そして受診に何を持っていくか。医師ではなく、アプリ開発者が書いています。 Markdown: https://fluidbalanceapp.com/ja/blog/how-to-keep-a-bladder-diary.md
+- [排尿日誌テンプレート: 無料の印刷用PDF(A4・レター)](https://fluidbalanceapp.com/ja/bladder-diary-template/): 無料の排尿日誌テンプレート(PDF)。A4はml、US Letterはoz、二つ折りの小冊子もあります。7日分、1日1ページ、記入方法つき。
+- [ブログ](https://fluidbalanceapp.com/ja/blog/): 泌尿器科の受診前に浮かぶ疑問への、短く実用的な答えと、アプリの新機能。基準値も診断もありません。記録のつけ方と、医師がそれをどう使うかです。 RSS: https://fluidbalanceapp.com/ja/blog/rss.xml.
+
+## Optional
+
+- [プライバシーポリシー](https://fluidbalanceapp.com/ja/privacy/): Fluid Balance はあなたのデータを収集しません。サーバーもアカウントもなく、アプリ内に解析もありません。このサイトが数えているものについて。
+- [利用規約](https://fluidbalanceapp.com/ja/terms/): 排尿日誌アプリ Fluid Balance の利用規約。アプリの位置づけ、ライセンス、購入、あなたのデータ、保証について。
+- Full text of this site in one file: https://fluidbalanceapp.com/ja/llms-full.txt
+- Other languages: [English](https://fluidbalanceapp.com/llms.txt), [Deutsch](https://fluidbalanceapp.com/de/llms.txt), [Français](https://fluidbalanceapp.com/fr/llms.txt), [Español](https://fluidbalanceapp.com/es/llms.txt), [Italiano](https://fluidbalanceapp.com/it/llms.txt), [Português (Brasil)](https://fluidbalanceapp.com/pt-br/llms.txt), [Русский](https://fluidbalanceapp.com/ru/llms.txt), [한국어](https://fluidbalanceapp.com/ko/llms.txt), [简体中文](https://fluidbalanceapp.com/zh-hans/llms.txt), [繁體中文](https://fluidbalanceapp.com/zh-hant/llms.txt), [Polski](https://fluidbalanceapp.com/pl/llms.txt), [Svenska](https://fluidbalanceapp.com/sv/llms.txt), [Čeština](https://fluidbalanceapp.com/cs/llms.txt)

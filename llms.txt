@@ -1,0 +1,38 @@
+# Bladder Diary: Fluid Balance
+
+> Bladder Diary: Fluid Balance is a free iPhone and Apple Watch app that records what you drink and what you pass, and suits the 3–7 day diary your doctor asked for: the entries turn into a PDF report. No account, your data stays on your phone. Free and Pro. Logging, Stats, widgets, Apple Watch, iCloud and CSV export are free. Pro adds the PDF report and Advanced analytics, one-time purchase, no subscription. No upgrade prompts while you log.
+
+No sign-up, no name, no birthdate. Open the app and start. That's the privacy label on the App Store, not a promise. There is no server to send anything to. The optional reminder comes only on days with no entries, and never says what the app is for. Off by default.
+
+No scores, no norms. Only what you recorded. By Denis Zinin, developer of Bladder Diary: Fluid Balance. Not a doctor. Self-reported diary. Not a medical document.
+
+App Store: https://apps.apple.com/app/id6803224992 (category Medical; version 1.2.1, first released 2026-08-29; requires iOS 18.0 or later, watchOS 11.0 or later; App Store privacy label "Data Not Collected"). Languages: English, Deutsch, Français, Español, Italiano, Português (Brasil), Русский, 日本語, 한국어, 简体中文, 繁體中文, Polski, Svenska, Čeština. iPad: A full iPad version is in the works — coming to you soon.
+
+## App
+
+- [Bladder Diary App for iPhone & Apple Watch](https://fluidbalanceapp.com/): Free bladder diary app for iPhone and Apple Watch: the 3–7 day diary your doctor asked for, two taps per entry, a PDF report, your data stays on your phone.
+- [Support](https://fluidbalanceapp.com/support/): Answers about the bladder diary app: what to record, how many days, Apple Watch, CSV and PDF export, deleting your data, Pro and Restore Purchases.
+- [Bladder Diary: Fluid Balance 1.2 is on the App Store](https://fluidbalanceapp.com/blog/fluid-balance-1-2/): A five-level urge rating on output entries: in the diary, the PDF report and the CSV. Reminders only on empty days, yesterday in one tap, four new languages. Markdown: https://fluidbalanceapp.com/blog/fluid-balance-1-2.md
+- [Bladder Diary: Fluid Balance 1.0 is on the App Store](https://fluidbalanceapp.com/blog/fluid-balance-1-0/): The first release, 29 August 2026: a bladder diary for iPhone and Apple Watch. Two taps per entry, a PDF report for your doctor, nothing leaves your phone. Markdown: https://fluidbalanceapp.com/blog/fluid-balance-1-0.md
+
+## Guides
+
+- [Best Free Bladder Diary App: How to Tell Before You Install](https://fluidbalanceapp.com/blog/best-free-bladder-diary-app/): What makes a free bladder diary app usable at the appointment: volumes on every trip, marked nights, three to seven days and an export you own. Markdown: https://fluidbalanceapp.com/blog/best-free-bladder-diary-app.md
+- [Bladder Diary vs Voiding Diary vs Frequency–Volume Chart](https://fluidbalanceapp.com/blog/bladder-diary-or-frequency-volume-chart/): Five names for nearly the same sheet. What each term means by ICS definitions, which one your clinic uses, and why the columns matter more than the label. Markdown: https://fluidbalanceapp.com/blog/bladder-diary-or-frequency-volume-chart.md
+- [Paper Bladder Diary vs App: What the Studies Say](https://fluidbalanceapp.com/blog/paper-bladder-diary-or-app/): Compliance, memory and accuracy in paper versus electronic diaries, what app reviews found lacking, and how to choose without switching halfway through. Markdown: https://fluidbalanceapp.com/blog/paper-bladder-diary-or-app.md
+- [Bladder Diary for Overactive Bladder and Leaks: What to Note](https://fluidbalanceapp.com/blog/bladder-diary-for-overactive-bladder-and-leaks/): Urgency, leaks, pads and what you were doing: how clinic forms ask for them, how to score them the same way every time, and where they go in a plain diary. Markdown: https://fluidbalanceapp.com/blog/bladder-diary-for-overactive-bladder-and-leaks.md
+- [Bladder Diary for Nocturia: How to Record Night-Time Trips](https://fluidbalanceapp.com/blog/bladder-diary-for-nocturia/): A nocturia diary: where the night starts and ends, how the first morning void is counted, and what to write down so your doctor can read the night pattern. Markdown: https://fluidbalanceapp.com/blog/bladder-diary-for-nocturia.md
+- [What Does a Bladder Diary Show? What Your Urologist Reads](https://fluidbalanceapp.com/blog/what-does-a-bladder-diary-show/): The things a clinician reads in a bladder diary: frequency, voided volumes, night-time output, intake and completeness. Without norms or self-diagnosis. Markdown: https://fluidbalanceapp.com/blog/what-does-a-bladder-diary-show.md
+- [Bladder Diary Example: One Full Day, Line by Line](https://fluidbalanceapp.com/blog/bladder-diary-example/): One full example day from a bladder diary: fifteen lines with drinks, trips, a not-measured tick and a night trip, and what each line tells the clinician. Markdown: https://fluidbalanceapp.com/blog/bladder-diary-example.md
+- [How to Measure Urine Output at Home for a Bladder Diary](https://fluidbalanceapp.com/blog/how-to-measure-urine-output-at-home/): A measuring jug, a toilet hat or an estimate: three ways to record how much you pass, what to do when you did not measure, and how to keep the times right. Markdown: https://fluidbalanceapp.com/blog/how-to-measure-urine-output-at-home.md
+- [Bladder Diary: How Many Days Is Enough? 3, 7 or 24 Hours](https://fluidbalanceapp.com/blog/bladder-diary-how-many-days/): What NICE, the ICS and clinic leaflets ask for, whether the days must be consecutive, and why a complete short diary beats a long patchy one. Markdown: https://fluidbalanceapp.com/blog/bladder-diary-how-many-days.md
+- [How to Keep a Bladder Diary: What to Record, Step by Step](https://fluidbalanceapp.com/blog/how-to-keep-a-bladder-diary/): What a bladder diary records, how to fill it in, a worked example, and what to bring to the appointment. Written by an app developer, not a doctor. Markdown: https://fluidbalanceapp.com/blog/how-to-keep-a-bladder-diary.md
+- [Bladder Diary Template: Free Printable PDF (A4 & Letter)](https://fluidbalanceapp.com/bladder-diary-template/): Free bladder diary template as a PDF: A4 in ml, US Letter in oz, and fold-in-half booklets. Seven days, one page per day, with filling-in instructions.
+- [Blog](https://fluidbalanceapp.com/blog/): Short, practical answers to the questions people ask before a urology appointment, and what's new in the app. No norms, no diagnoses: how to keep the record, and what the doctor does with it. RSS: https://fluidbalanceapp.com/blog/rss.xml.
+
+## Optional
+
+- [Privacy Policy](https://fluidbalanceapp.com/privacy/): Bladder Diary: Fluid Balance does not collect your data: no server, no account, no analytics inside the app. What this website counts and how.
+- [Terms of Use](https://fluidbalanceapp.com/terms/): Terms of use for the Fluid Balance bladder diary app: what the app is, licence, purchases, your data, warranty.
+- Full text of this site in one file: https://fluidbalanceapp.com/llms-full.txt
+- Other languages: [Deutsch](https://fluidbalanceapp.com/de/llms.txt), [Français](https://fluidbalanceapp.com/fr/llms.txt), [Español](https://fluidbalanceapp.com/es/llms.txt), [Italiano](https://fluidbalanceapp.com/it/llms.txt), [Português (Brasil)](https://fluidbalanceapp.com/pt-br/llms.txt), [Русский](https://fluidbalanceapp.com/ru/llms.txt), [日本語](https://fluidbalanceapp.com/ja/llms.txt), [한국어](https://fluidbalanceapp.com/ko/llms.txt), [简体中文](https://fluidbalanceapp.com/zh-hans/llms.txt), [繁體中文](https://fluidbalanceapp.com/zh-hant/llms.txt), [Polski](https://fluidbalanceapp.com/pl/llms.txt), [Svenska](https://fluidbalanceapp.com/sv/llms.txt), [Čeština](https://fluidbalanceapp.com/cs/llms.txt)

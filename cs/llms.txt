@@ -1,0 +1,38 @@
+# Mikční deník: Fluid Balance
+
+> Mikční deník: Fluid Balance je bezplatná aplikace pro iPhone a Apple Watch. Zapisuje, kolik vypijete a kolik vymočíte, a hodí se na deník na 3–7 dní, o který vás požádal lékař: ze záznamů vznikne zpráva v PDF. Bez účtu, data zůstávají ve vašem telefonu. Zdarma a Pro. Zapisování, statistiky, widgety, Apple Watch, iCloud a export CSV jsou zdarma. Pro přidává zprávu v PDF a pokročilé analýzy, jednorázový nákup bez předplatného. Při zapisování vás nic nevybízí k nákupu.
+
+Žádná registrace, žádné jméno, žádné datum narození. Otevřete aplikaci a začněte. Tak zní štítek o soukromí v App Store — není to slib, ale stav věci. Není server, kam by se dalo cokoli poslat. Volitelné připomenutí přijde jen ve dnech bez záznamů a nikdy neprozradí, o čem aplikace je. Ve výchozím nastavení vypnuto.
+
+Žádné známkování, žádné normy. Jen to, co jste zapsali. Denis Zinin, vývojář aplikace Mikční deník: Fluid Balance. Není lékař. Deník si vedete sami. Není to zdravotnický dokument.
+
+App Store: https://apps.apple.com/app/id6803224992 (category Medical; version 1.2.1, first released 2026-08-29; requires iOS 18.0 or later, watchOS 11.0 or later; App Store privacy label "Data Not Collected"). Languages: English, Deutsch, Français, Español, Italiano, Português (Brasil), Русский, 日本語, 한국어, 简体中文, 繁體中文, Polski, Svenska, Čeština. iPad: Plnohodnotná verze pro iPad se připravuje — brzy u vás.
+
+## App
+
+- [Mikční deník pro iPhone a Apple Watch](https://fluidbalanceapp.com/cs/): Bezplatný mikční deník pro iPhone a Apple Watch: deník na 3–7 dní, o který vás požádal lékař, dvě klepnutí na záznam, zpráva v PDF, data zůstávají v telefonu.
+- [Nápověda](https://fluidbalanceapp.com/cs/support/): Odpovědi k aplikaci mikční deník: co zapisovat, kolik dní, Apple Watch, export do CSV a PDF, smazání dat, Pro a obnovení nákupů. Napsat vývojáři.
+- [Mikční deník: Fluid Balance 1.2 je v App Store](https://fluidbalanceapp.com/cs/blog/fluid-balance-1-2/): Pětistupňová síla nucení u záznamů o mikci — v deníku, ve zprávě v PDF i v CSV. K tomu připomenutí jen ve dnech bez záznamů a čtyři nové jazyky. Markdown: https://fluidbalanceapp.com/cs/blog/fluid-balance-1-2.md
+- [Mikční deník: Fluid Balance 1.0 je v App Store](https://fluidbalanceapp.com/cs/blog/fluid-balance-1-0/): První vydání, 29. srpna 2026: mikční deník pro iPhone a Apple Watch. Dvě klepnutí na záznam, zpráva v PDF pro lékaře, nic neopouští telefon. Markdown: https://fluidbalanceapp.com/cs/blog/fluid-balance-1-0.md
+
+## Guides
+
+- [Nejlepší mikční deník zdarma: co ověřit před instalací](https://fluidbalanceapp.com/cs/blog/best-free-bladder-diary-app/): Co rozhoduje, jestli bezplatná aplikace pro mikční deník pomůže v ordinaci: objem u každé mikce, oddělené noci, tři až sedm dní a export, který dostanete ven. Markdown: https://fluidbalanceapp.com/cs/blog/best-free-bladder-diary-app.md
+- [Mikční deník nebo karta četnosti a objemu: jaký je rozdíl?](https://fluidbalanceapp.com/cs/blog/bladder-diary-or-frequency-volume-chart/): Pět názvů pro skoro tentýž list. Co který termín znamená podle definic ICS, který používá vaše ambulance a proč jsou sloupce důležitější než nadpis. Markdown: https://fluidbalanceapp.com/cs/blog/bladder-diary-or-frequency-volume-chart.md
+- [Mikční deník na papíře, nebo v aplikaci: co říkají studie](https://fluidbalanceapp.com/cs/blog/paper-bladder-diary-or-app/): Dodržování zápisu, paměť a přesnost u papírových a elektronických deníků, co podle nedávné analýzy aplikacím chybělo a jak vybrat, aniž byste v půlce přecházel. Markdown: https://fluidbalanceapp.com/cs/blog/paper-bladder-diary-or-app.md
+- [Mikční deník při hyperaktivním měchýři a únicích: co zapisovat](https://fluidbalanceapp.com/cs/blog/bladder-diary-for-overactive-bladder-and-leaks/): Nucení, úniky moči, vložky a co jste zrovna dělal: jak se na to ptají ambulantní formuláře, jak hodnotit pokaždé stejně a kam to psát v obyčejném deníku. Markdown: https://fluidbalanceapp.com/cs/blog/bladder-diary-for-overactive-bladder-and-leaks.md
+- [Mikční deník při nykturii: jak zapisovat noční cesty](https://fluidbalanceapp.com/cs/blog/bladder-diary-for-nocturia/): Deník při nykturii: kde noc začíná a kde končí, jak se počítá první ranní mikce a co zapsat, aby lékař přečetl noční vzorec. Markdown: https://fluidbalanceapp.com/cs/blog/bladder-diary-for-nocturia.md
+- [Co ukazuje mikční deník? Co v něm čte urolog](https://fluidbalanceapp.com/cs/blog/what-does-a-bladder-diary-show/): Co lékař čte v mikčním deníku: četnost, objemy mikcí, noční množství moči, pití a úplnost záznamu. Bez normálních hodnot a bez sebediagnostiky. Markdown: https://fluidbalanceapp.com/cs/blog/what-does-a-bladder-diary-show.md
+- [Příklad mikčního deníku: jeden celý den, řádek po řádku](https://fluidbalanceapp.com/cs/blog/bladder-diary-example/): Jeden celý ukázkový den z mikčního deníku: patnáct řádků s nápoji, cestami, zaškrtnutím „neměřeno“ a noční cestou, a co každý řádek říká lékaři. Markdown: https://fluidbalanceapp.com/cs/blog/bladder-diary-example.md
+- [Jak doma změřit množství moči pro mikční deník](https://fluidbalanceapp.com/cs/blog/how-to-measure-urine-output-at-home/): Odměrka, nástavec na záchod nebo odhad: tři způsoby, jak zapsat, kolik jste vymočili, co dělat, když jste neměřili, a jak udržet časy správně. Markdown: https://fluidbalanceapp.com/cs/blog/how-to-measure-urine-output-at-home.md
+- [Mikční deník: kolik dní? 3, 7 nebo 24 hodin](https://fluidbalanceapp.com/cs/blog/bladder-diary-how-many-days/): Co žádají NICE, ICS a letáky ambulancí, jestli musí jít dny po sobě, a proč krátký, ale úplný deník poráží dlouhý s mezerami. Markdown: https://fluidbalanceapp.com/cs/blog/bladder-diary-how-many-days.md
+- [Jak si vést mikční deník: co zapisovat, krok za krokem](https://fluidbalanceapp.com/cs/blog/how-to-keep-a-bladder-diary/): Co mikční deník zaznamenává, jak ho vyplnit, rozebraný příklad a co vzít na kontrolu. Napsal vývojář aplikace, ne lékař. Markdown: https://fluidbalanceapp.com/cs/blog/how-to-keep-a-bladder-diary.md
+- [Formulář mikčního deníku: PDF k vytištění zdarma (A4 a Letter)](https://fluidbalanceapp.com/cs/bladder-diary-template/): Bezplatný formulář mikčního deníku v PDF: A4 v ml, US Letter v oz a brožurky na přeložení. Sedm dní, jedna strana na den, s návodem k vyplnění.
+- [Blog](https://fluidbalanceapp.com/cs/blog/): Krátké praktické odpovědi na otázky, které člověka napadnou před návštěvou urologa, a co je v aplikaci nového. Žádné normy, žádné diagnózy: jak vést záznam a co s ním lékař udělá. RSS: https://fluidbalanceapp.com/cs/blog/rss.xml.
+
+## Optional
+
+- [Zásady ochrany soukromí](https://fluidbalanceapp.com/cs/privacy/): Fluid Balance nesbírá vaše data: žádný server, žádný účet, žádná analytika uvnitř aplikace. Co počítá tento web a jak.
+- [Podmínky použití](https://fluidbalanceapp.com/cs/terms/): Podmínky použití aplikace mikčního deníku Fluid Balance: co aplikace je, licence, nákupy, vaše data, záruka.
+- Full text of this site in one file: https://fluidbalanceapp.com/cs/llms-full.txt
+- Other languages: [English](https://fluidbalanceapp.com/llms.txt), [Deutsch](https://fluidbalanceapp.com/de/llms.txt), [Français](https://fluidbalanceapp.com/fr/llms.txt), [Español](https://fluidbalanceapp.com/es/llms.txt), [Italiano](https://fluidbalanceapp.com/it/llms.txt), [Português (Brasil)](https://fluidbalanceapp.com/pt-br/llms.txt), [Русский](https://fluidbalanceapp.com/ru/llms.txt), [日本語](https://fluidbalanceapp.com/ja/llms.txt), [한국어](https://fluidbalanceapp.com/ko/llms.txt), [简体中文](https://fluidbalanceapp.com/zh-hans/llms.txt), [繁體中文](https://fluidbalanceapp.com/zh-hant/llms.txt), [Polski](https://fluidbalanceapp.com/pl/llms.txt), [Svenska](https://fluidbalanceapp.com/sv/llms.txt)

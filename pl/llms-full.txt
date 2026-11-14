@@ -1,0 +1,1082 @@
+# Dzienniczek mikcji: Fluid Balance
+
+> Dzienniczek mikcji: Fluid Balance to bezpłatna aplikacja na iPhone’a i Apple Watch. Zapisuje, ile pijesz i ile moczu oddajesz, i pasuje do dzienniczka na 3–7 dni, o który poprosił lekarz: z wpisów powstaje raport PDF. Bez konta, dane zostają na Twoim telefonie. Bezpłatnie i Pro. Zapisywanie, statystyki, widżety, Apple Watch, iCloud i eksport CSV są bezpłatne. Pro dodaje raport PDF i zaawansowane analizy, jednorazowy zakup, bez abonamentu. Podczas zapisywania nic nie zachęca do kupna.
+
+Bez rejestracji, bez imienia, bez daty urodzenia. Otwórz aplikację i zacznij. Tak brzmi etykieta prywatności w App Store — to nie obietnica, tylko stan rzeczy. Nie ma serwera, do którego cokolwiek mogłoby pójść. Opcjonalne przypomnienie przychodzi tylko w dni bez wpisów i nigdy nie mówi, czemu służy aplikacja. Domyślnie wyłączone.
+
+Żadnych ocen, żadnych norm. Tylko to, co zapisałeś. Denis Zinin, twórca aplikacji Dzienniczek mikcji: Fluid Balance. Nie jest lekarzem. Dzienniczek wypełniany samodzielnie. To nie jest dokument medyczny.
+
+App Store: https://apps.apple.com/app/id6803224992 (category Medical; version 1.2.1, first released 2026-08-29; requires iOS 18.0 or later, watchOS 11.0 or later; App Store privacy label "Data Not Collected"). Languages: English, Deutsch, Français, Español, Italiano, Português (Brasil), Русский, 日本語, 한국어, 简体中文, 繁體中文, Polski, Svenska, Čeština. iPad: Pełna wersja na iPada powstaje — wkrótce u Ciebie.
+
+---
+
+## Dzienniczek mikcji na iPhone’a i Apple Watch
+Source: https://fluidbalanceapp.com/pl/
+
+Bezpłatny dzienniczek mikcji na iPhone’a i Apple Watch: zapis na 3–7 dni dla lekarza, dwa stuknięcia na wpis, raport PDF, dane zostają w telefonie.
+
+Łatwiej niż prowadzić dzienniczek na papierze.: Pomyłka? Popraw wpis na miejscu. Nie trzeba przepisywać całego dnia od nowa. Sumy dnia, średnie i liczba mikcji nocnych dodają się na bieżąco. Bez rachunków na odwrocie kartki, bez notatek, bez arkusza. Telefon i tak masz przy sobie. Dwa stuknięcia i wpis jest zapisany z godziną.
+Stuknięcie. Stuknięcie. Gotowe.: Stuknij + Wypite albo + Wydalone — Dwa przyciski na dole ekranu. Nic więcej do wyboru. Stuknij gotową ilość — 100, 200, 250, 330 albo 500 ml. Albo „Własna ilość”, gdy masz dokładną liczbę. To już cały wpis — Zapisany z godziną. Bez formularzy, bez odliczania, bez potwierdzeń. Nie masz pewności co do ilości? Stuknij Nie zmierzono — godzina i tak się liczy. Jeśli lekarz pyta, jak silne było parcie, włącz siłę parcia i stuknij od 0 do 4 na tym samym ekranie. Godzinę zmienisz, a notatkę dodasz, kiedy zechcesz. Działa też z widżetu na ekranie początkowym i z Apple Watcha.
+Raport, który pasuje lekarzowi.: Sumy, średnie i mikcje nocne są już policzone i ułożone tak, jak dzienniczek mikcji czyta się w urologii. Bezpłatnie i Pro. Zapisywanie, statystyki, widżety, Apple Watch, iCloud i eksport CSV są bezpłatne. Pro dodaje raport PDF i zaawansowane analizy, jednorazowy zakup, bez abonamentu. Podczas zapisywania nic nie zachęca do kupna.
+Twoje tygodnie na jeden rzut oka.: Ostatnie pięć tygodni w siatce: dni z dzienniczkiem i dni bez. Stuknij dzień, żeby go otworzyć. Żadnych ocen, żadnych norm. Tylko to, co zapisałeś.
+Jeden dzienniczek, każdy ekran.: Widżet na ekranie początkowym — Wypite, wydalone i bilans na jeden rzut oka oraz dwa przyciski do zapisu. Apple Watch — Zapisuj prosto z zegarka: te same gotowe ilości i „Nie zmierzono”, bez wyjmowania telefonu. Widżet na ekranie blokady — Sumy dnia pod zegarem, bez odblokowywania telefonu. iPad — Pełna wersja na iPada powstaje — wkrótce u Ciebie.
+Prowadzony przy nokturii, pęcherzu nadreaktywnym, nietrzymaniu moczu, kontroli po zapaleniu pęcherza, prostacie — przed operacją i po niej, a także przez wszystkich, których poproszono o prowadzenie dzienniczka mikcji (https://fluidbalanceapp.com/pl/blog/how-to-keep-a-bladder-diary/).
+
+---
+
+## Pomoc: Dzienniczek mikcji: Fluid Balance
+Source: https://fluidbalanceapp.com/pl/support/
+
+### Na początek
+
+**Czy jest bezpłatna?**
+Tak, aplikacja jest bezpłatna. Zapisywanie, podsumowanie dnia, siatka statystyk, widżety, Apple Watch, iCloud i eksport CSV są bezpłatne tak długo, jak z niej korzystasz. Pro to opcjonalny jednorazowy zakup, który dodaje raport PDF i zaawansowane wykresy. Nie ma abonamentu i nic nigdy nie przerywa wpisu propozycją zakupu.
+
+**Czy potrzebuję konta?**
+Nie. Bez rejestracji, bez imienia, bez daty urodzenia. Otwórz aplikację i zacznij.
+
+**Nie radzę sobie z aplikacjami. Poradzę sobie z tą?**
+Dwa przyciski i lista ilości. Nie ma czego ustawiać.
+
+**Co mam zapisywać?**
+Godzinę, co i ile wypiłeś, ile moczu oddałeś albo znacznik „Nie zmierzono”, czy to była mikcja nocna, oraz notatkę, jeśli coś się wydarzyło. Jest dłuższy poradnik z rozpisanym przykładem: jak prowadzić dzienniczek mikcji (https://fluidbalanceapp.com/pl/blog/how-to-keep-a-bladder-diary/).
+
+**Ile dni mam go prowadzić?**
+Tyle, o ile Cię poproszono. Większość poradni oczekuje trzech do siedmiu pełnych dni, a krótki, ale kompletny dzienniczek jest wart więcej niż długi z lukami. Skąd te liczby: ile dni wystarczy (https://fluidbalanceapp.com/pl/blog/bladder-diary-how-many-days/).
+
+**Czy działa na Apple Watchu? Jaki iPhone?**
+Apple Watch: te same gotowe ilości i „Nie zmierzono”, wraz z WYPITE, WYDALONE i BILANS z danego dnia. iPhone z iOS 18 lub nowszym, w tym iPhone Duo — na szerokim ekranie dzienniczek ma własny układ. Na iPadzie aplikacja działa na razie jak aplikacja na iPhone’a; pełna obsługa iPada pojawi się w jednej z aktualizacji.
+
+**W jakich językach?**
+Angielski, niemiecki, francuski, hiszpański, włoski, portugalski (Brazylia), rosyjski, japoński, koreański, chiński uproszczony, chiński tradycyjny, polski, szwedzki i czeski — razem 14. Raport PDF też jest przetłumaczony; plik CSV pozostaje po angielsku.
+
+### Zapisywanie
+
+**Nie znam dokładnej objętości. Co wpisać?**
+Szacunek. Brakujący wpis jest gorszy niż niedokładny, a nic w aplikacji nie oznacza Twoich danych jako niepewnych. Jeśli w ogóle nie mierzyłeś, wybierz „Nie zmierzono”: wpis liczy się do częstości i do zdarzeń nocnych, a zostaje poza sumami objętości.Miarka, nakładka na sedes i szacowanie: jak zmierzyć ilość moczu w domu (https://fluidbalanceapp.com/pl/blog/how-to-measure-urine-output-at-home/).
+
+**Czy mogę zmienić godzinę albo dodać notatkę?**
+Tak. Otwórz wpis i zmień godzinę, rodzaj lub objętość albo dodaj notatkę.
+
+**Czy mogę zapisywać parcie albo popuszczanie?**
+Parcie tak. Włącz w ustawieniach siłę parcia, a każdą mikcję będzie można ocenić od 0 do 4; ocena trafia do dzienniczka, na wykres, do raportu PDF i do pliku CSV. Domyślnie jest wyłączona, więc wpis pozostaje przy dwóch stuknięciach, dopóki nie zechcesz więcej. Popuszczanie nie ma własnego pola — zapisz je w notatce do wpisu.Co wpisać w notatce i jak formularze poradni punktują parcie i popuszczanie: dzienniczek mikcji przy pęcherzu nadreaktywnym i popuszczaniu (https://fluidbalanceapp.com/pl/blog/bladder-diary-for-overactive-bladder-and-leaks/).
+
+**Czy aplikacja przypomina o piciu?**
+Nie. Jest opcjonalne przypomnienie o wypełnieniu dzienniczka — domyślnie wyłączone, godzinę wybierasz sam. Przychodzi tylko w dni bez wpisów i zatrzymuje się, gdy przez tydzień nie ma żadnego. Jego treść nigdy nie mówi, czego dotyczy aplikacja, więc na zablokowanym ekranie niczego nie zdradza.
+
+**Czy zobaczę jeszcze wczorajszy dzień?**
+Tak. Dopóki dziś nie ma wpisów, karta na ekranie dnia pokazuje wczoraj; jedno stuknięcie otwiera tamten dzień.
+
+**Czy mogę mieć format 24-godzinny?**
+Tak, 12 lub 24 godziny, jak wolisz. Przełącznik jest w ustawieniach.
+
+**Czy przy każdym wpisie będzie proponować zakup?**
+Nigdy. Pro widzisz tylko wtedy, gdy otwierasz raport albo zaawansowane wykresy.
+
+### Raport i Twoje dane
+
+**Jak wyciągnąć swoje liczby?**
+Eksportem CSV z ustawień, z całej historii i bez ograniczeń. Raport PDF (Pro) jest ułożony tak, jak zwykle czyta się dzienniczek mikcji.
+
+**Czy mogę wydrukować albo wysłać raport?**
+Tak. PDF można wydrukować, udostępnić, wysłać mailem albo pokazać na telefonie.
+
+**Gdzie są moje dane? A jeśli telefon się zepsuje?**
+Na Twoim urządzeniu, a jeśli włączysz iCloud, także w Twojej własnej prywatnej bazie iCloud. Nie ma serwera ani konta. W każdej chwili wyeksportuj CSV jako własną kopię. Zobacz politykę prywatności (https://fluidbalanceapp.com/pl/privacy/).
+
+**Jak usunąć wszystko?**
+Ustawienia, „Usuń wszystkie dane”. Jeden krok, jedno potwierdzenie. Czyści urządzenie, a jeśli iCloud jest włączony — także kopię w iCloudzie.
+
+**Czy aplikacja powie mi, czy moje liczby są prawidłowe?**
+Nie i nigdy nie powie. Zapisuje to, co jej powiesz, i pokazuje sumy. Żadnych celów, żadnych norm, żadnych ostrzeżeń, żadnych porad. Interpretacja należy do lekarza.Co lekarz czyta w dzienniczku: co pokazuje dzienniczek mikcji (https://fluidbalanceapp.com/pl/blog/what-does-a-bladder-diary-show/).
+
+### Pro
+
+**Co dokładnie jest w Pro?**
+Raport PDF, strona zaawansowanych analiz (pierwszy wykres tygodniowy jest bezpłatny) i ciemna ikona aplikacji. Jednorazowy zakup, nic się nie odnawia.
+
+**Kupiłem Pro, a na drugim urządzeniu go nie ma.**
+Użyj „Przywróć zakupy” w ustawieniach, zalogowany na to samo konto Apple.
+
+Contact: denacidapp@gmail.com
+
+---
+
+## Wzór dzienniczka mikcji: darmowy PDF do druku (A4 i Letter)
+Source: https://fluidbalanceapp.com/pl/bladder-diary-template/
+
+Darmowy wzór dzienniczka mikcji w PDF: A4 w ml, US Letter w oz oraz broszury do złożenia. Siedem dni, jedna strona na dzień, z instrukcją wypełniania.
+
+Downloads: https://fluidbalanceapp.com/downloads/bladder-diary-a4.pdf (A4, ml), https://fluidbalanceapp.com/downloads/bladder-diary-letter.pdf (US Letter, oz), https://fluidbalanceapp.com/downloads/bladder-diary-a5.pdf (A5 booklet, ml), https://fluidbalanceapp.com/downloads/bladder-diary-letter-half.pdf (half-Letter booklet, oz). Same arkusze są po angielsku — kolumny są te same.
+Co jest na arkuszu: Siedem dni, jedna strona na dzień. Kolumny: godzina · co wypito · ile wydalono · noc · notatka. U góry każdej strony numer dnia, data oraz godziny położenia się i wstania; na ostatniej stronie wiersz zapisanych dni ▢ z 7 — pierwsza rzecz, na którą patrzy lekarz. Pierwsza strona objaśnia wypełnianie na przykładzie. W poradniach ten sam arkusz bywa nazywany dzienniczkiem mikcji, kartą mikcji albo dzienniczkiem częstości i objętości; dzienniczek 3-dniowy to po prostu pierwsze trzy strony. Kolumny są takie, jakich się tam oczekuje.
+Jak wypełniać: 1. Zapisz godzinę od razu — Nie na koniec dnia. Godzina każdego wpisu znaczy tyle samo co ilość. 2. Napoje: weź pojemność kubka albo butelki — Kubek to około 200–250 ml, szklanka 250, puszka 330, mała butelka 500. 3. Mocz: zmierz, jeśli możesz, oszacuj, jeśli nie — Wystarczy miarka albo nakładka na sedes. Jeśli w ogóle nie mierzyłeś, zaznacz „nie zmierzono” — wpis i tak się liczy.Więcej: jak zmierzyć ilość moczu w domu (https://fluidbalanceapp.com/pl/blog/how-to-measure-urine-output-at-home/). 4. Zaznacz wpisy nocne — Wszystko między położeniem się a porannym wstaniem.
+Trzy dni czy siedem?: Większość wytycznych prosi o dzienniczek 3-dniowy z pełnymi dobami; część lekarzy prosi o siedem. Kompletność znaczy więcej niż długość — trzymaj się tego, o co Cię poproszono. Dlaczego trzy i kiedy siedem ma sens (https://fluidbalanceapp.com/pl/blog/bladder-diary-how-many-days/).
+Na czym się opiera: Układ powtarza dzienniczki, z których korzystają już poradnie urologiczne, żeby lekarz znalazł wszystko tam, gdzie się tego spodziewa: Karta częstości i objętości, Gloucestershire Hospitals NHS Foundation Trust (https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf) — ✓ dla mikcji bez pomiaru, godziny położenia się i wstania, wypełniony przykład. Bladder Diary, Urology Care Foundation (American Urological Association) (https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf) — wolne wiersze zamiast sztywnej siatki godzinowej, pojemności naczyń jako punkt odniesienia, dni, które nie muszą następować po sobie. International Continence Society, terminologia dzienniczka mikcji (https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary) — co dzienniczek zapisuje i po co godziny położenia się oraz wstania, żeby liczyć mikcje nocne. Standard jakości NICE QS77 (https://www.nice.org.uk/guidance/qs77/chapter/quality-statement-2-bladder-diaries-and-lifestyle-changes) — dzienniczek co najmniej trzydniowy. Kolumny odpowiadają aplikacji {appName}, więc papierowy dzienniczek i aplikacja czyta się tak samo. Opracowane przez twórcę aplikacji, nie przez lekarza. Jeśli poradnia dała Ci własny formularz, wypełnij ten.
+
+---
+
+## Najlepszy bezpłatny dzienniczek mikcji: co sprawdzić przed instalacją
+Source: https://fluidbalanceapp.com/pl/blog/best-free-bladder-diary-app/
+Published: 2026-11-13 · Poradnik · Denis Zinin, twórca aplikacji Dzienniczek mikcji: Fluid Balance. Nie jest lekarzem.
+
+W skrócie:
+Najlepszy bezpłatny dzienniczek mikcji to ten, który w dniu wizyty nadal odpowiada na pytanie poradni, a większość tego rozstrzyga się przed instalacją:
+
+- Słowo bezpłatny obejmuje cztery różne układy: bezpłatnie w całości, bezpłatnie z reklamami, okres próbny, który się kończy, i bezpłatne zapisywanie z raportem albo eksportem za opłatą. Strona w App Store mówi, który to układ, jeszcze przed pobraniem.
+- Dzienniczek bez objętości przy każdej mikcji to nie jest to, o co prosiła poradnia. Wytyczne proszą o godzinę i objętość każdej mikcji przez co najmniej trzy dni.
+- Otwórz eksport pierwszego dnia, a nie w nocy przed wizytą. Analiza aplikacji do dzienniczka mikcji z 2026 roku wykazała, że większości brakuje elementów klinicznych i że słabo chronią dane zdrowotne.
+
+Nikt nie powie Ci, która bezpłatna aplikacja do dzienniczka mikcji jest najlepsza właśnie dla Ciebie, a w tym zakątku App Store większość rankingów najlepszych aplikacji publikują aplikacje, które w nich występują. Przed instalacją rozstrzyga się co innego: czy aplikacja nadal pomoże w dniu, w którym oddasz dzienniczek lekarzowi. Zależy to od tego, co zapisuje, ile dni utrzyma, co dzieje się z Twoimi wpisami i czy na koniec wyjmiesz z niej dzienniczek. Robimy jedną z takich aplikacji, więc dwa ostatnie rozdziały czytaj z tą świadomością. Sprawdzenia przed nimi działają dla każdej aplikacji, także dla naszej.
+
+### Co znaczy bezpłatny w aplikacji do dzienniczka mikcji?
+
+Cztery różne układy chodzą pod tym samym słowem, a strona w App Store mówi, który z nich masz przed sobą, jeszcze przed pobraniem.
+
+Część aplikacji jest bezpłatna w całości: nie ma za co płacić ani czego odblokowywać. Część jest bezpłatna, bo płacą za nie reklamy, również o trzeciej w nocy, w łazience, w połowie wpisu. Część daje okres próbny na tydzień albo dwa, po którym zapisywanie się zatrzymuje albo blokuje to, co już wpisano, w środku tych kolejnych dni, o które prosiła poradnia. Najczęstszy jest czwarty układ: zapisywanie bezpłatne, wyjęcie płatne. Wpisy nic nie kosztują, a raport, eksport albo wykresy są za zakupem.
+
+Dwa wiersze na stronie w App Store to rozstrzygają: lista Zakupy w aplikacji, która nazywa, co jest sprzedawane i czy się odnawia, oraz etykieta prywatności. Dzienniczek prowadzi się zwykle przez kilka dni, więc abonament i jednorazowy zakup to zupełnie nie to samo.
+
+### Co dzienniczek musi zapisywać
+
+Druk z poradni ma rubrykę na to, ile oddano moczu, w mililitrach, i to właśnie tę rubrykę aplikacja pomija najczęściej.
+
+Europejskie Towarzystwo Urologiczne rozdziela w wytycznych o objawach z dolnych dróg moczowych u mężczyzn dwa dokumenty. Karta częstości i objętości zapisuje godzinę i objętość każdej mikcji; dzienniczek mikcji dokłada przyjmowane płyny, wkładki, czynności i oceny objawów, a wytyczne proszą o co najmniej trzy dni takiego dzienniczka.[1] International Continence Society opisuje dzienniczek tak samo: objętości mikcji z godzinami, a do tego epizody popuszczania, wkładki i wypite płyny.[2] Przegląd danych o treści, formie i długości dzienniczków dochodzi do tego samego: to, do czego dzienniczek służy, wyznacza, co musi w nim być.[3]
+
+Aplikacja, która liczy stuknięcia, daje liczbę mikcji. To jeden wiersz druku, o który prosiła poradnia, a zmierzone objętości to właśnie ta część, której potem nikt nie odtworzy. Pierwsze, czego trzeba szukać na zrzutach ekranu, to pole liczbowe na objętość, w mililitrach albo uncjach, i sposób na zapisanie mikcji, której nie dało się zmierzyć. Bez tego drugiego ludzie pomijają cały wpis, a brakujący wpis jest gorszy niż niedokładny.
+
+### Siedem sprawdzeń przed instalacją
+
+- Objętość przy każdej mikcji, w mililitrach albo uncjach, i sposób oznaczenia tej, której nie zmierzono.
+- Godzina dopisywana sama i możliwa do poprawienia, gdy zapisujesz pół godziny później.
+- Noce oddzielone od dni: oznaczenie nocy albo godziny położenia się i wstania.
+- Od trzech do siedmiu dni w jednym dzienniczku, bo o taki zakres proszą poradnie. Badania porównujące dzienniczki trzy- i siedmiodniowe wykazały, że krótszy daje porównywalne pomiary i bywa lepiej wypełniany.[4]
+- Miejsce na parcie, popuszczanie i wkładki: pola albo chociaż notatka.
+- Eksport, który lekarz przeczyta: strona do druku albo PDF, a nie zrzut ekranu z wykresem.
+- Etykieta prywatności i to, czy konto jest w ogóle wymagane, zanim aplikacja cokolwiek zapisze.
+
+Te siedem rzeczy to jakieś dwie minuty na stronie w App Store i żadna z nich nie jest tym, według czego układa się rankingi najlepszych aplikacji.
+
+### Ile bezpłatne kosztuje później
+
+Typowa porażka przychodzi ostatniego dnia: trzy dni zapisane, a raport okazuje się za opłatą, której się nie spodziewano, albo wpisy nie wychodzą z aplikacji w żadnej postaci czytelnej dla lekarza.
+
+Analiza elektronicznych aplikacji do dzienniczka mikcji z 2026 roku wykazała, że większości brakowało ważnych elementów klinicznych, że przy ich tworzeniu nie uczestniczyli specjaliści i że słabo chroniły dane zdrowotne; autorzy wnioskują, że aplikacje nie dorównują jeszcze zwalidowanym dzienniczkom papierowym.[5]
+
+Sprawdzenie nic nie kosztuje. Pierwszego dnia, dopóki nie masz nic do stracenia, otwórz ekran eksportu albo raportu i zobacz, co się stanie. Jeśli poprosi o pieniądze, masz jeszcze wybór innej aplikacji i żadnych wpisów do przenoszenia.
+
+### Czy bezpłatna aplikacja wystarczy na wizytę?
+
+Tak, jeśli trzyma godzinę i objętość każdej mikcji, oddziela noce, obejmuje dni, o które proszono, i oddaje wynik w czytelnej postaci. O dzienniczek prosi się dlatego, że jest zapisem tego, co się wydarzyło, a nie tego, co pamiętasz,[6] a bezpłatna aplikacja z każdą mikcją w środku bije płatną z dziurą drugiej nocy.
+
+Żadna aplikacja nie powinna interpretować wyniku. Twoje liczby znaczą coś obok Twojej historii, a to czytanie należy do lekarza.
+
+### Co jest bezpłatne w Fluid Balance i co dodaje Pro
+
+Bezpłatnie, tak długo jak korzystasz z aplikacji: zapisywanie płynów i mikcji dwoma stuknięciami, z gotowymi wartościami i możliwością zapisania mikcji bez zmierzonej objętości, opcjonalna siła parcia od 0 do 4, podsumowanie dnia, siatka statystyk, widżety na ekranie początkowym i zablokowanym, aplikacja na Apple Watch, synchronizacja iCloud bez konta, eksport CSV oraz czas 12- lub 24-godzinny. W etykiecie prywatności widnieje informacja, że dane nie są zbierane: bez konta, bez serwera, bez analityki w aplikacji.
+
+Pro to jednorazowy zakup, a nie abonament: dodaje raport PDF dla lekarza, stronę zaawansowanych analiz (pierwszy wykres tygodniowy jest bezpłatny) i ciemną ikonę. Nic nie przerywa wpisu propozycją zakupu. Wszystko to widać przy pierwszym uruchomieniu, a jak aplikacja wygląda ekran po ekranie, pokazuje [jej własna strona](https://fluidbalanceapp.com/).
+
+### Jeśli wolisz nic nie instalować
+
+[Bezpłatny szablon do druku](https://fluidbalanceapp.com/bladder-diary-template/) ma te same rubryki: A4 w mililitrach, US Letter w uncjach, składane broszurki, jedna strona na dzień i instrukcja na samym arkuszu. Lekarz czyta go dokładnie tak, jak czyta raport z aplikacji, i po to oba są trzymane w tym samym układzie.
+
+Tak czy inaczej najlepszy bezpłatny dzienniczek mikcji to ten, w którym trzeciego dnia zapisana jest każda mikcja i z którego wychodzi raport do wydrukowania.
+
+### Pytania
+
+**Czy jest w pełni bezpłatny dzienniczek mikcji?**
+Kilka aplikacji pozwala zapisywać za darmo. Płatna bywa zwykle ta część, która jest potrzebna na końcu: raport do druku, eksport albo wykresy. To uczciwe, o ile wiesz o tym pierwszego dnia, więc poszukaj na stronie w App Store wiersza Zakupy w aplikacji i otwórz ekran z cenami w samej aplikacji, zanim będzie w niej trzy dni wpisów.
+
+**Jak sprawdzić, co bezpłatna aplikacja robi z moimi wpisami?**
+Trzy miejsca, każde do przeczytania w minutę: etykieta prywatności na stronie w App Store, która albo mówi, że dane nie są zbierane, albo wymienia, co jest z Tobą powiązane; to, czy aplikacja żąda konta, zanim cokolwiek zapisze; oraz polityka prywatności. Analiza aplikacji do dzienniczka mikcji z 2026 roku wykazała, że większość słabo chroni dane zdrowotne.
+
+**Czy urolog przyjmie dzienniczek prowadzony w aplikacji?**
+Zwykle tak, jeśli pokazuje to samo co druk z poradni: godzinę i objętość każdej mikcji, co piłaś lub piłeś, noce oddzielone od dni i te dni, o które proszono. Przynieś wydruk albo PDF, bo część lekarzy woli papier na biurku. Jeśli poradnia dała własny druk z własnymi skalami, wypełnij ten druk.
+
+### Źródła
+
+1. European Association of Urology. EAU Guidelines on the Management of Non-neurogenic Male LUTS. Arnhem: EAU; 2026. Chapter 4, Diagnostic evaluation. https://uroweb.org/guidelines/management-of-non-neurogenic-male-luts/chapter/diagnostic-evaluation
+2. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+3. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+4. Dmochowski RR, Sanders SW, Appell RA, Nitti VW, Davila GW. Bladder-health diaries: an assessment of 3-day vs 7-day entries. BJU Int. 2005;96(7):1049–1054. https://doi.org/10.1111/j.1464-410X.2005.05785.x
+5. Matthews C, Stothers L, Burke C, Petersen K, Macnab A. A framework analysis of electronic bladder diary apps: suitability for clinical decision-making and comparison to validated paper diaries. Neurourol Urodyn. 2026. https://doi.org/10.1002/nau.70410
+6. National Institute for Health and Care Excellence. Urinary incontinence in women. Quality standard QS77, quality statement 2: bladder diaries and lifestyle changes. London: NICE; 2015. https://www.nice.org.uk/guidance/qs77/chapter/quality-statement-2-bladder-diaries-and-lifestyle-changes
+
+Ten tekst wyjaśnia, jak prowadzić dzienniczek. To ogólna informacja od twórcy aplikacji, a nie porada medyczna: co oznacza Twój dzienniczek, rozstrzyga lekarz. Dzienniczek wypełniany samodzielnie. To nie jest dokument medyczny.
+
+---
+
+## Dzienniczek mikcji czy karta częstości i objętości: jaka różnica
+Source: https://fluidbalanceapp.com/pl/blog/bladder-diary-or-frequency-volume-chart/
+Published: 2026-11-02 · Poradnik · Denis Zinin, twórca aplikacji Dzienniczek mikcji: Fluid Balance. Nie jest lekarzem.
+
+W skrócie:
+Dzienniczek mikcji, dzienniczek mikcyjny i karta częstości i objętości to dla osoby, która je wypełnia, ta sama kartka. Według definicji International Continence Society karta częstości i objętości zapisuje godzinę i objętość każdego wyjścia, dzienniczek mikcji dokłada napoje, popuszczanie i wkładki, a karta godzin mikcji zapisuje same godziny; voiding diary, urinary diary, bladder chart i karta bilansu płynów to to samo pod innymi nazwami. Używaj formularza, który dostałeś:
+
+- Karta częstości i objętości zapisuje godzinę i objętość każdego wyjścia. Dzienniczek mikcji to to samo plus napoje, popuszczanie i wkładki. Karta godzin mikcji zapisuje same godziny.
+- Voiding diary, urinary diary, bladder chart i karta bilansu płynów to to samo pod innymi nazwami. Używaj formularza, który dostałeś.
+- Jakikolwiek byłby nagłówek, liczą się kolumny: godzina, napój, oddana objętość, noc i notatka.
+
+Powiedziano ci, żebyś prowadził dzienniczek mikcji. W ulotce jest karta częstości i objętości. Strona, którą znalazłeś, mówi voiding diary, a pielęgniarka na oddziale nazwała to kartą bilansu płynów. Dla twoich celów to ta sama kartka. Różnice, które naprawdę istnieją, są niewielkie i zdefiniowane; opisujemy je niżej, żebyś przestał przejmować się nagłówkiem i zajął się kolumnami.
+
+### Wersja krótka
+
+| Termin | Co zapisuje | Kto tak mówi |
+|---|---|---|
+| Karta godzin mikcji | Wyłącznie godzinę każdego wyjścia, w dzień i w nocy | Badania, część poradni |
+| Karta częstości i objętości (frequency–volume chart) | Godzinę i objętość każdego wyjścia | Urologia brytyjska, formularze NHS, BAUS |
+| Dzienniczek mikcji | Godziny i objętości plus napoje, popuszczanie, wkładki, parcie | Wytyczne krajowe i międzynarodowe, NICE |
+| Voiding diary, urinary diary, micturition diary | To samo co dzienniczek mikcji | Poradnie i piśmiennictwo w USA |
+| Bladder record chart, bladder chart | To samo co dzienniczek mikcji | Służby fizjoterapeutyczne |
+| Karta bilansu płynów, karta przyjęć i wydaleń | Napoje i mocz w ciągu 24 godzin; w szpitalu także kroplówki i inne straty | Oddziały i pielęgniarstwo; BAUS używa tej nazwy dla swojej karty częstości i objętości |
+
+### Jaka jest różnica między dzienniczkiem mikcji a kartą częstości i objętości?
+
+International Continence Society, które ustala terminologię używaną przez urologów, opisuje trzy poziomy zapisu.[1,3] Karta godzin mikcji notuje wyłącznie godziny wyjść, w dzień i w nocy, przez co najmniej 24 godziny. Karta częstości i objętości dokłada objętość każdego wyjścia. Dzienniczek mikcji dokłada przyjęte płyny, zużycie wkładek, epizody nietrzymania moczu i ich stopień, a może zapisywać również parcie i czynności towarzyszące popuszczeniu.[1,2,3] Każdy poziom odpowiada na więcej pytań niż poprzedni, a dzienniczek mikcji to właśnie to, co większość wytycznych ma na myśli, prosząc o „dzienniczek”: NICE na przykład prosi kobiety zgłaszające się z nietrzymaniem moczu o wypełnienie dzienniczka mikcji przez co najmniej trzy dni.[10]
+
+### Dlaczego nazw jest tak wiele
+
+Po części geografia, po części historia. Przegląd piśmiennictwa musiał szukać dziewięciu różnych terminów, żeby odnaleźć ten sam rodzaj zapisu: micturition chart, micturition diary, frequency volume chart, bladder chart, bladder diary, urinary chart, urinary diary, voiding chart i voiding diary.[4] Formularze amerykańskie zwykle mówią voiding albo bladder diary; formularz dla pacjentów Urology Care Foundation nazywa się po prostu „Bladder Diary”.[7] Formularze brytyjskie często zachowują starszą nazwę kliniczną, nawet gdy są pełnymi dzienniczkami: karta NHS Gloucestershire ma nagłówek „Frequency Volume Chart, Three Day Bladder Diary” i kolumny na napoje, mocz, czucie pęcherza i wkładki,[5] a ulotka BAUS wyjaśnia swoją kartę przyjęć i wydaleń jako „znaną także jako frequency-volume chart albo bladder diary”.[6] Fizjoterapia ma swój wariant, bladder record chart, o tej samej zawartości.[8]
+
+### Karty przyjęć i wydaleń oraz karty bilansu płynów
+
+Te dwie nazwy pochodzą z oddziału. Karta bilansu płynów to pielęgniarski zapis wszystkiego, co wchodzi do pacjenta, i wszystkiego, co z niego wychodzi, łącznie z kroplówkami, drenami i wymiotami, służący prowadzeniu płynów w szpitalu.[9] Kiedy pielęgniarka wypisuje cię do domu po operacji albo z cewnikiem i mówi, żebyś „prowadził kartę przyjęć i wydaleń”, zwykle ma na myśli wersję prostą: co wypiłeś, co oddałeś, z godzinami. To jest karta częstości i objętości z kolumną na napoje — i właśnie dlatego BAUS może użyć tej nazwy w swojej ulotce urologicznej.[6] Kolumny naszego [wzoru do druku](https://fluidbalanceapp.com/bladder-diary-template/) w zupełności to obejmują.
+
+### To samo w innych językach
+
+Jeśli prowadzisz dzienniczek w innym języku, zmienia się termin, nie kartka: bladder diary albo voiding diary po angielsku, Blasentagebuch albo Miktionsprotokoll po niemiecku, calendrier mictionnel po francusku, diario miccional po hiszpańsku, diario minzionale po włosku, 排尿日誌 po japońsku. Aplikacja działa w tych samych językach co ta strona i drukuje raport w języku, który wybierzesz, więc niemiecka urolożka dostaje niemieckie nagłówki kolumn.
+
+### Co to dla ciebie znaczy
+
+Używaj formularza, który dostałeś. Jeśli poradnia powiedziała „karta częstości i objętości” i wręczyła ci kartkę z kolumną na napoje — wypełniaj napoje. Jeśli powiedziała „dzienniczek mikcji”, a kartka ma kolumny na parcie i popuszczanie — korzystaj z nich. Jeśli nie dała nic i powiedziała tylko „prowadź dzienniczek”, wystarczy dowolny formularz z godziną, napojem, oddaną objętością, nocą i notatką; tego właśnie używa [wzór](https://fluidbalanceapp.com/bladder-diary-template/) i aplikacja, więc dzienniczek papierowy i dzienniczek w telefonie czyta się tak samo. Nagłówek u góry nigdy nie był problemem. Puste wiersze są.
+
+### Pytania
+
+**Czy voiding diary to to samo co dzienniczek mikcji?**
+W praktyce tak. „Voiding diary” to zwykły termin amerykański, a „bladder diary” brytyjski; literatura używa obu, a także urinary diary, micturition diary i bladder chart. Jeśli formularz ma kolumny na napoje i na mocz z godzinami, jest dzienniczkiem mikcji, cokolwiek stoi u góry.
+
+**W poradni powiedziano: karta częstości i objętości. Czy mam zapisywać napoje?**
+Ściśle rzecz biorąc, karta częstości i objętości zapisuje tylko godziny i objętości oddanego moczu. Większość formularzy poradni o tej nazwie pyta jednak również o napoje, jak karta NHS Gloucestershire i karta BAUS. Trzymaj się formularza: jeśli ma kolumnę na napoje, wypełnij ją; jeśli nie ma, zapisanie napojów w osobnym wierszu nigdy nie zaszkodziło.
+
+**Czym jest karta godzin mikcji?**
+Najprostsza z trzech: wyłącznie godzina każdego wyjścia, w dzień i w nocy, przez co najmniej 24 godziny. Żadnych objętości, żadnych napojów. Odpowiada na pytanie „jak często” i na nic więcej, co czasem jest wszystkim, czego lekarz potrzebuje.
+
+### Źródła
+
+1. Abrams P, Cardozo L, Fall M, et al. The standardisation of terminology of lower urinary tract function: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):167–178. https://doi.org/10.1002/nau.10052
+2. Haylen BT, de Ridder D, Freeman RM, et al. An International Urogynecological Association (IUGA)/International Continence Society (ICS) joint report on the terminology for female pelvic floor dysfunction. Neurourol Urodyn. 2010;29(1):4–20. https://doi.org/10.1002/nau.20798
+3. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+4. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+5. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+6. British Association of Urological Surgeons. Information from BAUS about assessing fluid intake & output. Patient leaflet F24/016. BAUS; 2024. https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Input%20output%20chart.pdf
+7. Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025. https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf
+8. University Hospitals Sussex NHS Foundation Trust. Bladder record chart: pelvic health physiotherapy patient information. Reference 2198; 2023. https://www.uhsussex.nhs.uk/wp-content/uploads/2023/03/Bladder-Record-chart.pdf
+9. Scales K, Pilsworth J. The importance of fluid balance in clinical practice. Nurs Stand. 2008;22(47):50–57. https://doi.org/10.7748/ns2008.07.22.47.50.c6634
+10. National Institute for Health and Care Excellence. Urinary incontinence and pelvic organ prolapse in women: management. NICE guideline NG123. London: NICE; 2019. https://www.nice.org.uk/guidance/ng123
+
+Ten tekst wyjaśnia, jak prowadzić dzienniczek. To ogólna informacja od twórcy aplikacji, a nie porada medyczna: co oznacza Twój dzienniczek, rozstrzyga lekarz. Dzienniczek wypełniany samodzielnie. To nie jest dokument medyczny.
+
+---
+
+## Dzienniczek mikcji: Fluid Balance 1.2 jest w App Store
+Source: https://fluidbalanceapp.com/pl/blog/fluid-balance-1-2/
+Published: 2026-10-26 · Aktualizacja · Denis Zinin, twórca aplikacji Dzienniczek mikcji: Fluid Balance.
+
+Wersja 1.2 jest w App Store i w zasadzie sprowadza się do jednej rzeczy: możesz teraz zapisać, jak silne było parcie przed mikcją. Reszta to drobne usprawnienia dla wygody.
+
+### Jak silne było parcie?
+
+W dzienniczku mikcji przy pęcherzu nadreaktywnym i popuszczaniu parcie ocenia się przed każdą mikcją — a do tej pory aplikacja nie potrafiła tego zapisać. Żeby z tego skorzystać, włącz to w ustawieniach: **Siła parcia**. Od tej chwili każdy wpis o mikcji dostaje znacznik **Oceń parcie** z pięcioma stopniami:
+
+- **0** Brak parcia
+- **1** Zwykłe parcie
+- **2** Silne parcie
+- **3** W ostatniej chwili
+- **4** Za późno
+
+
+Stopień 4 znaczy, że mocz wypłynął w drodze do toalety; dlatego zostaje przypięty do swojej mikcji, zamiast stawać się osobnym zdarzeniem, które twoje liczniki musiałyby potem uzgadniać.
+
+**Nieocenione to nie zero.** Wpis, którego nie oceniłeś, nie zapisuje niczego — ta sama zasada co „Nie zmierzono” przy objętości. Dzień bez ocen pokazuje w raporcie kreskę, a nie rząd zer, a średnie liczone są z tych wpisów, które naprawdę mają ocenę. Zero w tej aplikacji zawsze znaczy, że wybrałeś „Brak parcia”.
+
+**Gdzie ocena się pojawia.** Obok wpisu w dzienniczku. W raporcie PDF jako dwa wiersze — stopnie 3–4 na dobę i stopień 4 na dobę — oraz kolumna w tabeli według dni. W CSV jako nowa kolumna na końcu, dopisana, a nie wstawiona w środek, żeby arkusz albo skrypt zbudowany na starym eksporcie dalej działał. Jeśli w wybranym zakresie nic nie jest ocenione, raport pomija tę sekcję, zamiast drukować pustą.
+
+Dopóki tego nie włączysz, wpis to wciąż dwa stuknięcia.
+
+### Przypomnienie, które przestaje się naprzykrzać
+
+Dbamy o twoją uwagę: przypomnienie nie powinno zamieniać się w szum tła. Kiedyś przychodziło codziennie o wybranej godzinie, dopóki aplikacja była zainstalowana. Teraz przychodzi tylko w dni bez wpisów, a po tygodniu bez żadnego samo wchodzi w pauzę. Dzienniczek prowadzi się trzy do siedmiu dni; przypomnienie, które przychodzi jeszcze w drugim miesiącu, to już tylko powiadomienie do wyłączenia.
+
+
+### Łatwe dojście do wczoraj
+
+Dopóki dzisiaj jest puste, ekran Dziś niesie kartę z wpisami z wczoraj, a jedno stuknięcie otwiera tamten dzień. Najczęstszy sposób na stracenie dnia dzienniczka to przypomnieć sobie o nim następnego ranka.
+
+
+### Poza tym w 1.2
+
+- **Format 12- lub 24-godzinny**, jak wolisz, w ustawieniach.
+- **Pełna obsługa iPhone’a Duo.**
+- **Duży widżet na ekran początkowy**, obok małego i tego na ekranie blokady.
+- **Cztery nowe języki:** polski, szwedzki, czeski i chiński tradycyjny, co daje aplikacji czternaście. Raport PDF tłumaczy się razem z interfejsem; CSV zostaje po angielsku.
+- **Szybciej, gdy wpisów uzbierało się dużo**, a do tego sporo drobnych poprawek.
+
+### Co się nie zmieniło
+
+Etykieta prywatności w App Store nadal brzmi „Nie zbiera danych”: bez konta, bez serwera, bez analityki w aplikacji, bez cudzego kodu. Wpisy żyją na twoim urządzeniu, a jeśli to włączysz — także w twojej własnej prywatnej bazie iCloud; szczegóły są w [polityce prywatności](https://fluidbalanceapp.com/privacy/). Aplikacja nadal nie stawia diagnoz, nie porównuje twoich wpisów z żadną normą i nie przypomina o piciu; siła parcia to liczba, którą wpisałeś ty, a co znaczy — to rozmowa z lekarzem. Zapisywanie, Dziś, statystyki, widżety, Apple Watch, iCloud i eksport CSV pozostają bezpłatne, a Pro nadal jest jednorazowym zakupem, nie abonamentem.
+
+### Wymagania
+
+iPhone z iOS 18 lub nowszym, łącznie z iPhone’em Duo. Apple Watch z watchOS 11 lub nowszym. Na iPadzie działa jak aplikacja na iPhone’a. Kategoria w App Store: Medycyna.
+
+Pytania albo prośby: w [pomocy](https://fluidbalanceapp.com/support/) są odpowiedzi na częste i adres, pod który można napisać.
+
+---
+
+## Dzienniczek mikcji na papierze czy aplikacja: co mówią badania
+Source: https://fluidbalanceapp.com/pl/blog/paper-bladder-diary-or-app/
+Published: 2026-10-26 · Poradnik · Denis Zinin, twórca aplikacji Dzienniczek mikcji: Fluid Balance. Nie jest lekarzem.
+
+W skrócie:
+Dzienniczek mikcji na papierze czy w aplikacji to pytanie, na które badania odpowiadają remisem: dzienniczki elektroniczne i papierowe wypadają podobnie wiarygodnie, a różnice dotyczą tego, kiedy ludzie je wypełniają i ile zostaje podliczone. Rozstrzyga co innego: czy każde wyjście zostaje zapisane od razu, w każdym zleconym dniu:
+
+- Jedno i drugie działa. Badania uznają dzienniczki elektroniczne i papierowe za podobnie wiarygodne; różnice dotyczą tego, kiedy się je wypełnia i ile zostaje podliczone.
+- Papier bywa wypełniany później częściej, niż ludzie się przyznają. Dzienniczki elektroniczne same stawiają godzinę, ale analiza aplikacji wykazała, że większości brakuje klinicznych podstaw: parcia, popuszczania czy prywatności.
+- Wybierz jedną formę na cały dzienniczek, sprawdź, czy zapisuje wszystko, o co prosiła poradnia, i przynieś wynik w postaci, którą lekarz odczyta.
+
+Papier czy aplikacja to złe pierwsze pytanie. Pierwsze pytanie brzmi: czy dzienniczek jest wypełniany na bieżąco, przy każdym wyjściu, w każdym zleconym dniu. Obie formy — kartka papieru i cyfrowy dzienniczek mikcji w aplikacji — potrafią to zrobić i obie mogą zawieść. Ten tekst omawia, co badania rzeczywiście znalazły, porównując je, czego zabrakło aplikacjom w niedawnej analizie i jak wybrać, nie kończąc z połową dzienniczka na papierze i połową w telefonie. Robimy aplikację — ostatni rozdział czytaj z tą świadomością.
+
+### Co papier robi dobrze
+
+Poradnie go znają. Formularz przychodzi z kolumnami, których poradnia chce, w jej własnej skali dla parcia i popuszczania, a lekarz może po nim pisać. Nie ma czego instalować ani się uczyć, działa w szpitalnej łazience bez telefonu, a osoba wypełniająca może mieć osiemdziesiąt lat i nigdy nie mieć smartfona. Dla trzydniowego dzienniczka wręczonego razem z zawiadomieniem o wizycie papier jest narzędziem w pełni dobrym.
+
+### Gdzie papier zawodzi
+
+Bywa wypełniany później. Najwyraźniejszy dowód pochodzi z badania, w którym ukryto czujnik w segregatorze papierowego dzienniczka, żeby zapisywać, kiedy był naprawdę otwierany: pacjenci deklarowali, że wypełniali zgodnie z zaleceniem w zdecydowanej większości przypadków, ale segregator pokazał, że zrobili to tylko przy niewielkiej części przewidzianych okazji, a wiele wpisów powstało później hurtem.[1] Badania nad dzienniczkami mikcji widzą tę samą skłonność z drugiej strony: w próbach porównujących dzienniczki trzy- i siedmiodniowe autorzy zauważają, że krótszy dzienniczek zmniejsza pokusę uzupełniania luk z pamięci.[2] A pamięć do tego celu jest słaba.
+
+Pozostałe wady są praktyczne. Kartki nie ma w łazience o trzeciej w nocy. Sumy i liczbę nocy trzeba dodać ręcznie albo wcale. A dzienniczek na kuchennym stole łatwo zgubić i łatwo zostawić w domu w dniu wizyty.
+
+### Czy elektroniczne dzienniczki mikcji są dokładniejsze niż papier?
+
+Dzienniczki elektroniczne weszły do piśmiennictwa wcześnie. Elektroniczny dzienniczek dzienny dla pęcherza nadreaktywnego, sprawdzony w 2003 roku, zbierał dane o objawach ze znacznikami czasu i został oceniony jako łatwy w użyciu; autorzy wskazywali dane w czasie rzeczywistym jako jego główną przewagę nad papierem.[3] Próba randomizowana porównująca elektroniczny dzienniczek mikcji z papierowym u kobiet z objawami ze strony układu moczowego uznała oba za wiarygodne w powtórzeniu, przy nieco mniejszej liczbie mikcji i popuszczeń zapisanych elektronicznie, i stwierdziła, że wersja elektroniczna jest akceptowalna i wiarygodna.[4] Innymi słowy: żadna magia, ale solidna alternatywa, a konkretnym zyskiem jest znacznik czasu.
+
+### Czego zabrakło aplikacjom
+
+To, że forma działa, nie znaczy, że działa każda aplikacja. Analiza aplikacji do dzienniczka mikcji z 2026 roku, zestawiona z zawartością zwalidowanych dzienniczków papierowych, wykazała, że większości aplikacji brakuje ważnych elementów klinicznych, że nie brali w nich udziału specjaliści i że są słabe w zakresie bezpieczeństwa informacji zdrowotnych; wniosek brzmiał, że potrzeba dalszego rozwoju, zanim aplikacje dorównają zwalidowanym dzienniczkom papierowym.[5] Piśmiennictwo jest też uczciwe w tym, że w żadnej formie — papierowej również — nie istnieje w pełni zwalidowany dzienniczek.[7]
+
+Odczyt praktyczny: oceniaj aplikację po tym, czy zapisuje to, co zapisuje formularz twojej poradni, a nie po ocenach w sklepie. Lista jest krótka:
+
+- **Godzina przy każdym wpisie**, ustawiana automatycznie i możliwa do poprawienia, gdy zapisujesz z opóźnieniem.
+- **Wyjścia bez objętości**, żeby znacznik w publicznej toalecie nadal był pełnym wpisem.
+- **Godziny położenia się i wstania albo znacznik nocy**, żeby dało się policzyć noce.[8]
+- **Miejsce na parcie, popuszczanie i wkładki**, jako pola albo przynajmniej jako notatki.
+- **Eksport**, który lekarz odczyta: raport do druku albo tabela do wysłania.
+- **Co dzieje się z danymi**: konto, serwer, reklama. Etykieta prywatności w App Store mówi to w jednym wierszu.
+- **Czy zapisywanie bywa przerywane** rejestracją albo zachętą do zapłaty.
+
+### Jak wybrać uczciwie
+
+Jeśli poradnia dała ci formularz z własnymi skalami, użyj formularza. Jeśli powiedziano ci tylko „prowadź dzienniczek” i zostawiono samemu sobie, wybierz formę, którą naprawdę będziesz mieć przy sobie w ważnych momentach — dla większości ludzi jest to telefon. Cokolwiek wybierzesz, wybierz raz: dzienniczek podzielony między kartkę a ekran to dwa połowiczne dzienniczki i żaden się nie zgadza. Obciążenie związane z prowadzeniem dzienniczka jest realne,[6] a właściwa forma to ta, która je u ciebie zmniejsza.
+
+Nasze stanowisko, powiedziane wprost: Dzienniczek mikcji: Fluid Balance zapisuje wyjście dwoma stuknięciami wraz z godziną, liczy noce, robi sumy i drukuje raport, a jego etykieta prywatności brzmi „Nie zbiera danych”. Parcie ma własne pole, nieobowiązkową ocenę od 0 do 4; popuszczanie i wkładki trafiają do notatki. Jeśli wolisz papier, [darmowy wzór](https://fluidbalanceapp.com/bladder-diary-template/) ma te same kolumny, więc oba czyta się tak samo i lekarz nie widzi różnicy w budowie. Tak czy inaczej, dzienniczek staje się użyteczny dzięki temu samemu, co badania odnajdują raz po raz: wypełniaj go wtedy, kiedy to się dzieje.
+
+### Pytania
+
+**Czy lekarz przyjmie raport z aplikacji?**
+Zwykle tak, jeśli pokazuje to samo co formularz papierowy: godziny, objętości, napoje, noce oraz notatki o parciu i popuszczaniu. Wydrukuj go albo wyślij wcześniej mailem, jeśli możesz; część lekarzy woli papier na biurku. W razie wątpliwości zapytaj wtedy, gdy dzienniczek jest zlecany.
+
+**Czy aplikacja jest dokładniejsza niż papier?**
+Co do godzin tak: wpis zrobiony w telefonie nosi godzinę, o której powstał, a godzina na papierze to ta, którą napisałeś. Co do objętości nie: miarka jest ta sama. W porównaniu randomizowanym dzienniczki elektroniczne i papierowe okazały się wiarygodne oba, przy nieco mniejszej liczbie wyjść i popuszczeń zapisanych elektronicznie. Dokładność bierze się z wypełniania na bieżąco, w dowolnej formie.
+
+**Czy mogę po prostu użyć notatek w telefonie?**
+Możesz i to lepsze niż nic. Tracisz strukturę: żadnych kolumn, żadnych sum, żadnego liczenia nocy, a raport przed wizytą musisz napisać sam. Jeśli idziesz tą drogą, pisz każdy wiersz jako godzina, co, ile, i zachowaj godziny położenia się i wstania.
+
+### Źródła
+
+1. Stone AA, Shiffman S, Schwartz JE, Broderick JE, Hufford MR. Patient non-compliance with paper diaries. BMJ. 2002;324(7347):1193–1194. https://doi.org/10.1136/bmj.324.7347.1193
+2. Dmochowski RR, Sanders SW, Appell RA, Nitti VW, Davila GW. Bladder-health diaries: an assessment of 3-day vs 7-day entries. BJU Int. 2005;96(7):1049–1054. https://doi.org/10.1111/j.1464-410X.2005.05785.x
+3. Quinn P, Goka J, Richardson H. Assessment of an electronic daily diary in patients with overactive bladder. BJU Int. 2003;91(7):647–652. https://doi.org/10.1046/j.1464-410X.2003.04168.x
+4. Sussman RD, Richter LA, Tefera E, et al. Utilizing technology in assessment of lower urinary tract symptoms: a randomized trial of electronic versus paper voiding diaries. Female Pelvic Med Reconstr Surg. 2016;22(4):224–228. https://doi.org/10.1097/SPV.0000000000000266
+5. Matthews C, Stothers L, Burke C, Petersen K, Macnab A. A framework analysis of electronic bladder diary apps: suitability for clinical decision-making and comparison to validated paper diaries. Neurourol Urodyn. 2026. https://doi.org/10.1002/nau.70410
+6. Ku JH, Jeong IG, Lim DJ, Byun SS, Paick JS, Oh SJ. Voiding diary for the evaluation of urinary incontinence and lower urinary tract symptoms: prospective assessment of patient compliance and burden. Neurourol Urodyn. 2004;23(4):331–335. https://doi.org/10.1002/nau.20027
+7. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+8. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+
+Ten tekst wyjaśnia, jak prowadzić dzienniczek. To ogólna informacja od twórcy aplikacji, a nie porada medyczna: co oznacza Twój dzienniczek, rozstrzyga lekarz. Dzienniczek wypełniany samodzielnie. To nie jest dokument medyczny.
+
+---
+
+## Dzienniczek mikcji przy pęcherzu nadreaktywnym i popuszczaniu
+Source: https://fluidbalanceapp.com/pl/blog/bladder-diary-for-overactive-bladder-and-leaks/
+Published: 2026-10-19 · Zaktualizowano: 2026-10-26 · Poradnik · Denis Zinin, twórca aplikacji Dzienniczek mikcji: Fluid Balance. Nie jest lekarzem.
+
+W skrócie:
+Dzienniczek mikcji przy pęcherzu nadreaktywnym (OAB) i popuszczaniu zapisuje, poza napojami, wyjściami i godzinami, jeszcze cztery rzeczy: czy wyjściu towarzyszyło parcie, czy doszło do popuszczenia i mniej więcej ile, czy zmieniłeś wkładkę i co wtedy robiłeś. Definicje ICS i IUGA, wytyczne NICE i AUA oraz formularze Urology Care Foundation, NHS i BAUS pytają o to w takiej czy innej postaci. Jak zapisać, żeby dało się to odczytać:
+
+- Przy pęcherzu nadreaktywnym i nietrzymaniu moczu dzienniczek zapisuje cztery rzeczy więcej: parcie, popuszczanie i mniej więcej ile, zmiany wkładek oraz to, co wtedy robiłeś.
+- Użyj skali z formularza swojej poradni i nie zmieniaj jej w połowie. W prostym dzienniczku wszystkie cztery trafiają do kolumny Notatka, razem z godziną.
+- Epizody popuszczania to miara najbardziej wrażliwa na brakujące dni: zapisuj każdy zlecony dzień, także te dobre.
+
+Zwykły dzienniczek mikcji zapisuje napoje, wyjścia i godziny. Dzienniczek przy nietrzymaniu moczu albo pęcherzu nadreaktywnym (OAB) potrzebuje na tej samej kartce czterech rzeczy więcej, bo to właśnie parcie i popuszczanie są tym, na co patrzy lekarz: czy wyjściu towarzyszyło parcie, czy doszło do popuszczenia i mniej więcej ile, czy zmieniłeś wkładkę i co wtedy robiłeś. Ten tekst wyjaśnia, jak formularze poradni pytają o te cztery rzeczy, jak oceniać je tak samo za każdym razem i gdzie je wpisać, gdy twój dzienniczek nie ma na nie kolumny.
+
+### Dlaczego akurat te cztery
+
+Te pojęcia mają ścisłe definicje. Parcie naglące to nagłe, przemożne pragnienie oddania moczu, trudne do odroczenia; nietrzymanie moczu to każdy mimowolny wyciek, a naglące nietrzymanie moczu to wyciek, który przychodzi wraz z parciem; pęcherz nadreaktywny zaś to parcie, zwykle z częstomoczem i nocnymi wyjściami, z popuszczaniem lub bez.[1,3] Amerykańskie wytyczne dotyczące pęcherza nadreaktywnego włączają dzienniczek mikcji do oceny,[2] a NICE prosi kobiety zgłaszające się z nietrzymaniem moczu o dzienniczek na co najmniej trzy dni i porządkuje nietrzymanie na podstawie wywiadu: wyciek przy wysiłku, na przykład przy kaszlu, wyciek z parciem albo jedno i drugie.[4] Cztery dodatkowe kolumny to sposób, w jaki dzienniczek wspiera ten podział. „Popuściło przy kichnięciu” i „popuściło w drodze do toalety przy silnym parciu” to różne ustalenia, a dzienniczek jest miejscem, gdzie ta różnica zostaje zapisana z godziną.
+
+### Jak formularze poradni zapisują parcie i popuszczanie
+
+Formularze różnią się sformułowaniami, nie treścią.
+
+- **Urology Care Foundation (AUA).** Przy każdym wyjściu: czy czułeś silne parcie, tak czy nie; czy doszło do popuszczenia i jak dużego; co wtedy robiłeś, „kichanie, ćwiczenia itp.”[5]
+- **NHS Gloucestershire.** Punktacja czucia pęcherza od 0 do 4: 0 brak czucia, poszedłem dla wygody; 1 normalna potrzeba; 2 parcie, które minęło; 3 parcie, doszedłem do toalety bez popuszczenia; 4 parcie i popuszczenie. Do tego LEAK wpisane w kolumnie moczu oraz znacznik albo waga przy każdej wkładce.[6]
+- **University Hospitals Sussex, fizjoterapia.** „Tak” przy silnym, nagłym parciu oraz nasilenie wycieku: D wilgotno, W mokro, V bardzo mokro.[7]
+- **BAUS.** Kolumna WET z +, ++ lub +++ dla wycieku małego, umiarkowanego lub dużego.[8]
+
+Opis dzienniczka mikcji przygotowany przez International Continence Society wymienia te same pozycje: epizody nietrzymania moczu, stopień nietrzymania, zużycie wkładek i parcie.[9]
+
+### Oceniać tak samo za każdym razem
+
+Wybierz jedną skalę — tę z twojego formularza — i prowadź według niej cały dzienniczek. „3” pierwszego dnia i „dość źle” trzeciego nie dają się porównać, a porównanie jest tu celem. Jeśli formularz nie ma skali, dla wycieku wystarczą trzy stopnie — mały, umiarkowany, duży — a dla parcia wystarczy tak albo nie. Zapisz od razu; popuszczenie przypomniane wieczorem chętnie zamienia się w „trochę”, jakiekolwiek było.
+
+Zanotuj czynność w kilku słowach: kaszel, śmiech, podnoszenie, wstawanie, w drodze do toalety, w łóżku. To ta kolumna, po której lekarze odróżniają jeden rodzaj wycieku od drugiego.[4,5]
+
+### Gdzie to wpisać w prostym dzienniczku
+
+Jeśli twój dzienniczek ma tylko godzinę, napój, objętość i notatkę, wszystkie cztery pozycje idą do notatki, z godziną wyjścia, do którego należą. Nasz [wzór do druku](https://fluidbalanceapp.com/bladder-diary-template/) ma właśnie na to kolumnę Notatka z podpisem „parcie, popuszczanie, wkładka, cokolwiek nietypowego”, a w jego wypełnionym przykładzie widać wyjście z adnotacją „w pośpiechu, małe popuszczenie”. W aplikacji parcie ma własne pole — nieobowiązkową ocenę od 0 do 4, wyłączoną, dopóki jej nie włączysz — a popuszczanie, wkładki i okoliczności trafiają do notatki; raport drukuje jedno i drugie obok godzin. Jeśli poradnia chce własnych punktowanych kolumn, wypełnij je tak, jak prosi formularz: ocena od 0 do 4 to nie ta sama skala co punktacja czucia z formularza, a porównywalność jest właśnie tym, czemu punktowanie służy.
+
+### Nocne popuszczanie i wkładki w nocy
+
+Popuszczenie w łóżku to wiersz nocny: godzina, „popuszczenie”, ile, oraz czy spałeś, czy szedłeś do toalety. Wkładka zmieniona w nocy to wiersz wkładki. Oba powinny znaleźć się między twoją godziną położenia się a godziną wstania, żeby lekarz mógł oddzielić noc od dnia; jak działają te godziny, wyjaśnia [jak zapisywać wyjścia nocne](https://fluidbalanceapp.com/blog/bladder-diary-for-nocturia/).
+
+### Zapisuj także dobre dni
+
+Epizody popuszczania to miara dzienniczka, na którą brakujące dni wpływają najmocniej. W badaniu porównującym długości dzienniczka trzy dni dorównały siedmiu w liczbie wyjść, objętości na wyjście, parciu i objętości dobowej, ale dla epizodów nietrzymania moczu trzy dni wypadały granicznie.[10] Im mniej dni zapisujesz, tym bardziej pojedynczy suchy albo pojedynczy zły dzień zniekształca obraz. Zapisuj każdy zlecony dzień, także te, w których nie ma o czym pisać, i powiedz, które dni są kompletne.
+
+### Co lekarz z tym robi
+
+Porządkuje zdarzenia według rodzaju, godziny i tego, co je wywołało, obok twoich napojów i objętości, a całość czyta razem z wywiadem i badaniem. To, co z tego wywnioskuje i co zaproponuje, należy do niego; na tej stronie nie ma progów ani porad, co i kiedy pić. Resztę zapisu omawia [jak prowadzić dzienniczek mikcji](https://fluidbalanceapp.com/blog/how-to-keep-a-bladder-diary/).
+
+### Pytania
+
+**Czy zapisywać popuszczenie, jeśli jednak zdążyłem do toalety?**
+Zapisz parcie, nie popuszczenie. Parcie naglące to nagła, trudna do odroczenia potrzeba pójścia; popuszczenie to mocz, który wypłynął, zanim doszedłeś. Formularz NHS punktuje te rzeczy osobno: opanowane parcie to 3, parcie z popuszczeniem to 4. Oba wiersze są przydatne i są to różne wiersze.
+
+**Jak zapisywać wkładki?**
+Zaznacz każdą zmianę, z godziną, w kolumnie wkładek albo w notatce. Niektóre poradnie proszą o ważenie zużytych wkładek, a formularz NHS podaje przelicznik: 1 gram to 1 ml. Rób to tylko wtedy, gdy cię o to poproszono. Zwykłym zapisem jest liczba zmian.
+
+**Jak zapisywać parcie i popuszczanie w aplikacji?**
+Parcie ma własne pole: włącz ocenę siły parcia w ustawieniach, a wyjście będzie można ocenić od 0 do 4. Popuszczanie i wkładki trafiają do notatki wpisu: „popuszczenie, małe, przy kaszlu”, „wkładka”. Raport drukuje jedno i drugie obok godzin, więc lekarz widzi to po kolei. Jeśli formularz twojej poradni ma własne kolumny i skale, wypełnij je tak, jak prosi formularz: ocena od 0 do 4 i punktacja czucia pęcherza z formularza to nie ta sama skala.
+
+### Źródła
+
+1. Abrams P, Cardozo L, Fall M, et al. The standardisation of terminology of lower urinary tract function: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):167–178. https://doi.org/10.1002/nau.10052
+2. Cameron AP, Chung DE, Dielubanza EJ, et al. The AUA/SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder. J Urol. 2024;212(1):11–20. https://doi.org/10.1097/JU.0000000000003985
+3. Haylen BT, de Ridder D, Freeman RM, et al. An International Urogynecological Association (IUGA)/International Continence Society (ICS) joint report on the terminology for female pelvic floor dysfunction. Neurourol Urodyn. 2010;29(1):4–20. https://doi.org/10.1002/nau.20798
+4. National Institute for Health and Care Excellence. Urinary incontinence and pelvic organ prolapse in women: management. NICE guideline NG123. London: NICE; 2019. https://www.nice.org.uk/guidance/ng123
+5. Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025. https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf
+6. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+7. University Hospitals Sussex NHS Foundation Trust. Bladder record chart: pelvic health physiotherapy patient information. Reference 2198; 2023. https://www.uhsussex.nhs.uk/wp-content/uploads/2023/03/Bladder-Record-chart.pdf
+8. British Association of Urological Surgeons. Information from BAUS about assessing fluid intake & output. Patient leaflet F24/016. BAUS; 2024. https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Input%20output%20chart.pdf
+9. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+10. Konstantinidis C, Kratiras Z, Samarinas M, Skriapas K. Optimal bladder diary duration for patients with suprapontine neurogenic lower urinary tract dysfunction. Int Braz J Urol. 2016;42(4):766–772. https://doi.org/10.1590/S1677-5538.IBJU.2015.0292
+
+Ten tekst wyjaśnia, jak prowadzić dzienniczek. To ogólna informacja od twórcy aplikacji, a nie porada medyczna: co oznacza Twój dzienniczek, rozstrzyga lekarz. Dzienniczek wypełniany samodzielnie. To nie jest dokument medyczny.
+
+---
+
+## Dzienniczek mikcji przy nokturii: jak zapisywać wyjścia nocne
+Source: https://fluidbalanceapp.com/pl/blog/bladder-diary-for-nocturia/
+Published: 2026-10-12 · Poradnik · Denis Zinin, twórca aplikacji Dzienniczek mikcji: Fluid Balance. Nie jest lekarzem.
+
+W skrócie:
+Dzienniczek przy nokturii to zwykły dzienniczek mikcji z porządnie zapisaną nocą: godzina położenia się, godzina wstania i każde wyjście pomiędzy nimi z godziną oraz, gdy się da, z objętością. International Continence Society definiuje nokturię jako budzenie się w nocy, żeby oddać mocz, a EAU i ICS liczą nocne wyjścia i nocny mocz dokładnie z tych dwóch godzin. Trzy rzeczy, które trzeba zrobić dobrze:
+
+- Zapisz, o której się położyłeś i o której wstałeś. Każde wyjście pomiędzy nimi jest wyjściem nocnym: zaznacz je, zachowaj godzinę, zmierz, jeśli możesz.
+- Pierwsze wyjście po wstaniu zapisuje się jako pierwszy wiersz nowego dnia, ale jego objętość należy do nocy. Rozdzieli to lekarz; tobie potrzebne są tylko godziny.
+- Prowadź co najmniej trzy noce i nie zmieniaj wieczornych napojów dla dzienniczka. Chodzi o wzorzec.
+
+Dzienniczek przy nokturii to zwykły dzienniczek mikcji z porządnie zapisaną nocą. Jeśli poproszono cię o niego dlatego, że wstajesz w nocy, to właśnie noc jest najważniejszą częścią dzienniczka — i zarazem tą, którą zapisuje się najgorzej: na wpół śpiąc, po ciemku, bez najmniejszej ochoty na trzymanie miarki. Ten tekst jest o tym, jak zrobić noce dobrze przy najmniejszym wysiłku. Nie mówi, ile wyjść to za dużo; to pytanie należy do lekarza, który dzienniczek zlecił.
+
+### Co liczy się jako wyjście nocne
+
+International Continence Society definiuje nokturię, czyli oddawanie moczu w nocy, jako budzenie się w nocy, żeby oddać mocz: przed każdym wyjściem i po nim jest sen.[1,2] Dzienniczek przekłada tę definicję na dwie godziny — tę, o której położyłeś się z zamiarem spania, i tę, o której wstałeś na dzień — a wszystko pomiędzy nimi jest nocą.
+
+Dlatego każdy formularz pyta o te dwie godziny. Na karcie NHS wpisujesz BED i WOKE w kolumnie godzin;[8] karta BAUS prosi o dwie kreski w poprzek kolumny danego dnia;[9] nasz [wzór do druku](https://fluidbalanceapp.com/bladder-diary-template/) ma u góry każdej strony pole na jedno i na drugie oraz kolumnę Noc do zaznaczenia. Aplikacja liczy wyjścia nocne w stałym oknie, od 22:00 do 07:00, i pisze o tym w raporcie. Jeśli twoja noc chodzi według innego zegara, wpisz prawdziwe godziny położenia się i wstania w notatkach albo weź kartkę papieru; lekarzowi potrzebna jest twoja noc, nie domyślna.
+
+### Dlaczego dzienniczek, a nie samo opowiedzenie
+
+Wytyczne są tu nietypowo bezpośrednie. European Association of Urology zaleca dzienniczek mikcji na co najmniej trzy dni w ocenie męskich objawów ze strony układu moczowego, „zwłaszcza przy nokturii”, bo to dzienniczek pozwala lekarzowi odróżnić różne przyczyny nocnych wyjść.[3] Przegląd systematyczny dotyczący nokturii wykazał, że narzędzia obiektywne, takie jak karta częstości i objętości, są używane zbyt rzadko, a ocena na tym traci.[4] Pamięć lepiej radzi sobie z nocami niż z dniami,[10] ale liczba to nie to samo co zapis z godzinami i objętościami, a to właśnie w objętościach jest większość informacji.
+
+### Pierwsze wyjście rano
+
+Wyjście, które robisz po wstaniu, nie jest nocne: już byłeś na nogach.[1,2] Ale mocz, który wtedy oddajesz, powstał w nocy, więc zgodnie z definicją ICS jego objętość dolicza się do nocnej objętości moczu.[1] Na papierze zapisz je jako pierwszy wiersz po swojej godzinie wstania, z objętością, jeśli ją zmierzyłeś. Nie musisz nic z tym liczyć. Policzy lekarz — i właśnie dlatego ten pierwszy pomiar wart jest sięgnięcia po miarkę.
+
+### Co zapisać przy każdym nocnym wyjściu
+
+- **Godzinę.** Spójrz na zegar przed wszystkim innym. Jeśli rano jej nie pamiętasz, wpisz najlepsze przybliżenie i zaznacz w notatce „ok.”.
+- **Objętość, jeśli możesz.** Nakładka włożona pod deskę przed snem złapie ją bez trzymania czegokolwiek; odczytać możesz rano, jeśli trzeba, ale godzinę zapisz od razu.[6,7]
+- **Znacznik, jeśli nie udało się zmierzyć.** Zaznaczone wyjście nocne nadal liczy się jako wyjście.
+- **Notatkę, gdy coś było nietypowe.** „I tak nie spałem”, „obudziłem się z silnym parciem”, „popuściło, zanim doszedłem”, ból. Te wiersze lekarz czyta.
+
+### Co lekarz wylicza z nocy
+
+Z twoich godzin i objętości wychodzi, ile moczu powstało w nocy, jaką część doby to stanowi i jak długo spałeś do pierwszego wyjścia.[1,2,5] Te wartości są powodem, dla którego dwie godziny i objętość pierwszej porannej mikcji tak bardzo się liczą: bez nich nocne wyjścia są tylko liczbą, a liczba to dokładnie to, co dzienniczek miał poprawić. Progi, które lekarz przyłoży do tych wartości, zależą od wieku i reszty twojej historii i należą do niego.
+
+### Ile nocy powinien obejmować dzienniczek przy nokturii?
+
+Co najmniej trzy, zgodnie z zaleceniem EAU i z większością formularzy poradni.[3,8,9] Więcej nocy daje lekarzowi lepszą próbkę wzorca, który zmienia się z nocy na noc; tydzień jest częsty, gdy nokturia jest głównym pytaniem. Niezależnie od liczby, każda noc powinna być kompletna: godzina położenia się, każde wyjście, godzina wstania. [Ile dni powinien obejmować dzienniczek](https://fluidbalanceapp.com/blog/bladder-diary-how-many-days/) omawia zalecenia szczegółowo.
+
+### Nie zmieniaj wieczorów dla dzienniczka
+
+Jeśli zwykle pijesz herbatę o dziewiątej, pij herbatę o dziewiątej. Dzienniczek prowadzony w nietypowo suche wieczory pokazuje lekarzowi wzorzec, którym naprawdę nie żyjesz, i wizyta zaczyna się od złego obrazu. Zapisuj wieczorne napoje z godziną i ilością; to, jak wieczorne picie wiąże się z nocnymi wyjściami, jest jedną z rzeczy, dla których dzienniczek istnieje.
+
+### Żeby było łatwiej
+
+Przed snem włóż nakładkę na miejsce, a długopis połóż na kartce. Zostaw małe światło. Jeśli kartki nie ma obok sedesu, telefon jest: widżet na ekranie blokady i aplikacja na Apple Watch zapisują wyjście dwoma stuknięciami bez odblokowywania czegokolwiek, a godzina zapisuje się sama. Czegokolwiek użyjesz, zasada jest ta sama: najpierw godzina, potem objętość i nigdy nie pomijać wiersza.
+
+### Pytania
+
+**Czy pierwsze wyjście po wstaniu liczy się jako nocne?**
+Jako wyjście nie, ale jego objętość liczy się jako mocz nocny. Zgodnie z definicją ICS nokturia to budzenie się w nocy, żeby oddać mocz, więc wyjście, które robisz już po wstaniu na dzień, nim nie jest. Mocz, który wtedy oddajesz, powstał jednak w nocy i dolicza się go do objętości nocnej. Zapisz je jako pierwszy wiersz po swojej godzinie wstania i zostaw rozdzielanie lekarzowi.
+
+**A jeśli i tak nie spałem i poszedłem tylko dlatego, że byłem na nogach?**
+Zapisz wyjście z godziną i dodaj notatkę: „i tak nie spałem”. Definicja nokturii według ICS zakłada przebudzenie się w celu oddania moczu, więc lekarz będzie chciał wiedzieć, które wyjścia cię obudziły, a które zdarzyły się dlatego, że już nie spałeś. Krótka notatka wystarczy.
+
+**Czy muszę mierzyć w nocy?**
+Jeśli możesz, tak, bo to objętości nocne lekarz sumuje. Nakładka włożona pod deskę sedesu przed snem bardzo to ułatwia: nic nie trzeba trzymać ani szukać po ciemku. Jeśli nie możesz, zaznacz wyjście i zachowaj godzinę; zaznaczone wyjście nocne nadal liczy się jako wyjście.
+
+### Źródła
+
+1. van Kerrebroeck P, Abrams P, Chaikin D, et al. The standardisation of terminology in nocturia: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):179–183. https://doi.org/10.1002/nau.10053
+2. Hashim H, Blanker MH, Drake MJ, et al. International Continence Society (ICS) report on the terminology for nocturia and nocturnal lower urinary tract function. Neurourol Urodyn. 2019;38(2):499–508. https://doi.org/10.1002/nau.23917
+3. European Association of Urology. EAU Guidelines on the Management of Non-neurogenic Male LUTS. Arnhem: EAU; 2026. Chapter 4, Diagnostic evaluation. https://uroweb.org/guidelines/management-of-non-neurogenic-male-luts/chapter/diagnostic-evaluation
+4. Cornu JN, Abrams P, Chapple CR, et al. A contemporary assessment of nocturia: definition, epidemiology, pathophysiology, and management—a systematic review and meta-analysis. Eur Urol. 2012;62(5):877–890. https://doi.org/10.1016/j.eururo.2012.07.004
+5. Epstein M, Blaivas J, Wein AJ, Weiss JP. Nocturia treatment outcomes: analysis of contributory frequency volume chart parameters. Neurourol Urodyn. 2018;37(1):186–191. https://doi.org/10.1002/nau.23272
+6. European Association of Urology, Patient Information. Bladder diary for nocturia. Uroweb. https://patients.uroweb.org/condition/nocturia/treatment-options-nocturia/bladder-diary-for-nocturia
+7. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+8. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+9. British Association of Urological Surgeons. Information from BAUS about assessing fluid intake & output. Patient leaflet F24/016. BAUS; 2024. https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Input%20output%20chart.pdf
+10. Stav K, Dwyer PL, Rosamilia A. Women overestimate daytime urinary frequency: the importance of the bladder diary. J Urol. 2009;181(5):2176–2180. https://doi.org/10.1016/j.juro.2009.01.042
+
+Ten tekst wyjaśnia, jak prowadzić dzienniczek. To ogólna informacja od twórcy aplikacji, a nie porada medyczna: co oznacza Twój dzienniczek, rozstrzyga lekarz. Dzienniczek wypełniany samodzielnie. To nie jest dokument medyczny.
+
+---
+
+## Co pokazuje dzienniczek mikcji? Co czyta w nim urolog
+Source: https://fluidbalanceapp.com/pl/blog/what-does-a-bladder-diary-show/
+Published: 2026-10-05 · Poradnik · Denis Zinin, twórca aplikacji Dzienniczek mikcji: Fluid Balance. Nie jest lekarzem.
+
+W skrócie:
+To, co dzienniczek mikcji pokazuje lekarzowi, sprowadza się do pięciu rzeczy: jak często chodzisz w dzień i w nocy; ile oddajesz za każdym razem; ile moczu powstaje w nocy; co i kiedy pijesz; oraz jak kompletny jest zapis. Do żadnej z nich nie dołączono liczby, do której należy dążyć; czytanie należy do lekarza, który zna twoją historię:
+
+- Lekarz czyta w dzienniczku pięć rzeczy: jak często chodzisz w dzień i w nocy, ile oddajesz za każdym razem, ile moczu powstaje w nocy, co i kiedy pijesz oraz jak kompletny jest zapis.
+- Żadna z nich nie ma liczby, do której miałbyś dążyć. Te same wartości u różnych osób znaczą co innego i odczytać je może tylko lekarz, który zna twoją historię.
+- W twoich rękach jest sam zapis: każde wyjście z godziną, objętości tam, gdzie się udało, godzina położenia się i wstania oraz uczciwe luki zamiast dopisanych liczb.
+
+Dzienniczek mikcji pokazuje lekarzowi pięć rzeczy: jak często chodzisz w dzień i w nocy; ile oddajesz za każdym razem; ile moczu powstaje w nocy; co i kiedy pijesz; oraz jak kompletny jest zapis. Nic na tej stronie nie mówi, jakie te liczby powinny być, i nie interpretuje wyników dzienniczka mikcji. To odczytanie należy do lekarza, który zna twoją historię; do czego służy dzienniczek mikcji — do położenia tych pięciu rzeczy przed nim. Ten tekst wyjaśnia, na co lekarz patrzy, żeby każda kolumna formularza miała sens już podczas wypełniania.
+
+### Do czego służy dzienniczek mikcji?
+
+International Continence Society definiuje pojęcia, na których dzienniczek jest zbudowany: częstość dzienną, nokturię, objętość mikcji i kartę częstości i objętości, która to wszystko zapisuje.[1] Badania nad tymi kartami ustaliły kilka wielkości odczytywanych raz za razem: liczbę mikcji w dzień i w nocy, objętość każdej z nich, największą objętość oraz sumę z 24 godzin.[2] Wytyczne nakazują zaś lekarzom poprosić o dzienniczek: European Association of Urology zaleca dzienniczek mikcji na co najmniej trzy dni w ocenie męskich objawów ze strony dolnych dróg moczowych, zwłaszcza nokturii,[3] NICE prosi o niego u kobiet zgłaszających się z nietrzymaniem moczu,[4] a amerykańskie wytyczne dotyczące pęcherza nadreaktywnego włączają go do oceny.[5]
+
+### 1. Jak często chodzisz — osobno w dzień i w nocy
+
+Pierwsze, co się liczy, to wyjścia w ciągu 24 godzin. Drugie, i często ważniejsze, to ile z nich przypadło na noc: International Continence Society definiuje nokturię jako budzenie się w nocy, żeby oddać mocz, przy czym przed tym wyjściem i po nim był sen.[1,6,7] Dlatego każdy dzienniczek pyta, o której się położyłeś i o której wstałeś. Bez tych dwóch godzin nie da się oddzielić wyjść nocnych od dziennych i połowa sensu dzienniczka znika.
+
+Wyjścia, których nie udało się zmierzyć, liczą się tutaj tak samo. Znacznik z godziną jest dla tego liczenia pełnym wpisem; brakujący wiersz nie jest.
+
+### 2. Ile oddajesz za każdym razem
+
+Każda zmierzona objętość mówi lekarzowi coś sama w sobie, a razem dają jeszcze dwie wielkości: największą objętość w czasie dzienniczka i rozpiętość między najmniejszą a największą.[2] Seria małych objętości i seria dużych czytane są inaczej, a obie — obok wszystkiego, co lekarz o tobie wie. To ta część dzienniczka, którą umożliwia miarka albo nakładka na sedes; stronę praktyczną opisuje [jak zmierzyć w domu](https://fluidbalanceapp.com/blog/how-to-measure-urine-output-at-home/).
+
+### 3. Ile moczu powstaje u ciebie w nocy
+
+Objętości nocne sumuje się osobno. Zgodnie z definicją ICS nocna objętość moczu obejmuje pierwszą mikcję po wstaniu rano, bo ten mocz powstał w nocy, nawet jeśli samo wyjście następuje już po przebudzeniu.[6,7] Z objętości nocnej i dobowej oblicza się udział wytworzony w nocy, a z godzin widać, ile spałeś do pierwszego wyjścia.[8] To są obliczenia, nie werdykty: liczby porównuje się z twoim wiekiem, snem i historią chorób, a progi przykłada do nich lekarz.
+
+### 4. Co pijesz i kiedy
+
+Stronę napojów czyta się nie przez sumę, lecz przez rozkład: jak napoje rozłożyły się w ciągu dnia, co to było i jak wygląda wieczór. Formularze przychodni pytają o rodzaj napoju z tego samego powodu.[1] Lekarz patrzy, czy to, co weszło, i to, co wyszło, zgadza się w czasie; to pytanie o twój zapis, a nie ocena twoich nawyków.
+
+### 5. Notatki: parcia, popuszczanie, wkładki
+
+Tam, gdzie formularz ma kolumny na parcie, popuszczanie i zmianę wkładek, czyta się je jako zdarzenia z przypisaną godziną. Te pojęcia ICS też definiuje: parcie naglące jako nagłą, trudną do odroczenia potrzebę oddania moczu, a nietrzymanie moczu jako każdy mimowolny wyciek.[1,10] Notatka „popuściło, gdy zakaszlałem” albo „silne parcie w drodze do domu” to dokładnie ten wiersz, dla którego robi się drugie przejście.
+
+### Sprawdzenie, które jest pierwsze: czy jest kompletny?
+
+Przed wszystkim powyższym lekarz patrzy, ile dzienniczka w ogóle jest: ile dni wypełniono od przebudzenia do przebudzenia, przy ilu wyjściach jest objętość, ile z nich to same znaczniki. Dzienniczek z dwoma pełnymi dniami się czyta; dzienniczek z pięcioma dniami rozrzuconych wierszy to rozmowa o powtórzeniu. Lekarze opierają się na dzienniczku właśnie dlatego, że pamięć w tej sprawie zawodzi: w jednym badaniu połowa pytanych kobiet zawyżyła częstość dziennych wyjść w porównaniu z własnym dzienniczkiem.[9] Nasz [wzór](https://fluidbalanceapp.com/bladder-diary-template/) ma na ostatniej stronie wiersz „dni zapisanych”, a aplikacja liczy zapisane dni z tego samego powodu.
+
+### Dlaczego nie znajdziesz tu norm
+
+Dwa powody. Po pierwsze, nie istnieje jeden zweryfikowany dzienniczek, a przychodnie używają różnych formularzy, różnej długości doby i różnych definicji nocy;[11,12] liczba z jednego formularza nie przenosi się czysto do drugiego. Po drugie, i to ważniejsze, każdą wartość w dzienniczku czyta się w odniesieniu do człowieka: wiek, płyny, leki, sen, inne choroby. Częstość, która u jednej osoby nic nie znaczy, u innej jest kluczowym znaleziskiem. Opublikowanie tabeli „norm” byłoby zaproszeniem do wystawiania sobie oceny narzędziem, którego nigdy do tego nie zaprojektowano. Dzienniczek jest zapisem. Jego odczytanie to wizyta.
+
+### Z czym przyjść
+
+Weź wszystkie strony, powiedz, które dni są kompletne, a jeśli korzystałeś z aplikacji — wydrukuj raport albo miej go gotowy w telefonie. Resztę opisuje [jak prowadzić dzienniczek mikcji](https://fluidbalanceapp.com/blog/how-to-keep-a-bladder-diary/): co zapisywać, częste błędy i co zrobić z dniami, które się nie udały.
+
+### Pytania
+
+**Czy mogę sam wywnioskować, co znaczy mój dzienniczek?**
+Nie w sposób pewny, a ten tekst celowo nie podaje żadnych progów. Lekarz czyta dzienniczek obok twojej historii, badania, a czasem wyników; ta sama liczba wyjść czy ta sama objętość nocna u jednej osoby nic nie znaczy, a u innej jest kluczowym znaleziskiem. Prowadź zapis kompletnie i zostaw odczytanie lekarzowi.
+
+**Czy lekarz naprawdę czyta każdy wiersz?**
+Zwykle zaczyna od podsumowania: wyjścia w dzień i w nocy, największa i typowa objętość, mocz nocny, wypite płyny i ile dni jest kompletnych. Potem przechodzi do wierszy, które się wyróżniają: popuszczanie, notatka o parciu, wieczór z dużą ilością napojów. Każdy wiersz jest po to, żeby dało się na niego spojrzeć po raz drugi.
+
+**A jeśli mój dzienniczek wygląda źle?**
+Nie ma złego dzienniczka — jest tylko niekompletny. To zapis kilku dni, a nie egzamin, który się zdaje albo oblewa, i lekarze ufają mu bardziej niż temu, co pacjent pamięta podczas wizyty. Nie porządkuj go; przynieś taki, jaki jest.
+
+### Źródła
+
+1. Abrams P, Cardozo L, Fall M, et al. The standardisation of terminology of lower urinary tract function: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):167–178. https://doi.org/10.1002/nau.10052
+2. Yap TL, Cromwell DC, Emberton M. A systematic review of the reliability of frequency-volume charts in urological research and its implications for the optimum chart duration. BJU Int. 2007;99(1):9–16. https://doi.org/10.1111/j.1464-410X.2006.06499.x
+3. European Association of Urology. EAU Guidelines on the Management of Non-neurogenic Male LUTS. Arnhem: EAU; 2026. Chapter 4, Diagnostic evaluation. https://uroweb.org/guidelines/management-of-non-neurogenic-male-luts/chapter/diagnostic-evaluation
+4. National Institute for Health and Care Excellence. Urinary incontinence and pelvic organ prolapse in women: management. NICE guideline NG123. London: NICE; 2019. https://www.nice.org.uk/guidance/ng123
+5. Cameron AP, Chung DE, Dielubanza EJ, et al. The AUA/SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder. J Urol. 2024;212(1):11–20. https://doi.org/10.1097/JU.0000000000003985
+6. van Kerrebroeck P, Abrams P, Chaikin D, et al. The standardisation of terminology in nocturia: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):179–183. https://doi.org/10.1002/nau.10053
+7. Hashim H, Blanker MH, Drake MJ, et al. International Continence Society (ICS) report on the terminology for nocturia and nocturnal lower urinary tract function. Neurourol Urodyn. 2019;38(2):499–508. https://doi.org/10.1002/nau.23917
+8. Epstein M, Blaivas J, Wein AJ, Weiss JP. Nocturia treatment outcomes: analysis of contributory frequency volume chart parameters. Neurourol Urodyn. 2018;37(1):186–191. https://doi.org/10.1002/nau.23272
+9. Stav K, Dwyer PL, Rosamilia A. Women overestimate daytime urinary frequency: the importance of the bladder diary. J Urol. 2009;181(5):2176–2180. https://doi.org/10.1016/j.juro.2009.01.042
+10. Haylen BT, de Ridder D, Freeman RM, et al. An International Urogynecological Association (IUGA)/International Continence Society (ICS) joint report on the terminology for female pelvic floor dysfunction. Neurourol Urodyn. 2010;29(1):4–20. https://doi.org/10.1002/nau.20798
+11. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+12. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+
+Ten tekst wyjaśnia, jak prowadzić dzienniczek. To ogólna informacja od twórcy aplikacji, a nie porada medyczna: co oznacza Twój dzienniczek, rozstrzyga lekarz. Dzienniczek wypełniany samodzielnie. To nie jest dokument medyczny.
+
+---
+
+## Przykład dzienniczka mikcji: jeden pełny dzień, wiersz po wierszu
+Source: https://fluidbalanceapp.com/pl/blog/bladder-diary-example/
+Published: 2026-09-28 · Poradnik · Denis Zinin, twórca aplikacji Dzienniczek mikcji: Fluid Balance. Nie jest lekarzem.
+
+W skrócie:
+Poniżej jest przykład dzienniczka mikcji z jednego pełnego dnia, wiersz po wierszu: około piętnastu wpisów, w których każdy napój ma swoją ilość, każde wyjście objętość albo znacznik „nie zmierzono”, są godziny położenia się i wstania, a tam, gdzie coś się wydarzyło, jest notatka. Dzień jest wymyślony, więc jego sumy nie są celami. Układ idzie za dzienniczkiem Urology Care Foundation i kartami NHS, których własne formularze pokazują tylko jeden lub dwa przykładowe wiersze. Co ten dzień ma pokazać:
+
+- Pełny dzień to około piętnastu wierszy: każdy napój z ilością, każde wyjście z objętością albo znacznikiem, godziny położenia się i wstania oraz notatka tam, gdzie coś się wydarzyło.
+- Dzień poniżej jest wymyślony. Jego sumy nie są celami i nie ma tu normy, z którą można by je porównać.
+- Lekarz czyta z niego liczbę wyjść w dzień i w nocy, objętości, rozkład napojów, notatki i to, czy dzień jest kompletny.
+
+Formularze poradni pokazują jeden albo dwa przykładowe wiersze: dzienniczek Urology Care Foundation ma pojedynczy wiersz z puszką napoju i popuszczeniem przy śmiechu,[1] karta NHS Gloucestershire pokazuje poranek z kubkiem herbaty i popuszczeniem,[2] karta fizjoterapii z Sussex trzy poranne wiersze z sumami.[3] Pomocne, ale niczyj dzień nie ma trzech wierszy. Oto cały wymyślony dzień w formacie naszego [wzoru do druku](https://fluidbalanceapp.com/bladder-diary-template/), a po nim to, co każda jego część mówi lekarzowi. Liczby należą do tego przykładu i do niczego więcej; na tej stronie nie ma normy, z którą można by je porównać.
+
+### Jak wygląda pełny dzień dzienniczka?
+
+Wypełniony przykład dzienniczka mikcji. Dzień 1 z 7. Położyłem się 22:45. Wstałem 7:00.
+
+| Godzina | Wypite (ml) | Co | Wydalone (ml albo ✓) | Noc | Notatka |
+|---|---|---|---|---|---|
+| 7:05 | | | 350 | | pierwsze rano |
+| 7:20 | 250 | herbata | | | |
+| 8:30 | 200 | kawa | | | |
+| 9:40 | | | ✓ | | w pośpiechu, drobne popuszczenie |
+| 11:00 | 500 | woda | | | |
+| 11:45 | | | 220 | | |
+| 13:10 | 330 | sok | | | |
+| 13:30 | | | 180 | | silne parcie |
+| 15:00 | 250 | herbata | | | |
+| 16:20 | | | 260 | | |
+| 18:00 | 250 | woda | | | |
+| 19:30 | 200 | piwo | | | |
+| 20:15 | | | 300 | | |
+| 22:30 | | | 150 | | przed snem |
+| 3:10 | | | 180 | ✓ | |
+
+Piętnaście wierszy, jedna strona. Dzień biegnie od wstania do wstania, więc wyjście o 3:10 należy do dnia 1, mimo że data się zmieniła.
+
+### Wiersz po wierszu
+
+**7:05, 350 ml, „pierwsze rano”.** Pierwsze wyjście po wstaniu. Nie jest nocne, bo noc dzienniczka skończyła się o 7:00, ale według definicji ICS oddany wtedy mocz powstał w nocy i dolicza się do objętości nocnej,[5] dlatego się go mierzy, a nie zaznacza. Na papierze to po prostu pierwszy wiersz dnia.
+
+**7:20 i 8:30, herbata i kawa.** Napoje z ilością i rodzajem. Ilość bierze się z jednorazowego zmierzenia kubka; rodzaj jest tam, bo formularze poradni o niego proszą.[1,2]
+
+**9:40, znacznik, „w pośpiechu, drobne popuszczenie”.** Nie było czasu mierzyć, więc znacznik zamiast objętości, a wyjście nadal liczy się do dziennej liczby wyjść.[2] Notatka odnotowuje popuszczenie z przybliżoną wielkością. Na formularzu z kolumnami na popuszczanie byłoby to „drobne” albo „+”; w zwykłym dzienniczku to notatka z godziną.
+
+**11:00, 500 ml wody.** Butelka, więc ilość jest na niej nadrukowana.
+
+**13:30, 180 ml, „silne parcie”.** Zmierzone wyjście z odnotowanym parciem: nagła, trudna do odroczenia potrzeba.[4] Zapisane na bieżąco, w dwóch słowach, i tyle wystarczy.
+
+**19:30, 200 ml piwa.** Alkohol jest na kartce napojem jak każdy inny: ilość, rodzaj, godzina. Dzienniczek ma pokazać zwyczajny wieczór, nie wyczyszczony.
+
+**22:30, 150 ml, „przed snem”.** Ostatnie wyjście przed godziną położenia się wpisaną u góry strony. To wyjście dzienne; noc zaczyna się o 22:45.
+
+**3:10, 180 ml, zaznaczone jako Noc.** Między położeniem się a wstaniem, więc dostaje znacznik. To ten wiersz umożliwia liczenie nocnych; dzienniczek bez godzin położenia się i wstania nie odróżni tego wyjścia od tego o 22:30.
+
+### Co ten dzień daje w sumie
+
+Tylko dlatego, że przykład na to pozwala: 1 980 ml wypite w siedmiu napojach; 1 640 ml wydalone w siedmiu zmierzonych wyjściach, plus jedno wyjście zaznaczone bez objętości; w sumie osiem wyjść, jedno w nocy. Na formularzu poradni możesz zostać poproszony o wpisanie tych sum w dolnym wierszu; w aplikacji pojawiają się na ekranie dnia i w raporcie bez żadnego dodawania. To nie są cele i nie są typowe dla nikogo konkretnego. Ich jedyne zadanie tutaj to pokazać, jak wygląda pełny dzień, kiedy się go policzy.
+
+### Co widzi w nim lekarz
+
+Osiem wyjść z godzinami, jedno w nocy, jedno niezmierzone. Siedem zmierzonych objętości, od 150 do 350 ml. Napoje rozłożone od 7:20 do 19:30 z zapisanymi rodzajami. Dwie notatki: popuszczenie z wyzwalaczem i parcie. Godziny położenia się i wstania, żeby noc dała się oddzielić od dnia. I dzień kompletny od przebudzenia do przebudzenia — to pierwsza rzecz, którą sprawdzają, bo sama pamięć myli nawet liczbę wyjść.[6] Co te fakty znaczą, to już wizyta; zadaniem dzienniczka było je przynieść.
+
+### Twój dzień będzie wyglądał inaczej
+
+Więcej wierszy albo mniej, inne napoje, inne godziny. To, co zostaje takie samo, to format: każdy napój, każde wyjście, objętość albo znacznik, dwie godziny obramowujące noc i notatka tam, gdzie coś się wydarzyło. [Jak prowadzić dzienniczek mikcji](https://fluidbalanceapp.com/blog/how-to-keep-a-bladder-diary/) opisuje nawyki, które do tego prowadzą, a [jak zmierzyć ilość moczu w domu](https://fluidbalanceapp.com/blog/how-to-measure-urine-output-at-home/) — miarkę.
+
+### Pytania
+
+**Gdzie zapisać pierwsze poranne wyjście?**
+Jako pierwszy wiersz nowego dnia, po Twojej godzinie wstania, z objętością, jeśli ją zmierzyłeś. To nie jest wyjście nocne, bo już wstałeś, ale według definicji ICS oddany wtedy mocz powstał w nocy i wlicza się do objętości nocnej, więc warto go zmierzyć. Porządkowaniem zajmuje się lekarz.
+
+**Czy muszę sam sumować?**
+Nie. Formularze poradni zostawiają wiersz na sumy, a część o nie prosi, ale lekarz może zsumować sam; karta NHS tak właśnie mówi. Jeśli używasz aplikacji, sumy, liczba wyjść i liczba nocnych liczą się same. Czego nie da się oddać komuś innemu, to same wiersze.
+
+**A jeśli mój dzień ma dwadzieścia wierszy?**
+Weź kolejną stronę i pisz dalej. Dzień z wieloma wierszami jest dniem kompletnym, a tylko taki jest lekarzowi potrzebny; pomijanie wierszy, żeby się zmieściło, to właśnie błąd. Nasz wzór ma 24 wiersze na stronie w A4, a aplikacja nie ma limitu.
+
+### Źródła
+
+1. Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025. https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf
+2. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+3. University Hospitals Sussex NHS Foundation Trust. Bladder record chart: pelvic health physiotherapy patient information. Reference 2198; 2023. https://www.uhsussex.nhs.uk/wp-content/uploads/2023/03/Bladder-Record-chart.pdf
+4. Abrams P, Cardozo L, Fall M, et al. The standardisation of terminology of lower urinary tract function: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):167–178. https://doi.org/10.1002/nau.10052
+5. van Kerrebroeck P, Abrams P, Chaikin D, et al. The standardisation of terminology in nocturia: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):179–183. https://doi.org/10.1002/nau.10053
+6. Stav K, Dwyer PL, Rosamilia A. Women overestimate daytime urinary frequency: the importance of the bladder diary. J Urol. 2009;181(5):2176–2180. https://doi.org/10.1016/j.juro.2009.01.042
+
+Ten tekst wyjaśnia, jak prowadzić dzienniczek. To ogólna informacja od twórcy aplikacji, a nie porada medyczna: co oznacza Twój dzienniczek, rozstrzyga lekarz. Dzienniczek wypełniany samodzielnie. To nie jest dokument medyczny.
+
+---
+
+## Jak zmierzyć ilość moczu w domu do dzienniczka mikcji
+Source: https://fluidbalanceapp.com/pl/blog/how-to-measure-urine-output-at-home/
+Published: 2026-09-21 · Poradnik · Denis Zinin, twórca aplikacji Dzienniczek mikcji: Fluid Balance. Nie jest lekarzem.
+
+W skrócie:
+Ilość moczu do dzienniczka mikcji mierzy się w domu na jeden z trzech sposobów: w plastikowej miarce z podziałką w mililitrach, w nakładce wkładanej pod deskę sedesu albo — gdy żadne z tych dwóch nie jest możliwe — zachowując godzinę i zaznaczając wyjście jako niezmierzone. Poradnie akceptują wszystkie trzy. Karty NHS i BAUS oraz dzienniczek Urology Care Foundation potrzebują przede wszystkim każdego wyjścia z godziną; objętość jest druga. Szczegóły, dzięki którym liczby są użyteczne:
+
+- Mierz w plastikowej miarce z podziałką w mililitrach albo łap do nakładki wkładanej pod deskę sedesu. Liczbę zapisuj od razu.
+- Kiedy nie możesz zmierzyć, zachowaj godzinę i zaznacz wyjście jako niezmierzone. Nadal liczy się do częstości i do liczby nocnych.
+- Trzymaj jedną jednostkę w całym dzienniczku, raz zmierz swój zwykły kubek na potrzeby napojów, a miarkę albo nakładkę płucz po każdym użyciu.
+
+Są trzy sposoby, żeby zapisać do dzienniczka mikcji, ile oddajesz: zmierzyć w miarce, złapać do nakładki wkładanej pod deskę sedesu albo — gdy żadne z tych dwóch nie jest możliwe — zachować godzinę i zaznaczyć wyjście jako niezmierzone. Poradnie akceptują wszystkie trzy. To, czego potrzebują, to każde wyjście z godziną; objętość jest druga.
+
+### O co prosi dzienniczek
+
+„Wydalone” w dzienniczku to objętość każdego wyjścia do toalety, w mililitrach albo uncjach płynu, zapisana obok godziny. Objętości mikcji i ich godziny są rdzeniem karty częstości i objętości w rozumieniu International Continence Society i każdego badanego od tamtej pory formatu dzienniczka.[1,2] Formularze poradni rozkładają to różnie: karta bilansu BAUS ma kolumnę WYDALONE naprzeciw każdej godziny,[3] dzienniczek Urology Care Foundation pyta przy każdym wyjściu „ile moczu?”,[4] a nasz [wzór do druku](https://fluidbalanceapp.com/bladder-diary-template/) ma kolumnę Wydalone z opisem „ml albo ✓”. Każdy z nich przyjmuje znacznik, gdy nie dało się zmierzyć. Żaden nie pyta, czy Twoje liczby są prawidłowe; wzorzec czyta lekarz, Ty dostarczasz zapis. Jak składa się cały dzienniczek, opisuje [jak prowadzić dzienniczek mikcji](https://fluidbalanceapp.com/blog/how-to-keep-a-bladder-diary/).
+
+### Sposób 1: miarka
+
+Wystarczy dowolna plastikowa miarka z podziałką w mililitrach.[5] BAUS proponuje taką, która mieści co najmniej 500 ml;[3] są w aptece i w dziale kuchennym supermarketu. Trzymaj ją wyłącznie do dzienniczka i trzymaj przy toalecie.
+
+Usiądź na sedesie i trzymaj miarkę w misce. Karta fizjoterapii z Sussex jest w tej sprawie konkretna: siadaj porządnie, nie zawisaj ani nie kucaj nad deską, bo w siadzie dno miednicy się rozluźnia i opróżniasz się pełniej.[6] Mężczyźni mogą stać i używać miarki bezpośrednio.
+
+Postaw miarkę na płaskiej powierzchni, odczytaj poziom na wysokości oczu i zapisz liczbę, zanim zrobisz cokolwiek innego. Zaokrąglaj do najbliższej kreski; podziałka nie jest dokładniejsza, a dzienniczek też nie. Wylej i wypłucz miarkę wodą.
+
+### Sposób 2: nakładka na sedes
+
+Nakładka to płaska plastikowa miska z szerokim rantem, która wchodzi pod deskę sedesu, z podziałką nadrukowaną w środku w mililitrach i uncjach płynu. Poradnie często wydają ją razem z dzienniczkiem.[4] Jeśli Twoja tego nie zrobiła, apteki i sklepy internetowe sprzedają je jako nakładkę do zbiórki moczu.
+
+Włóż ją pod deskę, bliżej przodu miski, usiądź jak zwykle, potem odczytaj poziom, zapisz go, wylej zawartość do sedesu i wypłucz nakładkę.[4] Nic nie trzeba trzymać — dlatego w nocy i w pośpiechu to najprostsze rozwiązanie.
+
+### Sposób 3: gdy nie możesz zmierzyć
+
+W pracy, w sklepie, w środku nocy na wpół śpiąc: zachowaj godzinę i zaznacz wyjście. Karta NHS i karta BAUS mówią dokładnie to, znacznik w kolumnie moczu;[3,5] nasz wzór ma ✓ w kolumnie Wydalone; w aplikacji to przycisk „Nie zmierzono”. Wyjście nadal liczy się do częstości i do liczby nocnych. Po prostu nie dokłada się do sumy objętości.
+
+Szacunek też jest dozwolony. Jeśli mierzyłeś przez dzień albo dwa i wiesz, jak w Twojej miarce wygląda zwykłe wyjście, wpisz szacunek i oznacz go „ok.”. W razie wątpliwości — znacznik.
+
+Dzienniczek psuje wyjście, którego w ogóle nie zapisano. Zaznaczony wiersz z godziną mówi lekarzowi coś; pusty wiersz nie mówi nic.
+
+### Mililitry czy uncje płynu?
+
+Trzymaj jedną jednostkę w całym dzienniczku — tę wydrukowaną na formularzu Twojej poradni. Jeśli musisz przeliczyć:
+
+- 1 amerykańska uncja płynu to około 30 ml (dokładnie 29,6 ml).
+- 1 cup, czyli 8 uncji płynu, to około 240 ml.
+- 100 ml to około 3,4 uncji płynu; butelka 500 ml to około 17.
+
+Nasz wzór jest w obu: arkusze A4 w mililitrach, arkusze US Letter w uncjach płynu. W aplikacji jednostka jest ustawieniem, a raport używa tej, którą wybrałeś.
+
+### Strona napojów
+
+Mierzenie tego, co pijesz, jest łatwiejsze: ilość zwykle jest nadrukowana na opakowaniu. Typowe pojemności, te same, których nasz wzór i aplikacja używają jako gotowych wartości: kubek 200–250 ml, szklanka 250 ml, puszka 330 ml, mała butelka 500 ml. Urology Care Foundation podaje amerykańskie odpowiedniki: kubek 8 oz, puszka 12 oz, butelka 20 oz.[4]
+
+Swój własny kubek, szklankę albo butelkę na wodę zmierz raz miarką, a potem używaj tego samego naczynia przez dni dzienniczka. Sugerują to i BAUS, i karta z Sussex.[3,6] Zapisuj też rodzaj napoju: herbata, kawa, woda, piwo; poradnie o to proszą.[3,7]
+
+### W nocy
+
+Przed snem włóż nakładkę albo zostaw miarkę przy toalecie i zostaw małe światło. Najpierw godzina, potem objętość: jeśli o trzeciej w nocy mierzenie się nie wydarzy, zaznacz i wracaj spać.
+
+Zapisz, kiedy się położyłeś i kiedy wstałeś. BAUS prosi o dwie kreski w poprzek kolumny dnia, karta NHS o BED i WOKE w kolumnie godzin,[3,5] a nasz wzór ma na każdy z tych wpisów pole u góry każdej strony. Tak właśnie liczy się wyjścia nocne.
+
+### Po operacji albo z cewnikiem
+
+Na oddziale ten sam zapis nazywa się kartą bilansu płynów i wypełniają go pielęgniarki. Jeśli wracasz do domu z cewnikiem, pielęgniarka pokaże Ci, jak odczytywać i opróżniać worek; wiersz dzienniczka jest ten sam, godzina i ilość. Trzymaj się ich wskazówek co do tego, co i jak często zapisywać.
+
+### Czysto i prosto
+
+Miarki albo nakładki używaj wyłącznie do tego. Płucz po każdym użyciu,[4] raz dziennie umyj płynem, myj ręce. Trzymaj tam, gdzie z tego korzystasz, nie w szafce. I zapisuj liczbę w chwili, gdy ją masz: objętość przypomniana dwie godziny później to zgadywanka.
+
+### Pytania
+
+**Czy mogę szacować zamiast mierzyć?**
+Kiedy nie możesz zmierzyć, tak: zachowaj godzinę i albo zaznacz wyjście, albo wpisz szacunek z dopiskiem „ok.”. Jeśli masz miarkę, mierz; to zmierzone objętości są tym, o co poradnia prosiła. Szacunek albo znacznik jest dla tych wyjść, przy których miarka nie była możliwa, nie dla każdego.
+
+**Czy muszę mierzyć w nocy?**
+Jeśli możesz. Nakładka zostawiona pod deską przed snem bardzo to ułatwia: nic nie trzeba trzymać ani szukać po ciemku. Jeśli nie możesz, zaznacz wyjście i zachowaj godzinę. Wyjścia nocne liczy się po godzinie, a nie po objętości, więc zapisz też, kiedy się położyłeś i kiedy wstałeś.
+
+**A poza domem?**
+Zachowaj godzinę i zaznacz wyjście. Mały kubek z miarką mieści się w torbie, ale nikt nie oczekuje, że będziesz go nosić; publiczna toaleta to całkowicie uprawniony znacznik. Błędem jest pominięcie wyjścia, nie pominięcie objętości.
+
+### Źródła
+
+1. Abrams P, Cardozo L, Fall M, et al. The standardisation of terminology of lower urinary tract function: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):167–178. https://doi.org/10.1002/nau.10052
+2. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+3. British Association of Urological Surgeons. Information from BAUS about assessing fluid intake & output. Patient leaflet F24/016. BAUS; 2024. https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Input%20output%20chart.pdf
+4. Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025. https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf
+5. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+6. University Hospitals Sussex NHS Foundation Trust. Bladder record chart: pelvic health physiotherapy patient information. Reference 2198; 2023. https://www.uhsussex.nhs.uk/wp-content/uploads/2023/03/Bladder-Record-chart.pdf
+7. European Association of Urology, Patient Information. I want to know about keeping a bladder diary. Uroweb. https://patients.uroweb.org/condition/urinary-incontinence/bladder-diary
+
+Ten tekst wyjaśnia, jak prowadzić dzienniczek. To ogólna informacja od twórcy aplikacji, a nie porada medyczna: co oznacza Twój dzienniczek, rozstrzyga lekarz. Dzienniczek wypełniany samodzielnie. To nie jest dokument medyczny.
+
+---
+
+## Dzienniczek mikcji: ile dni? 3, 7 czy 24 godziny
+Source: https://fluidbalanceapp.com/pl/blog/bladder-diary-how-many-days/
+Published: 2026-09-12 · Poradnik · Denis Zinin, twórca aplikacji Dzienniczek mikcji: Fluid Balance. Nie jest lekarzem.
+
+Uwaga na początek: nie jestem lekarzem. Robię aplikację Dzienniczek mikcji: Fluid Balance, a ten poradnik to moja próba zebrania w jednym miejscu tego, co wytyczne kliniczne i formularze poradni mówią o tym, ile dni powinien obejmować dzienniczek mikcji. Źródła są na końcu; zalecenia Twojego lekarza są ważniejsze.
+
+W skrócie:
+Ile dni ma obejmować dzienniczek mikcji, rozstrzyga lekarz, który o niego poprosił: zwykłą odpowiedzią są trzy pełne dni, część poradni prosi o siedem, a 24 godziny to minimum, jakie może pomieścić karta. Standard jakości NICE QS77 wymaga co najmniej trzech dni, International Continence Society opisuje dzienniczki od trzech do siedmiu dni, a formularz Urology Care Foundation obejmuje trzy dni, które nie muszą następować po sobie. Jakakolwiek byłaby liczba, kompletność znaczy więcej niż długość:
+
+- Liczba, którą podała Ci poradnia, jest tą właściwą; poniżej wyjaśniamy, skąd wzięły się trzy dni, siedem dni i 24 godziny.
+- Dni nie muszą następować po sobie, chyba że tak mówi Twój formularz, ale powinny obejmować różne rodzaje dni: dzień pracy i dzień wolny.
+- Doba liczy się od przebudzenia do przebudzenia. Krótki dzienniczek, w którym każdy dzień jest pełny, jest wart więcej niż długi z lukami.
+
+Zwykłą odpowiedzią są trzy pełne dni: dzienniczek mikcji na 3 dni. Część poradni prosi o dzienniczek na 7 dni, a 24 godziny to minimum, jakie może objąć karta. Liczba, którą Ci podano, jest tą właściwą; poniżej wyjaśniamy, skąd te liczby się wzięły, żeby zalecenie miało sens zamiast wydawać się arbitralne. Jedna zasada stoi ponad wszystkimi: krótki dzienniczek, w którym każdy dzień jest pełny, jest wart więcej niż długi z lukami.
+
+### Ile dni powinien obejmować dzienniczek mikcji?
+
+| Kto | Jak długo | Uwagi |
+|---|---|---|
+| NICE, standard jakości dla nietrzymania moczu u kobiet[1,2] | Co najmniej 3 dni | Powinien obejmować różnice w zwykłej aktywności, np. dni pracy i wolne |
+| International Continence Society[3] | Co najmniej 24 godziny dla karty częstości i objętości | Dwa albo trzy dni, niekoniecznie po sobie, dają bardziej użyteczne dane |
+| Urology Care Foundation (AUA)[4] | Co najmniej 3 dni | Dowolne trzy typowe dni; nie muszą następować po sobie; jeden dzień może nie dać prawdziwego obrazu |
+| Karta bilansu BAUS[5] | 3 kolejne zwykłe dni | W razie potrzeby z dniami pracy lub odpoczynku |
+| Karta częstości i objętości NHS Gloucestershire[6] | 3 dni | Trzydniowy dzienniczek mikcji |
+| Nasz wzór i aplikacja | Do 7 dni | Wiersz „zapisanych dni”, żeby lekarz widział, jak jest kompletny |
+
+Różne instytucje, jeden motyw: trzy dni to prawie wszędzie dolna granica, a dni powinny wyglądać jak Twoje prawdziwe życie.
+
+### Dlaczego trzy
+
+Trójka nie jest okrągłą liczbą wybraną dla wygody. Przegląd systematyczny kart częstości i objętości stwierdził, że z dostępnych danych nie da się wyprowadzić twardych zaleceń co do czasu trwania, ale że zgoda wokół kart trzydniowych i dłuższych jest polityką najłatwiejszą do obrony.[7] W dwóch dużych badaniach nad pęcherzem nadreaktywnym dzienniczki trzydniowe okazały się tak samo skuteczne jak siedmiodniowe, a autorzy zauważyli, że krótszy dzienniczek może ograniczyć skłonność do uzupełniania luk z pamięci.[8] Badanie, które losowo przydzielało pacjentów do dzienniczków dwu-, trzy- lub siedmiodniowych, wykazało, że wersja siedmiodniowa zwiększa obciążenie, i zaleciło mniej dni.[9] A badanie dzienniczków u pacjentów z neurogennymi zaburzeniami pęcherza wykazało, że trzy dni są porównywalne z siedmioma pod względem liczby mikcji, objętości na mikcję, parcia i objętości dobowej; jedyną miarą, przy której trzy dni wyglądały granicznie, były epizody popuszczania.[10]
+
+Ta sama literatura uczciwie przyznaje jedno zastrzeżenie: nie istnieje jeden w pełni zwalidowany dzienniczek, a formaty różnią się od poradni do poradni.[11] Dlatego właśnie zalecenie Twojej poradni — trzy dni na ich formularzu, siedem na naszym — wygrywa z czymkolwiek, co tu napisano.
+
+### Dlaczego nie jeden dzień
+
+Jeden dzień to migawka i bardziej prawdopodobne jest, że okaże się nietypowy: długa podróż, późny wieczór, dzień z mniejszą ilością płynów niż zwykle. Urology Care Foundation mówi wprost: jednodniowy dzienniczek może nie dostarczyć wystarczających informacji, by dać prawdziwy obraz.[4] W przywołanym badaniu neurogennym zapisy pierwszego dnia różniły się istotnie od średniej siedmiodniowej w każdej mierze.[10] Dwa albo trzy dni to wygładzają.
+
+### Kiedy siedem dni ma sens
+
+Część lekarzy prosi o tydzień. Tydzień zawiera weekend, więc dzienniczek obejmuje oba rodzaje dni bez planowania. Zawiera też siedem nocy, co ma znaczenie, gdy pytanie dotyczy wstawania w nocy. Ceną jest wysiłek: siedem pełnych dni wymaga dyscypliny,[9] a tydzień z dwoma pustymi dniami wart jest mniej niż trzy pełne. Jeśli poproszono Cię o siedem, praktyczna rada brzmi: ułatw sobie zapisywanie każdego dnia, miej kartkę albo telefon przy sobie i uczciwie zaznacz, które dni są kompletne.
+
+### Dzienniczki 24-godzinne
+
+Dwadzieścia cztery godziny to minimum, które International Continence Society opisuje dla karty częstości i objętości.[3] Niektóre poradnie używają pojedynczego dnia jako szybkiej kontroli przed leczeniem albo po nim. Jeśli to właśnie dostałeś, potraktuj go jako jedną pełną dobę: zacznij po przebudzeniu, zapisuj wszystko aż do przebudzenia następnego ranka i nie zostawiaj pustych wierszy tylko dlatego, że to „tylko jeden dzień”.
+
+### Czy dni muszą następować po sobie?
+
+Zwykle nie. Urology Care Foundation prosi o dowolne trzy typowe dni,[4] a International Continence Society zauważa, że dwa albo trzy dni nie muszą być kolejne.[3] NICE idzie dalej i prosi, by dni obejmowały różne rodzaje aktywności, zarówno pracę, jak i czas wolny,[1,2] co łatwiej zorganizować, gdy wolno je rozłożyć. Niektóre formularze, w tym BAUS, wymagają dni po sobie;[5] jeśli Twój tak robi, trzymaj się formularza.
+
+### Doba liczy się od przebudzenia do przebudzenia
+
+Zaczynaj każdy dzień dzienniczka, gdy wstajesz, i prowadź go do chwili, gdy wstajesz następnego ranka.[4] Noc należy do dnia, w którym się zaczęła. Zapisz, kiedy się położyłeś i kiedy wstałeś; to w ten sposób mikcje nocne oddziela się od dziennych.
+
+### Jeśli przepadnie Ci dzień
+
+Nie odtwarzaj go wieczorem z pamięci. Zostaw go oznaczony jako niepełny i dołóż zamiast niego kolejny pełny dzień. Nasz wzór ma na to wiersz na ostatniej stronie — zapisanych dni z siedmiu — a aplikacja liczy zapisane dni za Ciebie; tak czy inaczej lekarz widzi od razu, z czym pracuje. [Jak prowadzić dzienniczek mikcji](https://fluidbalanceapp.com/blog/how-to-keep-a-bladder-diary/) opisuje, co wchodzi w każdy taki dzień.
+
+### Pytania
+
+**Poproszono mnie o siedem dni. Czy mogę skończyć po trzech?**
+Zrób to, o co Cię poproszono; lekarz wybrał siedem z jakiegoś powodu, często po to, by zobaczyć cały tydzień z weekendem albo więcej nocy. Jeśli siedem pełnych dni nie jest realne, trzy pełne biją siedem z dziurami, więc powiedz o tym na wizycie i pokaż dni, które udało Ci się domknąć.
+
+**Czy powinienem uwzględnić weekend?**
+Tak, jeśli się da. NICE wymaga dzienniczków obejmujących dni pracy i dni wolne, a Urology Care Foundation prosi o typowe dni. Dzień przy biurku i dzień w domu zwykle wyglądają w dzienniczku inaczej, a lekarz chce zobaczyć oba.
+
+**Czy wystarczy dzienniczek 24-godzinny?**
+To minimum, które International Continence Society opisuje dla karty częstości i objętości, a niektóre poradnie używają go jako szybkiej migawki. Pojedynczy dzień częściej okazuje się nietypowy, dlatego większość prosi o więcej. Jeśli dostałeś kartę 24-godzinną, prowadź ją od przebudzenia do przebudzenia i wypełnij każdy wiersz.
+
+### Źródła
+
+1. National Institute for Health and Care Excellence. Urinary incontinence in women. Quality standard QS77, quality statement 2: bladder diaries and lifestyle changes. London: NICE; 2015. https://www.nice.org.uk/guidance/qs77/chapter/quality-statement-2-bladder-diaries-and-lifestyle-changes
+2. National Institute for Health and Care Excellence. Urinary incontinence and pelvic organ prolapse in women: management. NICE guideline NG123. London: NICE; 2019. https://www.nice.org.uk/guidance/ng123
+3. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+4. Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025. https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf
+5. British Association of Urological Surgeons. Information from BAUS about assessing fluid intake & output. Patient leaflet F24/016. BAUS; 2024. https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Input%20output%20chart.pdf
+6. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+7. Yap TL, Cromwell DC, Emberton M. A systematic review of the reliability of frequency-volume charts in urological research and its implications for the optimum chart duration. BJU Int. 2007;99(1):9–16. https://doi.org/10.1111/j.1464-410X.2006.06499.x
+8. Dmochowski RR, Sanders SW, Appell RA, Nitti VW, Davila GW. Bladder-health diaries: an assessment of 3-day vs 7-day entries. BJU Int. 2005;96(7):1049–1054. https://doi.org/10.1111/j.1464-410X.2005.05785.x
+9. Ku JH, Jeong IG, Lim DJ, Byun SS, Paick JS, Oh SJ. Voiding diary for the evaluation of urinary incontinence and lower urinary tract symptoms: prospective assessment of patient compliance and burden. Neurourol Urodyn. 2004;23(4):331–335. https://doi.org/10.1002/nau.20027
+10. Konstantinidis C, Kratiras Z, Samarinas M, Skriapas K. Optimal bladder diary duration for patients with suprapontine neurogenic lower urinary tract dysfunction. Int Braz J Urol. 2016;42(4):766–772. https://doi.org/10.1590/S1677-5538.IBJU.2015.0292
+11. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+
+Ten tekst wyjaśnia, jak prowadzić dzienniczek. To ogólna informacja od twórcy aplikacji, a nie porada medyczna: co oznacza Twój dzienniczek, rozstrzyga lekarz. Dzienniczek wypełniany samodzielnie. To nie jest dokument medyczny.
+
+---
+
+## Jak prowadzić dzienniczek mikcji: co zapisywać, krok po kroku
+Source: https://fluidbalanceapp.com/pl/blog/how-to-keep-a-bladder-diary/
+Published: 2026-09-12 · Poradnik · Denis Zinin, twórca aplikacji Dzienniczek mikcji: Fluid Balance. Nie jest lekarzem.
+
+Uwaga na początek: nie jestem lekarzem. Robię aplikację Dzienniczek mikcji: Fluid Balance, a ten poradnik to moja próba zebrania w jednym miejscu tego, czego wymagają wytyczne kliniczne i formularze poradni, kiedy każą Ci prowadzić dzienniczek mikcji. Źródła są na końcu; zalecenia Twojego lekarza są ważniejsze.
+
+W skrócie:
+Dzienniczek mikcji prowadzi się tak: każdy napój i każde wyjście do toalety zapisuje się z godziną, w chwili gdy się dzieją, przez te trzy do siedmiu dni, o które prosi lekarz. To właśnie ten zapis mają na myśli wytyczne NICE, International Continence Society i Urology Care Foundation, gdy ocenia się częstość, parcia, popuszczanie albo nocne wstawanie. Na papierze czy w aplikacji, użytecznym czynią go te same nawyki:
+
+- Zapisuj każdy napój i każde wyjście do toalety z godziną, w chwili gdy się dzieją, przez te trzy do siedmiu dni, o które Cię poproszono.
+- Mierz mocz miarką albo nakładką na sedes, kiedy możesz. Kiedy nie możesz, zaznacz wyjście i zachowaj godzinę: nadal się liczy.
+- Zapisz, o której się położyłeś i wstałeś, zaznacz wyjścia nocne i zabierz wszystkie kartki. Krótki, ale kompletny dzienniczek jest wart więcej niż długi z lukami.
+
+Dzienniczek mikcji to pisemny zapis tego, co pijesz, ile moczu oddajesz i kiedy, prowadzony przez kilka dni po to, żeby lekarz zobaczył wzorzec zamiast polegać na pamięci, która zwykle myli się co do liczb.[1] Prowadzenie go sprowadza się do czterech nawyków: zapisz godzinę od razu, notuj każdy napój z ilością, mierz mocz, kiedy możesz, i zaznaczaj wyjście, kiedy nie możesz, oraz oznaczaj to, co działo się w nocy.
+
+Twój urolog, lekarz rodzinny, pielęgniarka albo fizjoterapeuta dna miednicy może nazwać to dzienniczkiem mikcji, kartą częstości i objętości albo dzienniczkiem oddawania moczu; International Continence Society definiuje każdy z tych terminów.[2,3] W szpitalu ten sam zapis to karta bilansu płynów. Kolumny są niemal takie same; nazwa zależy od tego, kto wręcza Ci kartkę.
+
+### Po co jest dzienniczek i dlaczego Cię o niego poproszono
+
+Dzienniczek odpowiada na pytania, na które wizyta odpowiedzieć nie może. Jak często chodzisz przez całą dobę? Ile wychodzi za każdym razem? Jak to się ma do tego, co i kiedy piłeś? Ile razy wstajesz w nocy?
+
+International Continence Society definiuje kartę częstości i objętości jako zapis godziny i objętości każdej mikcji przez co najmniej 24 godziny, a dzienniczek mikcji jako ten sam zapis plus wypite płyny, popuszczanie i zużycie wkładek.[2,3] Poradnie proszą o niego przed pierwszą wizytą i wracają do niego, żeby zobaczyć, czy leczenie działa.[4] Co znaczą liczby, rozstrzyga lekarz. Twoje zadanie to zapis kompletny i uczciwy.
+
+### Co zapisywać w dzienniczku mikcji
+
+Dzienniczek mikcji ma pięć kolumn: godzinę, co piłeś i ile, ile moczu oddałeś (albo znacznik „nie zmierzono”), czy to była noc, oraz notatkę. Pięć kolumn pokrywa niemal każdy formularz poradni.
+
+- **Godzina.** Każdy napój i każde wyjście, zapisane wtedy, gdy się dzieją. Godzina znaczy tyle samo co ilość: ta sama objętość o trzeciej po południu i o trzeciej w nocy mówi lekarzowi co innego.
+- **Co piłeś i ile.** Rodzaj i ilość: 250 ml herbaty, puszka 330 ml, mała butelka 500 ml. Zmierz raz miarką swój zwykły kubek, szklankę i butelkę, a potem korzystaj z tych liczb.
+- **Ile moczu oddałeś.** W mililitrach albo uncjach płynu, przy użyciu miarki albo nakładki wkładanej pod deskę sedesu. Jeśli oddałeś mocz, ale nie dało się zmierzyć, postaw znacznik i zachowaj godzinę. Dokładnie tak mówi karta NHS.[5]
+- **Noc.** Zapisz, o której się położyłeś i o której wstałeś, i zaznacz każde wyjście pomiędzy.[5,6] Z godzinami położenia się i wstania na kartce lekarz oddzieli dzień od nocy.
+- **Notatki.** Silne parcie, popuszczenie i mniej więcej ile, zmiana wkładki, ból, cokolwiek nietypowego. Niektóre formularze mają osobne kolumny na parcie i popuszczanie; jeśli Twój ma, korzystaj z nich.
+
+### Zanim zaczniesz
+
+1. **Zdobądź coś do mierzenia.** Wystarczy dowolna kuchenna miarka z podziałką w mililitrach; Urology Care Foundation proponuje kuchenny kubek z miarką albo kubek, którego pojemność znasz.[7] Poradnie często wydają nakładkę na sedes. Trzymaj ją przy toalecie i płucz po każdym użyciu.
+2. **Zmierz raz swoje codzienne naczynia.** Kubek, szklankę, butelkę na wodę. Od tej pory wpisujesz liczbę, a nie domysł.
+3. **Wybierz dni.** Większość poradni prosi o trzy; niektóre o siedem, a badania nad długością dzienniczka wskazują w tę samą stronę.[9] Standard jakości NICE dla kobiet z nietrzymaniem moczu wymaga co najmniej trzech dni obejmujących dni pracy i wolne,[4] a Urology Care Foundation prosi o trzy typowe dni, które nie muszą następować po sobie.[7] Jeśli podano Ci liczbę, trzymaj się jej.
+4. **Trzymaj kartkę tam, gdzie z niej skorzystasz.** Przy toalecie, w kieszeni albo w telefonie. Dzienniczka, którego nie masz przy sobie, nie da się wypełnić.
+5. **Żyj jak zwykle.** Dzienniczek ma pokazać zwykłe dni.[8] Nie pij mniej, żeby wyglądał schludniej.
+
+### Wypełniony dzień, wiersz po wierszu
+
+Oto trzy wiersze z rozpisanego przykładu z pierwszej strony naszego [wzoru do druku](https://fluidbalanceapp.com/bladder-diary-template/):
+
+(Image: Trzy przykładowe wiersze ze wzoru do druku: 7:20, wypite 250 ml herbaty, wydalone 320 ml; 9:40, znacznik „nie zmierzono” z notatką „w pośpiechu, drobne popuszczenie”; 3:10, wydalone 180 ml, oznaczone jako noc)
+
+- **7:20.** Kubek herbaty, 250 ml, i pierwsze poranne wyjście, 320 ml, zmierzone miarką.
+- **9:40.** Wyjście w pośpiechu: nie było czasu mierzyć, więc znacznik zamiast liczby i notatka o drobnym popuszczeniu. Wyjście nadal się liczy.
+- **3:10.** 180 ml w środku nocy. Dostaje znacznik w kolumnie Noc, bo zdarzyło się między położeniem się a wstaniem.
+
+Trzy wiersze, a lekarz już widzi mikcję zmierzoną, niezmierzoną, która mimo to się liczy, i nocne wyjście z objętością. Pełny dzień ma więcej wierszy, ale każdy jest tak samo prosty. Cały dzień, wszystkie piętnaście wierszy, omawiamy w [Przykład dzienniczka mikcji: jeden pełny dzień, wiersz po wierszu](https://fluidbalanceapp.com/blog/bladder-diary-example/).
+
+Albo prowadź ten sam dzienniczek w [aplikacji Dzienniczek mikcji: Fluid Balance](https://fluidbalanceapp.com/): te same kolumny, dwa stuknięcia na wpis, zawsze w kieszeni i za darmo.
+
+### Błędy, które psują dzienniczek
+
+- **Wypełnianie wieczorem z pamięci.** Godziny się rozjeżdżają, a drobne wyjścia znikają; nawet liczba wyjść bywa źle zapamiętana.[1] Pisz na bieżąco.
+- **Pomijanie wyjścia, bo nie dało się zmierzyć.** Zaznaczone wyjście z godziną wciąż pokazuje, jak często chodzisz i ile razy wstałeś w nocy. Brakujące wyjście nie pokazuje nic. Szacunek jest lepszy niż dziura.
+- **Pominięcie godzin położenia się i wstania.** Bez nich nocnych wyjść nie da się policzyć.
+- **Przerwanie w połowie.** Dwa pełne dni są warte więcej niż cztery z dziurami. Kompletność to pierwsza rzecz, którą lekarz sprawdza.
+- **Zmiana nawyków na potrzeby dzienniczka.** Odstawienie wieczornej herbaty na trzy dni ukrywa dokładnie ten wzorzec, który dzienniczek ma pokazać.
+
+### Zabranie go na wizytę
+
+Zabierz wszystkie kartki, także dni z lukami, i powiedz, które dni są kompletne.[7,8] Nasz wzór ma na to miejsce na ostatniej stronie: zapisanych dni z siedmiu. Przed oddaniem zrób zdjęcie każdej kartki jako kopię.
+
+Jeśli prowadziłeś dzienniczek w aplikacji, wyeksportuj raport i wydrukuj go, wyślij mailem do poradni albo pokaż na telefonie. Część lekarzy woli papier; wydrukowana kartka nigdy nie zawadzi.
+
+Jeśli w dniach dzienniczka zacząłeś albo odstawiłeś lek, zapisz to w notatkach. Nie zmieniaj niczego dla dobra dzienniczka.
+
+### Papier czy aplikacja
+
+Kartka papieru działa, a poradnie są do niej przyzwyczajone. Aplikacja sama dodaje godzinę, liczy sumy i na koniec tworzy raport. Jeśli wolisz papier, [darmowy wzór](https://fluidbalanceapp.com/bladder-diary-template/) ma te same kolumny co aplikacja, w A4 i US Letter, jako całe strony albo broszury do złożenia. Jeśli wolisz telefon, [Dzienniczek mikcji: Fluid Balance](https://fluidbalanceapp.com/) potrzebuje dwóch stuknięć na wpis i nigdy nie komentuje Twoich liczb.
+
+### Kogo się o to prosi
+
+Nokturia, pęcherz nadreaktywny, nietrzymanie moczu, kontrola po zakażeniu układu moczowego, powiększony gruczoł krokowy przed operacją i po niej, fizjoterapia dna miednicy, powrót do formy po cewniku. Zapis jest w każdym przypadku taki sam. Różni się to, czego lekarz w nim szuka, a ta część należy do niego.
+
+### Pytania
+
+**Czy trzeba mierzyć za każdym razem?**
+Nie. Mierz, kiedy jesteś w domu i masz pod ręką miarkę albo nakładkę na sedes; w pozostałych przypadkach zaznacz wyjście i zachowaj godzinę. Wpis bez objętości i tak liczy się do częstości i do wyjść nocnych. Drogo kosztuje wiersz, którego nie zapisałeś, a nie objętość, której nie udało się zmierzyć.
+
+**Czy dni muszą następować po sobie?**
+Niekoniecznie. Urology Care Foundation prosi o trzy zwykłe dni, które nie muszą następować po sobie, a NICE o co najmniej trzy dni obejmujące dni pracy i wolne. Trzymaj się tego, co ci powiedziano. Jeśli nie było konkretnego wskazania, wybierz dni, które zdołasz doprowadzić do końca, a nie dni sąsiadujące w kalendarzu. Więcej: ile dni wystarczy (https://fluidbalanceapp.com/pl/blog/bladder-diary-how-many-days/).
+
+**Co zrobić, jeśli zapomniałem zapisać?**
+Zapisz to, czego jesteś pewien, resztę zostaw pustą. Nie odtwarzaj dnia z pamięci: pamięć myli się i w częstości, i w objętościach — właśnie dlatego prowadzi się dzienniczek. Jeśli cały dzień został bez wpisów, dołóż jeden dzień na końcu zamiast liczyć ten dziurawy, i powiedz w poradni, który dzień wyszedł niepełny.
+
+### Źródła
+
+1. Stav K, Dwyer PL, Rosamilia A. Women overestimate daytime urinary frequency: the importance of the bladder diary. J Urol. 2009;181(5):2176–2180. https://doi.org/10.1016/j.juro.2009.01.042
+2. Abrams P, Cardozo L, Fall M, et al. The standardisation of terminology of lower urinary tract function: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn. 2002;21(2):167–178. https://doi.org/10.1002/nau.10052
+3. International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary
+4. National Institute for Health and Care Excellence. Urinary incontinence in women. Quality standard QS77, quality statement 2: bladder diaries and lifestyle changes. London: NICE; 2015. https://www.nice.org.uk/guidance/qs77/chapter/quality-statement-2-bladder-diaries-and-lifestyle-changes
+5. Gloucestershire Hospitals NHS Foundation Trust. Frequency volume chart: three day bladder diary. Patient information leaflet GHNHSFT/X941/05_16. https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf
+6. European Association of Urology, Patient Information. I want to know about keeping a bladder diary. Uroweb. https://patients.uroweb.org/condition/urinary-incontinence/bladder-diary
+7. Urology Care Foundation. Overactive bladder diary. Linthicum, MD: American Urological Association; 2025. https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf
+8. British Association of Urological Surgeons. Information from BAUS about assessing fluid intake & output. Patient leaflet F24/016. BAUS; 2024. https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Input%20output%20chart.pdf
+9. Bright E, Drake MJ, Abrams P. Urinary diaries: evidence for the development and validation of diary content, format, and duration. Neurourol Urodyn. 2011;30(3):348–352. https://doi.org/10.1002/nau.20994
+
+Ten tekst wyjaśnia, jak prowadzić dzienniczek. To ogólna informacja od twórcy aplikacji, a nie porada medyczna: co oznacza Twój dzienniczek, rozstrzyga lekarz. Dzienniczek wypełniany samodzielnie. To nie jest dokument medyczny.
+
+---
+
+## Dzienniczek mikcji: Fluid Balance 1.0 jest w App Store
+Source: https://fluidbalanceapp.com/pl/blog/fluid-balance-1-0/
+Published: 2026-08-29 · Aktualizacja · Denis Zinin, twórca aplikacji Dzienniczek mikcji: Fluid Balance.
+
+Dzienniczek mikcji: Fluid Balance 1.0 trafił do App Store 29 sierpnia 2026 roku. To dzienniczek mikcji na iPhone’a i Apple Watch: co pijesz, ile moczu oddajesz i kiedy, prowadzony przez te trzy do siedmiu dni, o które prosi lekarz, z raportem PDF na końcu. Aplikacja jest bezpłatna; Pro to jednorazowy zakup.
+
+Ten wpis jest zapisem tego, co zawiera pierwsza wersja. Kolejne wersje dostaną własne wpisy, żeby zawsze było miejsce, w którym widać, co i kiedy się zmieniło.
+
+### Co jest w 1.0
+
+**Zapisywanie.** Stuknij + Wypite albo + Wydalone, potem gotową ilość: 100, 200, 250, 330 albo 500 ml, albo „Własna ilość” dla dokładnej liczby. Wpis zapisuje się z godziną. „Nie zmierzono” odnotowuje wyjście do toalety bez objętości; liczy się do częstości i do zdarzeń nocnych, a zostaje poza sumami. Każdy wpis można potem zmienić: godzinę, rodzaj, objętość i notatkę.
+
+
+**Dziś.** WYPITE, WYDALONE i BILANS u góry ekranu, wpisy dnia poniżej, a nad nimi rząd ostatnich dni do przełączania.
+
+
+**Statystyki.** Siatka ostatnich pięciu tygodni pokazująca, w których dniach prowadzony był dzienniczek. Zaawansowane analizy, część Pro, dodają pięć wykresów: wypite i wydalone dzień po dniu, objętości według godziny, wyjścia nocne w czasie, rozkład objętości mikcji i odstępy między wyjściami. Pierwszy wykres jest bezpłatny.
+
+
+**Raport.** PDF za dowolny zakres, ułożony tak, jak zwykle czyta się dzienniczek mikcji: sumy dzienne, każda objętość mikcji z godziną, zdarzenia nocne, zapisane dni i średnie, na które patrzy lekarz. Wydrukuj, wyślij mailem albo pokaż na telefonie. Eksport całej historii do CSV jest bezpłatny.
+
+
+**Widżety i Apple Watch.** Widżet na ekranie początkowym i widżet na ekranie blokady, z sumami dnia i dwoma przyciskami. Aplikacja na Apple Watcha ma te same gotowe ilości i „Nie zmierzono”.
+
+
+**iCloud.** Wpisy synchronizują się między Twoimi urządzeniami przez Twoją prywatną bazę iCloud. Nie ma konta ani naszego serwera.
+
+**Przypomnienie.** Opcjonalne codzienne przypomnienie o wypełnieniu dzienniczka, domyślnie wyłączone. Jego treść nigdy nie mówi, czemu służy aplikacja.
+
+**Usuń wszystkie dane.** Jeden krok w ustawieniach. Czyści urządzenie, a przy włączonym iCloudzie także kopię w iCloudzie.
+
+**Języki.** Angielski, niemiecki, francuski, hiszpański, włoski, portugalski (Brazylia), rosyjski, japoński, koreański i chiński uproszczony. Raport PDF jest również przetłumaczony; plik CSV zostaje po angielsku.
+
+### Bezpłatnie i Pro
+
+Zapisywanie, ekran dnia, statystyki, widżety, Apple Watch, iCloud i eksport CSV są bezpłatne tak długo, jak używasz aplikacji. Pro to jednorazowy zakup, nie abonament: dodaje raport PDF, stronę zaawansowanych analiz i ciemną ikonę. Nic nie przerywa wpisu propozycją zakupu.
+
+### Prywatność
+
+Etykieta prywatności w App Store brzmi „Nie zbiera danych”. Aplikacja nie ma analityki, raportów o awariach, reklam ani kodu firm trzecich. Wpisy żyją na Twoim urządzeniu, a jeśli to włączysz — w Twoim własnym iCloudzie. Szczegóły są w [polityce prywatności](https://fluidbalanceapp.com/privacy/).
+
+### Czego nie robi
+
+Nie stawia diagnoz, nie porównuje Twoich wpisów z żadną normą, nie interpretuje ich i nie przypomina o piciu. Zapisuje to, co jej powiesz, i oddaje Ci zapis. Jeśli dzienniczki mikcji są dla Ciebie nowością, [jak prowadzić dzienniczek mikcji](https://fluidbalanceapp.com/blog/how-to-keep-a-bladder-diary/) wyjaśnia, co zapisywać i po co.
+
+### Wymagania
+
+iPhone z iOS 18 lub nowszym. Apple Watch z watchOS 11 lub nowszym. Na iPadzie działa jak aplikacja na iPhone’a. Kategoria w App Store: Medycyna. Rozmiar pobierania: około 11 MB.
+
+### Historia wersji
+
+| Wersja | Data | Co się zmieniło |
+|---|---|---|
+| 1.2 | 26 października 2026 | Siła parcia, przypomnienia tylko w dni bez wpisów, karta „wczoraj”, format 12 lub 24 godzin, iPhone Duo, duży widżet, cztery nowe języki |
+| 1.0 | 29 sierpnia 2026 | Pierwsze wydanie |
+
+Pytania albo prośby: w [pomocy](https://fluidbalanceapp.com/support/) są odpowiedzi na częste pytania i adres do kontaktu.
+
+---
