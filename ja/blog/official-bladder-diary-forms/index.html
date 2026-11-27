@@ -1,0 +1,175 @@
+<!DOCTYPE html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><script>
+      // Тема до первой отрисовки (2026-10-25): без этого тёмная тема, выбранная руками, моргнула бы светлой.
+      // Нет записи — атрибута нет, и сайт идёт за системной настройкой (tokens.css).
+      try { var t = localStorage.getItem('theme'); if (t === 'dark' || t === 'light') document.documentElement.setAttribute('data-theme', t); } catch (e) {}
+    </script><meta name="referrer" content="strict-origin-when-cross-origin"><meta name="p:domain_verify" content="7c68a6b729563967b3145e2843eb0f6c"><meta name="apple-itunes-app" content="app-id=6803224992"><link rel="icon" href="/favicon.png" type="image/png"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="sitemap" href="/sitemap-index.xml"><link rel="alternate" type="application/rss+xml" title="排尿日誌: Fluid Balance — Blog" href="/ja/blog/rss.xml"><link rel="alternate" type="text/markdown" href="/ja/blog/official-bladder-diary-forms.md"><title>公式の排尿日誌の様式: NHS・AUA・ICIQ・NIDDK を比べる</title><meta name="description" content="NHS、AUA、NIDDK、ICIQ、フランスの様式がそれぞれ何を書かせるのか。測った量を求めるものと、チェックだけで済ませるものがある理由。"><link rel="canonical" href="https://fluidbalanceapp.com/ja/blog/official-bladder-diary-forms/"><link rel="alternate" hreflang="en" href="https://fluidbalanceapp.com/blog/official-bladder-diary-forms/"><link rel="alternate" hreflang="de" href="https://fluidbalanceapp.com/de/blog/official-bladder-diary-forms/"><link rel="alternate" hreflang="fr" href="https://fluidbalanceapp.com/fr/blog/official-bladder-diary-forms/"><link rel="alternate" hreflang="es" href="https://fluidbalanceapp.com/es/blog/official-bladder-diary-forms/"><link rel="alternate" hreflang="it" href="https://fluidbalanceapp.com/it/blog/official-bladder-diary-forms/"><link rel="alternate" hreflang="pt-BR" href="https://fluidbalanceapp.com/pt-br/blog/official-bladder-diary-forms/"><link rel="alternate" hreflang="ru" href="https://fluidbalanceapp.com/ru/blog/official-bladder-diary-forms/"><link rel="alternate" hreflang="ja" href="https://fluidbalanceapp.com/ja/blog/official-bladder-diary-forms/"><link rel="alternate" hreflang="ko" href="https://fluidbalanceapp.com/ko/blog/official-bladder-diary-forms/"><link rel="alternate" hreflang="zh-Hans" href="https://fluidbalanceapp.com/zh-hans/blog/official-bladder-diary-forms/"><link rel="alternate" hreflang="zh-Hant" href="https://fluidbalanceapp.com/zh-hant/blog/official-bladder-diary-forms/"><link rel="alternate" hreflang="pl" href="https://fluidbalanceapp.com/pl/blog/official-bladder-diary-forms/"><link rel="alternate" hreflang="sv" href="https://fluidbalanceapp.com/sv/blog/official-bladder-diary-forms/"><link rel="alternate" hreflang="cs" href="https://fluidbalanceapp.com/cs/blog/official-bladder-diary-forms/"><link rel="alternate" hreflang="x-default" href="https://fluidbalanceapp.com/blog/official-bladder-diary-forms/"><meta property="og:type" content="article"><meta property="article:published_time" content="2026-11-24"><meta property="article:modified_time" content="2026-11-24"><meta property="og:site_name" content="排尿日誌: Fluid Balance"><meta property="og:title" content="公式の排尿日誌の様式: NHS・AUA・ICIQ・NIDDK を比べる"><meta property="og:description" content="NHS、AUA、NIDDK、ICIQ、フランスの様式がそれぞれ何を書かせるのか。測った量を求めるものと、チェックだけで済ませるものがある理由。"><meta property="og:url" content="https://fluidbalanceapp.com/ja/blog/official-bladder-diary-forms/"><meta property="og:image" content="https://fluidbalanceapp.com/og-official-bladder-diary-forms.jpg"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:locale" content="ja_JP"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="公式の排尿日誌の様式: NHS・AUA・ICIQ・NIDDK を比べる"><meta name="twitter:description" content="NHS、AUA、NIDDK、ICIQ、フランスの様式がそれぞれ何を書かせるのか。測った量を求めるものと、チェックだけで済ませるものがある理由。"><meta name="twitter:image" content="https://fluidbalanceapp.com/og-official-bladder-diary-forms.jpg"><script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://fluidbalanceapp.com/ja/#author","name":"Denis Zinin","jobTitle":"Independent iOS developer","url":"https://fluidbalanceapp.com/ja/","description":"Independent iOS developer, maker of 排尿日誌: Fluid Balance. Not a doctor.","knowsAbout":["iOS app development","Apple Watch apps","Bladder diary apps"],"sameAs":["https://apps.apple.com/developer/id6799121582","https://apps.apple.com/app/id6803224992"]},{"@type":"WebSite","@id":"https://fluidbalanceapp.com/ja/#site","name":"排尿日誌: Fluid Balance","alternateName":"Fluid Balance","url":"https://fluidbalanceapp.com/ja/","inLanguage":"ja","publisher":{"@id":"https://fluidbalanceapp.com/ja/#author"},"about":{"@id":"https://fluidbalanceapp.com/ja/#app"}},{"@type":"MobileApplication","@id":"https://fluidbalanceapp.com/ja/#app","name":"排尿日誌: Fluid Balance","alternateName":"Fluid Balance","operatingSystem":["iOS","watchOS"],"softwareRequirements":"iOS 18.0 or later; watchOS 11.0 or later","applicationCategory":"MedicalApplication","softwareVersion":"1.2.1","datePublished":"2026-08-29","image":"https://fluidbalanceapp.com/apple-touch-icon.png","url":"https://apps.apple.com/app/id6803224992","installUrl":"https://apps.apple.com/app/id6803224992","isAccessibleForFree":true,"offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"featureList":["Two-tap intake and output logging with presets and Not measured","Optional urge rating from 0 to 4","Apple Watch app","Home Screen and Lock Screen widgets","Yesterday's entries one tap away","12- or 24-hour time","Adapted for iPhone Duo","iCloud sync, no account","CSV export","PDF report for your doctor (Pro, one-time purchase)","Advanced analytics (Pro)"],"inLanguage":["en","de","fr","es","it","pt-BR","ru","ja","ko","zh-Hans","zh-Hant","pl","sv","cs"],"description":"Free bladder diary app for iPhone and Apple Watch: the 3–7 day diary your doctor asked for, two taps per entry, a PDF report, nothing leaves your phone.","author":{"@id":"https://fluidbalanceapp.com/ja/#author"},"releaseNotes":"https://fluidbalanceapp.com/ja/blog/fluid-balance-1-2/"},{"@type":"Article","@id":"https://fluidbalanceapp.com/ja/blog/official-bladder-diary-forms/#article","headline":"公式の排尿日誌の様式: NHS・AUA・ICIQ・NIDDK を比べる","description":"NHS、AUA、NIDDK、ICIQ、フランスの様式がそれぞれ何を書かせるのか。測った量を求めるものと、チェックだけで済ませるものがある理由。","datePublished":"2026-11-24","dateModified":"2026-11-24","author":{"@id":"https://fluidbalanceapp.com/ja/#author"},"publisher":{"@id":"https://fluidbalanceapp.com/ja/#author"},"image":["https://fluidbalanceapp.com/og-official-bladder-diary-forms.jpg"],"mainEntityOfPage":{"@type":"WebPage","@id":"https://fluidbalanceapp.com/ja/blog/official-bladder-diary-forms/"},"isPartOf":{"@id":"https://fluidbalanceapp.com/ja/#site"},"inLanguage":"ja","articleSection":"Guide","wordCount":174,"isAccessibleForFree":true,"about":{"@type":"Thing","name":"Bladder diary","sameAs":["https://en.wikipedia.org/wiki/Bladder_diary","https://www.wikidata.org/wiki/Q137357480"]},"mentions":{"@id":"https://fluidbalanceapp.com/ja/#app"},"speakable":{"@type":"SpeakableSpecification","cssSelector":[".tldr"]},"citation":[{"@type":"WebPage","name":"National Institute of Diabetes and Digestive and Kidney Diseases. Your Daily Bladder Diary. Bethesda, MD: NIDDK, National Institutes of Health; 2017.","url":"https://www.niddk.nih.gov/-/media/Files/Urologic-Diseases/diary_508.pdf"},{"@type":"WebPage","name":"National Institute of Diabetes and Digestive and Kidney Diseases. Diagnosis of Bladder Control Problems (Urinary Incontinence). Bethesda, MD: NIDDK, National Institutes of Health; last reviewed July 2021.","url":"https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems/diagnosis"},{"@type":"WebPage","name":"European Association of Urology. EAU Guidelines on the Management of Non-neurogenic Male LUTS. Arnhem: EAU; 2026. Chapter 4, Diagnostic evaluation.","url":"https://uroweb.org/guidelines/management-of-non-neurogenic-male-luts/chapter/diagnostic-evaluation"},{"@type":"ScholarlyArticle","name":"Bright E, Cotterill N, Drake M, Abrams P. Developing and validating the International Consultation on Incontinence Questionnaire bladder diary. Eur Urol. 2014;66(2):294–300.","url":"https://doi.org/10.1016/j.eururo.2014.02.057"},{"@type":"WebPage","name":"International Consultation on Incontinence Questionnaires. Licences and Terms of Use. Bristol: Bristol Urological Institute, North Bristol NHS Trust.","url":"https://iciq.net/licences"},{"@type":"WebPage","name":"National Institute for Health and Care Excellence. Lower urinary tract symptoms in men: management. Clinical guideline CG97, recommendation 1.1.1. London: NICE; 2010, updated 2015.","url":"https://www.nice.org.uk/guidance/CG97/chapter/recommendations"},{"@type":"WebPage","name":"Bandelier Q, Michel F, Peyronnet B. Livret de l'interne: Urologie Fonctionnelle. Paris: Association Française d'Urologie; 2023.","url":"https://www.urofrance.org/wp-content/uploads/2023/10/Urologie-fonctionnelle.pdf"},{"@type":"WebPage","name":"Gloucestershire Hospitals NHS Foundation Trust. Frequency Volume Chart. Gloucester: Gloucestershire Hospitals NHS Foundation Trust.","url":"https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf"},{"@type":"WebPage","name":"Urology Care Foundation. Overactive Bladder (OAB) Bladder Diary. Linthicum, MD: American Urological Association.","url":"https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf"},{"@type":"WebPage","name":"International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee.","url":"https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary"}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://fluidbalanceapp.com/ja/"},{"@type":"ListItem","position":2,"name":"ブログ","item":"https://fluidbalanceapp.com/ja/blog/"},{"@type":"ListItem","position":3,"name":"公式の排尿日誌の様式: NHS・AUA・ICIQ・NIDDK を比べる","item":"https://fluidbalanceapp.com/ja/blog/official-bladder-diary-forms/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"どの排尿日誌を使えばよいですか","acceptedAnswer":{"@type":"Answer","text":"外来で渡されたものがあれば、それです。読む人が見慣れている用紙であり、その施設独自の尺度が入っていることもあります。誰からも用紙を渡されていない場合は、毎回の時刻と量、飲んだもの、夜間の印が入るなら、どの用紙でもかまいません。ここで取り上げたすべての様式に共通するのは、その部分です。"}},{"@type":"Question","name":"ICIQ の排尿日誌は自由に使えますか","acceptedAnswer":{"@type":"Answer","text":"ICIQ は、自分たちの質問票が著作権で保護されており、承認された特定の目的に対して許可が与えられると説明しています。公開されているライセンス表では、通常の診療、監査、サービス評価、非営利研究は無償とされ、大規模な助成研究や商用製品・商用プラットフォームにはライセンス料がかかります。 つまり診療所は無償で使えますが、これを組み込んだアプリはライセンスを取得する必要があります。"}},{"@type":"Question","name":"なぜ一方の様式はミリリットルを求め、もう一方は「少・中・多」だけなのですか","acceptedAnswer":{"@type":"Answer","text":"目的が違うからです。チェックや大きさの区分のほうが速く、結果として記入された用紙が増えます。漏れのパターンを知りたいときには、それが効いてきます。一方、測った量は、最大一回排尿量と夜間の尿量を得る唯一の方法です。ヨーロッパの診療指針が日誌から計算されると述べているのは、まさにこうした値です。 用紙に数字の列があるなら、そこを埋めることこそ、あとから誰にも復元できない部分です。"}}]}]}</script><script async src="https://www.googletagmanager.com/gtag/js?id=G-5C6HFXRKBT"></script><script>(function(){const id = "G-5C6HFXRKBT";
+
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){ dataLayer.push(arguments); }
+      gtag('js', new Date());
+      gtag('config', id);
+      document.addEventListener('click', function (e) {
+        var el = e.target && e.target.closest ? e.target.closest('[data-track]') : null;
+        if (!el) return;
+        gtag('event', el.getAttribute('data-track'), { placement: el.getAttribute('data-placement') || '' });
+      });
+    })();</script><script>
+      // Класс js прячет .reveal-блоки до анимации появления. Страховка (аудит 2026-09-14, P3.4): если модульный скрипт
+      // ниже не отработал за 2,5 с (не загрузился, старый браузер, блокировщик), класс снимается и контент виден.
+      document.documentElement.classList.add('js');
+      setTimeout(function () { if (!window.__reveal) document.documentElement.classList.remove('js'); }, 2500);
+    </script><link rel="stylesheet" href="/_astro/Base.CGnSXUrE.css"></head><body><header class="site-header" id="site-header"><div class="container nav"><a class="brand" href="/ja/"><img src="/favicon.png" width="28" height="28" alt=""><span class="brand-name"><span class="brand-b">Fluid Balance</span></span></a><nav class="nav-links" id="site-nav" aria-label="メインナビゲーション"><a href="/ja/blog/">ブログ</a><a href="/ja/support/">サポート</a><a href="/ja/bladder-diary-template/">無料PDFテンプレート</a><details class="lang" id="lang-switch"><summary aria-label="言語" title="言語"><svg class="lang-globe" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="9"></circle><path d="M3 12h18M12 3c2.5 2.6 2.5 15.4 0 18M12 3c-2.5 2.6-2.5 15.4 0 18"></path></svg><span class="lang-label">言語</span><span class="lang-current">日本語</span><svg class="lang-chev" viewBox="0 0 16 16" width="12" height="12" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 6.5 8 10.5l4-4"></path></svg></summary><div class="lang-menu"><a href="/blog/official-bladder-diary-forms/" hreflang="en" lang="en">English</a><a href="/de/blog/official-bladder-diary-forms/" hreflang="de" lang="de">Deutsch</a><a href="/fr/blog/official-bladder-diary-forms/" hreflang="fr" lang="fr">Français</a><a href="/es/blog/official-bladder-diary-forms/" hreflang="es" lang="es">Español</a><a href="/it/blog/official-bladder-diary-forms/" hreflang="it" lang="it">Italiano</a><a href="/pt-br/blog/official-bladder-diary-forms/" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a><a href="/ru/blog/official-bladder-diary-forms/" hreflang="ru" lang="ru">Русский</a><a href="/ja/blog/official-bladder-diary-forms/" hreflang="ja" lang="ja" aria-current="true">日本語</a><a href="/ko/blog/official-bladder-diary-forms/" hreflang="ko" lang="ko">한국어</a><a href="/zh-hans/blog/official-bladder-diary-forms/" hreflang="zh-Hans" lang="zh-Hans">简体中文</a><a href="/zh-hant/blog/official-bladder-diary-forms/" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a><a href="/pl/blog/official-bladder-diary-forms/" hreflang="pl" lang="pl">Polski</a><a href="/sv/blog/official-bladder-diary-forms/" hreflang="sv" lang="sv">Svenska</a><a href="/cs/blog/official-bladder-diary-forms/" hreflang="cs" lang="cs">Čeština</a></div></details><!-- Тема — последней строкой меню, под сеткой языков (решение владельца 2026-10-25). На десктопе
+           эта копия скрыта: там тогл в подвале. --><button class="theme-toggle" type="button" aria-pressed="false" aria-label="ダークテーマ" title="ダークテーマ"><svg class="theme-icon theme-sun" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="12" cy="12" r="4.2"></circle><path d="M12 2.6v2.2M12 19.2v2.2M4.2 4.2l1.6 1.6M18.2 18.2l1.6 1.6M2.6 12h2.2M19.2 12h2.2M4.2 19.8l1.6-1.6M18.2 5.8l1.6-1.6"></path></svg><svg class="theme-icon theme-moon" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"><path d="M20 14.2A8.2 8.2 0 0 1 9.8 4a8.4 8.4 0 1 0 10.2 10.2Z"></path></svg><span class="theme-label">ダークテーマ</span><span class="theme-switch" aria-hidden="true"></span></button></nav><a class="btn btn-secondary btn-sm" href="https://apps.apple.com/app/apple-store/id6803224992?pt=129277359&amp;ct=web-header&amp;mt=8" data-track="click_app_store" data-placement="web-header">アプリを入手</a><!-- Меню на телефоне (2026-10-15): до 768 px ссылки шапки прятались совсем, и попасть в Blog, Support и шаблоны
+         можно было только из подвала. Кнопка показывается той же медиа-границей, что скрывает ссылки. --><button class="nav-toggle" id="nav-toggle" type="button" aria-controls="site-nav" aria-expanded="false" aria-label="メニュー"><span class="nav-toggle-bars" aria-hidden="true"></span></button></div></header><script>
+  (function () {
+    var h = document.getElementById('site-header');
+    var on = function () { h.classList.toggle('scrolled', window.scrollY > 8); };
+    on(); addEventListener('scroll', on, { passive: true });
+
+    // Меню на телефоне: открытие по кнопке, закрытие по повторному нажатию, Escape, клику вне,
+    // переходу по ссылке и при расширении окна до десктопной раскладки.
+    // Выпадашка языков: закрывается кликом вне и по Escape. Открытие и закрытие по нажатию делает сам <details>.
+    var lang = document.getElementById('lang-switch');
+    var closeLang = function () { if (lang) lang.removeAttribute('open'); };
+
+    var btn = document.getElementById('nav-toggle');
+    var nav = document.getElementById('site-nav');
+    var set = function (open) {
+      h.classList.toggle('nav-open', open);
+      // Страница под полотном не скроллится, пока меню открыто.
+      document.documentElement.classList.toggle('nav-locked', open);
+      if (btn) btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+      // На телефоне языки показываются сеткой без раскрывашки (решение владельца 2026-10-24:
+      // две вложенные гармошки на телефоне — плохой UX), поэтому <details> раскрывается вместе с меню.
+      if (lang) { if (open && innerWidth <= 768) lang.setAttribute('open', ''); else if (!open) lang.removeAttribute('open'); }
+    };
+    if (btn && nav) {
+      btn.addEventListener('click', function (e) {
+        e.stopPropagation();
+        closeLang();
+        set(h.classList.contains('nav-open') === false);
+      });
+      nav.addEventListener('click', function (e) { if (e.target.closest('a')) set(false); });
+    }
+    document.addEventListener('click', function (e) {
+      if (h.classList.contains('nav-open') && !e.target.closest('#site-nav') && !e.target.closest('#nav-toggle')) set(false);
+      // Закрытие по клику вне — только для десктопной выпадашки. На телефоне этот же <details> раскрыт
+      // насовсем и работает как блок меню: без проверки ширины нажатие на «Тёмную тему» в соседней строке
+      // схлопывало сетку языков (найдено при переносе тогла вниз меню, 2026-10-25).
+      if (lang && innerWidth > 768 && lang.hasAttribute('open') && !e.target.closest('#lang-switch')) closeLang();
+    });
+    document.addEventListener('keydown', function (e) { if (e.key === 'Escape') { set(false); closeLang(); } });
+
+    addEventListener('resize', function () { if (innerWidth > 768) set(false); }, { passive: true });
+  })();
+</script><main><article class="section"><div class="container prose article"><span class="eyebrow"><a href="/ja/blog/">ブログ</a></span><h1 style="margin-top:14px">公式の排尿日誌の様式: NHS・AUA・ICIQ・NIDDK を比べる</h1><p class="meta article-meta"><time datetime="2026-11-24">2026年11月24日</time><span class="sep">·</span> 約1分</p><img src="/_astro/official-bladder-diary-forms.CQPTTiUE_ZuXQI7.webp" srcset="/_astro/official-bladder-diary-forms.CQPTTiUE_Z2cMHpm.webp 700w, /_astro/official-bladder-diary-forms.CQPTTiUE_Z1cNrTc.webp 1400w" alt="印刷された三枚の用紙が扇状に並び、それぞれ列の構成が違う" fetchpriority="high" sizes="(max-width: 740px) 100vw, 700px" loading="eager" decoding="async" width="1536" height="1024" class="article-cover"><section class="tldr"><h2>要点</h2><p>公式の排尿日誌の様式はたがいに食い違っていて、いちばん効いてくる違いは、一回ごとに測った量を数字で書かせるのか、チェックを入れるだけで済ませるのかという点です。外来で渡される用紙はいくつかあるうちの一枚で、それぞれ発行元が異なります。手元のものがどれかが分かれば、初日までに何を用意すべきかも決まります。</p><ul><li>NIDDK の様式は、飲んだ量はオンス・ミリリットル・カップの数字で尋ねますが、尿の量は「少・中・多」で記録します。ヨーロッパとフランスの記述は、毎回の排尿量を測って書くことを求めます。</li><li>期間もそろっていません。NICE は最低 24 時間、EAU は 3 日以上、NIDDK は 2〜3 日、ICIQ の日誌は 3 日間の様式として開発・検証されました。</li><li>外来で用紙を渡されたなら、その用紙に書いてください。列はかなり重なるので、書き写さなくても内容はそのまま移せます。</li></ul></section><p class="author">排尿日誌: Fluid Balanceの開発者、Denis Zinin。 医師ではありません。</p><div class="article-body"><p>公式の排尿日誌というものが一つあるわけではありません。国ごとに別々の団体が発行したものが複数あり、求める内容も違います。看護師から用紙を渡されて、正しい版を探そうとネットを見た結果、どれも言うことが食い違っていた——理由はそこにあります。もともと一致するようには作られていない文書を見比べていたのです。</p>
+<p>実際の影響はささやかですが、取り違えやすいものです。ある様式は一回ごとにミリリットルの数字を求めます。別の様式は「少・中・多」にチェックを入れさせます。後者のつもりで準備したのに外来が求めていたのが前者だった場合、三日分の記録を持って行っても、肝心の列が空欄のままということになります。</p>
+<h2 id="nhs-はどの様式を使っていますか">NHS はどの様式を使っていますか</h2>
+<p>統一されたものはありません。病院ごとに独自のものを出しており、私たちが繰り返し参照しているのは Gloucestershire Hospitals の排尿量記録表です。<sup>8</sup> 多くの用紙が省いている三つの点で、見る価値があります。測れなかった一回に付けるチェック欄、就寝時刻と起床時刻の独立した行、そして上部に記入済みの記入例があることです。</p>
+<p>このチェック欄は見た目以上に効きます。測れなかった一回を書く場所がないと、人はその行を空けてしまい、空いた行は「なかった一回」として読まれます。</p>
+<p>紙ではなく指針の側では、NICE は下部尿路症状で困っている男性に対し、初回評価の一部として最低 24 時間の排尿量記録表の記入を求めています。<sup>6</sup></p>
+<h2 id="アメリカの様式とそこで抜け落ちる列">アメリカの様式と、そこで抜け落ちる列</h2>
+<p>NIDDK——アメリカ国立衛生研究所の一つ——は Your Daily Bladder Diary という一枚ものの用紙を公開しています。<sup>1</sup> 午前 6〜7 時から翌朝 5〜6 時まで並ぶ固定の時間枠の表で、上部に記入例の行があります。列は、何をどれだけ飲んだか、トイレに行った回数、不意の漏れ、強い尿意があったかどうか、そしてそのとき何をしていたか——用紙はくしゃみ、持ち上げ、帰宅、睡眠といった例を挙げています。</p>
+<p>印刷する前に知っておきたいのがこの点です。飲み物については「How much?」と尋ね、oz, mL, cups を示します。つまり数字です。尿については、排尿も漏れも <strong>sm, med, lg</strong> が示されます。出た量を数字で書く列は、まったくありません。ページの下には、その日に使ったパッドとおむつの枚数を数字で尋ねる欄もあります。</p>
+<p>用紙には、これを原本として必要な日数分コピーして使うようにと書かれており、NIDDK の診断のページでは、受診前の 2〜3 日間つけることを勧めています。<sup>2</sup></p>
+<p>アメリカ泌尿器科学会の患者向け部門である Urology Care Foundation は、さらに別の方針をとっています。固定の時間枠ではなく自由な行、容器の大きさを目安として示すこと、そして日付が連続していなくてよいことです。<sup>9</sup></p>
+<h2 id="フランスでは-calendrier-mictionnel">フランスでは calendrier mictionnel</h2>
+<p>フランス語圏の患者は <em>calendrier mictionnel</em> を探し、病院によっては同じ用紙を <em>catalogue mictionnel</em> として印刷しています。フランス泌尿器科学会のサイトに置かれた機能的泌尿器科の手引きは、これを問診の延長と位置づけ、用紙に載せるべき項目を挙げています。排尿の時刻、就寝時刻、起床時刻、尿意の強さ、漏れの有無、そして排尿量です。患者は尿を受けて毎回の量を測り、24 時間を 2〜3 日続けて記録します。<sup>7</sup></p>
+<p>目を引くのは二点です。毎回の排尿量は任意ではなく必須であること。そして、水分摂取がこの一覧にまったく含まれていないこと——これこそが排尿量記録表と完全な排尿日誌とを分ける線です。</p>
+<p>同じ手引きは、そのあと医師が何を計算するかに進みます。24 時間尿量、最小および最大の一回排尿量、夜間多尿指数です。その横には基準値も印刷されています。それらは意図的に省きました。このサイト全体で同じ方針です。あなたの数字は、あなたの経過と並べて初めて意味を持ち、その読み取りは主治医のものです。</p>
+<h2 id="iciq-の日誌とここでいう検証済みの意味">ICIQ の日誌と、ここでいう「検証済み」の意味</h2>
+<p>ヨーロッパ泌尿器科学会は、二つの文書をはっきり分けています。排尿量記録表は毎回の時刻と量を記録するもの。排尿日誌はそこに水分摂取、パッドの使用、活動、症状スコアを加えたものです。同学会はそれを 3 日以上求め、完全に検証されているのは ICIQ の排尿日誌だけだと述べています。<sup>3</sup></p>
+<p>「検証済み」とは、褒め言葉ではなく具体的な主張です。ICIQ の日誌は ICIQ の心理測定プロトコルに沿って開発・検定され、記録期間を比較したうえで 3 日に落ち着きました。3 日版は妥当で信頼でき、変化に反応すると報告され、ICIQ の排尿日誌として採用されています。<sup>4</sup></p>
+<p>ここで挙げた中で、単に入手して自社製品に載せることができない唯一の様式でもあります。ICIQ は、質問票が著作権で保護されており、使用には承認された目的に対する許可が必要だと説明しています。ライセンス表では通常の診療、監査、サービス評価、非営利研究は無償、大規模な助成研究と商用製品・商用プラットフォームは有償です。<sup>5</sup> 多くのアプリに入っていない理由はここにあり、私たちのアプリにも入っていません。</p>
+<h2 id="それぞれが求める期間">それぞれが求める期間</h2>
+<table>
+<thead>
+<tr>
+<th>出典</th>
+<th>そこでの呼び名</th>
+<th>求める期間</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NICE（CG97、男性）</td>
+<td>排尿量記録表</td>
+<td>最低 24 時間<sup>6</sup></td>
+</tr>
+<tr>
+<td>EAU（男性下部尿路症状）</td>
+<td>排尿日誌</td>
+<td>3 日以上<sup>3</sup></td>
+</tr>
+<tr>
+<td>ICIQ</td>
+<td>ICIQ 排尿日誌</td>
+<td>3 日間<sup>4</sup></td>
+</tr>
+<tr>
+<td>NIDDK</td>
+<td>Your Daily Bladder Diary</td>
+<td>受診前の 2〜3 日<sup>2</sup></td>
+</tr>
+<tr>
+<td>AFU の手引き</td>
+<td>Calendrier mictionnel</td>
+<td>24 時間を 2〜3 日続けて<sup>7</sup></td>
+</tr>
+<tr>
+<td>Urology Care Foundation</td>
+<td>Bladder diary</td>
+<td>日付は連続でなくてよい<sup>9</sup></td>
+</tr>
+</tbody>
+</table>
+<p>幅は見た目より狭いものです。1 日未満を求めるところも、1 週間を超えて求めるところもありません。国際禁制学会はどこでも同じ内容を記しています。時刻つきの排尿量に加えて、尿失禁の回数、パッドの使用、水分摂取です。<sup>10</sup></p>
+<h2 id="外来で用紙を渡されたならその用紙に書く">外来で用紙を渡されたなら、その用紙に書く</h2>
+<p>これが上の疑問のほとんどに対する短い答えです。施設独自の用紙には、その施設だけの尺度や言い回しが入っていることがあり、読む人は毎週その並びを読んでいます。見栄えのよい別の様式に差し替えても、誰の役にも立ちません。</p>
+<p>どの様式でも変わらないのは中身です。毎回の時刻、出た量、飲んだもの、そしてどれが夜間だったか。この四つが揃っていれば、下敷きになっている用紙が何かはほとんど問題になりません。</p>
+<h2 id="私たちの用紙が何をもとにしているか">私たちの用紙が何をもとにしているか</h2>
+<p><a href="/ja/bladder-diary-template/">無料の印刷用テンプレート</a>は、意識して新規の発明にしていません。測れなかった一回のチェック欄と就寝・起床の行は Gloucestershire の排尿量記録表から、<sup>8</sup> 自由な行、目安としての容器の大きさ、連続しなくてよい日付は Urology Care Foundation の用紙から、<sup>9</sup> 記載内容は ICS の記述に沿っています。<sup>10</sup> アプリの列も同じなので、紙で始めた日誌を書き写さずにアプリで続けられます。</p>
+<p>取り入れなかったのは「少・中・多」という近道です。数字で記した量は、あとから誰にも復元できない唯一の記録であり、それを一度も尋ねない用紙は、その判断を黙ってあなたの代わりに下していることになります。</p>
+</div><div class="panel paper-panel"><h2 style="margin-top:0">紙の日誌が必要ですか。</h2><p>同じ欄の構成で、無料で印刷できる排尿日誌です。A4かUS Letter、1ページずつか二つ折りの小冊子。メールアドレスも登録も不要です。</p><p style="margin-top:14px"><a class="btn btn-secondary btn-sm" href="/ja/bladder-diary-template/">無料PDFテンプレート</a></p></div><div class="faq-group"><h2>質問</h2><div class="faq"><details data-track="faq_open" data-placement="どの排尿日誌を使えばよいですか"><summary>どの排尿日誌を使えばよいですか</summary><p>外来で渡されたものがあれば、それです。読む人が見慣れている用紙であり、その施設独自の尺度が入っていることもあります。誰からも用紙を渡されていない場合は、毎回の時刻と量、飲んだもの、夜間の印が入るなら、どの用紙でもかまいません。ここで取り上げたすべての様式に共通するのは、その部分です。</p></details><details data-track="faq_open" data-placement="ICIQ の排尿日誌は自由に使えますか"><summary>ICIQ の排尿日誌は自由に使えますか</summary><p>ICIQ は、自分たちの質問票が著作権で保護されており、承認された特定の目的に対して許可が与えられると説明しています。公開されているライセンス表では、通常の診療、監査、サービス評価、非営利研究は無償とされ、大規模な助成研究や商用製品・商用プラットフォームにはライセンス料がかかります。<sup>5</sup> つまり診療所は無償で使えますが、これを組み込んだアプリはライセンスを取得する必要があります。</p></details><details data-track="faq_open" data-placement="なぜ一方の様式はミリリットルを求め、もう一方は「少・中・多」だけなのですか"><summary>なぜ一方の様式はミリリットルを求め、もう一方は「少・中・多」だけなのですか</summary><p>目的が違うからです。チェックや大きさの区分のほうが速く、結果として記入された用紙が増えます。漏れのパターンを知りたいときには、それが効いてきます。一方、測った量は、最大一回排尿量と夜間の尿量を得る唯一の方法です。ヨーロッパの診療指針が日誌から計算されると述べているのは、まさにこうした値です。<sup>3</sup> 用紙に数字の列があるなら、そこを埋めることこそ、あとから誰にも復元できない部分です。</p></details></div></div><section class="references-block"><h2>出典</h2><ol class="references"><li>National Institute of Diabetes and Digestive and Kidney Diseases. Your Daily Bladder Diary. Bethesda, MD: NIDDK, National Institutes of Health; 2017. <a href="https://www.niddk.nih.gov/-/media/Files/Urologic-Diseases/diary_508.pdf" rel="noopener">niddk.nih.gov (PDF)</a></li><li>National Institute of Diabetes and Digestive and Kidney Diseases. Diagnosis of Bladder Control Problems (Urinary Incontinence). Bethesda, MD: NIDDK, National Institutes of Health; last reviewed July 2021. <a href="https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems/diagnosis" rel="noopener">niddk.nih.gov</a></li><li>European Association of Urology. EAU Guidelines on the Management of Non-neurogenic Male LUTS. Arnhem: EAU; 2026. Chapter 4, Diagnostic evaluation. <a href="https://uroweb.org/guidelines/management-of-non-neurogenic-male-luts/chapter/diagnostic-evaluation" rel="noopener">uroweb.org</a></li><li>Bright E, Cotterill N, Drake M, Abrams P. Developing and validating the International Consultation on Incontinence Questionnaire bladder diary. Eur Urol. 2014;66(2):294–300. <a href="https://doi.org/10.1016/j.eururo.2014.02.057" rel="noopener">doi:10.1016/j.eururo.2014.02.057</a></li><li>International Consultation on Incontinence Questionnaires. Licences and Terms of Use. Bristol: Bristol Urological Institute, North Bristol NHS Trust. <a href="https://iciq.net/licences" rel="noopener">iciq.net</a></li><li>National Institute for Health and Care Excellence. Lower urinary tract symptoms in men: management. Clinical guideline CG97, recommendation 1.1.1. London: NICE; 2010, updated 2015. <a href="https://www.nice.org.uk/guidance/CG97/chapter/recommendations" rel="noopener">nice.org.uk</a></li><li>Bandelier Q, Michel F, Peyronnet B. Livret de l&#39;interne: Urologie Fonctionnelle. Paris: Association Française d&#39;Urologie; 2023. <a href="https://www.urofrance.org/wp-content/uploads/2023/10/Urologie-fonctionnelle.pdf" rel="noopener">urofrance.org (PDF)</a></li><li>Gloucestershire Hospitals NHS Foundation Trust. Frequency Volume Chart. Gloucester: Gloucestershire Hospitals NHS Foundation Trust. <a href="https://www.gloshospitals.nhs.uk/documents/22054/X941_05_16_Frequency_Volume_Chart.pdf" rel="noopener">gloshospitals.nhs.uk (PDF)</a></li><li>Urology Care Foundation. Overactive Bladder (OAB) Bladder Diary. Linthicum, MD: American Urological Association. <a href="https://www.urologyhealth.org/documents/Product-Store/English/Overactive-Bladder-OAB-Bladder-Diary.pdf" rel="noopener">urologyhealth.org (PDF)</a></li><li>International Continence Society. Bladder diary / frequency volume chart. ICS terminology discussion, Standardisation Steering Committee. <a href="https://www.ics.org/committees/standardisation/terminologydiscussions/bladderdiary" rel="noopener">ics.org</a></li></ol></section><p class="small muted disclaimer">この記事は日誌のつけ方を説明するものです。アプリ開発者による一般的な情報であり、医学的な助言ではありません。あなたの日誌が何を意味するかを決めるのは医師です。ご自身で記録する日誌です。医療文書ではありません。</p><div class="panel" style="margin-top:32px"><h2 style="margin-top:0">日誌はスマホの中で</h2><p>1件2タップ、合計は自動計算、最後にPDFレポート。アカウントなし、サーバーなし、端末から何も出ません。</p><div class="btn-row" style="margin-top:20px"><a class="btn btn-store " href="https://apps.apple.com/app/apple-store/id6803224992?pt=129277359&amp;ct=web-blog-ja-official-bladder-diary-forms&amp;mt=8" data-track="click_app_store" data-placement="web-blog-ja-official-bladder-diary-forms" aria-label="App Storeからダウンロード"><img src="/_astro/app-store-badge.CVyK0T4N.svg" width="250" height="83" alt="App Storeからダウンロード"></a></div></div><h2>関連記事</h2><div class="bgrid related"><a class="bcard" href="/ja/blog/bladder-diary-or-frequency-volume-chart/"><span class="bcover-wrap"><img src="/_astro/forms.DyAKXy-h_1A02EW.webp" srcset="/_astro/forms.DyAKXy-h_1j2Eg0.webp 400w, /_astro/forms.DyAKXy-h_Z1OgLAy.webp 800w" alt sizes="(max-width: 600px) 100vw, 200px" loading="lazy" decoding="async" width="1536" height="1024" class="bcover"></span><span class="bbody"><span class="tag guide">記事</span><h3>排尿日誌と頻度・尿量記録は何が違うのか</h3><span class="bdesc">ほぼ同じ用紙に5つの名前。ICS の定義でそれぞれが何を指すか、受診先がどれを使っているか、そして見出しより欄のほうが大切な理由。</span></span></a><a class="bcard" href="/ja/blog/how-to-keep-a-bladder-diary/"><span class="bcover-wrap"><img src="/_astro/notebook.BixZsnNK_1X9EMK.webp" srcset="/_astro/notebook.BixZsnNK_1Un1FG.webp 400w, /_astro/notebook.BixZsnNK_2ldMzf.webp 800w" alt sizes="(max-width: 600px) 100vw, 200px" loading="lazy" decoding="async" width="1536" height="1024" class="bcover"></span><span class="bbody"><span class="tag guide">記事</span><h3>排尿日誌のつけ方: 何を記録するか、順を追って</h3><span class="bdesc">排尿日誌が記録するもの、書き方、記入例、そして受診に何を持っていくか。医師ではなく、アプリ開発者が書いています。</span></span></a></div></div></article></main><footer class="site-footer"><div class="container"><div class="footer-row"><a class="brand" href="/ja/"><img src="/favicon.png" width="28" height="28" alt=""><span class="brand-name"><span class="brand-b">Fluid Balance</span></span></a><div class="footer-end"><nav class="footer-links" aria-label="フッター"><a href="/ja/blog/">ブログ</a><a href="/ja/support/">サポート</a><a href="/ja/bladder-diary-template/">無料PDFテンプレート</a><a href="/ja/privacy/">プライバシー</a><a href="/ja/terms/">利用規約</a></nav><!-- Тема — в подвале, а не в шапке (решение владельца 2026-10-25: «это просто удобство минимальное»).
+             На телефоне эта копия скрыта: там тогл в самом низу бургера. Обёртка .footer-end держит тогл
+             в одной строке со ссылками: отдельным элементом ряда он срывался на вторую строку. --><button class="theme-toggle" type="button" aria-pressed="false" aria-label="ダークテーマ" title="ダークテーマ"><svg class="theme-icon theme-sun" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="12" cy="12" r="4.2"></circle><path d="M12 2.6v2.2M12 19.2v2.2M4.2 4.2l1.6 1.6M18.2 18.2l1.6 1.6M2.6 12h2.2M19.2 12h2.2M4.2 19.8l1.6-1.6M18.2 5.8l1.6-1.6"></path></svg><svg class="theme-icon theme-moon" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"><path d="M20 14.2A8.2 8.2 0 0 1 9.8 4a8.4 8.4 0 1 0 10.2 10.2Z"></path></svg><span class="theme-label">ダークテーマ</span><span class="theme-switch" aria-hidden="true"></span></button></div></div><div class="footer-bottom"><span>アプリは14言語に対応</span><span class="sep">·</span><span>ご自身で記録する日誌</span><span class="sep">·</span><span>医療文書ではありません</span></div></div></footer><div class="notice" id="ga-notice" hidden><span>このサイトはGoogleアナリティクスで訪問数を数えています。<a href="/ja/privacy/">プライバシー</a></span><button type="button" id="ga-ok">OK</button></div><script>
+      (function () {
+        var n = document.getElementById('ga-notice');
+        var ok = document.getElementById('ga-ok');
+        var key = 'ga-notice-dismissed';
+        try { if (!localStorage.getItem(key)) n.hidden = false; } catch (e) { n.hidden = false; }
+        ok.addEventListener('click', function () { n.hidden = true; try { localStorage.setItem(key, '1'); } catch (e) {} });
+      })();
+    </script><script>
+      // Тема (2026-10-25). Пока человек не трогал тогл, сайт идёт за системной настройкой; нажатие
+      // записывает выбор в localStorage, и дальше он главнее системы. Состояние кнопки считается
+      // от действующей темы, а не от записи: иначе на «авто» у человека с системной тёмной темой сайт
+      // был бы тёмный, а тогл показывал бы «выключено».
+      // Скрипт в конце <body>, а не в шапке: тоглов в разметке два (подвал и бургер), и запуск после
+      // подвала — единственный момент, когда видны оба.
+      (function () {
+        var root = document.documentElement;
+        var mq = matchMedia('(prefers-color-scheme: dark)');
+        var tgls = document.querySelectorAll('.theme-toggle');
+        // Тёмные кадры приложения (ThemedImage.astro). Медиазапрос описывает только системную
+        // настройку, поэтому ручной выбор переписывает `media` у <source> руками: браузер
+        // пересобирает <picture> при изменении атрибута.
+        var shots = document.querySelectorAll('source[data-theme-dark]');
+        var isDark = function () { var a = root.getAttribute('data-theme'); return a ? a === 'dark' : mq.matches; };
+        var sync = function () {
+          var p = isDark() ? 'true' : 'false';
+          for (var i = 0; i < tgls.length; i++) tgls[i].setAttribute('aria-pressed', p);
+          var a = root.getAttribute('data-theme');
+          var m = a === 'dark' ? 'all' : a === 'light' ? 'not all' : '(prefers-color-scheme: dark)';
+          for (var j = 0; j < shots.length; j++) shots[j].media = m;
+        };
+        var flip = function () {
+          root.setAttribute('data-theme', isDark() ? 'light' : 'dark');
+          try { localStorage.setItem('theme', root.getAttribute('data-theme')); } catch (e) {}
+          sync();
+        };
+        sync();
+        if (mq.addEventListener) mq.addEventListener('change', sync);
+        for (var i = 0; i < tgls.length; i++) tgls[i].addEventListener('click', flip);
+      })();
+    </script><script type="module" src="/_astro/Base.astro_astro_type_script_index_0_lang.p60M4bss.js"></script></body></html>
